@@ -1,7 +1,7 @@
-{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
 
 #file 'SEEN0522.TXT'
-#resource 'SEEN0522.sjs'
+#resource 'SEEN0522.utf'
 
 #entrypoint 000
 bgmLoop ('BGM04', 8000, 2000)

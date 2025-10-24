@@ -1,7 +1,7 @@
-{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
 
 #file 'SEEN0531.TXT'
-#resource 'SEEN0531.sjs'
+#resource 'SEEN0531.utf'
 
 #entrypoint 000
 grpOpenBg ('RBG_SIRO', 2)

@@ -1,7 +1,7 @@
-{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
 
 #file 'SEEN0203.TXT'
-#resource 'SEEN0203.sjs'
+#resource 'SEEN0203.utf'
 
 #entrypoint 000
 op<1:072:01002, 2> (244, 'SIG00', 1, 500, 0)

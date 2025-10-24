@@ -1,7 +1,7 @@
-{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
 
 #file 'SEEN0020.TXT'
-#resource 'SEEN0020.sjs'
+#resource 'SEEN0020.utf'
 
 #entrypoint 000
 goto_unless (!intA[321]) @1

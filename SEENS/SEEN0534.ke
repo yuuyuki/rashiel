@@ -1,7 +1,7 @@
-{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
 
 #file 'SEEN0534.TXT'
-#resource 'SEEN0534.sjs'
+#resource 'SEEN0534.utf'
 
 #entrypoint 000
 intGb[134] = 1

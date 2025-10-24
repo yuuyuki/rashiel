@@ -1,7 +1,7 @@
-{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
 
 #file 'SEEN0200.TXT'
-#resource 'SEEN0200.sjs'
+#resource 'SEEN0200.utf'
 
 #entrypoint 000
 bgmFadeOut (2000)

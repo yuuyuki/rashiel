@@ -1,7 +1,7 @@
-{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
 
 #file 'SEEN0516.TXT'
-#resource 'SEEN0516.sjs'
+#resource 'SEEN0516.utf'
 
 #entrypoint 000
 msgHide

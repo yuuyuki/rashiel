@@ -1,1 +1,2 @@
 *.sjs		text working-tree-encoding=Shift_JIS
+*.utf       text working-tree-encoding=UTF-8
