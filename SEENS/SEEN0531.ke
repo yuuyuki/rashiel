@@ -1,0 +1,271 @@
+{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0531.TXT'
+#resource 'SEEN0531.sjs'
+
+#entrypoint 000
+grpOpenBg ('RBG_SIRO', 2)
+intGb[131] = 1
+waitC (2000)
+#res<0000>
+par
+#res<0001>
+par
+#res<0002>
+par
+#res<0003>
+pause
+bgmLoop ('BGM04')
+koePlay (53100023, 1)
+#res<0004>
+par
+#res<0005>
+pause
+#res<0006>
+par
+#res<0007>
+par
+#res<0008>
+pause
+grpOpenBg ('REV3_01A', 2)
+intZb[1471] = 1
+intZb[47] = 1
+#res<0009>
+par
+#res<0010>
+par
+#res<0011>
+par
+#res<0012>
+pause
+grpOpenBg ('REV3_01B', 0)
+intZb[1472] = 1
+koePlay (53100048, 1)
+#res<0013>
+par
+#res<0014>
+par
+#res<0015>
+par
+#res<0016>
+pause
+#res<0017>
+par
+#res<0018>
+par
+#res<0019>
+pause
+#res<0020>
+par
+#res<0021>
+pause
+grpOpenBg ('REV3_01C', 0)
+intZb[1473] = 1
+koePlay (53100061, 2)
+#res<0022>
+par
+#res<0023>
+par
+#res<0024>
+par
+#res<0025>
+pause
+koePlay (53100063, 2)
+#res<0026>
+par
+#res<0027>
+par
+#res<0028>
+par
+#res<0029>
+pause
+#res<0030>
+par
+#res<0031>
+pause
+grpOpenBg ('REV3_01B', 0)
+koePlay (53100069, 2)
+#res<0032>
+par
+#res<0033>
+par
+#res<0034>
+par
+#res<0035>
+pause
+koePlay (53100071, 2)
+#res<0036>
+par
+#res<0037>
+par
+#res<0038>
+par
+#res<0039>
+pause
+grpOpenBg ('REV3_01C', 0)
+koePlay (53100075, 2)
+#res<0040>
+par
+#res<0041>
+par
+#res<0042>
+par
+#res<0043>
+pause
+#res<0044>
+par
+#res<0045>
+pause
+grpOpenBg ('REV3_01B', 0)
+koePlay (53100081, 2)
+#res<0046>
+par
+#res<0047>
+pause
+#res<0048>
+par
+#res<0049>
+par
+#res<0050>
+pause
+grpOpenBg ('REV3_01D', 0)
+intZb[1474] = 1
+koePlay (53100090, 2)
+#res<0051>
+par
+#res<0052>
+pause
+#res<0053>
+par
+#res<0054>
+par
+#res<0055>
+par
+#res<0056>
+pause
+#res<0057>
+par
+#res<0058>
+par
+#res<0059>
+par
+#res<0060>
+pause
+#res<0061>
+par
+#res<0062>
+pause
+op<1:072:01002, 2> (244, 'SIG00', 1, 500, 0)
+grpMulti ('RBG_03', 0, copy('RBS3_1S', 100))
+koePlay (53100113, 2)
+#res<0063>
+par
+#res<0064>
+pause
+#res<0065>
+par
+#res<0066>
+pause
+#res<0067>
+par
+#res<0068>
+pause
+koePlay (53100125, 2)
+#res<0069>
+par
+#res<0070>
+pause
+#res<0071>
+par
+#res<0072>
+par
+#res<0073>
+intF[0] = select_s[0] (#res<0074>, #res<0075>)
+goto_case intF[0] { 0: @1; 1: @2; _: @3 }
+
+  @1
+goto @4
+goto @3
+
+  @2
+goto @5
+goto @3
+
+  @3
+
+  @4
+intA[330] = 1
+farcall (95, 2)
+#res<0076>
+par
+#res<0077>
+pause
+#res<0078>
+par
+#res<0079>
+pause
+#res<0080>
+par
+#res<0081>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_1B', 100))
+koePlay (53100174, 2)
+#res<0082>
+par
+#res<0083>
+pause
+#res<0084>
+par
+#res<0085>
+par
+#res<0086>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_1S', 100))
+koePlay (53100178, 2)
+#res<0087>
+par
+#res<0088>
+pause
+#res<0089>
+par
+#res<0090>
+pause
+#res<0091>
+par
+#res<0092>
+pause
+op<1:060:00001, 0> (244)
+grpMulti ('RBG_03', 0, copy('RBS3_1S', 100))
+goto @6
+
+  @5
+intA[330] = -1
+farcall (95, 2)
+#res<0093>
+par
+#res<0094>
+par
+#res<0095>
+pause
+#res<0096>
+par
+#res<0097>
+par
+#res<0098>
+pause
+koePlay (53100221, 2)
+#res<0099>
+par
+#res<0100>
+par
+#res<0101>
+pause
+waitC (2000)
+op<1:060:00001, 0> (244)
+grpMulti ('RBG_03', 0, copy('RBS3_1S', 100))
+goto @6
+
+  @6
+rtl
+eof
+halt

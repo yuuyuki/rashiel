@@ -1,0 +1,33 @@
+{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0001.TXT'
+#resource 'SEEN0001.sjs'
+
+#entrypoint 000
+title (#res<0000>)
+stackClear
+bgmStop
+wavStopAll
+movStop
+koeStop
+CallStackClear
+FlushClick
+HideCursor
+HideSyscom
+grpOpenBg ('RBG_SIRO', 0)
+ResetExTimer
+timeExC (1000)
+objOfFileGan (253, 'BRANDLOGO_ANM40', 'BRANDLOGO_ANM40', 1, 320, 240)
+ganPlay2 (253, 0)
+timeExC (4000)
+grpOpenBg ('CAUTION01', 100)
+ShowCursor
+ResetExTimer
+timeExC (3000)
+bgmFadeOut (3000)
+grpFade (0, 0, 0, 1000)
+op<1:060:00111, 0>
+refresh
+jump (2)
+eof
+halt

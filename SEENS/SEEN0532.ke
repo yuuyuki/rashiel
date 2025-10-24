@@ -1,0 +1,313 @@
+{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0532.TXT'
+#resource 'SEEN0532.sjs'
+
+#entrypoint 000
+bgmFadeOut (2000)
+op<1:072:01002, 2> (244, 'SIG00', 1, 500, 0)
+intGb[132] = 1
+grpOpenBg ('RBG_03N', 2)
+#res<0000>
+par
+#res<0001>
+par
+#res<0002>
+pause
+#res<0003>
+par
+#res<0004>
+pause
+grpOpenBg ('RBG_17', 1)
+#res<0005>
+par
+#res<0006>
+pause
+#res<0007>
+par
+#res<0008>
+par
+#res<0009>
+par
+#res<0010>
+pause
+grpOpenBg ('RBG_43', 1)
+#res<0011>
+par
+#res<0012>
+par
+#res<0013>
+pause
+#res<0014>
+par
+#res<0015>
+par
+#res<0016>
+pause
+bgmLoop ('BGM13', 8000, 2000)
+grpMulti ('RBG_43', 0, copy('RBS3_1Q', 100))
+koePlay (53200055, 2)
+#res<0017>
+par
+#res<0018>
+pause
+#res<0019>
+par
+#res<0020>
+pause
+#res<0021>
+par
+#res<0022>
+par
+#res<0023>
+pause
+grpOpenBg ('RBG_15', 0)
+koePlay (53200067, 2)
+#res<0024>
+par
+#res<0025>
+pause
+koePlay (53200069, 2)
+#res<0026>
+par
+#res<0027>
+pause
+#res<0028>
+par
+#res<0029>
+pause
+#res<0030>
+par
+#res<0031>
+par
+#res<0032>
+par
+#res<0033>
+pause
+op<1:060:00001, 0> (244)
+grpOpenBg ('REV3_10', 0)
+intZb[1491] = 1
+intZb[49] = 1
+koePlay (53200085, 2)
+#res<0034>
+par
+#res<0035>
+pause
+koePlay (53200087, 2)
+#res<0036>
+par
+#res<0037>
+pause
+koePlay (53200089, 2)
+#res<0038>
+par
+#res<0039>
+par
+#res<0040>
+pause
+#res<0041>
+par
+#res<0042>
+pause
+koePlay (53200093, 2)
+#res<0043>
+par
+#res<0044>
+par
+#res<0045>
+pause
+koePlay (53200095, 2)
+#res<0046>
+par
+#res<0047>
+pause
+koePlay (53200099, 2)
+#res<0048>
+par
+#res<0049>
+par
+#res<0050>
+pause
+#res<0051>
+par
+#res<0052>
+pause
+#res<0053>
+par
+#res<0054>
+pause
+#res<0055>
+par
+#res<0056>
+par
+#res<0057>
+pause
+#res<0058>
+par
+#res<0059>
+pause
+#res<0060>
+par
+#res<0061>
+par
+#res<0062>
+pause
+koePlay (53200126, 2)
+#res<0063>
+par
+#res<0064>
+par
+#res<0065>
+par
+#res<0066>
+pause
+koePlay (53200128, 2)
+#res<0067>
+par
+#res<0068>
+par
+#res<0069>
+par
+#res<0070>
+pause
+koePlay (53200130, 2)
+#res<0071>
+par
+#res<0072>
+par
+#res<0073>
+pause
+koePlay (53200132, 2)
+#res<0074>
+par
+#res<0075>
+par
+#res<0076>
+par
+#res<0077>
+pause
+#res<0078>
+par
+#res<0079>
+pause
+koePlay (53200136, 2)
+#res<0080>
+par
+#res<0081>
+par
+#res<0082>
+pause
+koePlay (53200138, 2)
+#res<0083>
+par
+#res<0084>
+par
+#res<0085>
+pause
+koePlay (53200140, 2)
+#res<0086>
+par
+#res<0087>
+pause
+koePlay (53200144, 2)
+#res<0088>
+par
+#res<0089>
+pause
+koePlay (53200146, 2)
+#res<0090>
+par
+#res<0091>
+par
+#res<0092>
+pause
+koePlay (53200148, 2)
+#res<0093>
+par
+#res<0094>
+pause
+koePlay (53200150, 2)
+#res<0095>
+par
+#res<0096>
+pause
+#res<0097>
+par
+#res<0098>
+pause
+grpOpenBg ('RBG_15', 0)
+koePlay (53200157, 2)
+#res<0099>
+par
+#res<0100>
+pause
+#res<0101>
+par
+#res<0102>
+pause
+koePlay (53200162, 2)
+#res<0103>
+par
+#res<0104>
+par
+#res<0105>
+pause
+#res<0106>
+par
+#res<0107>
+par
+#res<0108>
+pause
+koePlay (53200166, 2)
+#res<0109>
+par
+#res<0110>
+par
+#res<0111>
+par
+#res<0112>
+pause
+koePlay (53200168, 2)
+#res<0113>
+par
+#res<0114>
+par
+#res<0115>
+pause
+#res<0116>
+par
+#res<0117>
+pause
+#res<0118>
+par
+#res<0119>
+par
+#res<0120>
+pause
+#res<0121>
+par
+#res<0122>
+pause
+#res<0123>
+par
+#res<0124>
+pause
+#res<0125>
+par
+#res<0126>
+pause
+#res<0127>
+par
+#res<0128>
+pause
+#res<0129>
+par
+#res<0130>
+pause
+msgHide
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_KURO', 2)
+bgmFadeOut (2000)
+rtl
+eof
+halt

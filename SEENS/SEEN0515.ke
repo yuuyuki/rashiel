@@ -1,0 +1,1432 @@
+{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0515.TXT'
+#resource 'SEEN0515.sjs'
+
+#entrypoint 000
+op<1:072:01002, 2> (244, 'SIG00', 1, 500, 0)
+bgmLoop ('BGM08')
+intGb[115] = 1
+intB[45] = 1
+grpMulti ('RBG_01N', 0, copy('RBS4_1Q', 100))
+#res<0000>
+par
+#res<0001>
+par
+#res<0002>
+pause
+grpMulti ('RBG_01N', 0, copy('RBS1_1S', 100))
+koePlay (51500031, 5)
+#res<0003>
+par
+#res<0004>
+pause
+koePlay (51500033, 5)
+#res<0005>
+par
+#res<0006>
+par
+#res<0007>
+pause
+#res<0008>
+par
+#res<0009>
+pause
+koePlay (51500037, 5)
+#res<0010>
+par
+#res<0011>
+pause
+#res<0012>
+par
+#res<0013>
+pause
+#res<0014>
+par
+#res<0015>
+par
+#res<0016>
+pause
+grpMulti ('RBG_01N', 0, copy('RBS1_1O', 100))
+koePlay (51500047, 5)
+#res<0017>
+par
+#res<0018>
+pause
+#res<0019>
+par
+#res<0020>
+par
+#res<0021>
+pause
+#res<0022>
+par
+#res<0023>
+par
+#res<0024>
+pause
+#res<0025>
+par
+#res<0026>
+pause
+grpMulti ('RBG_01N', 0, copy('RBS1_1S', 100))
+koePlay (51500059, 5)
+#res<0027>
+par
+#res<0028>
+pause
+#res<0029>
+par
+#res<0030>
+par
+#res<0031>
+pause
+koePlay (51500063, 5)
+#res<0032>
+par
+#res<0033>
+pause
+#res<0034>
+par
+#res<0035>
+pause
+koePlay (51500067, 5)
+#res<0036>
+par
+#res<0037>
+pause
+#res<0038>
+par
+#res<0039>
+pause
+grpOpenBg ('RBG_01N', 0)
+#res<0040>
+par
+#res<0041>
+par
+#res<0042>
+pause
+#res<0043>
+par
+#res<0044>
+pause
+#res<0045>
+par
+#res<0046>
+par
+#res<0047>
+pause
+#res<0048>
+par
+#res<0049>
+pause
+koePlay (51500089, 5)
+#res<0050>
+par
+#res<0051>
+pause
+#res<0052>
+par
+#res<0053>
+par
+#res<0054>
+pause
+koePlay (51500093, 5)
+#res<0055>
+par
+#res<0056>
+pause
+op<1:060:00001, 0> (244)
+grpOpenBg ('REV1_08A', 0)
+intZb[1121] = 1
+intZb[12] = 1
+koePlay (51500108, 5)
+#res<0057>
+par
+#res<0058>
+pause
+#res<0059>
+par
+#res<0060>
+par
+#res<0061>
+pause
+#res<0062>
+par
+#res<0063>
+pause
+#res<0064>
+par
+#res<0065>
+par
+#res<0066>
+pause
+#res<0067>
+par
+#res<0068>
+par
+#res<0069>
+pause
+koePlay (51500125, 5)
+#res<0070>
+par
+#res<0071>
+pause
+#res<0072>
+par
+#res<0073>
+pause
+koePlay (51500129, 5)
+#res<0074>
+par
+#res<0075>
+pause
+#res<0076>
+par
+#res<0077>
+pause
+koePlay (51500133, 5)
+#res<0078>
+par
+#res<0079>
+pause
+koePlay (51500135, 5)
+#res<0080>
+par
+#res<0081>
+pause
+koePlay (51500137, 5)
+#res<0082>
+par
+#res<0083>
+pause
+#res<0084>
+par
+#res<0085>
+pause
+#res<0086>
+par
+#res<0087>
+par
+#res<0088>
+par
+#res<0089>
+pause
+koePlay (51500143, 5)
+#res<0090>
+par
+#res<0091>
+pause
+#res<0092>
+par
+#res<0093>
+par
+#res<0094>
+pause
+grpOpenBg ('REV1_08C', 0)
+intZb[1123] = 1
+#res<0095>
+par
+#res<0096>
+par
+#res<0097>
+pause
+koePlay (51500159, 5)
+#res<0098>
+par
+#res<0099>
+pause
+#res<0100>
+pause
+#res<0101>
+par
+#res<0102>
+pause
+koePlay (51500165, 5)
+#res<0103>
+par
+#res<0104>
+pause
+#res<0105>
+par
+#res<0106>
+pause
+grpOpenBg ('REV1_08B', 0)
+intZb[1122] = 1
+koePlay (51500175, 5)
+#res<0107>
+par
+#res<0108>
+pause
+#res<0109>
+par
+#res<0110>
+par
+#res<0111>
+pause
+#res<0112>
+par
+#res<0113>
+par
+#res<0114>
+pause
+#res<0115>
+par
+#res<0116>
+par
+#res<0117>
+pause
+grpOpenBg ('REV1_08C', 0)
+koePlay (51500194, 5)
+#res<0118>
+par
+#res<0119>
+pause
+#res<0120>
+par
+#res<0121>
+pause
+koePlay (51500199, 5)
+#res<0122>
+par
+#res<0123>
+pause
+#res<0124>
+par
+#res<0125>
+par
+#res<0126>
+pause
+koePlay (51500205, 5)
+#res<0127>
+par
+#res<0128>
+pause
+#res<0129>
+par
+#res<0130>
+par
+#res<0131>
+pause
+grpOpenBg ('REV1_08D', 0)
+intZb[1124] = 1
+koePlay (51500217, 5)
+#res<0132>
+par
+#res<0133>
+pause
+koePlay (51500219, 5)
+#res<0134>
+par
+#res<0135>
+pause
+koePlay (51500221, 5)
+#res<0136>
+par
+#res<0137>
+pause
+#res<0138>
+par
+#res<0139>
+par
+#res<0140>
+pause
+koePlay (51500227, 5)
+#res<0141>
+par
+#res<0142>
+pause
+koePlay (51500229, 5)
+#res<0143>
+par
+#res<0144>
+pause
+koePlay (51500231, 5)
+#res<0145>
+par
+#res<0146>
+pause
+#res<0147>
+par
+#res<0148>
+pause
+grpOpenBg ('REV1_08C', 0)
+intZb[1123] = 1
+koePlay (51500241, 5)
+#res<0149>
+par
+#res<0150>
+pause
+#res<0151>
+par
+#res<0152>
+par
+#res<0153>
+par
+#res<0154>
+pause
+grpOpenBg ('REV1_08B', 0)
+intZb[1122] = 1
+koePlay (51500251, 5)
+#res<0155>
+par
+#res<0156>
+pause
+koePlay (51500253, 5)
+#res<0157>
+par
+#res<0158>
+par
+#res<0159>
+pause
+#res<0160>
+par
+#res<0161>
+par
+#res<0162>
+par
+#res<0163>
+pause
+#res<0164>
+par
+#res<0165>
+par
+#res<0166>
+pause
+grpOpenBg ('REV1_08D', 0)
+intZb[1124] = 1
+koePlay (51500265, 5)
+#res<0167>
+par
+#res<0168>
+pause
+#res<0169>
+par
+#res<0170>
+pause
+koePlay (51500270, 5)
+#res<0171>
+par
+#res<0172>
+pause
+#res<0173>
+par
+#res<0174>
+pause
+#res<0175>
+par
+#res<0176>
+pause
+#res<0177>
+par
+#res<0178>
+par
+#res<0179>
+pause
+koePlay (51500282, 5)
+#res<0180>
+par
+#res<0181>
+pause
+#res<0182>
+par
+#res<0183>
+par
+#res<0184>
+pause
+#res<0185>
+par
+#res<0186>
+pause
+koePlay (51500291, 5)
+#res<0187>
+par
+#res<0188>
+pause
+grpOpenBg ('REV1_09A', 0)
+intZb[1131] = 1
+intZb[13] = 1
+#res<0189>
+par
+#res<0190>
+par
+#res<0191>
+pause
+#res<0192>
+par
+#res<0193>
+pause
+koePlay (51500309, 5)
+#res<0194>
+par
+#res<0195>
+pause
+#res<0196>
+par
+#res<0197>
+par
+#res<0198>
+pause
+#res<0199>
+par
+#res<0200>
+pause
+#res<0201>
+par
+#res<0202>
+par
+#res<0203>
+pause
+#res<0204>
+par
+#res<0205>
+par
+#res<0206>
+pause
+grpOpenBg ('RBG_KURO', 2)
+#res<0207>
+par
+#res<0208>
+pause
+#res<0209>
+par
+#res<0210>
+pause
+grpOpenBg ('REV1_09A', 2)
+koePlay (51500339, 5)
+#res<0211>
+par
+#res<0212>
+pause
+#res<0213>
+par
+#res<0214>
+pause
+koePlay (51500343, 5)
+#res<0215>
+par
+#res<0216>
+pause
+#res<0217>
+par
+#res<0218>
+pause
+grpOpenBg ('RBG_KURO', 2)
+#res<0219>
+par
+#res<0220>
+pause
+koePlay (51500355, 5)
+#res<0221>
+par
+#res<0222>
+pause
+koePlay (51500357, 5)
+#res<0223>
+par
+#res<0224>
+pause
+#res<0225>
+par
+#res<0226>
+par
+#res<0227>
+pause
+#res<0228>
+par
+#res<0229>
+par
+#res<0230>
+pause
+koePlay (51500367, 5)
+#res<0231>
+par
+#res<0232>
+pause
+#res<0233>
+par
+#res<0234>
+pause
+grpOpenBg ('REV1_09A', 2)
+koePlay (51500376, 5)
+#res<0235>
+par
+#res<0236>
+pause
+#res<0237>
+par
+#res<0238>
+pause
+#res<0239>
+par
+#res<0240>
+pause
+koePlay (51500384, 5)
+#res<0241>
+par
+#res<0242>
+pause
+grpOpenBg ('REV1_09B', 0)
+intZb[1132] = 1
+koePlay (51500393, 5)
+#res<0243>
+par
+#res<0244>
+pause
+#res<0245>
+par
+#res<0246>
+par
+#res<0247>
+pause
+koePlay (51500399, 5)
+#res<0248>
+par
+#res<0249>
+pause
+#res<0250>
+par
+#res<0251>
+pause
+koePlay (51500403, 5)
+#res<0252>
+par
+#res<0253>
+pause
+#res<0254>
+par
+#res<0255>
+par
+#res<0256>
+pause
+koePlay (51500409, 5)
+#res<0257>
+par
+#res<0258>
+pause
+koePlay (51500411, 5)
+#res<0259>
+par
+#res<0260>
+pause
+#res<0261>
+par
+#res<0262>
+pause
+#res<0263>
+par
+#res<0264>
+pause
+#res<0265>
+par
+#res<0266>
+pause
+koePlay (51500422, 5)
+#res<0267>
+par
+#res<0268>
+pause
+#res<0269>
+par
+#res<0270>
+pause
+koePlay (51500427, 5)
+#res<0271>
+par
+#res<0272>
+pause
+koePlay (51500429, 5)
+#res<0273>
+par
+#res<0274>
+pause
+#res<0275>
+par
+#res<0276>
+par
+#res<0277>
+pause
+grpOpenBg ('REV1_09C', 0)
+intZb[1133] = 1
+koePlay (51500441, 5)
+#res<0278>
+par
+#res<0279>
+pause
+koePlay (51500443, 5)
+#res<0280>
+par
+#res<0281>
+pause
+#res<0282>
+par
+#res<0283>
+par
+#res<0284>
+pause
+koePlay (51500449, 5)
+#res<0285>
+par
+#res<0286>
+pause
+#res<0287>
+par
+#res<0288>
+par
+#res<0289>
+pause
+#res<0290>
+par
+#res<0291>
+par
+#res<0292>
+intF[0] = select_s[0] (#res<0293>, #res<0294>)
+goto_case intF[0] { 0: @1; 1: @2; _: @3 }
+
+  @1
+goto @4
+goto @3
+
+  @2
+goto @5
+goto @3
+
+  @3
+
+  @4
+#res<0295>
+par
+#res<0296>
+pause
+koePlay (51500485, 5)
+#res<0297>
+par
+#res<0298>
+pause
+grpOpenBg ('RBG_KURO', 2)
+#res<0299>
+par
+#res<0300>
+par
+#res<0301>
+pause
+koePlay (51500495, 5)
+#res<0302>
+par
+#res<0303>
+pause
+#res<0304>
+par
+#res<0305>
+par
+#res<0306>
+pause
+koePlay (51500501, 5)
+#res<0307>
+par
+#res<0308>
+pause
+#res<0309>
+par
+#res<0310>
+par
+#res<0311>
+pause
+#res<0312>
+par
+#res<0313>
+pause
+grpOpenBg ('REV1_10F', 2)
+intZb[1146] = 1
+intZb[14] = 1
+#res<0314>
+par
+#res<0315>
+pause
+#res<0316>
+par
+#res<0317>
+pause
+grpOpenBg ('REV1_10A', 0)
+intZb[1141] = 1
+koePlay (51500531, 5)
+#res<0318>
+par
+#res<0319>
+pause
+#res<0320>
+par
+#res<0321>
+par
+#res<0322>
+pause
+#res<0323>
+par
+#res<0324>
+pause
+#res<0325>
+par
+#res<0326>
+pause
+grpOpenBg ('REV1_10B', 0)
+intZb[1142] = 1
+koePlay (51500549, 5)
+#res<0327>
+par
+#res<0328>
+pause
+#res<0329>
+par
+#res<0330>
+par
+#res<0331>
+pause
+koePlay (51500555, 5)
+#res<0332>
+par
+#res<0333>
+pause
+#res<0334>
+par
+#res<0335>
+par
+#res<0336>
+pause
+#res<0337>
+par
+#res<0338>
+pause
+#res<0339>
+par
+#res<0340>
+pause
+grpOpenBg ('REV1_10A', 0)
+intZb[1141] = 1
+koePlay (51500571, 5)
+#res<0341>
+par
+#res<0342>
+pause
+#res<0343>
+par
+#res<0344>
+par
+#res<0345>
+pause
+#res<0346>
+par
+#res<0347>
+pause
+grpOpenBg ('REV1_10F', 0)
+koePlay (51500583, 5)
+#res<0348>
+par
+#res<0349>
+pause
+#res<0350>
+par
+#res<0351>
+pause
+koePlay (51500587, 5)
+#res<0352>
+par
+#res<0353>
+pause
+koePlay (51500589, 5)
+#res<0354>
+par
+#res<0355>
+pause
+#res<0356>
+par
+#res<0357>
+pause
+#res<0358>
+par
+#res<0359>
+pause
+#res<0360>
+par
+#res<0361>
+pause
+grpOpenBg ('REV1_10A', 0)
+koePlay (51500602, 5)
+#res<0362>
+par
+#res<0363>
+pause
+grpOpenBg ('REV1_10B', 0)
+intZb[1142] = 1
+koePlay (51500611, 5)
+#res<0364>
+par
+#res<0365>
+pause
+#res<0366>
+par
+#res<0367>
+par
+#res<0368>
+pause
+grpOpenBg ('REV1_10A', 0)
+koePlay (51500619, 5)
+#res<0369>
+par
+#res<0370>
+pause
+#res<0371>
+par
+#res<0372>
+par
+#res<0373>
+pause
+#res<0374>
+par
+#res<0375>
+par
+#res<0376>
+pause
+#res<0377>
+par
+#res<0378>
+pause
+koePlay (51500631, 5)
+#res<0379>
+par
+#res<0380>
+pause
+#res<0381>
+par
+#res<0382>
+par
+#res<0383>
+pause
+#res<0384>
+par
+#res<0385>
+pause
+koePlay (51500639, 5)
+#res<0386>
+par
+#res<0387>
+pause
+#res<0388>
+par
+#res<0389>
+par
+#res<0390>
+pause
+#res<0391>
+par
+#res<0392>
+pause
+grpOpenBg ('REV1_10F', 0)
+koePlay (51500649, 5)
+#res<0393>
+par
+#res<0394>
+pause
+#res<0395>
+par
+#res<0396>
+par
+#res<0397>
+pause
+grpOpenBg ('REV1_10C', 0)
+intZb[1143] = 1
+koePlay (51500662, 5)
+#res<0398>
+par
+#res<0399>
+pause
+koePlay (51500664, 5)
+#res<0400>
+par
+#res<0401>
+pause
+koePlay (51500666, 5)
+#res<0402>
+par
+#res<0403>
+pause
+#res<0404>
+par
+#res<0405>
+pause
+#res<0406>
+par
+#res<0407>
+pause
+#res<0408>
+par
+#res<0409>
+pause
+koePlay (51500676, 5)
+#res<0410>
+par
+#res<0411>
+pause
+#res<0412>
+par
+#res<0413>
+pause
+#res<0414>
+par
+#res<0415>
+pause
+koePlay (51500684, 5)
+#res<0416>
+par
+#res<0417>
+pause
+koePlay (51500686, 5)
+#res<0418>
+par
+#res<0419>
+pause
+#res<0420>
+par
+#res<0421>
+pause
+#res<0422>
+pause
+grpOpenBg ('REV1_10B', 0)
+#res<0423>
+par
+#res<0424>
+pause
+#res<0425>
+par
+#res<0426>
+par
+#res<0427>
+pause
+grpOpenBg ('REV1_10D', 0)
+intZb[1144] = 1
+koePlay (51500709, 5)
+#res<0428>
+par
+#res<0429>
+pause
+koePlay (51500711, 5)
+#res<0430>
+par
+#res<0431>
+pause
+#res<0432>
+par
+#res<0433>
+pause
+grpOpenBg ('REV1_10E', 0)
+intZb[1145] = 1
+koePlay (51500722, 5)
+#res<0434>
+par
+#res<0435>
+pause
+grpOpenBg ('RBG_SIRO', 2)
+waitC (2000)
+#res<0436>
+par
+#res<0437>
+par
+#res<0438>
+pause
+#res<0439>
+par
+#res<0440>
+par
+#res<0441>
+pause
+#res<0442>
+par
+#res<0443>
+par
+#res<0444>
+pause
+#res<0445>
+pause
+#res<0446>
+par
+#res<0447>
+par
+#res<0448>
+pause
+#res<0449>
+par
+#res<0450>
+pause
+#res<0451>
+par
+#res<0452>
+pause
+#res<0453>
+par
+#res<0454>
+par
+#res<0455>
+pause
+#res<0456>
+par
+#res<0457>
+pause
+#res<0458>
+par
+#res<0459>
+pause
+rtl
+
+  @5
+grpOpenBg ('REV1_11D', 0)
+intZb[1154] = 1
+intZb[15] = 1
+koePlay (51500772, 5)
+#res<0460>
+par
+#res<0461>
+pause
+#res<0462>
+par
+#res<0463>
+pause
+koePlay (51500777, 5)
+#res<0464>
+par
+#res<0465>
+pause
+#res<0466>
+par
+#res<0467>
+pause
+#res<0468>
+par
+#res<0469>
+par
+#res<0470>
+pause
+grpOpenBg ('REV1_11A', 0)
+intZb[1151] = 1
+koePlay (51500791, 5)
+#res<0471>
+par
+#res<0472>
+pause
+#res<0473>
+par
+#res<0474>
+pause
+koePlay (51500796, 5)
+#res<0475>
+par
+#res<0476>
+pause
+koePlay (51500798, 5)
+#res<0477>
+par
+#res<0478>
+pause
+#res<0479>
+par
+#res<0480>
+par
+#res<0481>
+pause
+grpOpenBg ('REV1_11B', 0)
+intZb[1152] = 1
+koePlay (51500810, 5)
+#res<0482>
+par
+#res<0483>
+pause
+#res<0484>
+par
+#res<0485>
+par
+#res<0486>
+pause
+#res<0487>
+par
+#res<0488>
+par
+#res<0489>
+pause
+grpOpenBg ('REV1_11D', 0)
+intZb[1154] = 1
+koePlay (51500824, 5)
+#res<0490>
+par
+#res<0491>
+pause
+#res<0492>
+par
+#res<0493>
+pause
+koePlay (51500828, 5)
+#res<0494>
+par
+#res<0495>
+pause
+#res<0496>
+par
+#res<0497>
+pause
+koePlay (51500833, 5)
+#res<0498>
+par
+#res<0499>
+pause
+#res<0500>
+par
+#res<0501>
+par
+#res<0502>
+pause
+koePlay (51500839, 5)
+#res<0503>
+par
+#res<0504>
+pause
+#res<0505>
+par
+#res<0506>
+par
+#res<0507>
+pause
+#res<0508>
+par
+#res<0509>
+par
+#res<0510>
+pause
+#res<0511>
+par
+#res<0512>
+pause
+#res<0513>
+par
+#res<0514>
+pause
+koePlay (51500855, 5)
+#res<0515>
+par
+#res<0516>
+pause
+#res<0517>
+par
+#res<0518>
+pause
+#res<0519>
+par
+#res<0520>
+par
+#res<0521>
+pause
+grpOpenBg ('REV1_11C', 0)
+intZb[1153] = 1
+koePlay (51500870, 5)
+#res<0522>
+par
+#res<0523>
+pause
+#res<0524>
+par
+#res<0525>
+pause
+koePlay (51500875, 5)
+#res<0526>
+par
+#res<0527>
+pause
+koePlay (51500877, 5)
+#res<0528>
+par
+#res<0529>
+pause
+#res<0530>
+par
+#res<0531>
+par
+#res<0532>
+pause
+grpOpenBg ('REV1_11E', 0)
+intZb[1155] = 1
+koePlay (51500889, 5)
+#res<0533>
+par
+#res<0534>
+pause
+#res<0535>
+par
+#res<0536>
+pause
+#res<0537>
+par
+#res<0538>
+par
+#res<0539>
+pause
+grpOpenBg ('REV1_11B', 0)
+koePlay (51500900, 5)
+#res<0540>
+par
+#res<0541>
+pause
+koePlay (51500902, 5)
+#res<0542>
+par
+#res<0543>
+pause
+koePlay (51500904, 5)
+#res<0544>
+par
+#res<0545>
+pause
+grpOpenBg ('REV1_11A', 0)
+koePlay (51500910, 5)
+#res<0546>
+par
+#res<0547>
+pause
+koePlay (51500912, 5)
+#res<0548>
+par
+#res<0549>
+pause
+koePlay (51500914, 5)
+#res<0550>
+par
+#res<0551>
+pause
+grpOpenBg ('REV1_11C', 0)
+koePlay (51500920, 5)
+#res<0552>
+par
+#res<0553>
+par
+#res<0554>
+pause
+koePlay (51500922, 5)
+#res<0555>
+par
+#res<0556>
+pause
+grpOpenBg ('REV1_11A', 0)
+koePlay (51500928, 5)
+#res<0557>
+par
+#res<0558>
+pause
+#res<0559>
+par
+#res<0560>
+pause
+koePlay (51500932, 5)
+#res<0561>
+par
+#res<0562>
+pause
+grpOpenBg ('RBG_SIRO', 2)
+#res<0563>
+par
+#res<0564>
+par
+#res<0565>
+pause
+#res<0566>
+par
+#res<0567>
+par
+#res<0568>
+pause
+grpOpenBg ('REV1_11F', 0)
+intZb[1156] = 1
+koePlay (51500952, 5)
+#res<0569>
+par
+#res<0570>
+pause
+#res<0571>
+par
+#res<0572>
+pause
+#res<0573>
+par
+#res<0574>
+par
+#res<0575>
+pause
+koePlay (51500961, 5)
+#res<0576>
+par
+#res<0577>
+pause
+grpOpenBg ('REV1_12A', 0)
+intZb[1161] = 1
+intZb[16] = 1
+#res<0578>
+par
+#res<0579>
+par
+#res<0580>
+pause
+koePlay (51500975, 5)
+#res<0581>
+par
+#res<0582>
+pause
+#res<0583>
+par
+#res<0584>
+pause
+#res<0585>
+par
+#res<0586>
+pause
+#res<0587>
+par
+#res<0588>
+par
+#res<0589>
+pause
+grpOpenBg ('REV1_12B', 0)
+intZb[1162] = 1
+koePlay (51500991, 5)
+#res<0590>
+par
+#res<0591>
+pause
+#res<0592>
+par
+#res<0593>
+pause
+#res<0594>
+par
+#res<0595>
+par
+#res<0596>
+pause
+koePlay (51501000, 5)
+#res<0597>
+par
+#res<0598>
+pause
+#res<0599>
+par
+#res<0600>
+pause
+grpOpenBg ('REV1_12A', 0)
+#res<0601>
+par
+#res<0602>
+pause
+#res<0603>
+par
+#res<0604>
+pause
+#res<0605>
+par
+#res<0606>
+pause
+rtl
+eof
+halt

@@ -1,0 +1,866 @@
+{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0040.TXT'
+#resource 'SEEN0040.sjs'
+
+#entrypoint 000
+title (#res<0000>)
+intA[307] = 0
+HideSyscom
+DisableSyscom (0)
+DisableSyscom (1)
+EnableSyscom (28)
+TextWindow (0)
+gosub @175
+gosub @172
+
+  @1
+gosub @3
+gosub @11
+gosub @23
+goto_unless (intA[308] == 1) @2
+intA[308] = 0
+goto @1
+
+  @2
+rtl
+
+  @3
+stackClear
+movStop
+koeStop
+FlushClick
+grpBuffer ('S_GAL00', 3)
+grpBuffer ('S_GAL01', 4)
+grpBuffer ('S_GAL04', 7)
+goto_unless (!intA[307]) @4
+grpBuffer ('S_GAL021', 5)
+grpBuffer ('S_GAL031', 6)
+goto @10
+
+  @4
+goto_unless (intA[307] == 1) @5
+grpBuffer ('S_GAL022', 5)
+grpBuffer ('S_GAL032', 6)
+goto @10
+
+  @5
+goto_unless (intA[307] == 2) @6
+grpBuffer ('S_GAL023', 5)
+grpBuffer ('S_GAL033', 6)
+goto @10
+
+  @6
+goto_unless (intA[307] == 3) @7
+grpBuffer ('S_GAL024', 5)
+grpBuffer ('S_GAL034', 6)
+goto @10
+
+  @7
+goto_unless (intA[307] == 4) @8
+grpBuffer ('S_GAL025', 5)
+grpBuffer ('S_GAL035', 6)
+goto @10
+
+  @8
+goto_unless (intA[307] == 5) @9
+grpBuffer ('S_GAL026', 5)
+grpBuffer ('S_GAL036', 6)
+goto @10
+
+  @9
+goto_unless (intA[307] == 6) @10
+grpBuffer ('S_GAL027', 5)
+grpBuffer ('S_GAL037', 6)
+
+  @10
+ret
+
+  @11
+grpCopy (3, 2)
+goto_unless (intE[1010 + intA[307] * 90] > 0) @12
+grpMaskCopy (145, 100, 260, 195, 5, 145, 100, 2)
+
+  @12
+goto_unless (intE[1020 + intA[307] * 90] > 0) @13
+grpMaskCopy (260, 100, 380, 195, 5, 260, 100, 2)
+
+  @13
+goto_unless (intE[1030 + intA[307] * 90] > 0) @14
+grpMaskCopy (380, 100, 500, 195, 5, 380, 100, 2)
+
+  @14
+goto_unless (intE[1040 + intA[307] * 90] > 0) @15
+grpMaskCopy (145, 195, 260, 285, 5, 145, 195, 2)
+
+  @15
+goto_unless (intE[1050 + intA[307] * 90] > 0) @16
+grpMaskCopy (260, 195, 380, 285, 5, 260, 195, 2)
+
+  @16
+goto_unless (intE[1060 + intA[307] * 90] > 0) @17
+grpMaskCopy (380, 195, 500, 285, 5, 380, 195, 2)
+
+  @17
+goto_unless (intE[1070 + intA[307] * 90] > 0) @18
+grpMaskCopy (145, 285, 260, 380, 5, 145, 285, 2)
+
+  @18
+goto_unless (intE[1080 + intA[307] * 90] > 0) @19
+grpMaskCopy (260, 285, 380, 380, 5, 260, 285, 2)
+
+  @19
+goto_unless (intE[1090 + intA[307] * 90] > 0) @20
+grpMaskCopy (380, 285, 500, 380, 5, 380, 285, 2)
+
+  @20
+grpMaskCopy (4, 2)
+grpCopy (2, 10)
+grpMaskCopy (450, 85 + intA[307] * 20, 495, 105 + intA[307] * 20, 7, 450, 85, 2)
+goto_unless (intA[307]) @21
+grpMaskCopy (300, 380, 315, 395, 7, 300, 380, 2)
+
+  @21
+goto_unless (intA[307] != 6) @22
+grpMaskCopy (330, 380, 343, 395, 7, 330, 380, 2)
+
+  @22
+grpDisplay (2, 0, 0, 639, 479, 0, 0, 300, 0, 0, 0, 0, 0, 0, 0, 255, 0)
+ret
+
+  @23
+FlushClick
+intA[300] = -99
+intA[301] = -99
+intA[302] = -99
+
+  @24
+GetCursorPos (intF[802], intF[803], intF[800], intF[801])
+intA[300] = -1
+goto_unless (intF[802] > 150 && intF[802] < 255 && intF[803] > 110 && intF[803] < 188) @27
+goto_unless (intE[1010 + intA[307] * 90] > 0) @25
+intA[300] = 1
+MouseCursor (1)
+goto @26
+
+  @25
+intA[300] = 0
+MouseCursor (0)
+
+  @26
+goto @59
+
+  @27
+goto_unless (intF[802] > 270 && intF[802] < 371 && intF[803] > 110 && intF[803] < 188) @30
+goto_unless (intE[1020 + intA[307] * 90] > 0) @28
+intA[300] = 2
+MouseCursor (1)
+goto @29
+
+  @28
+intA[300] = 0
+MouseCursor (0)
+
+  @29
+goto @59
+
+  @30
+goto_unless (intF[802] > 385 && intF[802] < 490 && intF[803] > 110 && intF[803] < 188) @33
+goto_unless (intE[1030 + intA[307] * 90] > 0) @31
+intA[300] = 3
+MouseCursor (1)
+goto @32
+
+  @31
+intA[300] = 0
+MouseCursor (0)
+
+  @32
+goto @59
+
+  @33
+goto_unless (intF[802] > 150 && intF[802] < 255 && intF[803] > 202 && intF[803] < 280) @36
+goto_unless (intE[1040 + intA[307] * 90] > 0) @34
+intA[300] = 4
+MouseCursor (1)
+goto @35
+
+  @34
+intA[300] = 0
+MouseCursor (0)
+
+  @35
+goto @59
+
+  @36
+goto_unless (intF[802] > 270 && intF[802] < 371 && intF[803] > 202 && intF[803] < 280) @39
+goto_unless (intE[1050 + intA[307] * 90] > 0) @37
+intA[300] = 5
+MouseCursor (1)
+goto @38
+
+  @37
+intA[300] = 0
+MouseCursor (0)
+
+  @38
+goto @59
+
+  @39
+goto_unless (intF[802] > 385 && intF[802] < 490 && intF[803] > 202 && intF[803] < 280) @42
+goto_unless (intE[1060 + intA[307] * 90] > 0) @40
+intA[300] = 6
+MouseCursor (1)
+goto @41
+
+  @40
+intA[300] = 0
+MouseCursor (0)
+
+  @41
+goto @59
+
+  @42
+goto_unless (intF[802] > 150 && intF[802] < 255 && intF[803] > 295 && intF[803] < 373) @45
+goto_unless (intE[1070 + intA[307] * 90] > 0) @43
+intA[300] = 7
+MouseCursor (1)
+goto @44
+
+  @43
+intA[300] = 0
+MouseCursor (0)
+
+  @44
+goto @59
+
+  @45
+goto_unless (intF[802] > 270 && intF[802] < 371 && intF[803] > 295 && intF[803] < 373) @48
+goto_unless (intE[1080 + intA[307] * 90] > 0) @46
+intA[300] = 8
+MouseCursor (1)
+goto @47
+
+  @46
+intA[300] = 0
+MouseCursor (0)
+
+  @47
+goto @59
+
+  @48
+goto_unless (intF[802] > 385 && intF[802] < 490 && intF[803] > 295 && intF[803] < 373) @51
+goto_unless (intE[1090 + intA[307] * 90] > 0) @49
+intA[300] = 9
+MouseCursor (1)
+goto @50
+
+  @49
+intA[300] = 0
+MouseCursor (0)
+
+  @50
+goto @59
+
+  @51
+goto_unless (intF[802] > 300 && intF[802] < 315 && intF[803] > 380 && intF[803] < 395) @54
+goto_unless (intA[307]) @52
+intA[300] = 10
+MouseCursor (1)
+goto @53
+
+  @52
+intA[300] = 0
+MouseCursor (0)
+
+  @53
+goto @59
+
+  @54
+goto_unless (intF[802] > 330 && intF[802] < 343 && intF[803] > 380 && intF[803] < 395) @57
+goto_unless (intA[307] != 6) @55
+intA[300] = 11
+MouseCursor (1)
+goto @56
+
+  @55
+intA[300] = 0
+MouseCursor (0)
+
+  @56
+goto @59
+
+  @57
+goto_unless (intF[802] > 535 && intF[802] < 600 && intF[803] > 420 && intF[803] < 440) @58
+intA[300] = 12
+MouseCursor (1)
+goto @59
+
+  @58
+MouseCursor (0)
+intA[300] = 0
+
+  @59
+goto_unless (intA[300] != intA[301] && intA[300] >= 0) @60
+goto_unless (intA[300]) @60
+wavPlay ('_SELECT')
+
+  @60
+goto_unless (intA[300] != intA[301]) @77
+grpCopy (10, 2)
+goto_case intA[300] { 0: @61; 1: @62; 2: @63; 3: @64; 4: @65; 5: @66; 6: @67; 7: @68; 8: @69; 9: @70; 10: @71; 11: @72; 12: @73; _: @74 }
+
+  @61
+goto @74
+
+  @62
+grpMaskCopy (145, 100, 260, 195, 6, 145, 100, 2)
+grpMaskCopy (4, 2)
+goto @74
+
+  @63
+grpMaskCopy (260, 100, 380, 195, 6, 260, 100, 2)
+grpMaskCopy (4, 2)
+goto @74
+
+  @64
+grpMaskCopy (380, 100, 500, 195, 6, 380, 100, 2)
+grpMaskCopy (4, 2)
+goto @74
+
+  @65
+grpMaskCopy (145, 195, 260, 285, 6, 145, 195, 2)
+grpMaskCopy (4, 2)
+goto @74
+
+  @66
+grpMaskCopy (260, 195, 380, 285, 6, 260, 195, 2)
+grpMaskCopy (4, 2)
+goto @74
+
+  @67
+grpMaskCopy (380, 195, 500, 285, 6, 380, 195, 2)
+grpMaskCopy (4, 2)
+goto @74
+
+  @68
+grpMaskCopy (145, 285, 260, 380, 6, 145, 285, 2)
+grpMaskCopy (4, 2)
+goto @74
+
+  @69
+grpMaskCopy (260, 285, 380, 380, 6, 260, 285, 2)
+grpMaskCopy (4, 2)
+goto @74
+
+  @70
+grpMaskCopy (380, 285, 500, 380, 6, 380, 285, 2)
+grpMaskCopy (4, 2)
+goto @74
+
+  @71
+grpMaskCopy (4, 2)
+grpMaskCopy (300, 400, 315, 415, 7, 300, 380, 2)
+goto @74
+
+  @72
+grpMaskCopy (4, 2)
+grpMaskCopy (330, 400, 343, 415, 7, 330, 380, 2)
+goto @74
+
+  @73
+grpMaskCopy (4, 2)
+grpMaskCopy (530, 420, 600, 440, 7, 530, 420, 2)
+goto @74
+
+  @74
+grpMaskCopy (450, 85 + intA[307] * 20, 495, 105 + intA[307] * 20, 7, 450, 85, 2)
+goto_unless (intA[307]) @75
+grpMaskCopy (300, 380, 315, 395, 7, 300, 380, 2)
+
+  @75
+goto_unless (intA[307] != 6) @76
+grpMaskCopy (330, 380, 343, 395, 7, 330, 380, 2)
+
+  @76
+grpCopy (2, 0)
+
+  @77
+refresh
+intA[301] = intA[300]
+goto_unless (intF[801] == 2) @78
+wavPlay ('_KETTEI')
+FlushClick
+intA[302] = -99
+bgmFadeOut (700)
+goto @82
+
+  @78
+goto_unless (intF[800] == 1) @79
+goto_unless (intA[302] == -99) @79
+intA[302] = intA[300]
+
+  @79
+goto_unless (intF[800] == 2) @81
+goto_unless (intA[300] == intA[302] && intA[300] > 0) @80
+gosub @83
+goto @82
+goto @81
+
+  @80
+FlushClick
+intA[302] = -99
+
+  @81
+op<1:Sys:00001, 0>
+goto @24
+
+  @82
+ret
+
+  @83
+intA[308] = 0
+wavPlay ('_KETTEI')
+goto_case intA[301] { -3: @84; -2: @85; -1: @86; 0: @87; 1: @88; 2: @96; 3: @104; 4: @112; 5: @120; 6: @128; 7: @136; 8: @144; 9: @152; 10: @160; 11: @161; 12: @162; _: @163 }
+
+  @84
+goto @163
+
+  @85
+goto @163
+
+  @86
+goto @163
+
+  @87
+goto @163
+
+  @88
+intA[308] = 1
+goto_unless (!intA[307]) @89
+intD[996] = 1
+goto @95
+
+  @89
+goto_unless (intA[307] == 1) @90
+intD[996] = 10
+goto @95
+
+  @90
+goto_unless (intA[307] == 2) @91
+intD[996] = 19
+goto @95
+
+  @91
+goto_unless (intA[307] == 3) @92
+intD[996] = 28
+goto @95
+
+  @92
+goto_unless (intA[307] == 4) @93
+intD[996] = 37
+goto @95
+
+  @93
+goto_unless (intA[307] == 5) @94
+intD[996] = 46
+goto @95
+
+  @94
+goto_unless (intA[307] == 6) @95
+intD[996] = 55
+
+  @95
+gosub @164
+goto @163
+
+  @96
+intA[308] = 1
+goto_unless (!intA[307]) @97
+intD[996] = 2
+goto @103
+
+  @97
+goto_unless (intA[307] == 1) @98
+intD[996] = 11
+goto @103
+
+  @98
+goto_unless (intA[307] == 2) @99
+intD[996] = 20
+goto @103
+
+  @99
+goto_unless (intA[307] == 3) @100
+intD[996] = 29
+goto @103
+
+  @100
+goto_unless (intA[307] == 4) @101
+intD[996] = 38
+goto @103
+
+  @101
+goto_unless (intA[307] == 5) @102
+intD[996] = 47
+goto @103
+
+  @102
+goto_unless (intA[307] == 6) @103
+intD[996] = 56
+
+  @103
+gosub @164
+goto @163
+
+  @104
+intA[308] = 1
+goto_unless (!intA[307]) @105
+intD[996] = 3
+goto @111
+
+  @105
+goto_unless (intA[307] == 1) @106
+intD[996] = 12
+goto @111
+
+  @106
+goto_unless (intA[307] == 2) @107
+intD[996] = 21
+goto @111
+
+  @107
+goto_unless (intA[307] == 3) @108
+intD[996] = 30
+goto @111
+
+  @108
+goto_unless (intA[307] == 4) @109
+intD[996] = 39
+goto @111
+
+  @109
+goto_unless (intA[307] == 5) @110
+intD[996] = 48
+goto @111
+
+  @110
+goto_unless (intA[307] == 6) @111
+intD[996] = 57
+
+  @111
+gosub @164
+goto @163
+
+  @112
+intA[308] = 1
+goto_unless (!intA[307]) @113
+intD[996] = 4
+goto @119
+
+  @113
+goto_unless (intA[307] == 1) @114
+intD[996] = 13
+goto @119
+
+  @114
+goto_unless (intA[307] == 2) @115
+intD[996] = 22
+goto @119
+
+  @115
+goto_unless (intA[307] == 3) @116
+intD[996] = 31
+goto @119
+
+  @116
+goto_unless (intA[307] == 4) @117
+intD[996] = 40
+goto @119
+
+  @117
+goto_unless (intA[307] == 5) @118
+intD[996] = 49
+goto @119
+
+  @118
+goto_unless (intA[307] == 6) @119
+intD[996] = 58
+
+  @119
+gosub @164
+goto @163
+
+  @120
+intA[308] = 1
+goto_unless (!intA[307]) @121
+intD[996] = 5
+goto @127
+
+  @121
+goto_unless (intA[307] == 1) @122
+intD[996] = 14
+goto @127
+
+  @122
+goto_unless (intA[307] == 2) @123
+intD[996] = 23
+goto @127
+
+  @123
+goto_unless (intA[307] == 3) @124
+intD[996] = 32
+goto @127
+
+  @124
+goto_unless (intA[307] == 4) @125
+intD[996] = 41
+goto @127
+
+  @125
+goto_unless (intA[307] == 5) @126
+intD[996] = 50
+goto @127
+
+  @126
+goto_unless (intA[307] == 6) @127
+intD[996] = 59
+
+  @127
+gosub @164
+goto @163
+
+  @128
+intA[308] = 1
+goto_unless (!intA[307]) @129
+intD[996] = 6
+goto @135
+
+  @129
+goto_unless (intA[307] == 1) @130
+intD[996] = 15
+goto @135
+
+  @130
+goto_unless (intA[307] == 2) @131
+intD[996] = 24
+goto @135
+
+  @131
+goto_unless (intA[307] == 3) @132
+intD[996] = 33
+goto @135
+
+  @132
+goto_unless (intA[307] == 4) @133
+intD[996] = 42
+goto @135
+
+  @133
+goto_unless (intA[307] == 5) @134
+intD[996] = 51
+goto @135
+
+  @134
+goto_unless (intA[307] == 6) @135
+intD[996] = 60
+
+  @135
+gosub @164
+goto @163
+
+  @136
+intA[308] = 1
+goto_unless (!intA[307]) @137
+intD[996] = 7
+goto @143
+
+  @137
+goto_unless (intA[307] == 1) @138
+intD[996] = 16
+goto @143
+
+  @138
+goto_unless (intA[307] == 2) @139
+intD[996] = 25
+goto @143
+
+  @139
+goto_unless (intA[307] == 3) @140
+intD[996] = 34
+goto @143
+
+  @140
+goto_unless (intA[307] == 4) @141
+intD[996] = 43
+goto @143
+
+  @141
+goto_unless (intA[307] == 5) @142
+intD[996] = 52
+goto @143
+
+  @142
+goto_unless (intA[307] == 6) @143
+intD[996] = 61
+
+  @143
+gosub @164
+goto @163
+
+  @144
+intA[308] = 1
+goto_unless (!intA[307]) @145
+intD[996] = 8
+goto @151
+
+  @145
+goto_unless (intA[307] == 1) @146
+intD[996] = 17
+goto @151
+
+  @146
+goto_unless (intA[307] == 2) @147
+intD[996] = 26
+goto @151
+
+  @147
+goto_unless (intA[307] == 3) @148
+intD[996] = 35
+goto @151
+
+  @148
+goto_unless (intA[307] == 4) @149
+intD[996] = 44
+goto @151
+
+  @149
+goto_unless (intA[307] == 5) @150
+intD[996] = 53
+goto @151
+
+  @150
+goto_unless (intA[307] == 6) @151
+intD[996] = 62
+
+  @151
+gosub @164
+goto @163
+
+  @152
+intA[308] = 1
+goto_unless (!intA[307]) @153
+intD[996] = 9
+goto @159
+
+  @153
+goto_unless (intA[307] == 1) @154
+intD[996] = 18
+goto @159
+
+  @154
+goto_unless (intA[307] == 2) @155
+intD[996] = 27
+goto @159
+
+  @155
+goto_unless (intA[307] == 3) @156
+intD[996] = 36
+goto @159
+
+  @156
+goto_unless (intA[307] == 4) @157
+intD[996] = 45
+goto @159
+
+  @157
+goto_unless (intA[307] == 5) @158
+intD[996] = 54
+goto @159
+
+  @158
+goto_unless (intA[307] == 6) @159
+intD[996] = 63
+
+  @159
+gosub @164
+goto @163
+
+  @160
+intA[308] = 1
+intA[307] -= 1
+goto @163
+
+  @161
+intA[308] = 1
+intA[307] += 1
+goto @163
+
+  @162
+bgmFadeOut (700)
+goto @163
+
+  @163
+gosub @172
+ret
+
+  @164
+intD[995] = intD[996] * 10
+intD[998] = 0
+
+  @165
+goto_unless (intD[998] < intD[intD[996]]) @167
+intD[997] = intC[400 + intD[995] + intD[998]]
+goto_unless (intZb[intD[997]] == 1 && intA[400 + intD[998]] != 1) @166
+grpBuffer (strS[intD[995] + intD[998] + 400], 11)
+intA[400 + intD[998]] = 1
+grpDisplay (11, 0, 0, 639, 479, 0, 0, 300, 0, 0, 0, 0, 0, 0, 0, 255, 0)
+gosub @168
+
+  @166
+intD[998] += 1
+goto @165
+
+  @167
+ret
+
+  @168
+FlushClick
+
+  @169
+GetCursorPos (intF[802], intF[803], intF[800], intF[801])
+goto_unless (intF[800] == 2) @170
+wavPlay ('_KETTEI')
+goto @171
+
+  @170
+goto @169
+
+  @171
+ret
+
+  @172
+intF[0] = 400
+
+  @173
+goto_unless (intF[0] < 411) @174
+intA[intF[0]] = 0
+intF[0] += 1
+goto @173
+
+  @174
+ret
+
+  @175
+intF[0] = 1
+
+  @176
+goto_unless (intF[0] < 82) @177
+intE[1000 + intF[0] * 10] = intZb[0 + intF[0]] + intZb[1001 + intF[0] * 10] + intZb[1002 + intF[0] * 10] + intZb[1003 + intF[0] * 10] + intZb[1004 + intF[0] * 10] + intZb[1005 + intF[0] * 10] + intZb[1006 + intF[0] * 10] + intZb[1007 + intF[0] * 10] + intZb[1008 + intF[0] * 10] + intZb[1009 + intF[0] * 10]
+intF[0] += 1
+goto @176
+
+  @177
+ret
+eof
+halt

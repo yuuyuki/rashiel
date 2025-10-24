@@ -1,0 +1,15 @@
+{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0810.TXT'
+#resource 'SEEN0810.sjs'
+
+#entrypoint 000
+msgHide
+title (#res<0000>)
+op<1:060:00001, 0> (244)
+bgmLoop ('BGM09')
+grpOpenBg ('RBG_GO', 2)
+waitC (10000)
+rtl
+eof
+halt

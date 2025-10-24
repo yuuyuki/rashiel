@@ -1,0 +1,1235 @@
+{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0500.TXT'
+#resource 'SEEN0500.sjs'
+
+#entrypoint 000
+title (#res<0000>)
+bgmLoop ('BGM07')
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_20', 2)
+#res<0001>
+pause
+#res<0002>
+pause
+#res<0003>
+pause
+#res<0004>
+pause
+#res<0005>
+pause
+#res<0006>
+par
+#res<0007>
+pause
+#res<0008>
+par
+#res<0009>
+pause
+#res<0010>
+intF[0] = select_s[0] (#res<0011>, #res<0012>)
+goto_case intF[0] { 0: @1; 1: @2; _: @3 }
+
+  @1
+goto @4
+goto @3
+
+  @2
+goto @10
+goto @3
+
+  @3
+
+  @4
+#res<0013>
+par
+#res<0014>
+pause
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_SIRO', 2)
+waitC (2000)
+bgmLoop ('BGM04', 8000, 2000)
+op<1:072:01002, 2> (244, 'SIG00', 1, 500, 0)
+grpOpenBg ('RBG_03', 2)
+#res<0015>
+par
+#res<0016>
+par
+#res<0017>
+pause
+#res<0018>
+par
+#res<0019>
+par
+#res<0020>
+pause
+#res<0021>
+par
+#res<0022>
+par
+#res<0023>
+pause
+#res<0024>
+par
+#res<0025>
+par
+#res<0026>
+pause
+#res<0027>
+par
+#res<0028>
+par
+#res<0029>
+pause
+#res<0030>
+par
+#res<0031>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_1B', 100))
+koePlay (50000115, 2)
+#res<0032>
+par
+#res<0033>
+par
+#res<0034>
+pause
+#res<0035>
+par
+#res<0036>
+par
+#res<0037>
+par
+#res<0038>
+pause
+koePlay (50000119, 2)
+#res<0039>
+par
+#res<0040>
+par
+#res<0041>
+pause
+#res<0042>
+par
+#res<0043>
+pause
+koePlay (50000123, 2)
+#res<0044>
+par
+#res<0045>
+par
+#res<0046>
+pause
+#res<0047>
+par
+#res<0048>
+pause
+koePlay (50000127, 2)
+#res<0049>
+par
+#res<0050>
+par
+#res<0051>
+pause
+grpOpenBg ('RBG_08', 1)
+waitC (1000)
+grpMulti ('RBG_08', 0, copy('RBS3_1B', 100))
+koePlay (50000141, 2)
+#res<0052>
+par
+#res<0053>
+par
+#res<0054>
+pause
+grpMulti ('RBG_08', 0, copy('RBS4_1B', 100))
+#res<0055>
+par
+#res<0056>
+par
+#res<0057>
+pause
+grpMulti ('RBG_08', 0, copy('RBS3_1B', 100))
+koePlay (50000153, 2)
+#res<0058>
+par
+#res<0059>
+par
+#res<0060>
+pause
+koePlay (50000155, 2)
+#res<0061>
+par
+#res<0062>
+par
+#res<0063>
+par
+#res<0064>
+pause
+#res<0065>
+pause
+#res<0066>
+par
+#res<0067>
+pause
+#res<0068>
+par
+#res<0069>
+par
+#res<0070>
+pause
+grpMulti ('RBG_08', 0, copy('RBS3_1B', 100))
+koePlay (50000170, 2)
+#res<0071>
+par
+#res<0072>
+par
+#res<0073>
+pause
+grpMulti ('RBG_08', 0, copy('RBS4_1Q', 100))
+#res<0074>
+par
+#res<0075>
+par
+#res<0076>
+pause
+grpMulti ('RBG_08', 0, copy('RBS3_2B', 100))
+koePlay (50000182, 2)
+#res<0077>
+par
+#res<0078>
+par
+#res<0079>
+pause
+#res<0080>
+par
+#res<0081>
+pause
+koePlay (50000186, 2)
+#res<0082>
+par
+#res<0083>
+par
+#res<0084>
+pause
+grpOpenBg ('RBG_03', 1)
+#res<0085>
+par
+#res<0086>
+pause
+#res<0087>
+par
+#res<0088>
+pause
+bgmLoop ('BGM09')
+#res<0089>
+par
+#res<0090>
+pause
+#res<0091>
+par
+#res<0092>
+pause
+#res<0093>
+par
+#res<0094>
+pause
+#res<0095>
+pause
+#res<0096>
+par
+#res<0097>
+pause
+#res<0098>
+par
+#res<0099>
+pause
+#res<0100>
+par
+#res<0101>
+par
+#res<0102>
+pause
+#res<0103>
+par
+#res<0104>
+pause
+#res<0105>
+par
+#res<0106>
+pause
+#res<0107>
+par
+#res<0108>
+pause
+#res<0109>
+par
+#res<0110>
+par
+#res<0111>
+pause
+#res<0112>
+par
+#res<0113>
+pause
+#res<0114>
+par
+#res<0115>
+pause
+#res<0116>
+par
+#res<0117>
+pause
+#res<0118>
+par
+#res<0119>
+pause
+#res<0120>
+par
+#res<0121>
+pause
+#res<0122>
+par
+#res<0123>
+pause
+#res<0124>
+par
+#res<0125>
+pause
+#res<0126>
+par
+#res<0127>
+pause
+#res<0128>
+par
+#res<0129>
+pause
+#res<0130>
+par
+#res<0131>
+par
+#res<0132>
+pause
+#res<0133>
+par
+#res<0134>
+par
+#res<0135>
+pause
+#res<0136>
+par
+#res<0137>
+pause
+#res<0138>
+par
+#res<0139>
+pause
+#res<0140>
+par
+#res<0141>
+pause
+#res<0142>
+par
+#res<0143>
+pause
+#res<0144>
+par
+#res<0145>
+pause
+#res<0146>
+par
+#res<0147>
+par
+#res<0148>
+pause
+#res<0149>
+par
+#res<0150>
+pause
+#res<0151>
+par
+#res<0152>
+pause
+#res<0153>
+pause
+#res<0154>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_1B', 100))
+koePlay (50000295, 2)
+#res<0155>
+par
+#res<0156>
+pause
+#res<0157>
+par
+#res<0158>
+pause
+#res<0159>
+par
+#res<0160>
+pause
+#res<0161>
+pause
+#res<0162>
+par
+#res<0163>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_1O', 100))
+koePlay (50000311, 2)
+#res<0164>
+par
+#res<0165>
+pause
+#res<0166>
+par
+#res<0167>
+pause
+#res<0168>
+par
+#res<0169>
+pause
+#res<0170>
+par
+#res<0171>
+pause
+intF[0] = select_s[0] (#res<0172>, #res<0173>)
+goto_case intF[0] { 0: @5; 1: @6; _: @7 }
+
+  @5
+goto @8
+goto @7
+
+  @6
+goto @9
+goto @7
+
+  @7
+
+  @8
+intA[330] = 2
+farcall (95, 2)
+#res<0174>
+pause
+grpOpenBg ('RBG_03', 0)
+#res<0175>
+par
+#res<0176>
+pause
+wavPlay ('TAORE')
+#res<0177>
+par
+#res<0178>
+pause
+#res<0179>
+par
+#res<0180>
+pause
+#res<0181>
+par
+#res<0182>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_2O', 100))
+koePlay (50000376, 2)
+#res<0183>
+par
+#res<0184>
+pause
+#res<0185>
+par
+#res<0186>
+pause
+#res<0187>
+par
+#res<0188>
+pause
+#res<0189>
+par
+#res<0190>
+par
+#res<0191>
+pause
+#res<0192>
+par
+#res<0193>
+pause
+#res<0194>
+par
+#res<0195>
+pause
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_KURO', 2)
+waitC (2000)
+#res<0196>
+par
+#res<0197>
+pause
+#res<0198>
+par
+#res<0199>
+pause
+#res<0200>
+par
+#res<0201>
+par
+#res<0202>
+pause
+koePlay (50000413, 2)
+#res<0203>
+par
+#res<0204>
+pause
+koePlay (50000415, 2)
+#res<0205>
+par
+#res<0206>
+pause
+#res<0207>
+par
+#res<0208>
+pause
+#res<0209>
+par
+#res<0210>
+pause
+wavPlay ('WARE')
+#res<0211>
+par
+#res<0212>
+pause
+#res<0213>
+par
+#res<0214>
+pause
+koePlay (50000427, 2)
+#res<0215>
+par
+#res<0216>
+pause
+#res<0217>
+par
+#res<0218>
+par
+#res<0219>
+pause
+bgmFadeOut (2000)
+msgHide
+grpOpenBg ('RBG_SIRO', 2)
+waitC (4000)
+#res<0220>
+pause
+#res<0221>
+pause
+#res<0222>
+pause
+#res<0223>
+pause
+#res<0224>
+par
+#res<0225>
+pause
+#res<0226>
+pause
+#res<0227>
+pause
+#res<0228>
+pause
+op<1:072:01002, 2> (244, 'SIG00', 1, 500, 0)
+grpOpenBg ('RBG_03', 2)
+#res<0229>
+par
+#res<0230>
+pause
+bgmLoop ('BGM02')
+grpMulti ('RBG_03', 0, copy('RBS3_2K', 100))
+koePlay (50000478, 2)
+#res<0231>
+par
+#res<0232>
+pause
+koePlay (50000480, 2)
+#res<0233>
+par
+#res<0234>
+pause
+#res<0235>
+par
+#res<0236>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_2P', 100))
+koePlay (50000488, 2)
+#res<0237>
+par
+#res<0238>
+pause
+koePlay (50000490, 2)
+#res<0239>
+par
+#res<0240>
+pause
+#res<0241>
+par
+#res<0242>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_2K', 100))
+koePlay (50000495, 2)
+#res<0243>
+par
+#res<0244>
+par
+#res<0245>
+pause
+#res<0246>
+par
+#res<0247>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_2P', 100))
+koePlay (50000503, 2)
+#res<0248>
+par
+#res<0249>
+par
+#res<0250>
+pause
+#res<0251>
+par
+#res<0252>
+par
+#res<0253>
+pause
+#res<0254>
+par
+#res<0255>
+par
+#res<0256>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_3H', 100))
+koePlay (50000513, 2)
+#res<0257>
+par
+#res<0258>
+par
+#res<0259>
+par
+#res<0260>
+pause
+koePlay (50000519, 2)
+#res<0261>
+par
+#res<0262>
+par
+#res<0263>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_3Q', 100))
+koePlay (50000525, 2)
+#res<0264>
+par
+#res<0265>
+par
+#res<0266>
+par
+#res<0267>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_3K', 100))
+koePlay (50000527, 2)
+#res<0268>
+par
+#res<0269>
+par
+#res<0270>
+pause
+koePlay (50000529, 2)
+#res<0271>
+par
+#res<0272>
+pause
+#res<0273>
+par
+#res<0274>
+par
+#res<0275>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_1S', 100))
+koePlay (50000537, 2)
+#res<0276>
+par
+#res<0277>
+par
+#res<0278>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_1E', 100))
+koePlay (50000543, 2)
+#res<0279>
+par
+#res<0280>
+par
+#res<0281>
+pause
+op<1:060:00001, 0> (244)
+msgHide
+grpOpenBg ('RBG_KURO', 2)
+bgmFadeOut (2000)
+waitC (2000)
+bgmLoop ('BGM03')
+op<1:072:01002, 2> (244, 'SIG00', 1, 500, 0)
+grpOpenBg ('RBG_03', 2)
+#res<0282>
+par
+#res<0283>
+pause
+#res<0284>
+par
+#res<0285>
+pause
+wavPlay ('KNOCK')
+koePlay (50000577, 2)
+#res<0286>
+par
+#res<0287>
+par
+#res<0288>
+pause
+#res<0289>
+par
+#res<0290>
+pause
+#res<0291>
+par
+#res<0292>
+pause
+koePlay (50000584, 2)
+#res<0293>
+par
+#res<0294>
+pause
+wavPlay ('DOOR')
+grpMulti ('RBG_03', 0, copy('RBS2_1O', 100))
+koePlay (50000592, 4)
+#res<0295>
+par
+#res<0296>
+pause
+#res<0297>
+par
+#res<0298>
+par
+#res<0299>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1Q', 100))
+koePlay (50000600, 4)
+#res<0300>
+par
+#res<0301>
+pause
+koePlay (50000602, 4)
+#res<0302>
+par
+#res<0303>
+par
+#res<0304>
+par
+#res<0305>
+pause
+koePlay (50000604, 4)
+#res<0306>
+par
+#res<0307>
+par
+#res<0308>
+pause
+koePlay (50000606, 4)
+#res<0309>
+par
+#res<0310>
+par
+#res<0311>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1B', 100))
+koePlay (50000612, 4)
+#res<0312>
+par
+#res<0313>
+par
+#res<0314>
+pause
+koePlay (50000614, 4)
+#res<0315>
+par
+#res<0316>
+pause
+koePlay (50000616, 4)
+#res<0317>
+par
+#res<0318>
+pause
+#res<0319>
+par
+#res<0320>
+pause
+#res<0321>
+par
+#res<0322>
+par
+#res<0323>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1N', 100))
+koePlay (50000626, 4)
+#res<0324>
+par
+#res<0325>
+par
+#res<0326>
+pause
+koePlay (50000628, 4)
+#res<0327>
+par
+#res<0328>
+par
+#res<0329>
+pause
+#res<0330>
+par
+#res<0331>
+par
+#res<0332>
+par
+#res<0333>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1F', 100))
+koePlay (50000636, 4)
+#res<0334>
+par
+#res<0335>
+par
+#res<0336>
+par
+#res<0337>
+pause
+#res<0338>
+par
+#res<0339>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1S', 100))
+koePlay (50000644, 4)
+#res<0340>
+par
+#res<0341>
+par
+#res<0342>
+pause
+#res<0343>
+par
+#res<0344>
+par
+#res<0345>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1F', 100))
+koePlay (50000652, 4)
+#res<0346>
+par
+#res<0347>
+par
+#res<0348>
+par
+#res<0349>
+pause
+koePlay (50000654, 4)
+#res<0350>
+par
+#res<0351>
+par
+#res<0352>
+par
+#res<0353>
+pause
+koePlay (50000656, 4)
+#res<0354>
+par
+#res<0355>
+pause
+#res<0356>
+par
+#res<0357>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1Q', 100))
+koePlay (50000664, 4)
+#res<0358>
+par
+#res<0359>
+par
+#res<0360>
+pause
+#res<0361>
+par
+#res<0362>
+par
+#res<0363>
+pause
+koePlay (50000668, 4)
+#res<0364>
+par
+#res<0365>
+par
+#res<0366>
+par
+#res<0367>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1Q', 100))
+koePlay (50000674, 4)
+#res<0368>
+par
+#res<0369>
+par
+#res<0370>
+pause
+koePlay (50000676, 4)
+#res<0371>
+par
+#res<0372>
+par
+#res<0373>
+pause
+koePlay (50000678, 4)
+#res<0374>
+par
+#res<0375>
+par
+#res<0376>
+pause
+#res<0377>
+par
+#res<0378>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1F', 100))
+koePlay (50000686, 4)
+#res<0379>
+par
+#res<0380>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1F', 100))
+koePlay (50000692, 4)
+#res<0381>
+par
+#res<0382>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1Q', 100))
+koePlay (50000698, 4)
+#res<0383>
+par
+#res<0384>
+pause
+#res<0385>
+par
+#res<0386>
+pause
+#res<0387>
+par
+#res<0388>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1S', 100))
+koePlay (50000708, 4)
+#res<0389>
+par
+#res<0390>
+pause
+#res<0391>
+par
+#res<0392>
+par
+#res<0393>
+pause
+grpMulti ('RBG_03', 0, copy('RBS2_1F', 100))
+koePlay (50000716, 4)
+#res<0394>
+par
+#res<0395>
+pause
+koePlay (50000718, 4)
+#res<0396>
+par
+#res<0397>
+pause
+grpOpenBg ('RBG_03', 0)
+#res<0398>
+par
+#res<0399>
+pause
+#res<0400>
+par
+#res<0401>
+pause
+#res<0402>
+par
+#res<0403>
+par
+#res<0404>
+pause
+msgHide
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_KURO', 2)
+bgmFadeOut (4000)
+waitC (4000)
+farcall (90)
+jump (109)
+
+  @9
+#res<0405>
+par
+#res<0406>
+par
+#res<0407>
+pause
+grpOpenBg ('RBG_03', 0)
+#res<0408>
+par
+#res<0409>
+pause
+#res<0410>
+pause
+bgmStop
+#res<0411>
+par
+#res<0412>
+pause
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_KURO', 2)
+waitC (2000)
+#res<0413>
+pause
+#res<0414>
+par
+#res<0415>
+pause
+farcall (810)
+MenuReturn
+
+  @10
+#res<0416>
+par
+#res<0417>
+pause
+#res<0418>
+pause
+#res<0419>
+par
+#res<0420>
+par
+#res<0421>
+pause
+msgHide
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_KURO', 2)
+waitC (2000)
+bgmLoop ('BGM04')
+op<1:072:01002, 2> (244, 'SIG00', 1, 500, 0)
+grpOpenBg ('RBG_03', 2)
+#res<0422>
+par
+#res<0423>
+par
+#res<0424>
+pause
+#res<0425>
+par
+#res<0426>
+par
+#res<0427>
+pause
+#res<0428>
+par
+#res<0429>
+par
+#res<0430>
+pause
+#res<0431>
+par
+#res<0432>
+par
+#res<0433>
+pause
+#res<0434>
+par
+#res<0435>
+par
+#res<0436>
+pause
+#res<0437>
+par
+#res<0438>
+pause
+grpMulti ('RBG_03', 0, copy('RBS3_1B', 100))
+koePlay (50000845, 2)
+#res<0439>
+par
+#res<0440>
+par
+#res<0441>
+pause
+#res<0442>
+par
+#res<0443>
+par
+#res<0444>
+par
+#res<0445>
+pause
+koePlay (50000849, 2)
+#res<0446>
+par
+#res<0447>
+par
+#res<0448>
+pause
+#res<0449>
+par
+#res<0450>
+pause
+koePlay (50000853, 2)
+#res<0451>
+par
+#res<0452>
+par
+#res<0453>
+pause
+#res<0454>
+par
+#res<0455>
+pause
+koePlay (50000857, 2)
+#res<0456>
+par
+#res<0457>
+par
+#res<0458>
+pause
+grpOpenBg ('RBG_08', 1)
+waitC (1000)
+grpMulti ('RBG_08', 0, copy('RBS3_1B', 100))
+koePlay (50000871, 2)
+#res<0459>
+par
+#res<0460>
+par
+#res<0461>
+pause
+grpMulti ('RBG_08', 0, copy('RBS4_1B', 100))
+#res<0462>
+par
+#res<0463>
+pause
+#res<0464>
+par
+#res<0465>
+par
+#res<0466>
+pause
+grpMulti ('RBG_08', 0, copy('RBS3_1B', 100))
+koePlay (50000887, 2)
+#res<0467>
+par
+#res<0468>
+par
+#res<0469>
+pause
+grpMulti ('RBG_08', 0, copy('RBS4_1Q', 100))
+#res<0470>
+par
+#res<0471>
+par
+#res<0472>
+pause
+grpMulti ('RBG_08', 0, copy('RBS3_1B', 100))
+koePlay (50000899, 2)
+#res<0473>
+par
+#res<0474>
+par
+#res<0475>
+pause
+#res<0476>
+par
+#res<0477>
+par
+#res<0478>
+pause
+koePlay (50000903, 2)
+#res<0479>
+par
+#res<0480>
+par
+#res<0481>
+pause
+grpOpenBg ('RBG_03', 1)
+#res<0482>
+par
+#res<0483>
+par
+#res<0484>
+pause
+bgmStop
+#res<0485>
+par
+#res<0486>
+pause
+#res<0487>
+pause
+#res<0488>
+par
+#res<0489>
+pause
+#res<0490>
+par
+#res<0491>
+pause
+#res<0492>
+par
+#res<0493>
+par
+#res<0494>
+pause
+#res<0495>
+par
+#res<0496>
+pause
+#res<0497>
+par
+#res<0498>
+pause
+#res<0499>
+par
+#res<0500>
+pause
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_KURO', 2)
+waitC (2000)
+#res<0501>
+par
+#res<0502>
+par
+#res<0503>
+par
+#res<0504>
+par
+#res<0505>
+pause
+#res<0506>
+par
+#res<0507>
+pause
+#res<0508>
+par
+#res<0509>
+pause
+#res<0510>
+par
+#res<0511>
+pause
+#res<0512>
+par
+#res<0513>
+pause
+#res<0514>
+par
+#res<0515>
+pause
+farcall (810)
+MenuReturn
+eof
+halt

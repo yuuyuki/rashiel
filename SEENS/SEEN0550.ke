@@ -1,0 +1,236 @@
+{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0550.TXT'
+#resource 'SEEN0550.sjs'
+
+#entrypoint 000
+farcall (513)
+op<1:072:01002, 2> (244, 'SIG00', 1, 500, 0)
+grpOpenBg ('RBG_01N', 2)
+#res<0000>
+par
+#res<0001>
+par
+#res<0002>
+pause
+#res<0003>
+par
+#res<0004>
+par
+#res<0005>
+pause
+#res<0006>
+par
+#res<0007>
+par
+#res<0008>
+pause
+#res<0009>
+par
+#res<0010>
+pause
+#res<0011>
+par
+#res<0012>
+pause
+#res<0013>
+par
+#res<0014>
+pause
+#res<0015>
+par
+#res<0016>
+par
+#res<0017>
+par
+#res<0018>
+intF[0] = select_s[0] (#res<0019>, #res<0020>)
+goto_case intF[0] { 0: @1; 1: @2; _: @3 }
+
+  @1
+goto @4
+goto @3
+
+  @2
+goto @5
+goto @3
+
+  @3
+
+  @4
+intB[13] = 1
+#res<0021>
+par
+#res<0022>
+pause
+grpOpenBg ('RBG_03N', 1)
+#res<0023>
+par
+#res<0024>
+pause
+#res<0025>
+par
+#res<0026>
+pause
+#res<0027>
+par
+#res<0028>
+par
+#res<0029>
+pause
+#res<0030>
+par
+#res<0031>
+par
+#res<0032>
+pause
+#res<0033>
+pause
+#res<0034>
+par
+#res<0035>
+par
+#res<0036>
+pause
+#res<0037>
+pause
+#res<0038>
+par
+#res<0039>
+pause
+#res<0040>
+par
+#res<0041>
+pause
+#res<0042>
+par
+#res<0043>
+par
+#res<0044>
+pause
+#res<0045>
+par
+#res<0046>
+pause
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_KURO', 2)
+bgmFadeOut (2000)
+waitC (2000)
+farcall (90)
+jump (109)
+
+  @5
+#res<0047>
+par
+#res<0048>
+par
+#res<0049>
+pause
+#res<0050>
+par
+#res<0051>
+par
+#res<0052>
+pause
+#res<0053>
+par
+#res<0054>
+par
+#res<0055>
+pause
+#res<0056>
+par
+#res<0057>
+pause
+#res<0058>
+par
+#res<0059>
+par
+#res<0060>
+pause
+msgHide
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_KURO', 2)
+bgmFadeOut (2000)
+waitC (4000)
+title (#res<0061>)
+grpOpenBg ('RBG_05', 2)
+#res<0062>
+par
+#res<0063>
+pause
+#res<0064>
+par
+#res<0065>
+par
+#res<0066>
+pause
+#res<0067>
+par
+#res<0068>
+par
+#res<0069>
+pause
+#res<0070>
+par
+#res<0071>
+par
+#res<0072>
+par
+#res<0073>
+pause
+#res<0074>
+par
+#res<0075>
+par
+#res<0076>
+pause
+#res<0077>
+par
+#res<0078>
+par
+#res<0079>
+pause
+#res<0080>
+par
+#res<0081>
+par
+#res<0082>
+pause
+#res<0083>
+par
+#res<0084>
+par
+#res<0085>
+pause
+koePlay (55000218, 5)
+#res<0086>
+par
+#res<0087>
+pause
+#res<0088>
+par
+#res<0089>
+par
+#res<0090>
+pause
+koePlay (55000222, 5)
+#res<0091>
+par
+#res<0092>
+pause
+#res<0093>
+par
+#res<0094>
+par
+#res<0095>
+pause
+op<1:060:00001, 0> (244)
+msgHide
+grpOpenBg ('RBG_KURO', 2)
+bgmFadeOut (2000)
+waitC (2000)
+farcall (810)
+MenuReturn
+eof
+halt

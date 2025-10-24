@@ -1,0 +1,180 @@
+{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0811.TXT'
+#resource 'SEEN0811.sjs'
+
+#entrypoint 000
+msgHide
+title (#res<0000>)
+intA[350] = 0
+gosub @2
+bgmPlay ('BGM12')
+ResetExTimer
+gosub @3
+gosub @36
+goto_unless (!intGb[150]) @1
+intGb[150] = 1
+
+  @1
+rtl
+
+  @2
+HideSyscom
+DisableSyscom (0)
+DisableSyscom (1)
+EnableSyscom (28)
+stackClear
+wavStopAll
+movStop
+koeStop
+HideCursor
+gosub @10
+TextWindow (0)
+FlushClick
+ret
+
+  @3
+intF[0] = 0
+
+  @4
+intF[0] = ExTimer
+goto_unless (intF[0] >= 7500 * intA[350]) @6
+goto_unless (intF[0] >= 180000) @5
+ResetTimer
+time (1000)
+goto @8
+
+  @5
+gosub @9
+gosub @10
+
+  @6
+GetCursorPos (intF[802], intF[803], intF[800], intF[801])
+goto_unless (intF[801] == 2 && intGb[150] == 1) @7
+gosub @36
+goto @8
+
+  @7
+goto @4
+
+  @8
+ret
+
+  @9
+refresh
+intA[350] = intA[350] + 1
+grpDisplay (3, 0, 0, 639, 479, 0, 0, 5000, 0, 0, 0, 0, 0, 0, 0, 255, 0)
+ret
+
+  @10
+goto_case intA[350] { 0: @11; 1: @12; 2: @13; 3: @14; 4: @15; 5: @16; 6: @17; 7: @18; 8: @19; 9: @20; 10: @21; 11: @22; 12: @23; 13: @24; 14: @25; 15: @26; 16: @27; 17: @28; 18: @29; 19: @30; 20: @31; 21: @32; 22: @33; 23: @34; _: @35 }
+
+  @11
+strS[1999] = 'EN_01'
+goto @35
+
+  @12
+strS[1999] = 'EN_02'
+goto @35
+
+  @13
+strS[1999] = 'EN_03'
+goto @35
+
+  @14
+strS[1999] = 'EN_04'
+goto @35
+
+  @15
+strS[1999] = 'EN_05'
+goto @35
+
+  @16
+strS[1999] = 'EN_06'
+goto @35
+
+  @17
+strS[1999] = 'EN_07'
+goto @35
+
+  @18
+strS[1999] = 'EN_08'
+goto @35
+
+  @19
+strS[1999] = 'EN_09'
+goto @35
+
+  @20
+strS[1999] = 'EN_10'
+goto @35
+
+  @21
+strS[1999] = 'EN_11'
+goto @35
+
+  @22
+strS[1999] = 'EN_12'
+goto @35
+
+  @23
+strS[1999] = 'EN_13'
+goto @35
+
+  @24
+strS[1999] = 'EN_14'
+goto @35
+
+  @25
+strS[1999] = 'EN_15'
+goto @35
+
+  @26
+strS[1999] = 'EN_16'
+goto @35
+
+  @27
+strS[1999] = 'EN_17'
+goto @35
+
+  @28
+strS[1999] = 'EN_18'
+goto @35
+
+  @29
+strS[1999] = 'EN_19'
+goto @35
+
+  @30
+strS[1999] = 'EN_20'
+goto @35
+
+  @31
+strS[1999] = 'EN_21'
+goto @35
+
+  @32
+strS[1999] = 'EN_22'
+goto @35
+
+  @33
+strS[1999] = 'EN_23'
+goto @35
+
+  @34
+strS[1999] = 'EN_24'
+goto @35
+
+  @35
+grpBuffer (strS[1999], 3)
+ret
+
+  @36
+FlushClick
+bgmFadeOut (700)
+grpFade (0, 0, 0, 700)
+ResetTimer
+time (700)
+ret
+eof
+halt

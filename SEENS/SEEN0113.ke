@@ -1,0 +1,40 @@
+{-# cp cp932 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0113.TXT'
+#resource 'SEEN0113.sjs'
+
+#entrypoint 000
+title (#res<0000>)
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_DY09', 2)
+waitC (2000)
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_KURO', 2)
+waitC (2000)
+goto_unless (intB[1] == 1) @1
+goto @4
+
+  @1
+goto_unless (intB[2] == 1) @2
+goto @5
+
+  @2
+goto_unless (intB[5] == 1) @3
+goto @6
+
+  @3
+goto @7
+
+  @4
+jump (305)
+
+  @5
+jump (405)
+
+  @6
+jump (201)
+
+  @7
+jump (203)
+eof
+halt
