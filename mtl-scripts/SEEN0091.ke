@@ -1,0 +1,257 @@
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0091.TXT'
+#resource 'SEEN0091.utf'
+
+#entrypoint 000
+stackClear
+bgmStop
+wavStopAll
+movStop
+koeStop
+grpBuffer ('S_KAN00', 3)
+grpBuffer ('S_KAN01', 4)
+grpBuffer ('S_KAN02', 5)
+grpBuffer ('S_KAN03', 6)
+grpBuffer ('S_KAN04', 7)
+FlushClick
+MouseCursor (0)
+HideSyscom
+DisableSyscom (0)
+DisableSyscom (1)
+EnableSyscom (28)
+TextWindow (0)
+grpCopy (4, 2)
+grpCopy (285, 120, 435, 140, 7, 285, 120, 11)
+grpMaskCopy (11, 2)
+grpDisplay (2, 0, 0, 639, 479, 0, 0, 500, 0, 0, 0, 0, 0, 0, 0, 255, 0)
+intF[1000] = (intF[1] + 9) / 10
+goto_unless (intF[1000] > 9) @1
+intF[1000] = 10
+
+  @1
+intF[1001] = (intF[2] + 9) / 10
+goto_unless (intF[1001] > 9) @2
+intF[1001] = 10
+
+  @2
+intF[1002] = (intF[3] + 9) / 10
+goto_unless (intF[1002] > 9) @3
+intF[1002] = 10
+
+  @3
+gosub @4
+bgmLoop ('BGM01')
+EnableAutoSavepoints
+EnableSyscom
+EnableSyscom (0)
+EnableSyscom (1)
+EnableSyscom (28)
+#res<0000>
+pause
+#res<0001>
+pause
+#res<0002>
+pause
+gosub @18
+rtl
+
+  @4
+ResetTimer
+time (500)
+intF[700] = 0
+intF[700] = 0
+
+  @5
+goto_unless (intF[700] < 3) @17
+intF[701] = intF[1 + intF[700]]
+goto_unless (intF[701]) @11
+intF[0] = 0
+
+  @6
+goto_unless (intF[0] < intF[1000 + intF[700]]) @10
+goto_unless (!intF[700]) @7
+grpMaskCopy (290, 140, 325, 170, 7, 290 + intF[0] * 29, 140, 10)
+grpMaskCopy (10, 0)
+goto @9
+
+  @7
+goto_unless (intF[700] == 1) @8
+grpMaskCopy (290, 215, 325, 245, 7, 290 + intF[0] * 29, 215, 10)
+grpMaskCopy (10, 0)
+goto @9
+
+  @8
+goto_unless (intF[700] == 2) @9
+grpMaskCopy (290, 290, 325, 325, 7, 290 + intF[0] * 29, 290, 10)
+grpMaskCopy (10, 0)
+
+  @9
+wavPlay ('KAN_UP')
+ResetTimer
+time (200)
+intF[0] += 1
+goto @6
+
+  @10
+goto @12
+
+  @11
+grpMaskCopy (10, 0)
+wavPlay ('KAN_DW')
+ResetTimer
+time (1000)
+
+  @12
+freeDC (11)
+goto_case intF[700] { 0: @13; 1: @14; 2: @15; _: @16 }
+#res<0003>
+
+  @13
+grpMaskCopy (5, 2)
+grpMaskCopy (10, 2)
+grpCopy (285, 190, 435, 220, 7, 285, 190, 11)
+grpMaskCopy (11, 2)
+goto @16
+
+  @14
+grpMaskCopy (6, 2)
+grpMaskCopy (10, 2)
+grpCopy (285, 270, 435, 295, 7, 285, 270, 11)
+grpMaskCopy (11, 2)
+goto @16
+
+  @15
+grpMaskCopy (3, 2)
+grpMaskCopy (10, 2)
+goto @16
+
+  @16
+grpDisplay (2, 0, 0, 639, 479, 0, 0, 1000, 0, 0, 0, 0, 0, 0, 0, 255, 0)
+ResetTimer
+time (500)
+intF[700] += 1
+goto @5
+
+  @17
+ret
+
+  @18
+intA[302] = -99
+FlushClick
+grpCopy (2, 12)
+
+  @19
+GetCursorPos (intF[802], intF[803], intF[800], intF[801])
+intA[300] = -1
+goto_unless (intF[802] > 284 && intF[802] < 486 && intF[803] > 119 && intF[803] < 141) @20
+intA[300] = 1
+goto @24
+
+  @20
+goto_unless (intF[802] > 284 && intF[802] < 486 && intF[803] > 194 && intF[803] < 221) @21
+intA[300] = 2
+goto @24
+
+  @21
+goto_unless (intF[802] > 284 && intF[802] < 486 && intF[803] > 269 && intF[803] < 296) @22
+intA[300] = 3
+goto @24
+
+  @22
+goto_unless (intF[802] > 534 && intF[802] < 601 && intF[803] > 419 && intF[803] < 439) @23
+intA[300] = 4
+goto @24
+
+  @23
+intA[300] = 0
+
+  @24
+goto_unless (intA[300] != intA[301] && intA[300] >= 0) @25
+goto_unless (intA[300]) @25
+wavPlay ('_SELECT')
+
+  @25
+goto_unless (intA[300] != intA[301]) @32
+goto_case intA[300] { 0: @26; 1: @27; 2: @28; 3: @29; 4: @30; _: @31 }
+
+  @26
+grpCopy (12, 0)
+MouseCursor (0)
+goto @31
+
+  @27
+freeDC (11)
+grpCopy (12, 0)
+grpCopy (4, 2)
+grpCopy (285, 120, 435, 140, 7, 285, 120, 11)
+grpMaskCopy (10, 2)
+grpMaskCopy (11, 2)
+grpCopy (2, 0)
+goto @31
+
+  @28
+freeDC (11)
+grpCopy (12, 0)
+grpCopy (5, 2)
+grpCopy (285, 190, 435, 220, 7, 285, 190, 11)
+grpMaskCopy (10, 2)
+grpMaskCopy (11, 2)
+grpCopy (2, 0)
+goto @31
+
+  @29
+freeDC (11)
+grpCopy (12, 0)
+grpCopy (6, 2)
+grpCopy (285, 270, 435, 295, 7, 285, 270, 11)
+grpMaskCopy (10, 2)
+grpMaskCopy (11, 2)
+grpCopy (2, 0)
+goto @31
+
+  @30
+freeDC (11)
+grpCopy (12, 0)
+grpCopy (535, 420, 600, 440, 7, 535, 420, 11)
+grpMaskCopy (11, 0)
+MouseCursor (1)
+goto @31
+
+  @31
+
+  @32
+refresh
+intA[301] = intA[300]
+goto_unless (intF[800] == 1) @33
+goto_unless (intA[302] == -99) @33
+intA[302] = intA[300]
+
+  @33
+goto_unless (intF[800] == 2) @37
+goto_unless (intA[300] == intA[302] && intA[300] > 0) @36
+goto_unless (intA[301] == 4) @34
+wavPlay ('_KETTEI')
+bgmFadeOut (1000)
+ResetTimer
+time (1000)
+goto @38
+goto @35
+
+  @34
+intA[302] = -99
+
+  @35
+goto @37
+
+  @36
+intA[302] = -99
+
+  @37
+op<1:Sys:00001, 0>
+goto @19
+
+  @38
+ret
+eof
+halt

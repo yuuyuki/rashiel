@@ -1,0 +1,374 @@
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0095.TXT'
+
+#entrypoint 000
+intF[1] = intF[1] + intA[330]
+goto_unless (intF[1] < 0) @1
+intF[1] = 0
+goto @2
+
+  @1
+goto_unless (intF[1] > 100) @2
+intF[1] = 100
+
+  @2
+gosub @14
+rtl
+#entrypoint 001
+intF[2] = intF[2] + intA[330]
+goto_unless (intF[2] < 0) @3
+intF[2] = 0
+goto @4
+
+  @3
+goto_unless (intF[2] > 100) @4
+intF[2] = 100
+
+  @4
+gosub @14
+rtl
+#entrypoint 002
+intF[3] = intF[3] + intA[330]
+goto_unless (intF[3] < 0) @5
+intF[3] = 0
+goto @6
+
+  @5
+goto_unless (intF[3] > 100) @6
+intF[3] = 100
+
+  @6
+gosub @14
+rtl
+#entrypoint 003
+intF[1] = intF[1] + intA[330]
+goto_unless (intF[1] < 0) @7
+intF[1] = 0
+goto @8
+
+  @7
+goto_unless (intF[1] > 100) @8
+intF[1] = 100
+
+  @8
+gosub @15
+rtl
+#entrypoint 004
+intF[2] = intF[2] + intA[330]
+goto_unless (intF[2] < 0) @9
+intF[2] = 0
+goto @10
+
+  @9
+goto_unless (intF[2] > 100) @10
+intF[2] = 100
+
+  @10
+gosub @15
+rtl
+#entrypoint 005
+intF[3] = intF[3] + intA[330]
+goto_unless (intF[3] < 0) @11
+intF[3] = 0
+goto @12
+
+  @11
+goto_unless (intF[3] > 100) @12
+intF[3] = 100
+
+  @12
+gosub @15
+rtl
+#entrypoint 006
+intF[4] = intF[4] + 1
+goto_unless (intF[4] > 100) @13
+intF[4] = 100
+
+  @13
+intA[331] = 1
+gosub @16
+intA[331] = 0
+rtl
+
+  @14
+gosub @17
+gosub @62
+gosub @19
+gosub @67
+gosub @69
+EnableSyscom
+ret
+
+  @15
+gosub @17
+gosub @18
+gosub @62
+gosub @19
+gosub @67
+op<1:060:00001, 0> (244)
+gosub @69
+EnableSyscom
+ret
+
+  @16
+gosub @17
+gosub @62
+gosub @61
+gosub @67
+EnableSyscom
+ret
+
+  @17
+MouseCursor (0)
+HideSyscom
+grpCopy (0, 14)
+ret
+
+  @18
+op<1:072:01002, 2> (244, 'SIG00', 1, 500, 0)
+grpDisplay (14, 0, 0, 639, 479, 0, 0, 300, 0, 0, 0, 0, 0, 0, 0, 255, 0)
+ret
+
+  @19
+goto_case intA[330] { -3: @20; -2: @23; -1: @26; 0: @29; 1: @30; 2: @33; 3: @36; _: @39 }
+
+  @20
+intF[0] = 0
+
+  @21
+goto_unless (intF[0] < 3) @22
+wavPlay ('KAN_DW')
+objOfFile (intF[0] + 245, 'SIG02', 1, intF[0] * 22 + 528, 36)
+gosub @40
+intF[0] += 1
+goto @21
+
+  @22
+goto @39
+
+  @23
+intF[0] = 0
+
+  @24
+goto_unless (intF[0] < 2) @25
+wavPlay ('KAN_DW')
+objOfFile (intF[0] + 245, 'SIG02', 1, intF[0] * 22 + 528, 36)
+gosub @40
+intF[0] += 1
+goto @24
+
+  @25
+goto @39
+
+  @26
+intF[0] = 0
+
+  @27
+goto_unless (intF[0] < 1) @28
+wavPlay ('KAN_DW')
+objOfFile (intF[0] + 245, 'SIG02', 1, intF[0] * 22 + 528, 36)
+gosub @40
+intF[0] += 1
+goto @27
+
+  @28
+goto @39
+
+  @29
+gosub @40
+goto @39
+
+  @30
+intF[0] = 0
+
+  @31
+goto_unless (intF[0] < 1) @32
+wavPlay ('KAN_UP')
+objOfFile (intF[0] + 245, 'SIG01', 1, intF[0] * 22 + 528, 36)
+gosub @40
+intF[0] += 1
+goto @31
+
+  @32
+goto @39
+
+  @33
+intF[0] = 0
+
+  @34
+goto_unless (intF[0] < 2) @35
+wavPlay ('KAN_UP')
+objOfFile (intF[0] + 245, 'SIG01', 1, intF[0] * 22 + 528, 36)
+gosub @40
+intF[0] += 1
+goto @34
+
+  @35
+goto @39
+
+  @36
+intF[0] = 0
+
+  @37
+goto_unless (intF[0] < 3) @38
+wavPlay ('KAN_UP')
+objOfFile (intF[0] + 245, 'SIG01', 1, intF[0] * 22 + 528, 36)
+gosub @40
+intF[0] += 1
+goto @37
+
+  @38
+goto @39
+
+  @39
+ret
+
+  @40
+ResetTimer
+time (400)
+ret
+goto_case intA[330] { -3: @41; -2: @44; -1: @47; 0: @50; 1: @51; 2: @54; 3: @57; _: @60 }
+
+  @41
+intF[0] = 0
+
+  @42
+goto_unless (intF[0] < 3) @43
+wavPlay ('KAN_DW')
+ResetTimer
+time (400)
+intF[0] += 1
+goto @42
+
+  @43
+goto @60
+
+  @44
+intF[0] = 0
+
+  @45
+goto_unless (intF[0] < 2) @46
+wavPlay ('KAN_DW')
+ResetTimer
+time (400)
+intF[0] += 1
+goto @45
+
+  @46
+goto @60
+
+  @47
+intF[0] = 0
+
+  @48
+goto_unless (intF[0] < 1) @49
+wavPlay ('KAN_DW')
+ResetTimer
+time (400)
+intF[0] += 1
+goto @48
+
+  @49
+goto @60
+
+  @50
+ResetTimer
+time (400)
+goto @60
+
+  @51
+intF[0] = 0
+
+  @52
+goto_unless (intF[0] < 1) @53
+wavPlay ('KAN_UP')
+ResetTimer
+time (400)
+intF[0] += 1
+goto @52
+
+  @53
+goto @60
+
+  @54
+intF[0] = 0
+
+  @55
+goto_unless (intF[0] < 2) @56
+wavPlay ('KAN_UP')
+ResetTimer
+time (400)
+intF[0] += 1
+goto @55
+
+  @56
+goto @60
+
+  @57
+intF[0] = 0
+
+  @58
+goto_unless (intF[0] < 3) @59
+wavPlay ('KAN_UP')
+ResetTimer
+time (400)
+intF[0] += 1
+goto @58
+
+  @59
+goto @60
+
+  @60
+ret
+
+  @61
+wavPlay ('KICHI')
+ResetTimer
+time (1000)
+ret
+
+  @62
+goto_unless (!intA[330]) @63
+goto_unless (intA[331] != 1) @63
+goto @66
+
+  @63
+intA[340] = -99
+intA[341] = -99
+intF[0] = bgmVolume
+intA[341] = intF[0]
+intA[340] = intF[0] - 100
+goto_unless (intA[340] < 0) @64
+intA[340] = 0
+goto @65
+
+  @64
+goto_unless (intA[340] > 255) @65
+intA[340] = 255
+
+  @65
+bgmSetVolume (intA[340], 1500)
+ResetTimer
+time (1000)
+
+  @66
+ret
+
+  @67
+goto_unless (!intA[330]) @68
+goto_unless (intA[331] != 1) @68
+goto @66
+
+  @68
+bgmSetVolume (intA[341], 1500)
+ResetTimer
+time (500)
+ret
+
+  @69
+op<1:060:00001, 1> (245, 247)
+grpDisplay (14, 0, 0, 639, 479, 0, 0, 300, 0, 0, 0, 0, 0, 0, 0, 255, 0)
+ret
+eof
+halt

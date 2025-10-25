@@ -1,0 +1,349 @@
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0099.TXT'
+#resource 'SEEN0099.utf'
+
+#entrypoint 000
+op<0:Sys:00100, 0> (0)
+farcall (99, 1)
+op<0:Sys:00101, 0> (0, 0)
+rtlCancel
+#entrypoint 001
+sePlay (1)
+HideSyscom
+DrawManual
+recCopy (0, 13)
+grpColour (13, -80, -80, -60)
+intC[1] = 1
+farcall (99, 2)
+DrawAuto
+EnableSyscom
+rtl
+#entrypoint 002
+gosub @1
+intC[1] = 0
+gosub @20
+rtl
+
+  @1
+recCopy (13, 1)
+recCopy (13, 2)
+intF[0] = 0
+intE[500] = SkipMode
+goto_unless (!intE[500]) @2
+strS[0 + intF[0]] = #res<0000>
+goto @3
+
+  @2
+strS[0 + intF[0]] = #res<0001>
+
+  @3
+intE[400 + intF[0]] = SyscomEnabled (25)
+intE[600 + intF[0]] = 0
+intF[0] += 1
+intE[501] = AutoMode
+goto_unless (!intE[501]) @4
+strS[0 + intF[0]] = #res<0002>
+goto @5
+
+  @4
+strS[0 + intF[0]] = #res<0003>
+
+  @5
+intE[400 + intF[0]] = SyscomEnabled (13)
+intE[600 + intF[0]] = 1
+intF[0] += 1
+strS[0 + intF[0]] = #res<0004>
+intE[400 + intF[0]] = SyscomEnabled (31)
+intE[600 + intF[0]] = 2
+intF[0] += 1
+strS[0 + intF[0]] = #res<0005>
+intE[400 + intF[0]] = SyscomEnabled (14)
+intE[600 + intF[0]] = 3
+intF[0] += 1
+strS[0 + intF[0]] = #res<0006>
+intE[400 + intF[0]] = SyscomEnabled (0)
+intE[600 + intF[0]] = 4
+intF[0] += 1
+strS[0 + intF[0]] = #res<0007>
+intE[400 + intF[0]] = SyscomEnabled (1)
+intE[600 + intF[0]] = 5
+intF[0] += 1
+strS[0 + intF[0]] = #res<0008>
+intE[400 + intF[0]] = SyscomEnabled (30)
+intE[600 + intF[0]] = 6
+intF[0] += 1
+strS[0 + intF[0]] = #res<0009>
+intE[400 + intF[0]] = SyscomEnabled (28)
+intE[600 + intF[0]] = 7
+intF[0] += 1
+strS[0 + intF[0]] = #res<0010>
+intE[400 + intF[0]] = SyscomEnabled (29)
+intE[600 + intF[0]] = 8
+intF[0] += 1
+strS[0 + intF[0]] = #res<0011>
+intE[400 + intF[0]] = 1
+intE[600 + intF[0]] = 9999
+intF[0] += 1
+intE[1999] = intF[0]
+intA[0] = 10
+intA[1] = intA[0] * 2
+intA[2] = 28
+intF[0] = 0
+
+  @6
+goto_unless (intF[0] < intE[1999]) @7
+intF[1] = strlen (strS[intF[0]])
+intF[1] = intF[1] * intA[0]
+intF[2] = (640 - intF[1]) / 2
+intE[50 + intF[0]] = intF[2]
+intE[200 + intF[0]] = intF[2] + intF[1] + 2
+intF[0] += 1
+goto @6
+
+  @7
+intF[1] = 0
+intF[0] = 0
+
+  @8
+goto_unless (intF[0] < intE[1999]) @10
+goto_unless (intE[400 + intF[0]]) @9
+intF[1] += intA[2]
+
+  @9
+intF[0] += 1
+goto @8
+
+  @10
+intF[1] = intF[1] - (intA[2] - intA[1])
+intF[1] = (480 - intF[1]) / 2
+intF[0] = 0
+
+  @11
+goto_unless (intF[0] < intE[1999]) @13
+goto_unless (intE[400 + intF[0]]) @12
+intE[100 + intF[0]] = intF[1]
+intE[300 + intF[0]] = intF[1] + intA[1] + 2
+intF[1] += intA[2]
+
+  @12
+intF[0] += 1
+goto @11
+
+  @13
+intF[0] = 0
+
+  @14
+goto_unless (intF[0] < intE[1999]) @17
+goto_unless (intE[400 + intF[0]] == 1) @15
+op<1:Grp:00030, 1> (strS[intF[0]], intE[50 + intF[0]], intE[100 + intF[0]], 1, intA[1], 255, 255, 255, 50, 50, 50)
+op<1:Grp:00030, 1> (strS[intF[0]], intE[50 + intF[0]], intE[100 + intF[0]], 2, intA[1], 220, 220, 220, 0, 0, 0)
+goto @16
+
+  @15
+goto_unless (intE[400 + intF[0]] == 2) @16
+op<1:Grp:00030, 1> (strS[intF[0]], intE[50 + intF[0]], intE[100 + intF[0]], 2, intA[1], 180, 180, 180, 0, 0, 0)
+
+  @16
+intF[0] += 1
+goto @14
+
+  @17
+goto_unless (!intC[1]) @18
+grpDisplay (2, 0, 0, 639, 479, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 255, 5)
+goto @19
+
+  @18
+grpDisplay (2, 0, 0, 639, 479, 0, 0, 50, 50, 0, 0, 0, 0, 0, 0, 255, 5)
+
+  @19
+ret
+
+  @20
+intA[101] = -1
+intA[102] = -2
+FlushClick
+
+  @21
+GetCursorPos (intA[0], intA[1], intA[2], intA[3])
+intA[100] = -1
+intF[0] = 0
+
+  @22
+goto_unless (intF[0] < intE[1999]) @24
+goto_unless (intE[400 + intF[0]] == 1) @23
+goto_unless (intA[0] >= intE[50 + intF[0]] && intA[0] <= intE[200 + intF[0]]) @23
+goto_unless (intA[1] >= intE[100 + intF[0]] && intA[1] <= intE[300 + intF[0]]) @23
+intA[100] = intF[0]
+goto @24
+
+  @23
+intF[0] += 1
+goto @22
+
+  @24
+goto_unless (intA[102] != -2) @25
+goto_unless (intA[102] != intA[100]) @25
+intA[100] = -1
+
+  @25
+goto_unless (intA[101] != intA[100]) @28
+goto_unless (intA[101] != -1) @26
+grpCopy (intE[50 + intA[101]], intE[100 + intA[101]], intE[200 + intA[101]], intE[300 + intA[101]], 2, intE[50 + intA[101]], intE[100 + intA[101]], 0)
+
+  @26
+goto_unless (intA[100] != -1) @27
+grpCopy (intE[50 + intA[100]], intE[100 + intA[100]], intE[200 + intA[100]], intE[300 + intA[100]], 1, intE[50 + intA[100]], intE[100 + intA[100]], 0)
+sePlay (0)
+
+  @27
+intA[101] = intA[100]
+
+  @28
+refresh
+goto_unless (intA[3] == 2) @29
+sePlay (1)
+goto @35
+
+  @29
+goto_unless (intA[2] == 1) @31
+goto_unless (intA[102] == -2) @30
+intA[102] = intA[100]
+
+  @30
+goto @34
+
+  @31
+goto_unless (intA[2] == 2) @33
+goto_unless (intA[102] == intA[100] && intA[100] >= 0) @32
+sePlay (1)
+intA[1000] = intE[600 + intA[100]]
+gosub @36
+goto_unless (intA[1000] == 1) @32
+goto @35
+
+  @32
+intA[101] = -1
+intA[102] = -2
+FlushClick
+goto @34
+
+  @33
+intA[102] = -2
+
+  @34
+goto @21
+
+  @35
+ret
+
+  @36
+goto_case intA[1000] { 0: @37; 1: @40; 2: @43; 3: @44; 4: @46; 5: @47; 6: @48; 7: @49; 8: @51; 9999: @53; _: @54 }
+
+  @37
+goto_unless (!intE[500]) @38
+SetSkipMode
+goto @39
+
+  @38
+ClearSkipMode
+
+  @39
+intA[1000] = 1
+goto @54
+
+  @40
+goto_unless (!intE[501]) @41
+SetAutoMode (1)
+goto @42
+
+  @41
+SetAutoMode (0)
+
+  @42
+intA[1000] = 1
+goto @54
+
+  @43
+ShowBackground
+intA[1000] = 1
+goto @54
+
+  @44
+intF[0] = select_s2[0] (#res<0012>, #res<0013>)
+goto_unless (!intF[0]) @45
+ReturnPrevSelect2
+
+  @45
+gosub @1
+intA[1000] = 0
+goto @54
+
+  @46
+intC[0] = 0
+intA[321] = 1
+grpCopy (0, 15)
+farcall (10, 0)
+grpCopy (15, 2)
+grpDisplay (2, 0, 0, 639, 479, 0, 0, 300, 0, 0, 0, 0, 0, 0, 0, 255, 0)
+intA[321] = 0
+gosub @1
+intA[1000] = 0
+goto @54
+
+  @47
+intC[0] = 1
+intA[321] = 1
+grpCopy (0, 15)
+farcall (10, 1)
+grpCopy (15, 2)
+grpDisplay (2, 0, 0, 639, 479, 0, 0, 300, 0, 0, 0, 0, 0, 0, 0, 255, 0)
+intA[321] = 0
+gosub @1
+intA[1000] = 0
+goto @54
+
+  @48
+intA[321] = 1
+grpCopy (0, 15)
+farcall (20, 0)
+grpCopy (15, 2)
+grpDisplay (2, 0, 0, 639, 479, 0, 0, 300, 0, 0, 0, 0, 0, 0, 0, 255, 0)
+intA[321] = 0
+gosub @1
+intA[1000] = 0
+goto @54
+
+  @49
+intF[0] = select_s2[0] (#res<0014>, #res<0015>)
+goto_unless (!intF[0]) @50
+MenuReturn2
+
+  @50
+gosub @1
+intA[1000] = 0
+goto @54
+
+  @51
+intF[0] = select_s2[0] (#res<0016>, #res<0017>)
+goto_unless (!intF[0]) @52
+wavPlay ('_KETTEI')
+bgmFadeOut (1000)
+grpFade (0, 0, 0, 1000)
+ResetTimer
+time (1000)
+end
+
+  @52
+gosub @1
+intA[1000] = 0
+goto @54
+
+  @53
+intA[1000] = 1
+goto @54
+
+  @54
+ret
+eof
+halt

@@ -1,0 +1,292 @@
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0060.TXT'
+#resource 'SEEN0060.utf'
+
+#entrypoint 000
+
+  @1
+title (#res<0000>)
+stackClear
+bgmStop
+movStop
+koeStop
+grpBuffer ('S_NAZ00', 3)
+grpBuffer ('S_NAZ01', 4)
+bgmLoop ('BGM04')
+grpCopy (3, 2)
+grpDisplay (2, 0, 0, 639, 479, 0, 0, 300, 0, 0, 0, 0, 0, 0, 0, 255, 0)
+FlushClick
+HideSyscom
+DisableSyscom (0)
+DisableSyscom (1)
+EnableSyscom (28)
+gosub @3
+goto_unless (intA[304] == 1) @2
+intA[304] = 0
+goto @1
+
+  @2
+rtl
+
+  @3
+FlushClick
+intA[300] = -99
+intA[301] = -99
+intA[302] = -99
+
+  @4
+GetCursorPos (intF[802], intF[803], intF[800], intF[801])
+intA[300] = -1
+goto_unless (intF[802] > 295 && intF[802] < 345 && intF[803] > 215 && intF[803] < 265) @7
+goto_unless (intGb[1] == 1) @5
+intA[300] = 1
+MouseCursor (1)
+goto @6
+
+  @5
+intA[300] = 0
+MouseCursor (0)
+
+  @6
+goto @21
+
+  @7
+goto_unless (intF[802] > 202 && intF[802] < 252 && intF[803] > 215 && intF[803] < 265) @10
+goto_unless (intGb[2] == 1 && intGb[7] == 1) @8
+intA[300] = 2
+MouseCursor (1)
+goto @9
+
+  @8
+intA[300] = 0
+MouseCursor (0)
+
+  @9
+goto @21
+
+  @10
+goto_unless (intF[802] > 390 && intF[802] < 440 && intF[803] > 215 && intF[803] < 265) @13
+goto_unless (intGb[3] == 1) @11
+intA[300] = 3
+MouseCursor (1)
+goto @12
+
+  @11
+intA[300] = 0
+MouseCursor (0)
+
+  @12
+goto @21
+
+  @13
+goto_unless (intF[802] > 295 && intF[802] < 345 && intF[803] > 135 && intF[803] < 185) @16
+goto_unless (intGb[1] == 1 || intGb[2] == 1) @14
+intA[300] = 4
+MouseCursor (1)
+goto @15
+
+  @14
+intA[300] = 0
+MouseCursor (0)
+
+  @15
+goto @21
+
+  @16
+goto_unless (intF[802] > 295 && intF[802] < 345 && intF[803] > 295 && intF[803] < 345) @19
+goto_unless (intGb[1] == 1 || intGb[2] == 1) @17
+intA[300] = 5
+MouseCursor (1)
+goto @18
+
+  @17
+intA[300] = 0
+MouseCursor (0)
+
+  @18
+goto @21
+
+  @19
+goto_unless (intF[802] > 530 && intF[802] < 600 && intF[803] > 420 && intF[803] < 440) @20
+intA[300] = 6
+MouseCursor (1)
+goto @21
+
+  @20
+MouseCursor (0)
+intA[300] = 0
+
+  @21
+goto_unless (intA[300] != intA[301] && intA[300] >= 0) @22
+goto_unless (intA[300]) @22
+wavPlay ('_SELECT')
+
+  @22
+goto_unless (intA[300] != intA[301]) @37
+DrawManual
+goto_case intA[301] { 1: @23; 2: @24; 3: @25; 4: @26; 5: @27; 6: @28; _: @29 }
+
+  @23
+grpMaskCopy (285, 205, 355, 275, 3, 285, 205, 0)
+goto @29
+
+  @24
+grpMaskCopy (192, 205, 262, 275, 3, 192, 205, 0)
+goto @29
+
+  @25
+grpMaskCopy (380, 205, 450, 275, 3, 380, 205, 0)
+goto @29
+
+  @26
+grpMaskCopy (285, 125, 355, 195, 3, 285, 125, 0)
+goto @29
+
+  @27
+grpMaskCopy (285, 285, 355, 355, 3, 285, 285, 0)
+goto @29
+
+  @28
+grpMaskCopy (530, 420, 600, 440, 3, 530, 420, 0)
+goto @29
+
+  @29
+goto_case intA[300] { 1: @30; 2: @31; 3: @32; 4: @33; 5: @34; 6: @35; _: @36 }
+
+  @30
+grpMaskCopy (285, 205, 355, 275, 4, 285, 205, 0)
+goto @36
+
+  @31
+grpMaskCopy (192, 205, 262, 275, 4, 192, 205, 0)
+goto @36
+
+  @32
+grpMaskCopy (380, 205, 450, 275, 4, 380, 205, 0)
+goto @36
+
+  @33
+grpMaskCopy (285, 125, 355, 195, 4, 285, 125, 0)
+goto @36
+
+  @34
+grpMaskCopy (285, 285, 355, 355, 4, 285, 285, 0)
+goto @36
+
+  @35
+grpMaskCopy (530, 420, 600, 440, 4, 530, 420, 0)
+goto @36
+
+  @36
+DrawAuto
+refresh
+intA[301] = intA[300]
+
+  @37
+goto_unless (intF[801] == 2) @38
+wavPlay ('_KETTEI')
+FlushClick
+intA[302] = -99
+bgmFadeOut (700)
+goto @42
+
+  @38
+goto_unless (intF[800] == 1) @39
+goto_unless (intA[302] == -99) @39
+intA[302] = intA[300]
+
+  @39
+goto_unless (intF[800] == 2) @41
+goto_unless (intA[300] == intA[302] && intA[300] > 0) @40
+gosub @43
+goto @42
+goto @41
+
+  @40
+FlushClick
+intA[302] = -99
+
+  @41
+op<1:Sys:00001, 0>
+goto @4
+
+  @42
+ret
+
+  @43
+intA[304] = 0
+goto_case intA[301] { -3: @44; -2: @45; -1: @46; 0: @47; 1: @48; 2: @49; 3: @50; 4: @51; 5: @52; 6: @53; _: @54 }
+
+  @44
+goto @54
+
+  @45
+goto @54
+
+  @46
+goto @54
+
+  @47
+goto @54
+
+  @48
+intA[304] = 1
+gosub @55
+wavPlay ('_KETTEI')
+bgmFadeOut (700)
+farcall (601)
+goto @54
+
+  @49
+wavPlay ('_KETTEI')
+intA[304] = 1
+gosub @55
+bgmFadeOut (700)
+farcall (602)
+goto @54
+
+  @50
+intA[304] = 1
+gosub @55
+wavPlay ('_KETTEI')
+bgmFadeOut (700)
+farcall (603)
+goto @54
+
+  @51
+wavPlay ('_KETTEI')
+intA[304] = 1
+gosub @55
+bgmFadeOut (700)
+farcall (604)
+goto @54
+
+  @52
+wavPlay ('_KETTEI')
+intA[304] = 1
+gosub @55
+bgmFadeOut (700)
+farcall (605)
+goto @54
+
+  @53
+wavPlay ('_KETTEI')
+gosub @55
+bgmFadeOut (700)
+goto @54
+
+  @54
+ret
+
+  @55
+FlushClick
+MouseCursor (0)
+EnableSyscom
+EnableSyscom (0)
+EnableSyscom (1)
+EnableSyscom (28)
+TextWindow (0)
+ret
+eof
+halt

@@ -1,0 +1,328 @@
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0605.TXT'
+#resource 'SEEN0605.utf'
+
+#entrypoint 000
+title (#res<0000>)
+op<1:060:00001, 0> (244)
+bgmLoop ('BGM02')
+grpOpenBg ('RBG_AN01', 2)
+#res<0001>
+pause
+#res<0002>
+par
+#res<0003>
+par
+#res<0004>
+pause
+#res<0005>
+par
+#res<0006>
+par
+#res<0007>
+pause
+#res<0008>
+par
+#res<0009>
+par
+#res<0010>
+pause
+#res<0011>
+par
+#res<0012>
+par
+#res<0013>
+pause
+#res<0014>
+par
+#res<0015>
+pause
+#res<0016>
+par
+#res<0017>
+par
+#res<0018>
+pause
+#res<0019>
+par
+#res<0020>
+par
+#res<0021>
+pause
+#res<0022>
+par
+#res<0023>
+par
+#res<0024>
+pause
+#res<0025>
+par
+#res<0026>
+pause
+#res<0027>
+par
+#res<0028>
+pause
+#res<0029>
+par
+#res<0030>
+pause
+#res<0031>
+par
+#res<0032>
+par
+#res<0033>
+par
+#res<0034>
+pause
+#res<0035>
+par
+#res<0036>
+pause
+#res<0037>
+par
+#res<0038>
+par
+#res<0039>
+pause
+#res<0040>
+par
+#res<0041>
+pause
+#res<0042>
+par
+#res<0043>
+par
+#res<0044>
+pause
+#res<0045>
+par
+#res<0046>
+pause
+#res<0047>
+par
+#res<0048>
+pause
+#res<0049>
+par
+#res<0050>
+par
+#res<0051>
+par
+#res<0052>
+pause
+#res<0053>
+par
+#res<0054>
+par
+#res<0055>
+pause
+#res<0056>
+par
+#res<0057>
+pause
+#res<0058>
+par
+#res<0059>
+par
+#res<0060>
+pause
+#res<0061>
+par
+#res<0062>
+par
+#res<0063>
+pause
+#res<0064>
+par
+#res<0065>
+pause
+#res<0066>
+par
+#res<0067>
+par
+#res<0068>
+par
+#res<0069>
+pause
+#res<0070>
+par
+#res<0071>
+par
+#res<0072>
+par
+#res<0073>
+pause
+#res<0074>
+par
+#res<0075>
+par
+#res<0076>
+pause
+#res<0077>
+par
+#res<0078>
+par
+#res<0079>
+pause
+#res<0080>
+par
+#res<0081>
+pause
+#res<0082>
+par
+#res<0083>
+par
+#res<0084>
+par
+#res<0085>
+pause
+#res<0086>
+par
+#res<0087>
+par
+#res<0088>
+pause
+#res<0089>
+par
+#res<0090>
+pause
+#res<0091>
+par
+#res<0092>
+par
+#res<0093>
+pause
+#res<0094>
+par
+#res<0095>
+pause
+#res<0096>
+par
+#res<0097>
+par
+#res<0098>
+pause
+#res<0099>
+par
+#res<0100>
+pause
+#res<0101>
+par
+#res<0102>
+par
+#res<0103>
+pause
+#res<0104>
+par
+#res<0105>
+pause
+#res<0106>
+par
+#res<0107>
+par
+#res<0108>
+pause
+#res<0109>
+par
+#res<0110>
+par
+#res<0111>
+pause
+#res<0112>
+par
+#res<0113>
+pause
+#res<0114>
+par
+#res<0115>
+pause
+#res<0116>
+par
+#res<0117>
+par
+#res<0118>
+pause
+bgmFadeOut (5000)
+#res<0119>
+pause
+#res<0120>
+pause
+waitC (2000)
+msgHide
+HideSyscom
+waitC (2000)
+ResetTimer
+bgmPlay ('BGM01')
+grpOpenBg ('RBG_KURO', 2)
+time (4500)
+ResetTimer
+grpOpenBg ('TE_01', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_02', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_03', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_04', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_05', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_06', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_07', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_08', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_09', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_10', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_11', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_12', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_13', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_14', 2)
+ResetTimer
+time (6000)
+grpOpenBg ('TE_15', 2)
+ResetTimer
+time (5500)
+grpOpenBg ('TE_16', 2)
+ResetTimer
+time (3500)
+grpOpenBg ('TE_17', 2)
+ResetTimer
+time (3500)
+grpOpenBg ('TE_18', 2)
+ResetTimer
+time (4500)
+grpOpenBg ('TE_19', 2)
+ResetTimer
+time (1000)
+grpOpenBg ('TE_20', 2)
+ResetTimer
+time (1500)
+grpOpenBg ('TE_21', 2)
+ResetTimer
+time (6500)
+grpOpenBg ('TE_22', 2)
+ResetTimer
+MenuReturn
+eof
+halt

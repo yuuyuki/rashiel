@@ -1,0 +1,61 @@
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0108.TXT'
+#resource 'SEEN0108.utf'
+
+#entrypoint 000
+title (#res<0000>)
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_DY04', 2)
+waitC (2000)
+op<1:060:00001, 0> (244)
+grpOpenBg ('RBG_KURO', 2)
+waitC (2000)
+goto_unless (intB[1] == 1) @1
+goto @7
+
+  @1
+goto_unless (intF[12] == 5) @2
+goto @8
+
+  @2
+goto_unless (intB[5] == 1) @3
+goto @9
+
+  @3
+goto_unless (intB[3] == 1 && intF[3] == 15 && intF[1] < 1 && intGb[0] == 1) @4
+goto @10
+
+  @4
+goto_unless (intB[4] == 1) @5
+goto @11
+
+  @5
+goto_unless (intF[11] >= 2 && intF[11] <= 4) @6
+goto @12
+
+  @6
+goto @13
+
+  @7
+jump (300)
+
+  @8
+jump (400)
+
+  @9
+jump (201)
+
+  @10
+jump (500)
+
+  @11
+jump (550)
+
+  @12
+jump (203)
+
+  @13
+jump (202)
+eof
+halt

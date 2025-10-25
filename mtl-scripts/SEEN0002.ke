@@ -1,0 +1,680 @@
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0002.TXT'
+#resource 'SEEN0002.utf'
+
+#entrypoint 000
+title (#res<0000>)
+
+  @1
+title (#res<0001>)
+goto_unless (!intA[320]) @2
+bgmStop
+goto @3
+
+  @2
+intA[320] = 0
+
+  @3
+stackClear
+movStop
+koeStop
+CallStackClear
+FlushClick
+HideSyscom
+gosub @70
+grpBuffer ('S_MENU00', 3)
+grpBuffer ('S_MENU01', 4)
+goto_unless (intGb[111] == 1 || intGb[112] == 1 || intGb[113] == 1 || intGb[114] == 1 || intGb[115] == 1 || intGb[116] == 1) @4
+intGb[140] = 1
+
+  @4
+goto_unless (intGb[121] == 1 || intGb[122] == 1 || intGb[123] == 1 || intGb[124] == 1 || intGb[125] == 1 || intGb[126] == 1) @5
+intGb[141] = 1
+
+  @5
+goto_unless (intGb[131] == 1 || intGb[132] == 1 || intGb[133] == 1 || intGb[134] == 1 || intGb[135] == 1 || intGb[136] == 1) @6
+intGb[142] = 1
+
+  @6
+goto_unless (intGb[1] == 1 || intGb[2] == 1 || intGb[3] == 1) @7
+intGb[0] = 1
+
+  @7
+goto_unless (intGb[140] == 1 || intGb[141] == 1 || intGb[142] == 1) @8
+intGb[12] = 1
+
+  @8
+goto_unless (intGb[1] == 1 && intGb[2] == 1 && intGb[3] == 1) @9
+intGb[11] = 1
+
+  @9
+intA[311] = LatestSave
+goto_unless (intA[311] >= 0) @10
+intE[2] = 1
+
+  @10
+bgmLoop ('BGM02')
+grpCopy (3, 2)
+grpDisplay (2, 0, 0, 639, 479, 0, 0, 300, 0, 0, 0, 0, 0, 0, 0, 255, 0)
+objDriftOfFile (250, 'HANE02', 1)
+objDriftOpts (250, 2, 2, 0, 2, 5000, 4000, 3000, 600, 2, 2, 6000, -1, -1, -1, -1)
+objDriftOfFile (249, 'HANE03', 1)
+objDriftOpts (249, 3, 1, 0, 3, 1500, 4000, 3000, 600, 2, 2, 6000, -1, -1, -1, -1)
+objDriftOfFile (248, 'HANE04', 1)
+objDriftOpts (248, 1, 2, 0, 1, 1000, 4000, 3000, 1600, 2, 2, 6000, -1, -1, -1, -1)
+TextWindow (0)
+
+  @11
+FlushClick
+intA[300] = -99
+intA[301] = -99
+intA[302] = -99
+
+  @12
+GetCursorPos (intF[802], intF[803], intF[800], intF[801])
+intA[300] = -1
+goto_unless (intF[802] > 435 && intF[802] < 565 && intF[803] > 170 && intF[803] < 205) @13
+intA[300] = 1
+MouseCursor (1)
+goto @31
+
+  @13
+goto_unless (intF[802] > 435 && intF[802] < 565 && intF[803] > 205 && intF[803] < 238) @16
+goto_unless (intE[2] == 1) @14
+intA[300] = 2
+MouseCursor (1)
+goto @15
+
+  @14
+intA[300] = 0
+MouseCursor (0)
+
+  @15
+goto @31
+
+  @16
+goto_unless (intF[802] > 435 && intF[802] < 565 && intF[803] > 238 && intF[803] < 273) @17
+intA[300] = 3
+MouseCursor (1)
+goto @31
+
+  @17
+goto_unless (intF[802] > 435 && intF[802] < 565 && intF[803] > 273 && intF[803] < 305) @20
+goto_unless (intGb[0] == 1) @18
+intA[300] = 4
+MouseCursor (1)
+goto @19
+
+  @18
+intA[300] = 0
+MouseCursor (0)
+
+  @19
+goto @31
+
+  @20
+goto_unless (intF[802] > 435 && intF[802] < 565 && intF[803] > 305 && intF[803] < 340) @23
+goto_unless (intGb[0] == 1) @21
+intA[300] = 5
+MouseCursor (1)
+goto @22
+
+  @21
+intA[300] = 0
+MouseCursor (0)
+
+  @22
+goto @31
+
+  @23
+goto_unless (intF[802] > 435 && intF[802] < 565 && intF[803] > 340 && intF[803] < 370) @26
+goto_unless (intGb[0] == 1) @24
+intA[300] = 6
+MouseCursor (1)
+goto @25
+
+  @24
+intA[300] = 0
+MouseCursor (0)
+
+  @25
+goto @31
+
+  @26
+goto_unless (intF[802] > 435 && intF[802] < 565 && intF[803] > 370 && intF[803] < 405) @29
+goto_unless (intGb[0] == 1) @27
+intA[300] = 7
+MouseCursor (1)
+goto @28
+
+  @27
+intA[300] = 0
+MouseCursor (0)
+
+  @28
+goto @31
+
+  @29
+goto_unless (intF[802] > 435 && intF[802] < 565 && intF[803] > 420 && intF[803] < 455) @30
+intA[300] = 8
+MouseCursor (1)
+goto @31
+
+  @30
+MouseCursor (0)
+intA[300] = 0
+
+  @31
+goto_unless (intA[300] != intA[301] && intA[300] >= 0) @32
+goto_unless (intA[300]) @32
+wavPlay ('_SELECT')
+
+  @32
+goto_unless (intA[300] != intA[301]) @51
+DrawManual
+goto_case intA[301] { 1: @33; 2: @34; 3: @35; 4: @36; 5: @37; 6: @38; 7: @39; 8: @40; _: @41 }
+
+  @33
+grpCopy (400, 170, 640, 205, 3, 400, 170, 0)
+goto @41
+
+  @34
+grpCopy (400, 205, 640, 238, 3, 400, 205, 0)
+goto @41
+
+  @35
+grpCopy (400, 238, 640, 273, 3, 400, 238, 0)
+goto @41
+
+  @36
+grpCopy (400, 273, 640, 305, 3, 400, 273, 0)
+goto @41
+
+  @37
+grpCopy (400, 305, 640, 340, 3, 400, 305, 0)
+goto @41
+
+  @38
+grpCopy (400, 340, 640, 370, 3, 400, 340, 0)
+goto @41
+
+  @39
+grpCopy (400, 370, 640, 405, 3, 400, 370, 0)
+goto @41
+
+  @40
+grpCopy (400, 420, 640, 455, 3, 400, 420, 0)
+goto @41
+
+  @41
+goto_case intA[300] { 1: @42; 2: @43; 3: @44; 4: @45; 5: @46; 6: @47; 7: @48; 8: @49; _: @50 }
+
+  @42
+grpCopy (400, 170, 640, 205, 4, 400, 170, 0)
+goto @50
+
+  @43
+grpCopy (400, 205, 640, 238, 4, 400, 205, 0)
+goto @50
+
+  @44
+grpCopy (400, 238, 640, 273, 4, 400, 238, 0)
+goto @50
+
+  @45
+grpCopy (400, 273, 640, 305, 4, 400, 273, 0)
+goto @50
+
+  @46
+grpCopy (400, 305, 640, 340, 4, 400, 305, 0)
+goto @50
+
+  @47
+grpCopy (400, 340, 640, 370, 4, 400, 340, 0)
+goto @50
+
+  @48
+grpCopy (400, 370, 640, 405, 4, 400, 370, 0)
+goto @50
+
+  @49
+grpCopy (400, 420, 640, 455, 4, 400, 420, 0)
+goto @50
+
+  @50
+DrawAuto
+intA[301] = intA[300]
+
+  @51
+refresh
+goto_unless (intF[800] == 1) @52
+goto_unless (intA[302] == -99) @52
+intA[302] = intA[300]
+
+  @52
+goto_unless (intF[800] == 2) @54
+goto_unless (intA[300] == intA[302] && intA[300] > 0) @53
+gosub @55
+goto @54
+
+  @53
+FlushClick
+intA[302] = -99
+
+  @54
+op<1:Sys:00001, 0>
+goto @12
+
+  @55
+op<1:060:00100, 0>
+goto_case intA[301] { -3: @56; -2: @57; -1: @58; 0: @59; 1: @60; 2: @61; 3: @62; 4: @63; 5: @64; 6: @65; 7: @66; 8: @67; _: @68 }
+
+  @56
+goto @69
+
+  @57
+goto @69
+
+  @58
+goto @69
+
+  @59
+goto @69
+
+  @60
+wavPlay ('_KETTEI')
+bgmFadeOut (700)
+stackClear
+EnableSyscom
+EnableSyscom (0)
+EnableSyscom (1)
+EnableSyscom (28)
+jump (100)
+goto @69
+
+  @61
+wavPlay ('_KETTEI')
+intA[320] = 1
+intA[321] = 1
+farcall (10, 1)
+goto @1
+goto @69
+
+  @62
+wavPlay ('_KETTEI')
+intA[320] = 1
+intA[321] = 1
+farcall (20)
+goto @1
+goto @69
+
+  @63
+wavPlay ('_KETTEI')
+bgmFadeOut (700)
+farcall (30)
+goto @1
+goto @69
+
+  @64
+wavPlay ('_KETTEI')
+bgmFadeOut (700)
+farcall (40)
+goto @1
+goto @69
+
+  @65
+wavPlay ('_KETTEI')
+bgmFadeOut (700)
+farcall (50)
+goto @1
+goto @69
+
+  @66
+wavPlay ('_KETTEI')
+bgmFadeOut (700)
+farcall (60)
+goto @1
+goto @69
+
+  @67
+wavPlay ('_KETTEI')
+bgmFadeOut (1000)
+grpFade (0, 0, 0, 1000)
+ResetTimer
+time (1000)
+end
+goto @69
+
+  @68
+goto @11
+goto @69
+
+  @69
+
+  @70
+intD[1] = 6
+strS[410] = 'REV1_01A'
+strS[411] = 'REV1_01B'
+strS[412] = 'REV1_01C'
+strS[413] = 'REV1_01D'
+strS[414] = 'REV1_01E'
+strS[415] = 'REV1_01F'
+intD[2] = 2
+strS[420] = 'REV1_03A'
+strS[421] = 'REV1_03B'
+intD[3] = 5
+strS[430] = 'REV1_03C'
+strS[431] = 'REV1_03D'
+strS[432] = 'REV1_03E'
+strS[433] = 'REV1_03F'
+strS[434] = 'REV1_03G'
+intD[4] = 3
+strS[440] = 'REV1_04A'
+strS[441] = 'REV1_04B'
+strS[442] = 'REV1_04C'
+intD[5] = 4
+strS[450] = 'REV1_18D'
+strS[451] = 'REV1_18E'
+strS[452] = 'REV1_18F'
+strS[453] = 'REV1_18C'
+intD[6] = 5
+strS[460] = 'REV1_05A'
+strS[461] = 'REV1_05B'
+strS[462] = 'REV1_05J'
+strS[463] = 'REV1_05K'
+strS[464] = 'REV1_05L'
+intD[7] = 1
+strS[470] = 'RBG_AN01'
+intD[8] = 9
+strS[480] = 'REV1_06G'
+strS[481] = 'REV1_06I'
+strS[482] = 'REV1_06M'
+strS[483] = 'REV1_06E'
+strS[484] = 'REV1_06C'
+strS[485] = 'REV1_06F'
+strS[486] = 'REV1_06A'
+strS[487] = 'REV1_06B'
+strS[488] = 'REV1_06D'
+intD[9] = 3
+strS[490] = 'REV1_07A'
+strS[491] = 'REV1_07B'
+strS[492] = 'REV1_07C'
+intD[10] = 5
+strS[500] = 'REV1_15B'
+strS[501] = 'REV1_15C'
+strS[502] = 'REV1_15D'
+strS[503] = 'REV1_15E'
+strS[504] = 'REV1_15F'
+intD[11] = 2
+strS[510] = 'REV1_13A'
+strS[511] = 'REV1_13B'
+intD[12] = 4
+strS[520] = 'REV1_08A'
+strS[521] = 'REV1_08B'
+strS[522] = 'REV1_08C'
+strS[523] = 'REV1_08D'
+intD[13] = 3
+strS[530] = 'REV1_09A'
+strS[531] = 'REV1_09B'
+strS[532] = 'REV1_09C'
+intD[14] = 6
+strS[540] = 'REV1_10A'
+strS[541] = 'REV1_10B'
+strS[542] = 'REV1_10C'
+strS[543] = 'REV1_10D'
+strS[544] = 'REV1_10E'
+strS[545] = 'REV1_10F'
+intD[15] = 6
+strS[550] = 'REV1_11A'
+strS[551] = 'REV1_11B'
+strS[552] = 'REV1_11C'
+strS[553] = 'REV1_11D'
+strS[554] = 'REV1_11E'
+strS[555] = 'REV1_11F'
+intD[16] = 2
+strS[560] = 'REV1_12A'
+strS[561] = 'REV1_12B'
+intD[17] = 4
+strS[570] = 'REV1_12E'
+strS[571] = 'REV1_12F'
+strS[572] = 'REV1_12G'
+strS[573] = 'REV1_12H'
+intD[18] = 2
+strS[580] = 'REV1_16A'
+strS[581] = 'REV1_16B'
+intD[19] = 2
+strS[590] = 'REV1_17A'
+strS[591] = 'REV1_17B'
+intD[20] = 4
+strS[600] = 'REV1_19A'
+strS[601] = 'REV1_19B'
+strS[602] = 'REV1_19C'
+strS[603] = 'REV1_19D'
+intD[21] = 3
+strS[610] = 'REV1_19I'
+strS[611] = 'REV1_19K'
+strS[612] = 'REV1_19L'
+intD[22] = 1
+strS[620] = 'REV1_20Z'
+intD[23] = 2
+strS[630] = 'REV1_20A'
+strS[631] = 'REV1_20H'
+intD[24] = 4
+strS[640] = 'REV1_20J'
+strS[641] = 'REV1_20M'
+strS[642] = 'REV1_20N'
+strS[643] = 'REV1_20O'
+intD[25] = 5
+strS[650] = 'REV1_20P'
+strS[651] = 'REV1_20R'
+strS[652] = 'REV1_20T'
+strS[653] = 'REV1_20U'
+strS[654] = 'REV1_20V'
+intD[26] = 3
+strS[660] = 'REV1_20W'
+strS[661] = 'REV1_20Y'
+strS[662] = 'REV1_20X'
+intD[27] = 6
+strS[670] = 'REV1_21A'
+strS[671] = 'REV1_21I'
+strS[672] = 'REV1_21J'
+strS[673] = 'REV1_21K'
+strS[674] = 'REV1_21L'
+strS[675] = 'REV1_21M'
+intD[28] = 2
+strS[680] = 'REV1_21N'
+strS[681] = 'REV1_21O'
+intD[29] = 2
+strS[690] = 'REV1_21Q'
+strS[691] = 'REV1_21R'
+intD[30] = 7
+strS[700] = 'REV1_22A'
+strS[701] = 'REV1_22B'
+strS[702] = 'REV1_22C'
+strS[703] = 'REV1_22D'
+strS[704] = 'REV1_22E'
+strS[705] = 'REV1_22F'
+strS[706] = 'REV1_22H'
+intD[31] = 4
+strS[710] = 'REV1_23A'
+strS[711] = 'REV1_23B'
+strS[712] = 'REV1_23C'
+strS[713] = 'REV1_23D'
+intD[32] = 5
+strS[720] = 'REV1_24A'
+strS[721] = 'REV1_24B'
+strS[722] = 'REV1_24C'
+strS[723] = 'REV1_24D'
+strS[724] = 'REV1_24E'
+intD[33] = 4
+strS[730] = 'REV2_01A'
+strS[731] = 'REV2_01C'
+strS[732] = 'REV2_01D'
+strS[733] = 'REV2_01E'
+intD[34] = 3
+strS[740] = 'REV2_11A'
+strS[741] = 'REV2_11B'
+strS[742] = 'REV2_11C'
+intD[35] = 3
+strS[750] = 'REV2_02A'
+strS[751] = 'REV2_02B'
+strS[752] = 'REV2_02C'
+intD[36] = 3
+strS[760] = 'REV2_02D'
+strS[761] = 'REV2_02E'
+strS[762] = 'REV2_02F'
+intD[37] = 2
+strS[770] = 'REV2_10A'
+strS[771] = 'REV2_10B'
+intD[38] = 9
+strS[780] = 'REV2_03A'
+strS[781] = 'REV2_03B'
+strS[782] = 'REV2_03C'
+strS[783] = 'REV2_03D'
+strS[784] = 'REV2_03E'
+strS[785] = 'REV2_03F'
+strS[786] = 'REV2_03G'
+strS[787] = 'REV2_03H'
+strS[788] = 'REV2_03I'
+intD[39] = 5
+strS[790] = 'REV2_04A'
+strS[791] = 'REV2_04B'
+strS[792] = 'REV2_04C'
+strS[793] = 'REV2_04D'
+strS[794] = 'REV2_04E'
+intD[40] = 5
+strS[800] = 'REV2_05A'
+strS[801] = 'REV2_05B'
+strS[802] = 'REV2_05C'
+strS[803] = 'REV2_05D'
+strS[804] = 'REV2_05E'
+intD[41] = 9
+strS[810] = 'REV2_06A'
+strS[811] = 'REV2_06B'
+strS[812] = 'REV2_06C'
+strS[813] = 'REV2_06D'
+strS[814] = 'REV2_06E'
+strS[815] = 'REV2_06F'
+strS[816] = 'REV2_06G'
+strS[817] = 'REV2_06H'
+strS[818] = 'REV2_06I'
+intD[42] = 1
+strS[820] = 'REV2_06J'
+intD[43] = 2
+strS[830] = 'REV2_07A'
+strS[831] = 'REV2_07B'
+intD[44] = 2
+strS[840] = 'REV2_07C'
+strS[841] = 'REV2_07D'
+intD[45] = 8
+strS[850] = 'REV2_08A'
+strS[851] = 'REV2_08B'
+strS[852] = 'REV2_08C'
+strS[853] = 'REV2_08D'
+strS[854] = 'REV2_08E'
+strS[855] = 'REV2_08F'
+strS[856] = 'REV2_08G'
+strS[857] = 'REV2_08H'
+intD[46] = 3
+strS[860] = 'REV2_09A'
+strS[861] = 'REV2_09B'
+strS[862] = 'REV2_09C'
+intD[47] = 4
+strS[870] = 'REV3_01A'
+strS[871] = 'REV3_01B'
+strS[872] = 'REV3_01C'
+strS[873] = 'REV3_01D'
+intD[48] = 3
+strS[880] = 'REV3_02A'
+strS[881] = 'REV3_02B'
+strS[882] = 'REV3_02C'
+intD[49] = 1
+strS[890] = 'REV3_10'
+intD[50] = 5
+strS[900] = 'REV3_03A'
+strS[901] = 'REV3_03B'
+strS[902] = 'REV3_03C'
+strS[903] = 'REV3_03D'
+strS[904] = 'REV3_03E'
+intD[51] = 2
+strS[910] = 'REV3_04A'
+strS[911] = 'REV3_04B'
+intD[52] = 4
+strS[920] = 'REV3_04C'
+strS[921] = 'REV3_04D'
+strS[922] = 'REV3_04E'
+strS[923] = 'REV3_04F'
+intD[53] = 2
+strS[930] = 'REV3_05A'
+strS[931] = 'REV3_05B'
+intD[54] = 7
+strS[940] = 'REV3_07A'
+strS[941] = 'REV3_07B'
+strS[942] = 'REV3_07E'
+strS[943] = 'REV3_07F'
+strS[944] = 'REV3_07G'
+strS[945] = 'REV3_07H'
+strS[946] = 'REV3_07I'
+intD[55] = 6
+strS[950] = 'REV3_07C'
+strS[951] = 'REV3_07D'
+strS[952] = 'REV3_07J'
+strS[953] = 'REV3_07K'
+strS[954] = 'REV3_07L'
+strS[955] = 'REV3_07M'
+intD[56] = 4
+strS[960] = 'REV3_08A'
+strS[961] = 'REV3_08B'
+strS[962] = 'REV3_08C'
+strS[963] = 'REV3_08D'
+intD[57] = 4
+strS[970] = 'REV3_08E'
+strS[971] = 'REV3_08F'
+strS[972] = 'REV3_08G'
+strS[973] = 'REV3_08H'
+intD[58] = 4
+strS[980] = 'REV3_08I'
+strS[981] = 'REV3_08J'
+strS[982] = 'REV3_08K'
+strS[983] = 'REV3_08L'
+intD[59] = 2
+strS[990] = 'REV3_09A'
+strS[991] = 'REV3_09B'
+intD[60] = 2
+strS[1000] = 'REV3_09C'
+strS[1001] = 'REV3_09D'
+intD[61] = 2
+strS[1010] = 'REV3_09E'
+strS[1011] = 'REV3_09F'
+intD[62] = 4
+strS[1020] = 'REV4_01A'
+strS[1021] = 'REV4_01B'
+strS[1022] = 'REV4_01C'
+strS[1023] = 'REV4_01D'
+intD[63] = 1
+strS[1030] = 'REV4_02'
+intD[81] = 2
+strS[1210] = 'TEST01G'
+strS[1211] = 'TEST01_0'
+intF[0] = 0
+
+  @71
+goto_unless (intF[0] < 810) @72
+intC[410 + intF[0]] = 1010 + intF[0]
+intF[0] += 1
+goto @71
+
+  @72
+intF[0] = 0
+
+  @73
+goto_unless (intF[0] < 81) @74
+intC[410 + intF[0] * 10] = intF[0] + 1
+intF[0] += 1
+goto @73
+
+  @74
+ret
+eof
+halt

@@ -1,0 +1,11 @@
+{-# cp utf8 #- Disassembled with Kprl 1.40 -}
+
+#file 'SEEN0800.TXT'
+
+#entrypoint 000
+intF[100] = 0
+intF[101] = 0
+intF[102] = 0
+rtl
+eof
+halt
