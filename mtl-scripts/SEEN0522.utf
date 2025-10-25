@@ -1,9 +1,9 @@
 // Resources for SEEN0522.TXT
 
 #character '[Rei]'
-#character '［Takami］'
+#character '[Takami]'
 
-<0000> \{［伶］}
+<0000> \{[Rei]}
 <0001> "Yeah, that's not bad either.
 <0002> \ Then I'll ask you to show me around.
 <0003> \ Oh... don't forget the basket."
@@ -20,12 +20,12 @@
 <0014> \{[Takami]}
 <0015> "Hey, Rei... don't you feel a little empty?
 <0016> \ Two guys walking through the forest with a basket in hand, huh?
-<0017> \{［伶］}
+<0017> \{[Rei]}
 <0018> "--A little."
 <0019> \{[Takami]}
 <0020> "You know... you're harassing me with your body like that,
 <0021> \ There's no need to go to the trouble..."
-<0022> \{［伶］}
+<0022> \{[Rei]}
 <0023> "It's fine. Whatever the faces,
 <0024> \ It's nice to walk through the forest at this time of day.
 <0025> \ I'm having a lot more fun than I thought I would.
@@ -44,7 +44,7 @@
 <0038> He turned to Rei and said.
 <0039> \{[Takami]}
 <0040> "Hey, Rei. Do you remember this place?"
-<0041> \{［伶］}
+<0041> \{[Rei]}
 <0042> "...No. This is my first time around here.
 <0043> \ I don't remember.
 <0044> \{[Takami]}
@@ -54,14 +54,14 @@
 <0048> He begins walking away with rough steps, his anger clearly evident.
 <0049> As I followed Takami's back as he left with his shoulders hunched in anger,
 <0050> Rei frowned at the outburst of anger, the cause of which was unclear.
-<0051> \{［伶］}
+<0051> \{[Rei]}
 <0052> "--Takami. What have you been angry about all this time?"
 <0053> \{[Takami]}
 <0054> "…………Nothing. Nothing!"
-<0055> \{［伶］}
+<0055> \{[Rei]}
 <0056> "You're showing me such a sulky attitude,
 <0057> \ There's no such thing as "nothing," right?"
-<0058> \{［伶］}
+<0058> \{[Rei]}
 <0059> "What's wrong? I can't believe I made you carry the basket.
 <0060> \ Are you still angry?
 <0061> \{[Takami]}
@@ -72,16 +72,16 @@
 <0066> \ I don't want to talk about anything right now."
 <0067> \{[Takami]}
 <0068> "Sorry. Forget it."
-<0069> \{［伶］}
+<0069> \{[Rei]}
 <0070> "--Is that so? Then I won't ask."
-<0071> \{［伶］}
+<0071> \{[Rei]}
 <0072> "By the way, regarding the matter of having them carry baskets,
 <0073> \ Are you really not angry?
 <0074> \{[Takami]}
 <0075> "Oh, well... it's a little embarrassing,
 <0076> \ This doesn't make me grumpy.
 <0077> \ And I like the sweets inside..."
-<0078> \{［伶］}
+<0078> \{[Rei]}
 <0079> "...This cake?"
 <0080> \{[Takami]}
 <0081> "These sweets that Marie forced you to have,
@@ -89,7 +89,7 @@
 <0083> \{[Takami]}
 <0084> "When Marie brought out this candy before,
 <0085> \ He remembered what I said."
-<0086> \{［伶］}
+<0086> \{[Rei]}
 <0087> "Wow, you're having that kind of conversation with Marie,
 <0088> \ Were you close to her?
 <0089> \ Has Marie been working for you for a long time?
@@ -107,7 +107,7 @@
 <0101> \{[Takami]}
 <0102> "Well, as you know,
 <0103> \ The only downside is that he's a bit careless..."
-<0104> \{［伶］}
+<0104> \{[Rei]}
 <0105> "...That's surprising. You think of Marie,
 <0106> \ You think very highly of it."
 <0107> \{[Takami]}
@@ -124,18 +124,18 @@
 <0118> "She has the proper consideration of a maid,
 <0119> \ Because I was a hardworking person,
 <0120> \ I felt like I could entrust him with a role that required meticulous attention to detail."
-<0121> \{［伶］}
+<0121> \{[Rei]}
 <0122> "......"
 <0123> \{[Takami]}
 <0124> "...What is it? Staring at people's faces.
 <0125> \ Is there something you want to say?
-<0126> \{［伶］}
+<0126> \{[Rei]}
 <0127> "...Once again, it was unexpected,
 <0128> \ You care about me and Nozomi much more than I thought.
 <0129> \ It seems like you were genuinely concerned about me."
 <0130> \{[Takami]}
 <0131> "--! It's not like that...!"
-<0132> \{［伶］}
+<0132> \{[Rei]}
 <0133> “There’s no need to be embarrassed. That’s a good attitude.
 <0134> I'm honestly happy about your feelings."
 <0135> \{[Takami]}
@@ -149,11 +149,11 @@
 <0143> I like it too
 <0144> I don't think anything in particular.
 <0145> ◇I like it too
-<0146> \{［伶］}
+<0146> \{[Rei]}
 <0147> "I like you too, Marie."
 <0148> \{[Takami]}
 <0149> "I see, that's good then."
-<0150> \{［伶］}
+<0150> \{[Rei]}
 <0151> "I think she's a caring girl,
 <0152> \ I don't think anything in particular..."
 <0153> \{[Takami]}
@@ -170,7 +170,7 @@
 <0164> Just like the forest, it was a quiet place with no people around.
 <0165> What you can hear even if you strain your ears
 <0166> The only sounds were the birds and the rustling of trees in the wind.
-<0167> \{［伶］}
+<0167> \{[Rei]}
 <0168> "...The view is nice, so let's take a rest here,
 <0169> \ Shall we have tea and some Marie cake?"
 <0170> Takami nodded in response to Rei's invitation.
@@ -185,7 +185,7 @@
 <0179> Rei stretched out her legs,
 <0180> I tried to shake off the reluctant desire to stay seated.
 <0181> I took a leap of faith and raised my hips.
-<0182> \{［伶］}
+<0182> \{[Rei]}
 <0183> "The sun is getting pretty high in the sky.
 <0184> \ Shall we go home now?
 <0185> \{[Takami]}
@@ -198,7 +198,7 @@
 <0192> "From here, it would be quicker to head straight for the mansion.
 <0193> \ You probably won't know the way,
 <0194> \ I'll take you straight to the mansion."
-<0195> \{［伶］}
+<0195> \{[Rei]}
 <0196> "That would be appreciated. Please guide me."
 <0197> Saying goodbye to the lake view,
 <0198> With Takami as their guide, the two of them walk through the forest towards the mansion.

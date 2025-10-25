@@ -1,6 +1,6 @@
 // Resources for SEEN0401.TXT
 
-#character '［Takami］'
+#character '[Takami]'
 #character '[Rei]'
 
 <0000> May 5th Takami Route
@@ -20,12 +20,12 @@
 <0014> I wondered if Takami would complain about something again.
 <0015> I feel a lot more tired after class, but there's nothing I can do about it.
 <0016> Rei sighed and stopped walking.
-<0017> \{［伶］}
+<0017> \{[Rei]}
 <0018> "...Takami, huh? Is there something I can help you with?"
 <0019> \{[Takami]}
 <0020> "Hey, I told you to call me "senpai" in public!
 <0021> \ As the dorm leader, this will be a disappointment to others!
-<0022> \{［伶］}
+<0022> \{[Rei]}
 <0023> "Right now, there's no one here except us.
 <0024> \ Then it doesn't matter, right?
 <0025> \{[Takami]}
@@ -34,7 +34,7 @@
 <0028> His eyes widened in shock.
 <0029> \{[Takami]}
 <0030> "...Hey, Rei, what happened to that usual thing?"
-<0031> \{［伶］}
+<0031> \{[Rei]}
 <0032> "The usual...?"
 <0033> \{[Takami]}
 <0034> "I'm talking about the silver tie pin you always wear.
@@ -51,12 +51,12 @@
 <0045> \{[Takami]}
 <0046> "You were wearing it when you left the dormitory this morning, right?
 <0047> \ --What on earth happened?"
-<0048> \{［伶］}
+<0048> \{[Rei]}
 <0049> "Ah... it's gone."
 <0050> \{[Takami]}
 <0051> "It's gone!? Hey, what's going on?
 <0052> \ Could it have been stolen by someone?
-<0053> \{［伶］}
+<0053> \{[Rei]}
 <0054> "...Maybe."
 <0055> Takami's words made Rei, who had just finished gym class and returned to the classroom,
 <0056> He looked at me with a nasty smile and a rude disdain.
@@ -71,16 +71,16 @@
 <0065> "Let's explain the situation to the teachers and have them check your belongings.
 <0066> \ Anyone who does something so ridiculous,
 <0067> \ I will definitely find him and punish him...!"
-<0068> \{［伶］}
+<0068> \{[Rei]}
 <0069> "Wait, Takami. Please don't make a fuss.
 <0070> \ Even though I lost it, it wasn't anything particularly valuable.
 <0071> \ I don't really care."
 <0072> \{[Takami]}
 <0073> "How stupid! That's your precious...!"
-<0074> \{［伶］}
+<0074> \{[Rei]}
 <0075> "As the owner, I don't mind if you lose it.
 <0076> \ There's no need for you to worry."
-<0077> \{［伶］}
+<0077> \{[Rei]}
 <0078> "There's nothing I'd be embarrassed to lose..."
 <0079> \{[Takami]}
 <0080> "......"
@@ -89,7 +89,7 @@
 <0083> He bowed his head and his shoulders shook.
 <0084> Takami remained silent without saying a word.
 <0085> Rei calls out, feeling suspicious.
-<0086> \{［伶］}
+<0086> \{[Rei]}
 <0087> "Takami? Are you listening?"
 <0088> \{[Takami]}
 <0089> "...Okay, do as you please! I don't care anymore."

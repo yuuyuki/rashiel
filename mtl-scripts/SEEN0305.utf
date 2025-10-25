@@ -2,9 +2,9 @@
 
 #character '[Rei]'
 #character '[Servant]'
-#character '［desire］'
+#character '[Nozomi]'
 #character '[Father]'
-#character '［Marie］'
+#character '[Marie]'
 
 <0000> May 9th Nozomi Route
 <0001> The glorious morning light,
@@ -41,7 +41,7 @@
 <0032> The gentle mountain path leading from the mansion
 <0033> As Takami had instructed, after walking for about fifteen minutes,
 <0034> The roofs of buildings appear beyond the rows of trees.
-<0035> \{［伶］}
+<0035> \{[Rei]}
 <0036> (Is that the annex where Takami is staying?)
 <0037> Soon we arrived at our destination, in front of the annex.
 <0038> It was used as one of the designs to decorate the gate.
@@ -49,7 +49,7 @@
 <0040> Soon, the dry voice of a female servant answers.
 <0041> \{[Servant]}
 <0042> "Who is this...?"
-<0043> \{［伶］}
+<0043> \{[Rei]}
 <0044> "This is Saiga, a relative of Takami.
 <0045> \ ...I brought something for him."
 <0046> \{[Servant]}
@@ -57,7 +57,7 @@
 <0048> \ Master is out today.
 <0049> \{[Servant]}
 <0050> "It looks like he'll be back in the afternoon..."
-<0051> \{［伶］}
+<0051> \{[Rei]}
 <0052> "I see. Well, it would be a hassle to come back here again, so
 <0053> \ Could you please look after my luggage?
 <0054> \{[Servant]}
@@ -67,7 +67,7 @@
 <0058> He pushed open the gate and appeared in front of Rei.
 <0059> \{[Servant]}
 <0060> "What luggage will you be entrusting to Master...?"
-<0061> \{［伶］}
+<0061> \{[Rei]}
 <0062> "Ah, this is it."
 <0063> To give me an excuse to visit the mansion,
 <0064> I picked out some random luggage and wrapped it up in my room.
@@ -75,7 +75,7 @@
 <0066> The maid held out her hand to receive the package.
 <0067> Rei placed it lightly in the palm of her hand,
 <0068> He gave me a gentle, polite smile.
-<0069> \{［伶］}
+<0069> \{[Rei]}
 <0070> "How many people work in this mansion?
 <0071> \ Knowing Takami, someone as cute as you,
 <0072> \ I guess they employ a lot of people?
@@ -90,24 +90,24 @@
 <0081> \{[Servant]}
 <0082> "No, no. The person working at this mansion is,
 <0083> \ I'm alone..."
-<0084> \{［伶］}
+<0084> \{[Rei]}
 <0085> "You're the only one...?"
 <0086> I focused my attention on the maid's hand that I had just touched,
 <0087> Rei uses her power to touch hearts.
 <0088> Immediately, Rei's vision lost all color.
 <0089> Only the sparkling fragments of light emitted by human thoughts,
 <0090> They flicker and twinkle, coloring the world.
-<0091> \{［伶］}
+<0091> \{[Rei]}
 <0092> "Oh, so you're going to have to cater to Takami's whims,
 <0093> \ That must be really hard."
-<0094> \{［伶］}
+<0094> \{[Rei]}
 <0095> "Takami likes to be neat,
 <0096> \ It doesn't seem like it would be easy to clean by yourself."
 <0097> \{[Servant]}
 <0098> "No, that's not true...!
 <0099> \ This mansion has very few rooms,
 <0100> \ It's not that hard."
-<0101> \{［伶］}
+<0101> \{[Rei]}
 <0102> "Yes - you're a capable maid."
 <0103> \{[Servant]}
 <0104> "Oh, no way..."
@@ -117,11 +117,11 @@
 <0108> To help the maid's thoughts focus on the information she needs,
 <0109> Talk to them while skillfully guiding them,
 <0110> Rei successfully obtained more detailed information than what was in the conversation.
-<0111> \{［伶］}
+<0111> \{[Rei]}
 <0112> (...Is that all?)
 <0113> Seeing that it was time, Rei easily let go of the maid,
 <0114> He steps back, still smiling politely.
-<0115> \{［伶］}
+<0115> \{[Rei]}
 <0116> "...Thank you.
 <0117> \ Please give my best regards to Takami.
 <0118> \{[Servant]}
@@ -134,26 +134,26 @@
 <0125> From the shade of the trees, I watched in the distance as the maid returned to the mansion.
 <0126> Be careful not to be seen,
 <0127> This time, we head back from the back to near Takami's Annex.
-<0128> \{［伶］}
+<0128> \{[Rei]}
 <0129> (From what I could tell from her, the simple security arrangement
 <0130> \ Looks like I can get in without any trouble...)
-<0131> \{［伶］}
+<0131> \{[Rei]}
 <0132> (Even so, that's strange.
 <0133> \ Immediately after using force, one often suffers from recoil,
 <0134> \ Strangely, I'm not suffering today...)
-<0135> \{［伶］}
+<0135> \{[Rei]}
 <0136> (In fact, I've already used it once,
 <0137> \ I still have plenty of strength left.
 <0138> \ At this rate, I think I can use my power a few more times--)
-<0139> \{［伶］}
+<0139> \{[Rei]}
 <0140> (Reading the memories left in the object,
 <0141> It seems that my power capacity has increased--)
-<0142> \{［伶］}
+<0142> \{[Rei]}
 <0143> (The cause of both of these is,
 <0144> \ Is it because I'm by Nozomi's side...?)
-<0145> \{［伶］}
+<0145> \{[Rei]}
 <0146> (…………)
-<0147> \{［伶］}
+<0147> \{[Rei]}
 <0148> (There's no point in thinking about it now.
 <0149> \ Let's hope we can get some information from Takami's room.)
 <0150> Rei shook off her doubts and
@@ -169,7 +169,7 @@
 <0160> Takami's room was so chaotic,
 <0161> Where on earth is something important hidden?
 <0162> It's hard to imagine at first glance.
-<0163> \{［伶］}
+<0163> \{[Rei]}
 <0164> (This... doesn't seem like it'll be easy...)
 <0165> Even if I use my newly acquired power,
 <0166> Ability is not unlimited.
@@ -178,7 +178,7 @@
 <0169> It's so much work that it takes up a lot of energy and time.
 <0170> In order for Rei to use her powers effectively,
 <0171> It seems that some narrowing down will be necessary.
-<0172> \{［伶］}
+<0172> \{[Rei]}
 <0173> (Right, first of all, Takami seems to have the most records,
 <0174> \ Let's start with that laptop.
 <0175> When you turn on the power and start up the laptop,
@@ -189,12 +189,12 @@
 <0180> Thinking this, Rei gently touched the keyboard,
 <0181> It seems to have been left there strongly,
 <0182> I tried to read fragments of memory.
-<0183> \{［伶］}
+<0183> \{[Rei]}
 <0184> (...This, huh...)
 <0185> The light flickers and scatters,
 <0186> In fragments of memory, most of which don't make any clear sense,
 <0187> I found the information I was looking for.
-<0188> \{［伶］}
+<0188> \{[Rei]}
 <0189> (That's the password...)
 <0190> After entering the password and the screen appears,
 <0191> I wondered if there was any important information left there.
@@ -235,7 +235,7 @@
 <0226> “R is now twelve years old and has been taken in by the Kujo residence.
 <0227> \ Outwardly, he looked no different from other boys his age.
 <0228> \ He has yet to show any signs of demonstrating his angelic powers.
-<0229> \{［伶］}
+<0229> \{[Rei]}
 <0230> "......"
 <0231> If you read that far,
 <0232> Who does the "R" that appears in the record refer to?
@@ -246,7 +246,7 @@
 <0237> It was a fact that Rei found hard to believe,
 <0238> When the description reaches this point,
 <0239> It seems that everything is pointing to Rei.
-<0240> \{［伶］}
+<0240> \{[Rei]}
 <0241> (Are you saying I'm a clone of an angel?
 <0242> \ No way...)
 <0243> However, leaving behind Rei's wavering heart,
@@ -304,37 +304,37 @@
 <0295> So, after all,
 <0296> A being named "N" who is of angelic blood and prepared for Rei,
 <0297> There is no doubt that this refers to hope.
-<0298> \{［伶］}
+<0298> \{[Rei]}
 <0299> (... An Angel replica,
 <0300> \ The catalyst to awaken the Angel...)
-<0301> \{［伶］}
+<0301> \{[Rei]}
 <0302> (All of this is hard to believe,
 <0303> \ If the person who left the record was Kujo Takahisa,
 <0304> \ This may be highly reliable information...)
-<0305> \{［伶］}
+<0305> \{[Rei]}
 <0306> (At least, Takami seems to believe this record.
 <0307> \ The reason why he forced me to meet Nozomi was
 <0308> \ Is it to draw out the power of the Angel that person desired?
-<0309> \{［伶］}
+<0309> \{[Rei]}
 <0310> (That means--)
-<0311> \{［伶］}
+<0311> \{[Rei]}
 <0312> (Nozomi is of Angelic descent,
 <0313> \ He is not the angel his father wanted,
 <0314> Takami already knew when he invited me to the mansion...
-<0315> \{［伶］}
+<0315> \{[Rei]}
 <0316> (So, regarding the plan that Nozomi heard in her sleep,
 <0317> \ The possibility that Takami is involved is
 <0318> \ Is that entirely possible?
-<0319> \{［伶］}
+<0319> \{[Rei]}
 <0320> (Of course, it's possible that they aren't allies,
 <0321> \ There is plenty left, but...)
-<0322> \{［伶］}
+<0322> \{[Rei]}
 <0323> (…………)
 <0324> The data that caught Rei's attention even more was,
 <0325> It doesn't appear to have been left inside the laptop.
 <0326> Rei erased as many traces of her access as possible,
 <0327> Powered off.
-<0328> \{［伶］}
+<0328> \{[Rei]}
 <0329> (Now then, what should I research next?)
 <0330> Items that Takami has touched for as long as possible and that he seems to have put a lot of thought into.
 <0331> It is preferable to select it as an exploration target.
@@ -372,10 +372,10 @@
 <0363> I picked up an old German book and opened it.
 <0364> On the edge of a worn, yellowed page,
 <0365> I found a scribble stained with blue fountain pen ink.
-<0366> \{［伶］}
+<0366> \{[Rei]}
 <0367> (This isn't Takami's writing.
 <0368> \ This writing style is...)
-<0369> \{［伶］}
+<0369> \{[Rei]}
 <0370> (Takahisa Kujo...)
 <0371> In other words, this book is not Takami's,
 <0372> This must have been an item that Takahisa owned when he was alive.
@@ -383,7 +383,7 @@
 <0374> I looked at it again carefully.
 <0375> "Angels were attracted to humans and descended to earth.
 <0376> \ What if those angels are still alive today?
-<0377> \{［伶］}
+<0377> \{[Rei]}
 <0378> (...I don't understand, what does that mean?)
 <0379> Other than that scribble, nothing else unusual was found.
 <0380> Rei gave up searching any further on the shelves.
@@ -394,13 +394,13 @@
 <0385> It means that someone had a strong emotional attachment to this painting.
 <0386> The "fragment of memory" that shows this fact,
 <0387> It turned out that he didn't have the color to refer to Takami.
-<0388> \{［伶］}
+<0388> \{[Rei]}
 <0389> (This is... a memory left behind by "that person"--)
 <0390> It is a color that represents someone Rei knows well.
 <0391> Takami's father and former guardian of Rei,
 <0392> The late former head of the Kujo family, Takahisa Kujo,
 <0393> Fragments of thought.
-<0394> \{［伶］}
+<0394> \{[Rei]}
 <0395> (I see. The original owner of this room is,
 <0396> \ So it wasn't Takami, but his father...
 <0397> When I noticed this and looked at the room again,
@@ -408,19 +408,19 @@
 <0399> I can definitely sense the strong presence of someone other than Takami.
 <0400> And the reason why Takami visits this annex so many times is,
 <0401> Rei had an idea.
-<0402> \{［伶］}
+<0402> \{[Rei]}
 <0403> (... Takami learned of the existence of the Angel called Nozomi,
 <0404> \ It was from the records that person left behind.
 <0405> \ He is the one who holds the truly important information about Nozomi.)
-<0406> \{［伶］}
+<0406> \{[Rei]}
 <0407> (Just as I came here seeking information from Takami,
 <0408> \ The information that person has kept secret,
 <0409> \ Assuming Takami is still seeking it...
-<0410> \{［伶］}
+<0410> \{[Rei]}
 <0411> (The reason Takami returns to this annex every day is
 <0412> \ This room that belonged to that person,
 <0413> \ Isn't this proof that Takami hasn't fully investigated yet?
-<0414> \{［伶］}
+<0414> \{[Rei]}
 <0415> (So, in this room,
 <0416> \ Important information that even Takami doesn't know about is left somewhere.
 <0417> \ That's a possibility -- so that's what I mean.)
@@ -443,7 +443,7 @@
 <0434> Traces of contact left on the wallpaper.
 <0435> Just as Takahisa had done so many times, leaving traces behind,
 <0436> Rei also touches the area to check.
-<0437> \{［伶］}
+<0437> \{[Rei]}
 <0438> (! This is――)
 <0439> It appears to have been a small hidden door,
 <0440> If you push hard, it will slide and create a hole in the wall.
@@ -452,21 +452,21 @@
 <0443> There was only one blue leather notebook that looked quite worn.
 <0444> I took the notebook, flipped open the cover, and checked the contents.
 <0445> The place is covered in dense handwritten text.
-<0446> \{［伶］}
+<0446> \{[Rei]}
 <0447> (The handwriting of this character is that of Kujo Takahisa.)
 <0448> Apparently, Takami's father,
 <0449> It appeared to be some kind of record written by hand.
-<0450> \{［伶］}
+<0450> \{[Rei]}
 <0451> (The notes left by that person...?)
 <0452> Apparently, Takami is unaware of the existence of this diary.
 <0453> Now that I've taken the journal away,
 <0454> There is no need to worry about Takami realizing that you have entered the room.
-<0455> \{［伶］}
+<0455> \{[Rei]}
 <0456> (This is information Takami doesn't know yet. It might be useful.
 <0457> \ I'll take it home and look into it--)
 <0458> Rei puts Takahisa's notes into her breast pocket,
 <0459> The frame was put back in place.
-<0460> \{［伶］}
+<0460> \{[Rei]}
 <0461> (--If we stay too long, Takami will return.
 <0462> \ Oh well, I guess I'll wrap it up here...)
 <0463> I gave up on investigating the room any further.
@@ -475,35 +475,35 @@
 <0466> After leaving Takami's room without anyone noticing,
 <0467> Rei went straight back to the mansion,
 <0468> I headed to Nozomi's room to report the results of my investigation.
-<0469> \{［伶］}
+<0469> \{[Rei]}
 <0470> "Nozomi, sorry to have kept you waiting. I'm back now."
 <0471> I opened the door without even hearing a knock,
 <0472> Nozomi's face suddenly lit up,
 <0473> As if he had been waiting impatiently, he rushes over to Rei's side.
-<0474> \{［Hope］}
+<0474> \{[Hope]}
 <0475> "I'm glad you're safe...!"
-<0476> \{［伶］}
+<0476> \{[Rei]}
 <0477> "I'm sorry for worrying you."
-<0478> \{［Hope］}
+<0478> \{[Hope]}
 <0479> "No! If Rei-san is safe,
 <0480> \ That's fine."
-<0481> \{［desire］}
+<0481> \{[Nozomi]}
 <0482> "Um... so, how was it...?"
-<0483> \{［伶］}
+<0483> \{[Rei]}
 <0484> "Yes, I have learned a few things,
 <0485> \ The truth of some things has never been revealed.
-<0486> \{［伶］}
+<0486> \{[Rei]}
 <0487> "The bottom line is that the results were not very good."
-<0488> \{［desire］}
+<0488> \{[Nozomi]}
 <0489> "Did you find out anything about me and Rei-san...?
 <0490> And then... what about the Angels?
-<0491> \{［伶］}
+<0491> \{[Rei]}
 <0492> "...for me, and for you,
 <0493> \ It's not a very pleasant story."
-<0494> \{［Hope］}
+<0494> \{[Hope]}
 <0495> "But still... I want to know.
 <0496> \ Rei-san, please tell me...!
-<0497> \{［伶］}
+<0497> \{[Rei]}
 <0498> "--I understand. So, what information did I get in that room?
 <0499> \ I'll tell you everything."
 <0500> Rei uses the information she obtained in Takami's room.
@@ -518,12 +518,12 @@
 <0509> Even after Rei finished speaking, Nozomi continued to repeat the words she had just heard.
 <0510> He seemed to be carefully sorting things out in his mind.
 <0511> He remains silent and deep in thought, refusing to move.
-<0512> \{［伶］}
+<0512> \{[Rei]}
 <0513> "As your true guardian and mine,
 <0514> \ I also found the diary of Kujo Takahisa, the man who started it all."
 <0515> While worrying about Nozomi's condition,
 <0516> I take out Takahisa's notebook that I got from Takami's room.
-<0517> \{［伶］}
+<0517> \{[Rei]}
 <0518> "Takami also seemed unaware of the existence of this diary.
 <0519> \ Maybe we can get some valuable information."
 <0520> Rei sat down next to Nozomi, who was watching with bated breath,
@@ -534,10 +534,10 @@
 <0525> Enough already
 <0526> Notes on hypnosis experiments by Kujo Takahisa.
 <0527> Moreover, the subjects of this experiment are-
-<0528> \{［伶］}
+<0528> \{[Rei]}
 <0529> "This was done to me,
 <0530> \ Record of hypnosis experiment...?
-<0531> \{［伶］}
+<0531> \{[Rei]}
 <0532> "Hypnosis experiment?
 <0533> \ Why did that person do that to me..."
 <0534> Takahisa even conducted a hypnosis experiment,
@@ -555,7 +555,7 @@
 <0546> I have decided to subject Rei to a hypnosis experiment.
 <0547> By reading the records left by Takahisa,
 <0548> The memories that had been sleeping inside Rei slowly begin to come back to life.
-<0549> \{［伶］}
+<0549> \{[Rei]}
 <0550> "Yes - in the past, I certainly
 <0551> \ I was once forced to participate in such an experiment..."
 <0552> I had forgotten about it until todayーor rather, I was made to forget about it,
@@ -574,20 +574,20 @@
 <0565> \ I might never wake upー"
 <0566> "How do you awaken the power of Rei?
 <0567> \ This is likely to be the most concerning issue going forward.
-<0568> \{［伶］}
+<0568> \{[Rei]}
 <0569> "Is what is written in the notebook true?
 <0570> \ Before I was seven, I was told that I had signs of the power of an angel.
 <0571> \ What is this description...?
-<0572> \{［伶］}
+<0572> \{[Rei]}
 <0573> "...I don't know. I don't remember anything.
 <0574> \ What is the power of the Angel that I once possessed?
 <0575> "In 19XX, I met an angel."
-<0576> The longest written piece about the mysterious <Angel>
+<0576> The longest written piece about the mysterious \<Angel\>
 <0577> The page, dated 24 years ago,
 <0578> It all started with Takahisa's mysterious words.
 <0579> It is a memoir of Takahisa's past experiences,
 <0580> It seemed to be something he had left in his notebook.
-<0581> \{［伶］}
+<0581> \{[Rei]}
 <0582> (Is this a record of that person's encounter with the Angel?
 <0583> \ Then, if you read this note,
 <0584> \ And do you know how he got hold of the Angel's blood?
@@ -630,12 +630,12 @@
 <0621> "And what's most surprising of all is,
 <0622> \ The Angels were living in that form.
 <0623> Reading that far, Rei gasped in surprise.
-<0624> \{［伶］}
+<0624> \{[Rei]}
 <0625> (Is this description the same as the angel I saw in my dream?)
-<0626> \{［伶］}
+<0626> \{[Rei]}
 <0627> (Could that angel I saw in my dream be...?
 <0628> \ Is this the same Angel that person met...?
-<0629> \{［伶］}
+<0629> \{[Rei]}
 <0630> (No way...)
 <0631> “Though bound like a criminal, I will not be impure,
 <0632> \ To that being that boasts overwhelming brilliance,
@@ -715,79 +715,79 @@
 <0706> After all, what kind of being is an angel?
 <0707> The answer was never revealed before Rei.
 <0708> What I learned is,
-<0709> 24 years ago, the <Angel> actually existed before Takahisa's eyes.
+<0709> 24 years ago, the \<Angel\> actually existed before Takahisa's eyes.
 <0710> That it was a real existence.
 <0711> I don't remember, but when I was seven years old,
 <0712> There were signs that the power of the Angels had awakened.
-<0713> \{［伶］}
+<0713> \{[Rei]}
 <0714> "...If this record is not incorrect,
 <0715> \ It seems that there really is something inside me,
 <0716> \ It seems that the power of the Angels still lies dormant within them.
-<0717> \{［伶］}
+<0717> \{[Rei]}
 <0718> "The power of an Angel...?"
-<0719> \{［伶］}
+<0719> \{[Rei]}
 <0720> "I have the power to read the fragments of people's hearts--"
-<0721> \{［伶］}
+<0721> \{[Rei]}
 <0722> "Your ability to hear the inner voices of living things--"
-<0723> \{［伶］}
+<0723> \{[Rei]}
 <0724> "These powers are given to us by the blood of the Angels,
 <0725> \ Perhaps it's a manifestation of a special ability."
-<0726> \{［desire］}
+<0726> \{[Nozomi]}
 <0727> "My powers are... those of an Angel?"
-<0728> \{［伶］}
+<0728> \{[Rei]}
 <0729> "However - although it is certainly a heretical ability,
 <0730> \ It's a small power that can't do anything great."
-<0731> \{［伶］}
+<0731> \{[Rei]}
 <0732> "This level of power is of little practical use,
 <0733> \ Calling it "a power that can even plunge the world into chaos,"
 <0734> \ I don't think they're desperately looking for it.
-<0735> \{［伶］}
+<0735> \{[Rei]}
 <0736> "I feel that the true power of an Angel is much more than this.
 <0737> \ The more that person and the owner of the voice you heard desire,
 <0738> \ I think it's an ability that can do even greater things--"
-<0739> \{［伶］}
+<0739> \{[Rei]}
 <0740> "I don't know what kind of ability it is,
 <0741> \ I can't even imagine it..."
-<0742> \{［desire］}
+<0742> \{[Nozomi]}
 <0743> "...The power of an angel lies dormant within you, Rei-san..."
-<0744> \{［伶］}
+<0744> \{[Rei]}
 <0745> "Even so, it wasn't a complete waste of time,
 <0746> \ We didn't get any information that will be useful to us in the future."
-<0747> \{［伶］}
+<0747> \{[Rei]}
 <0748> "What kind of being is an angel?
 <0749> \ What kind of ability is the power of an angel?
 <0750> \ Who is the person who is after the power of the Angels?
-<0751> \{［伶］}
+<0751> \{[Rei]}
 <0752> "Everything is left vague..."
-<0753> \{［Hope］}
+<0753> \{[Hope]}
 <0754> "......"
 <0755> Nozomi looked depressed and at a loss for words.
 <0756> I smiled kindly to try and ease their anxiety as much as possible,
 <0757> Rei patted his thin back and said.
-<0758> \{［伶］}
+<0758> \{[Rei]}
 <0759> "--Well, there's no point in thinking about it.
 <0760> \ Today, take it easy and rest your body and mind,
 <0761> \ Let's prepare for tomorrow."
-<0762> \{［伶］}
+<0762> \{[Rei]}
 <0763> "Oh... perhaps you,
 <0764> \ I bet you were so nervous you couldn't even eat your breakfast.
-<0765> \{［Hope］}
+<0765> \{[Hope]}
 <0766> "Um, that's right..."
-<0767> \{［伶］}
+<0767> \{[Rei]}
 <0768> "That's not good.
 <0769> \ You won't make it through tomorrow at that rate, you know?
-<0770> \{［Hope］}
+<0770> \{[Hope]}
 <0771> "Y-yes, sorry...!"
-<0772> \{［伶］}
+<0772> \{[Rei]}
 <0773> "Well then, let's have dinner together.
 <0774> \ It's a little late, but
 <0775> \ Lunch should be ready in the dining hall."
-<0776> \{［伶］}
+<0776> \{[Rei]}
 <0777> "I'll ask Marie to make me some delicious tea.
 <0778> \ I'm looking forward to the dessert after the meal."
-<0779> \{［伶］}
+<0779> \{[Rei]}
 <0780> "Come on, let's go together, Nozomi."
-<0781> \{［Hope］}
+<0781> \{[Hope]}
 <0782> "...Yes!"
 <0783> I stood up and held out my hand,
 <0784> Nozomi looked up at Rei's face and finally returned the smile.
@@ -800,41 +800,41 @@
 <0791> The secret of the power sleeping within Rei, and the identity of the one targeting the Angel――
 <0792> I was worried about the things I had been left without understanding,
 <0793> I somehow managed to change my mood and think about tomorrow.
-<0794> \{［伶］}
+<0794> \{[Rei]}
 <0795> (...There are too many uncertain factors,
 <0796> \ It's hard to make a highly probable prediction,
 <0797> \ I guess that can't be helped――)
-<0798> \{［伶］}
+<0798> \{[Rei]}
 <0799> (Anyway, after successfully obtaining the key from Takami,
 <0800> \ To leave this mansion as soon as possible,
 <0801> \ A getaway car must be prepared.)
-<0802> \{［伶］}
+<0802> \{[Rei]}
 <0803> (I can drive a car,
 <0804> \ Find a car in this mansion that meets the conditions for escape,
 <0805> \ It's difficult to get the key without arousing suspicion...)
-<0806> \{［伶］}
+<0806> \{[Rei]}
 <0807> (Furthermore, during the escape,
 <0808> \ There's no point if the car you prepare isn't ready to go right away.
 <0809> \ We need to hold off other cars so we don't get chased...)
-<0810> \{［伶］}
+<0810> \{[Rei]}
 <0811> (To a certain extent, I can manipulate it in advance,
 <0812> \ After Takami arrived at the mansion,
 <0813> \ There are too many things to do before we can escape.)
-<0814> \{［伶］}
+<0814> \{[Rei]}
 <0815> (Since I have to deal with Takami,
 <0816> \ Everything will be done after the key is stolen.)
-<0817> \{［伶］}
+<0817> \{[Rei]}
 <0818> (...Then there are too many uncertainties.)
-<0819> \{［伶］}
+<0819> \{[Rei]}
 <0820> (I need at least one more collaborator.
 <0821> \ While I was holding Takami back,
 <0822> \ A collaborator who will disable all the cars in the mansion is――)
-<0823> \{［伶］}
+<0823> \{[Rei]}
 <0824> (It leads to the inside of the mansion,
 <0825> \ Someone who can tell us the number and location of cars in the mansion――)
 <0826> When Rei thought about it, something came to his mind.
 <0827> The cheerful smile of a young girl who takes care of Rei and Nozomi at the mansion.
-<0828> \{［伶］}
+<0828> \{[Rei]}
 <0829> (Mari...?)
 <0830> He seems to genuinely care about Rei and Nozomi.
 <0831> Sometimes I think I've surpassed my role as a maid.
@@ -846,23 +846,23 @@
 <0837> There's no one else like Marie.
 <0838> But... can I really trust Marie?
 <0839> I was confused for a while about what to choose.
-<0840> \{［伶］}
+<0840> \{[Rei]}
 <0841> (Mariie also works at this mansion.
 <0842> \ I don't know how much I can trust and rely on this person.
 <0843> \ It's better to have as many allies as possible...)
 <0844> I want to believe in Marie's kind eyes.
 <0845> However, this decision, which will determine Nozomi's fate,
 <0846> Failure is not an option.
-<0847> \{［伶］}
+<0847> \{[Rei]}
 <0848> (Mari's eyes -- should I believe them?)
 <0849> Believe in Marie
 <0850> No one believes me
-<0851> \{［伶］}
+<0851> \{[Rei]}
 <0852> (--There is no lie in the eyes Marie looks at Nozomi.
 <0853> \ I... believe in Marie)
 <0854> Having made up her mind, Rei gets Marie's cooperation,
 <0855> I made up my mind to tell him everything.
-<0856> \{［伶］}
+<0856> \{[Rei]}
 <0857> (So, while we're at it,
 <0858> \ I'll do everything I can...)
 <0859> To complete the remaining tasks necessary for the escape,
@@ -873,15 +873,15 @@
 <0864> As Rei sat down in the seat prepared for her,
 <0865> From the other side of the beautifully decorated table with plates of food lined up
 <0866> Nozomi speaks softly.
-<0867> \{［Hope］}
+<0867> \{[Hope]}
 <0868> "Um...Rei-san."
-<0869> \{［Hope］}
+<0869> \{[Hope]}
 <0870> "There is something I would like to discuss with you, Rei-san.
 <0871> \ Could you come to my room tonight...?
-<0872> \{［伶］}
+<0872> \{[Rei]}
 <0873> "I understand. ...I think it will be a little late, but
 <0874> \ I'll head to your room later."
-<0875> \{［Hope］}
+<0875> \{[Hope]}
 <0876> "Yes! I'll be waiting...!"
 <0877> \{[Mari]}
 <0878> "Well, I've really shown my skills tonight,
@@ -897,7 +897,7 @@
 <0888> After finishing the meal, which was somewhat tense,
 <0889> Rei enjoyed the aroma of the coffee that Marie had poured for her.
 <0890> Just before leaving the cafeteria, I called out to Marie.
-<0891> \{［伶］}
+<0891> \{[Rei]}
 <0892> "--Mari. It's fine after you've finished your work at the mansion.
 <0893> \ Could you come to my room?
 <0894> \ I have a confidential matter I'd like you to discuss.
@@ -905,7 +905,7 @@
 <0896> "Do you have something to ask me... Rei-sama?"
 <0897> \{[Mari]}
 <0898> "I'm so happy...! I'll definitely come to your room!"
-<0899> \{［伶］}
+<0899> \{[Rei]}
 <0900> "...I'll be counting on you."
 <0901> And so, before going to bed,
 <0902> After dinner, he whispered to me and called me to his room.
@@ -916,23 +916,23 @@
 <0907> A voice echoed from the other side of the door.
 <0908> Marie quietly called out to him,
 <0909> Rei closes the book she has been absentmindedly reading.
-<0910> \{［伶］}
+<0910> \{[Rei]}
 <0911> "Oh, it's nice to see you. Come in."
 <0912> \{[Mari]}
 <0913> "Excuse me for calling so late.
 <0914> \ Rei-sama, I hear you have something confidential to tell me,
 <0915> \ What can I do for you...?
-<0916> \{［伶］}
+<0916> \{[Rei]}
 <0917> "I want you to keep this a secret from the people in the mansion.
 <0918> \ I have something very important to tell you."
-<0919> \{［伶］}
+<0919> \{[Rei]}
 <0920> "I trust you and confide in you.
 <0921> \ So please keep this a secret from everyone."
 <0922> \{[Mari]}
 <0923> "Yes, yes! What kind of story is it?"
 <0924> Get in touch with Marie's heart
 <0925> There's no need to check
-<0926> \{［伶］}
+<0926> \{[Rei]}
 <0927> "Mari...can you give me your hand?"
 <0928> \{[Mari]}
 <0929> "Yes... like this?"
@@ -940,7 +940,7 @@
 <0931> Rei held it gently.
 <0932> \{[Mari]}
 <0933> "Ah..."
-<0934> \{［伶］}
+<0934> \{[Rei]}
 <0935> "Tomorrow, Takami will come to the mansion with Nozomi.
 <0936> \ The day to hand over hope has come..."
 <0937> \{[Mari]}
@@ -951,39 +951,39 @@
 <0942> As expected, Marie's many considerations towards Nozomi,
 <0943> A considerate attitude,
 <0944> It wasn't an act or a pretense, it was genuine.
-<0945> \{［伶］}
+<0945> \{[Rei]}
 <0946> (...I'm glad I trusted Marie.)
 <0947> It warms my heart when I touch it.
 <0948> Rei smiled at the warmth coming from Marie's light.
-<0949> \{［伶］}
+<0949> \{[Rei]}
 <0950> "For Nozomi's sake, I need your help..."
 <0951> \{[Mari]}
 <0952> "Yes, of course...!
 <0953> \ If you command me, I will always..."
-<0954> \{［伶］}
+<0954> \{[Rei]}
 <0955> "No, that's not it. That's not what I meant.
 <0956> \ This is my personal wish,
 <0957> \ This is a request that goes beyond the relationship between the owner and maid of the mansion."
 <0958> \{[Mari]}
 <0959> "Rei-sama...? Um, what on earth is that..."
-<0960> \{［伶］}
+<0960> \{[Rei]}
 <0961> "I need your help in betraying this mansion."
 <0962> \{[Mari]}
 <0963> "Ah...! Rei-sama, that means...!"
-<0964> \{［伶］}
+<0964> \{[Rei]}
 <0965> "I... want to save Nozomi."
 <0966> \{[Mari]}
 <0967> "Ah, so that's what I thought...!"
-<0968> \{［伶］}
+<0968> \{[Rei]}
 <0969> "Of course, you're welcome to decline our cooperation.
 <0970> \ Because it puts you in danger.
 <0971> \ However, even after I decline, I would like you not to tell anyone about this."
-<0972> \{［伶］}
+<0972> \{[Rei]}
 <0973> "I believe in you"
-<0974> \{［伶］}
+<0974> \{[Rei]}
 <0975> "So please, I need your help.
 <0976> \ To save Nozomi from this mansion..."
-<0977> \{［伶］}
+<0977> \{[Rei]}
 <0978> "I know this may put you in danger, but
 <0979> \ But even so, I hope to borrow your strength."
 <0980> \{[Mari]}
@@ -998,9 +998,9 @@
 <0989> \{[Mari]}
 <0990> "Please, give me any orders you like.
 <0991> \ I will definitely be of help to you, Rei-sama!
-<0992> \{［伶］}
+<0992> \{[Rei]}
 <0993> "Thank you, Marie..."
-<0994> \{［伶］}
+<0994> \{[Rei]}
 <0995> "Well, I don't need to get straight to the point,
 <0996> \ There's something I'd like you to do by tomorrow morning.
 <0997> \ And then, after Takami showed up at the mansion--"
@@ -1018,7 +1018,7 @@
 <1009> Marie willingly accepted the task.
 <1010> It's true that Rei would stand out if she moved around the building doing some crafts.
 <1011> It would probably be best to leave this to Marie.
-<1012> \{［伶］}
+<1012> \{[Rei]}
 <1013> "I'm counting on you, Marie. I'm entrusting everything to you.
 <1014> \ I'm sorry to have dragged you into this, but I'm counting on you."
 <1015> \{[Mari]}
@@ -1033,12 +1033,12 @@
 <1024> "When Rei-sama is in trouble, please think of me,
 <1025> \ Please be sure to call me.
 <1026> \ I'm always on Rei-sama's side..."
-<1027> \{［伶］}
+<1027> \{[Rei]}
 <1028> "Mari..."
 <1029> \{[Mari]}
 <1030> "Well then, I'll be off. Now,
 <1031> \ I'll start taking action, like arranging for a car."
-<1032> \{［伶］}
+<1032> \{[Rei]}
 <1033> "I know I'm causing you trouble, but I'll be counting on you."
 <1034> \{[Mari]}
 <1035> "Yes, please leave it to me!"
@@ -1061,50 +1061,50 @@
 <1052> I knocked on the door and called out to Nozomi.
 <1053> A voice from inside quickly answered.
 <1054> It seems that Nozomi had been waiting for Rei to come for a long time.
-<1055> \{［伶］}
+<1055> \{[Rei]}
 <1056> "What's wrong? Are you nervous and not going to sleep tonight?
 <1057> \ I think it would be best if you rested..."
-<1058> \{［desire］}
+<1058> \{[Nozomi]}
 <1059> "Yes. But... when I think about tomorrow,
 <1060> \ My heart is pounding..."
-<1061> \{［伶］}
+<1061> \{[Rei]}
 <1062> "With Marie's help, we will leave this mansion tomorrow.
 <1063> \ I know you're worried, but will you come with me?
-<1064> \{［desire］}
+<1064> \{[Nozomi]}
 <1065> "Yes, of course...!
 <1066> \ If I'm with you, Rei-san, I'll go anywhere!
-<1067> \{［伶］}
+<1067> \{[Rei]}
 <1068> "By the way, what exactly is it that you want to discuss?
 <1069> \ Does it concern tomorrow?
-<1070> \{［desire］}
+<1070> \{[Nozomi]}
 <1071> "Um...um..."
-<1072> \{［伶］}
+<1072> \{[Rei]}
 <1073> "...Nozomi? What's the matter? Is there something you don't want me to know?"
-<1074> \{［desire］}
+<1074> \{[Nozomi]}
 <1075> "Um...! Rei-san...!"
-<1076> \{［伶］}
+<1076> \{[Rei]}
 <1077> "...?"
-<1078> \{［desire］}
+<1078> \{[Nozomi]}
 <1079> "...me..."
-<1080> \{［desire］}
+<1080> \{[Nozomi]}
 <1081> "Make me yours..."
 <1082> Her face was stained with shame and she bowed her head slightly.
 <1083> Nozomi spoke in a trembling voice that was almost inaudible.
-<1084> \{［伶］}
+<1084> \{[Rei]}
 <1085> “Nozomi…!?”
 <1086> Rei's eyes widened at the sudden words,
 <1087> Nozomi raised her gaze with determination,
 <1088> Looking straight into Rei's eyes, he spoke clearly once more.
-<1089> \{［desire］}
+<1089> \{[Nozomi]}
 <1090> "Make me yours."
-<1091> \{［伶］}
+<1091> \{[Rei]}
 <1092> "...Why did you suddenly do that?"
-<1093> \{［desire］}
+<1093> \{[Nozomi]}
 <1094> "I want to help you..."
-<1095> \{［desire］}
+<1095> \{[Nozomi]}
 <1096> "Umm...Rei-san,
 <1097> \ You made it very clear to me."
-<1098> \{［desire］}
+<1098> \{[Nozomi]}
 <1099> "I... sleep inside Rei-san,
 <1100> \ Prepared to awaken the power of the Angel,
 <1101> \ That's the kind of existence it is..."
@@ -1114,28 +1114,28 @@
 <1105> \ A special child with the blood of an Angel――"
 <1106> “I have a deep feeling for this boy,
 <1107> \ Give the name of hope”
-<1108> \{［伶］}
+<1108> \{[Rei]}
 <1109> "...trapped in delusion,
 <1110> \ The words left behind by people who have already passed away,
 <1111> \ You don't need to worry about it."
-<1112> \{［desire］}
+<1112> \{[Nozomi]}
 <1113> "I'm fine."
-<1114> \{［hope］}
+<1114> \{[hope]}
 <1115> "Whatever the reason, I'm glad I met you.
 <1116> \ I truly believe that...!"
-<1117> \{［伶］}
+<1117> \{[Rei]}
 <1118> “Nozomi…”
-<1119> \{［hope］}
+<1119> \{[hope]}
 <1120> "So... ever since then,
 <1121> \ I was thinking..."
-<1122> \{［desire］}
+<1122> \{[Nozomi]}
 <1123> "How can I, even someone like me,
 <1124> \ I wonder if I can help you, Rei-san..."
-<1125> \{［desire］}
+<1125> \{[Nozomi]}
 <1126> "I've been thinking about it..."
-<1127> \{［desire］}
+<1127> \{[Nozomi]}
 <1128> "......"
-<1129> \{［desire］}
+<1129> \{[Nozomi]}
 <1130> "...the resonance phenomenon is the key to awakening the power of angels,
 <1131> \ You said so."
 <1132> “If on the one hand there is one who awakens to the power of the Angels,
@@ -1143,31 +1143,31 @@
 <1134> \ There is a high possibility that it will awaken dormant powers.
 <1135> “So, there is a possibility that this could be the catalyst for Rei’s awakening.
 <1136> \ I propose to create another tool using Angel blood as a base.
-<1137> \{［hope］}
+<1137> \{[hope]}
 <1138> "What is the true power of an Angel?
 <1139> \ I don't know..."
-<1140> \{［desire］}
+<1140> \{[Nozomi]}
 <1141> "Perhaps, if you connect deeply with me,
 <1142> \ More power to Rei-san,
 <1143> \ I thought maybe I could give it to you..."
-<1144> \{［伶］}
+<1144> \{[Rei]}
 <1145> "...Is that what you were thinking?"
-<1146> \{［desire］}
+<1146> \{[Nozomi]}
 <1147> "Yes..."
-<1148> \{［desire］}
+<1148> \{[Nozomi]}
 <1149> "I... like Rei-san.
 <1150> \ I want to protect Rei-san more than anyone else..."
-<1151> \{［hope］}
+<1151> \{[hope]}
 <1152> "If I can be of any help to you,
 <1153> \ I'll do anything...!
-<1154> \{［desire］}
+<1154> \{[Nozomi]}
 <1155> "So... so..."
-<1156> \{［desire］}
+<1156> \{[Nozomi]}
 <1157> "Hold me... please..."
-<1158> \{［伶］}
+<1158> \{[Rei]}
 <1159> "You're--that far,
 <1160> \ Do you wish to help me...?
-<1161> \{［desire］}
+<1161> \{[Nozomi]}
 <1162> "Yes...!"
 <1163> He truly loves Rei and wishes to be of help to her.
 <1164> The feelings that flow from a heart of longing,
@@ -1182,9 +1182,9 @@
 <1173> Finally, it overflows from my heart.
 <1174> With overwhelming emotions, I embraced Nozomi's body.
 <1175> Rei's thoughts are gently conveyed to his ears.
-<1176> \{［伶］}
+<1176> \{[Rei]}
 <1177> "I love you too."
-<1178> \{［hope］}
+<1178> \{[hope]}
 <1179> "......!"
 <1180> With a strength that rivals the feelings Nozomi has for Rei,
 <1181> The words Rei conveyed with all her heart were,
@@ -1199,44 +1199,44 @@
 <1190> It flows from our connected hearts and fills our hearts.
 <1191> I feel your heart so close that I could touch it.
 <1192> Nozomi probably also feels close to Rei's heart.
-<1193> \{［伶］}
+<1193> \{[Rei]}
 <1194> "Thank you - Nozomi.
 <1195> \ I'm very happy about your feelings."
-<1196> \{［伶］}
+<1196> \{[Rei]}
 <1197> "See -- you understand, don't you, Nozomi...?"
-<1198> \{［伶］}
+<1198> \{[Rei]}
 <1199> "If our hearts can communicate this well,
 <1200> \ Even without connecting bodies,
 <1201> \ We are deeply connected--"
-<1202> \{［伶］}
+<1202> \{[Rei]}
 <1203> "Just by embracing each other so tightly and touching each other's skin,
 <1204> \ Your power is definitely being transmitted to me..."
-<1205> \{［desire］}
+<1205> \{[Nozomi]}
 <1206> "Yes...!
 <1207> \ I understand that too..."
-<1208> \{［desire］}
+<1208> \{[Nozomi]}
 <1209> "My...power,
 <1210> \ I think it's getting through to you..."
-<1211> \{［desire］}
+<1211> \{[Nozomi]}
 <1212> "A beautiful sound... Your heart and
 <1213> \ And I can hear it from my chest..."
-<1214> \{［desire］}
+<1214> \{[Nozomi]}
 <1215> "Two sounds overlapping - resonating,
 <1216> \ It's like a new kind of music is being born..."
-<1217> \{［desire］}
+<1217> \{[Nozomi]}
 <1218> "It's a very... beautiful sound."
-<1219> \{［desire］}
+<1219> \{[Nozomi]}
 <1220> "This is what the feeling of loving someone resonates with.
 <1221> \ Is it the tone...?
-<1222> \{［伶］}
+<1222> \{[Rei]}
 <1223> "Yes, that may be true..."
 <1224> Nozomi muttered these words with a blissful, enchanted look on her face.
 <1225> Rei also quietly listens to the music that she shouldn't be able to hear.
-<1226> \{［desire］}
+<1226> \{[Nozomi]}
 <1227> "Umm...Rei-san."
-<1228> \{［desire］}
+<1228> \{[Nozomi]}
 <1229> "I really love you...!"
-<1230> \{［desire］}
+<1230> \{[Nozomi]}
 <1231> "Meeting you here,
 <1232> \ It was the luckiest thing I've ever had.
 <1233> \ I'm so happy right now...!
@@ -1247,55 +1247,55 @@
 <1238> I feel like I never want to let go.
 <1239> It's fine as it is now
 <1240> I want to have hope
-<1241> \{［伶］}
+<1241> \{[Rei]}
 <1242> "For now... it's fine the way it is."
-<1243> \{［desire］}
+<1243> \{[Nozomi]}
 <1244> "Rei-san..."
-<1245> \{［伶］}
+<1245> \{[Rei]}
 <1246> "...The night is getting late.
 <1247> \ You'd better get some rest now in preparation for tomorrow."
-<1248> \{［伶］}
+<1248> \{[Rei]}
 <1249> "How is it? Do you think you'll be able to sleep tonight?"
-<1250> \{［desire］}
+<1250> \{[Nozomi]}
 <1251> "...I'm a little...unsure."
-<1252> \{［伶］}
+<1252> \{[Rei]}
 <1253> "Then tonight, until you fall asleep,
 <1254> \ Shall we talk alone?
-<1255> \{［伶］}
+<1255> \{[Rei]}
 <1256> "I can't compete with your friend, the 'Angel Researcher,' but
 <1257> \ I'll tell you the story of the angel I know."
-<1258> \{［desire］}
+<1258> \{[Nozomi]}
 <1259> "Really?! I'm so happy...!"
-<1260> \{［伶］}
+<1260> \{[Rei]}
 <1261> "I'd also like to hear your stories about your time living in the forest.
 <1262> \ Can you talk to me later?
-<1263> \{［desire］}
+<1263> \{[Nozomi]}
 <1264> "Yes, with pleasure...!"
-<1265> \{［desire］}
+<1265> \{[Nozomi]}
 <1266> "Ah... but as for me,
 <1267> \ There's nothing particularly unusual to say, but..."
-<1268> \{［伶］}
+<1268> \{[Rei]}
 <1269> "I don't mind. Even if it's something trivial,
 <1270> \ I want to hear about you."
-<1271> \{［伶］}
+<1271> \{[Rei]}
 <1272> "Yeah... but when I start talking,
 <1273> \ You might fall asleep soon.
 <1274> \ Like the other afternoon..."
-<1275> \{［desire］}
+<1275> \{[Nozomi]}
 <1276> "Ah...! Um, I'm so, so sorry..."
-<1277> \{［伶］}
+<1277> \{[Rei]}
 <1278> "I don't mind. Falling asleep next to me,
 <1279> \ That's proof that you trust me..."
-<1280> \{［伶］}
+<1280> \{[Rei]}
 <1281> "Now, let's talk..."
 <1282> And so, by telling each other their memories,
 <1283> The two spent the night in silence.
-<1284> \{［伶］}
+<1284> \{[Rei]}
 <1285> (...I can't trust Marie.)
-<1286> \{［伶］}
+<1286> \{[Rei]}
 <1287> (Mari's attitude towards Nozomi and me,
 <1288> \ I'm not sure it's an act...)
-<1289> \{［伶］}
+<1289> \{[Rei]}
 <1290> (I have no intention of relying on Marie's power.
 <1291> \ So I have no choice but to do everything myself.
 <1292> If you don't ask for help,
@@ -1310,22 +1310,22 @@
 <1301> I rang the bell to call Marie into my room.
 <1302> \{[Mari]}
 <1303> "Rei-sama, did someone call for you?"
-<1304> \{［伶］}
+<1304> \{[Rei]}
 <1305> "Yes. I had asked you to come over because I had something to ask you.
 <1306> \ ...Is that okay?
 <1307> \{[Mari]}
 <1308> "Yes, please! Please give me any orders."
-<1309> \{［伶］}
+<1309> \{[Rei]}
 <1310> "There's something I really want to ask you for.
 <1311> \ Tomorrow evening, leave the mansion and go to my house,
 <1312> \ Could you please go and take care of things?
-<1313> \{［伶］}
+<1313> \{[Rei]}
 <1314> "It's going to be late,
 <1315> \ I think I'll probably be back the next day..."
 <1316> \{[Mari]}
 <1317> "I understand!
 <1318> \ Well then, I'll leave tomorrow evening."
-<1319> \{［伶］}
+<1319> \{[Rei]}
 <1320> "Sorry, but I had to ask you."
 <1321> \{[Mari]}
 <1322> "Yes, leave it to me!"
@@ -1337,16 +1337,16 @@
 <1328> I changed my mood to shake off my doubts,
 <1329> With a secret resolve in her heart, Rei was alone.
 <1330> We took action to complete the remaining tasks necessary for our escape.
-<1331> \{［伶］}
+<1331> \{[Rei]}
 <1332> "Even so, there is no decisive factor,
 <1333> \ It's unfortunate that we didn't get any important information..."
-<1334> \{［伶］}
+<1334> \{[Rei]}
 <1335> "In the end, I don't know about angels either.
 <1336> \ As for those who aim at the Angel,
 <1337> \ The result was that no clues were obtained.
-<1338> \{［desire］}
+<1338> \{[Nozomi]}
 <1339> "...Rei-san..."
-<1340> \{［伶］}
+<1340> \{[Rei]}
 <1341> "Oh, there's nothing to worry about.
 <1342> \ No information was obtained,
 <1343> \ But that doesn't mean the situation has changed dramatically.
@@ -1360,40 +1360,40 @@
 <1351> The secret of the power sleeping within Rei, and the identity of the one targeting the Angel――
 <1352> I was worried about the things I had been left without understanding,
 <1353> I somehow managed to change my mood and think about tomorrow.
-<1354> \{［伶］}
+<1354> \{[Rei]}
 <1355> (...There are too many uncertain factors,
 <1356> \ It's hard to make a highly probable prediction,
 <1357> \ I guess that can't be helped――)
-<1358> \{［伶］}
+<1358> \{[Rei]}
 <1359> (Anyway, after successfully getting the key from Takami,
 <1360> \ To leave this mansion as soon as possible,
 <1361> \ A getaway car must be prepared.)
-<1362> \{［伶］}
+<1362> \{[Rei]}
 <1363> (I can drive a car,
 <1364> \ Find a car in this mansion that meets the conditions for escape,
 <1365> \ It's difficult to get the key without arousing suspicion...)
-<1366> \{［伶］}
+<1366> \{[Rei]}
 <1367> (Furthermore, during the escape,
 <1368> \ There's no point if the car you prepare isn't ready to go right away.
 <1369> \ We need to hold off other cars so we don't get chased...)
-<1370> \{［伶］}
+<1370> \{[Rei]}
 <1371> (To a certain extent, I can manipulate it in advance,
 <1372> \ After Takami came to the mansion,
 <1373> \ There are too many things to do before we can escape.)
-<1374> \{［伶］}
+<1374> \{[Rei]}
 <1375> (Since I have to deal with Takami,
 <1376> \ Everything will be done after the key is stolen.)
-<1377> \{［伶］}
+<1377> \{[Rei]}
 <1378> (...Then there are too many uncertainties.)
-<1379> \{［伶］}
+<1379> \{[Rei]}
 <1380> (I need at least one more collaborator.
 <1381> \ While I was holding Takami back,
 <1382> \ A collaborator who will disable all the cars in the mansion is――)
-<1383> \{［伶］}
+<1383> \{[Rei]}
 <1384> (It leads to the inside of the mansion,
 <1385> \ Someone who can tell us the number and location of cars in the mansion――)
 <1386> When Rei thought about it, the first thing that came to his mind was,
 <1387> The cheerful smile of a young girl who takes care of Rei and Nozomi at the mansion.
-<1388> \{［伶］}
+<1388> \{[Rei]}
 <1389> (Mari...?)
 <1390> However――

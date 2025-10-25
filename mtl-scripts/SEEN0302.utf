@@ -1,8 +1,8 @@
 // Resources for SEEN0302.TXT
 
-#character '［Marie］'
+#character '[Marie]'
 #character '[Rei]'
-#character '［desire］'
+#character '[Nozomi]'
 
 <0000> May 6th Nozomi Route
 <0001> Last night, even after I lay down in bed,
@@ -22,7 +22,7 @@
 <0015> \{[Mari]}
 <0016> "Rei-sama - Good morning.
 <0017> \ You were already up this morning..."
-<0018> \{［伶］}
+<0018> \{[Rei]}
 <0019> "...How is Nozomi? What about the fever?"
 <0020> \{[Mari]}
 <0021> "Yes, the fever went down during the night,
@@ -34,7 +34,7 @@
 <0027> \{[Mari]}
 <0028> "It was a brain fever caused by prolonged tension,
 <0029> \ It doesn't seem like there will be any lasting effects.
-<0030> \{［伶］}
+<0030> \{[Rei]}
 <0031> "I see... That's good then."
 <0032> \{[Mari]}
 <0033> "Are you relieved?
@@ -56,13 +56,13 @@
 <0049> \{[Mari]}
 <0050> "Rei-sama, I'm sorry to interrupt,
 <0051> \ Would you like to take a short rest and have some tea?
-<0052> \{［伶］}
+<0052> \{[Rei]}
 <0053> "It's you... Ah, yes. I'll take it."
 <0054> \{[Mari]}
 <0055> "If it's not a bother for you, Rei-sama,
 <0056> \ Nozomi also wants to have tea with Rei-sama,
 <0057> \ What would you like to do?
-<0058> \{［伶］}
+<0058> \{[Rei]}
 <0059> "...Was it okay for you to get up?"
 <0060> \{[Mari]}
 <0061> "I was examined by a doctor,
@@ -71,7 +71,7 @@
 <0064> "However, if you don't mind,
 <0065> \ I'd like to reserve a seat for you in Nozomi's room,
 <0066> \ What do you think...?
-<0067> \{［伶］}
+<0067> \{[Rei]}
 <0068> "I have no objections."
 <0069> \{[Mari]}
 <0070> "Yes! We'll prepare your table right away.
@@ -80,32 +80,32 @@
 <0073> Rei leaned back in her chair and stretched out.
 <0074> And then, suddenly, beyond the pile of books,
 <0075> I found a book.
-<0076> \{［伶］}
+<0076> \{[Rei]}
 <0077> "Oh...? Now that I think of it, this book is..."
 <0078> I picked it up and checked the title.
 <0079> That was many days ago now.
 <0080> It was the book that Rei had chosen and kept for Nozomi.
 <0081> There were so many things happening,
 <0082> I didn't give Nozomi the book I had chosen to make her happy.
-<0083> \{［伶］}
+<0083> \{[Rei]}
 <0084> (That's right, I'll deliver it to Nozomi today...)
 <0085> Having made that decision, I removed the book that had been sitting on my desk for so long.
 <0086> I put it at the top of the pile so I wouldn't forget.
 <0087> Marie came to call me and showed me to the room.
 <0088> Nozomi seems to have completely recovered and her complexion is brighter.
 <0089> I got out of bed and greeted Rei.
-<0090> \{［伶］}
+<0090> \{[Rei]}
 <0091> "...Your complexion looks better.
 <0092> \ His eyes are not watery and his steps are steady.
 <0093> \ It seems he has really recovered.
-<0094> \{［Hope］}
+<0094> \{[Hope]}
 <0095> "Yes. Um... I'm sorry for worrying you."
-<0096> \{［伶］}
+<0096> \{[Rei]}
 <0097> "The next time you're not feeling well,
 <0098> \ Don't keep quiet and force yourself, tell me right away."
-<0099> \{［伶］}
+<0099> \{[Rei]}
 <0100> "--Did you understand?"
-<0101> \{［desire］}
+<0101> \{[Nozomi]}
 <0102> "Yes..."
 <0103> Marie watched the two of them interact with a smile,
 <0104> The table was brought in and set up.
@@ -126,76 +126,76 @@
 <0119> \ I'll come and take away the dishes now that your business is done."
 <0120> \{[Mari]}
 <0121> "Excuse me."
-<0122> \{［伶］}
+<0122> \{[Rei]}
 <0123> "...Shall we sit down, Nozomi?
 <0124> \ This is a delicious black tea brewed with good leaves.
 <0125> \ Let's eat it before it gets cold.
-<0126> \{［desire］}
+<0126> \{[Nozomi]}
 <0127> "Y-yes."
-<0128> \{［伶］}
+<0128> \{[Rei]}
 <0129> "...Ah, these are delicious scones.
 <0130> \ It must have been made by Marie.
 <0131> \ I can tell because the cream is just the right sweetness for my taste.
-<0132> \{［伶］}
+<0132> \{[Rei]}
 <0133> "Hey, why don't you eat some too?"
-<0134> \{［Hope］}
+<0134> \{[Hope]}
 <0135> "Ah...! Yes, thank you..."
 <0136> Rei sat across from Nozomi,
 <0137> We all sat around the table, where Marie had prepared sweets and tea.
 <0138> We began a small party just for the two of us.
-<0139> \{［伶］}
+<0139> \{[Rei]}
 <0140> "Hey, Nozomi. Why don't you try this lemon pie too?
 <0141> \ It seems to be Marie's most confident work.
-<0142> \{［Hope］}
+<0142> \{[Hope]}
 <0143> "Ah, yes, thank you!"
 <0144> Nozomi hesitantly picks at the sweets on her plate with her fork.
 <0145> Rei uses silver tongs to serve sweets one after another.
-<0146> \{［伶］}
+<0146> \{[Rei]}
 <0147> "This one too... this one too... and this one too."
-<0148> \{［Hope］}
+<0148> \{[Hope]}
 <0149> "Ah...um, that's enough!
 <0150> \ I can't eat any more than this...!"
-<0151> \{［伶］}
+<0151> \{[Rei]}
 <0152> "Really? Well, you're a little small,
 <0153> \ I just want to feed them a lot."
-<0154> \{［伶］}
+<0154> \{[Rei]}
 <0155> "Hmmm -- I see. I'm concerned about the amount of food you're eating.
 <0156> \ I feel like I understand Marie's feelings."
-<0157> \{［Hope］}
+<0157> \{[Hope]}
 <0158> "...?"
-<0159> \{［伶］}
+<0159> \{[Rei]}
 <0160> "No, it's nothing. Anyway--"
-<0161> \{［伶］}
+<0161> \{[Rei]}
 <0162> "What Marie makes is always delicious.
 <0163> \ He has a wide range of cooking skills and is an expert at making dashi.
-<0164> \{［Hope］}
+<0164> \{[Hope]}
 <0165> "I love seeing the happy faces of people who eat it.
 <0166> \ While I was learning how to cook,
 <0167> \ Apparently his skills have improved so much..."
-<0168> \{［伶］}
+<0168> \{[Rei]}
 <0169> "So, to reward Marie for her efforts,
 <0170> \ Would you like to try this sour cherry pie?
-<0171> \{［Hope］}
+<0171> \{[Hope]}
 <0172> "N-no...! It's so painful, I can't do it anymore!"
 <0173> The initial tension finally subsided,
 <0174> Just as Nozomi's expression began to become more relaxed,
 <0175> I remembered that I had brought the book I had chosen.
-<0176> \{［伶］}
+<0176> \{[Rei]}
 <0177> "Oh, that's right. I was thinking of giving it to you,
 <0178> \ I've brought something."
-<0179> \{［伶］}
+<0179> \{[Rei]}
 <0180> "One of the books in my room,
 <0181> \ This is the book I chose a long time ago to give to you."
-<0182> \{［Hope］}
+<0182> \{[Hope]}
 <0183> "Eh...? You want me to buy a book?"
-<0184> \{［伶］}
+<0184> \{[Rei]}
 <0185> "I've been thinking about giving it to you for a long time,
 <0186> \ I don't often get the chance.
 <0187> \ It's quite late, but I'll give it to you.
-<0188> \{［Hope］}
+<0188> \{[Hope]}
 <0189> "Thank you so much...!
 <0190> \ Um, can I open it...?
-<0191> \{［伶］}
+<0191> \{[Rei]}
 <0192> "Yeah, that's fine."
 <0193> I accepted the package of books that Rei handed me,
 <0194> Nozomi's eyes sparkled as she unwrapped the package.
@@ -207,18 +207,18 @@
 <0200> Small, hard-to-read letters fill both open pages.
 <0201> The book is packed tightly with narrow spaces between the lines,
 <0202> There are few illustrations, and it seems extremely difficult for Nozomi to understand.
-<0203> \{［Hope］}
+<0203> \{[Hope]}
 <0204> "Um, what kind of book is this...?"
-<0205> \{［伶］}
+<0205> \{[Rei]}
 <0206> "That's certainly true... by collecting angel legends from all over the world,
 <0207> \ It has been recompiled in dictionary format.
-<0208> \{［伶］}
+<0208> \{[Rei]}
 <0209> "There are few illustrations and the content is difficult to understand.
 <0210> \ It might be a little difficult to read if you're not used to it.
-<0211> \{［Hope］}
+<0211> \{[Hope]}
 <0212> "A dictionary of angel legends...!
 <0213> \ There are so many legends of angels in the world..."
-<0214> \{［Hope］}
+<0214> \{[Hope]}
 <0215> "...! What a beautiful book...!"
 <0216> As soon as I unwrapped it, I was struck by the gorgeous binding.
 <0217> Nozomi's eyes light up and she exclaims in admiration.
@@ -228,31 +228,31 @@
 <0221> The book places emphasis on illustrations and has relatively few words,
 <0222> For Nozomi, who is not used to reading and interpreting specialized books,
 <0223> You'll enjoy just looking at the gorgeous medieval decorative paintings.
-<0224> \{［Hope］}
+<0224> \{[Hope]}
 <0225> "What a lovely... book about angels..."
-<0226> \{［伶］}
+<0226> \{[Rei]}
 <0227> "I like looking at picture books with beautiful illustrations,
 <0228> \ Because you told me about it before.
 <0229> \ I chose a book with as many beautiful illustrations as possible.
-<0230> \{［Hope］}
+<0230> \{[Hope]}
 <0231> "Thank you so much, I'm so happy...!"
-<0232> \{［伶］}
+<0232> \{[Rei]}
 <0233> "I'm glad you're happy."
-<0234> \{［Hope］}
+<0234> \{[Hope]}
 <0235> "The title is... 'Angel Legends of the World'?
 <0236> \ You have a collection of angel pictures from all over the world...!
-<0237> \{［Hope］}
+<0237> \{[Hope]}
 <0238> "...Amazing!
 <0239> \ I've never seen such a picture of an angel before..."
-<0240> \{［desire］}
+<0240> \{[Nozomi]}
 <0241> "...! This book...!!"
-<0242> \{［desire］}
+<0242> \{[Nozomi]}
 <0243> "Perhaps, in this angel's book,
 <0244> \ Something I've always wanted to know for a long time,
 <0245> \ It might be in there...!
-<0246> \{［伶］}
+<0246> \{[Rei]}
 <0247> "Nozomi...? What on earth are you doing all of a sudden..."
-<0248> \{［desire］}
+<0248> \{[Nozomi]}
 <0249> "Um, I'll try looking for it...!"
 <0250> Nozomi looked unusually serious,
 <0251> When I went to the "Book of Angels" that I received from Rei,
@@ -275,188 +275,188 @@
 <0268> I wonder how much time has passed.
 <0269> As I was pouring tea from the tea server into my cup,
 <0270> Nozomi finally looked up from her book and looked at Rei.
-<0271> \{［Hope］}
+<0271> \{[Hope]}
 <0272> "...It didn't work. This book also...
 <0273> \ There was no detailed information about the angel I was looking for...
-<0274> \{［desire］}
+<0274> \{[Nozomi]}
 <0275> "Those who know about that angel,
 <0276> \ There seem to be very few of them in the world..."
-<0277> \{［伶］}
+<0277> \{[Rei]}
 <0278> "Looking for an angel...?
 <0279> \ You have an angel you'd like to know more about."
-<0280> \{［伶］}
+<0280> \{[Rei]}
 <0281> "And it seems like almost no one knows about it.
 <0282> \ Want to know more about the little-known angels?
 <0283> \ That's a pretty serious story..."
-<0284> \{［伶］}
+<0284> \{[Rei]}
 <0285> "If you, who are said to be of angelic blood, are looking for
 <0286> \ Perhaps it's the angel who is involved in your secret?"
-<0287> \{［Hope］}
+<0287> \{[Hope]}
 <0288> "No, there was a very good reason for that.
 <0289> \ Not that I want to know..."
-<0290> \{［Hope］}
+<0290> \{[Hope]}
 <0291> "But... I have just one thing,
 <0292> \ I have some precious memories related to angels..."
-<0293> \{［伶］}
+<0293> \{[Rei]}
 <0294> "Memories related to angels...?"
-<0295> \{［Hope］}
+<0295> \{[Hope]}
 <0296> "Umm, speaking of memories related to angels,
 <0297> \ About the true identity of angels,
 <0298> \ It's not something so big as to involve secrets!
-<0299> \{［Hope］}
+<0299> \{[Hope]}
 <0300> "The thing I feel about angels is...
 <0301> \ I'm afraid people will laugh at me if I tell them this.
 <0302> \ It's nothing... just a very childish feeling."
-<0303> \{［Hope］}
+<0303> \{[Hope]}
 <0304> "The reason I want to know about that angel...
 <0305> \ For everyone except me,
 <0306> \ It's so tiny and insignificant..."
-<0307> \{［伶］}
+<0307> \{[Rei]}
 <0308> "...It's okay. I won't laugh, so go ahead and talk.
 <0309> \ I want to know the memories you cherish, too."
-<0310> \{［伶］}
+<0310> \{[Rei]}
 <0311> "And maybe if you listen to what I have to say,
 <0312> \ Helping you get the information you want,
 <0313> Maybe I can do it too?
-<0314> \{［Hope］}
+<0314> \{[Hope]}
 <0315> "Rei-san..."
-<0316> \{［伶］}
+<0316> \{[Rei]}
 <0317> "If you don't mind, I'd like you to tell me.
 <0318> \ Your memories of angels..."
-<0319> \{［Hope］}
+<0319> \{[Hope]}
 <0320> "...The picture in my precious book,
 <0321> \ I want to know more about the angel in my favorite illustration.
-<0322> \{［desire］}
+<0322> \{[Nozomi]}
 <0323> "S-sorry, for such a childish reason...!"
-<0324> \{［desire］}
+<0324> \{[Nozomi]}
 <0325> "...Even if many things happen,
 <0326> \ When I look at the angel in the illustration,
 <0327> \ I always felt happy..."
-<0328> \{［desire］}
+<0328> \{[Nozomi]}
 <0329> "...So...um..."
-<0330> \{［伶］}
+<0330> \{[Rei]}
 <0331> "There's no need to be so embarrassed.
 <0332> \ Even if something has no value to others, if you put your heart into it,
 <0333> \ Value to each person changes."
-<0334> \{［伶］}
+<0334> \{[Rei]}
 <0335> "My admiration for the angel in the illustration
 <0336> \ If it was really important enough to give you comfort,
 <0337> \ There's no need to be ashamed of those feelings."
-<0338> \{［伶］}
+<0338> \{[Rei]}
 <0339> "I don't care what people say."
-<0340> \{［desire］}
+<0340> \{[Nozomi]}
 <0341> "Y-yes!"
-<0342> \{［伶］}
+<0342> \{[Rei]}
 <0343> "Now, continue your story."
-<0344> \{［Hope］}
+<0344> \{[Hope]}
 <0345> "Um, so... it's about my beloved angel,
 <0346> I knew the name of the angel from the book,
 <0347> \ I only know one story."
-<0348> \{［desire］}
+<0348> \{[Nozomi]}
 <0349> "What kind of angel was that?
 <0350> \ Are there any other stories or legends that could provide clues?
 <0351> \ I've always wanted to know...
-<0352> \{［伶］}
+<0352> \{[Rei]}
 <0353> "Oh, so in the angel document I gave you,
 <0354> \ I was looking for an article about that angel.
-<0355> \{［Hope］}
+<0355> \{[Hope]}
 <0356> "Yes, that's right...!"
-<0357> \{［伶］}
+<0357> \{[Rei]}
 <0358> "And for more information about the angel you are looking for,
 <0359> \ It wasn't written there..."
-<0360> \{［Hope］}
+<0360> \{[Hope]}
 <0361> "Yes..."
-<0362> \{［伶］}
+<0362> \{[Rei]}
 <0363> "So, the clue to finding out about this angel is,
 <0364> \ So it's only in the book you have?
 <0365> \ What kind of book is this? It's--"
-<0366> \{［desire］}
+<0366> \{[Nozomi]}
 <0367> "The pictures and stories of angels that have been passed down in foreign countries since ancient times,
 <0368> \ I heard you have a large collection of books..."
-<0369> \{［desire］}
+<0369> \{[Nozomi]}
 <0370> "When I was very young, someone gave me
 <0371> \ It's very important..."
-<0372> \{［伶］}
+<0372> \{[Rei]}
 <0373> "Do you still have that book?"
-<0374> \{［desire］}
+<0374> \{[Nozomi]}
 <0375> "Yes, I still have it in my possession.
 <0376> \ I was told I could only take one book...
 <0377> \ That was the book I chose."
-<0378> \{［伶］}
+<0378> \{[Rei]}
 <0379> "Oh, so that means the thing you were holding so dearly,
 <0380> \ So that's what that book was about."
-<0381> \{［Hope］}
+<0381> \{[Hope]}
 <0382> "Yes! Um, please take a look...!"
 <0383> Nozomi jumped up from her seat and ran over to the bedside.
 <0384> I quietly take out the package I had hidden under the bed.
 <0385> Nozomi carefully unwrapped the package with gentle hands.
 <0386> An old leather-bound cover that exuded a sense of age appeared.
-<0387> \{［Hope］}
+<0387> \{[Hope]}
 <0388> "This is my precious...Angel Book."
 <0389> Nozomi held the book close to her chest with great care.
 <0390> To spread it out without hurting it,
 <0391> Remove all plates and tea sets from the table.
 <0392> And then, on the neatly cleared table,
 <0393> Nozomi quietly put down the book she was holding and held it out in front of Rei.
-<0394> \{［伶］}
+<0394> \{[Rei]}
 <0395> "This is... quite an old item.
 <0396> \ It's a book that seems to have some kind of origin or history."
-<0397> \{［Hope］}
+<0397> \{[Hope]}
 <0398> "It's a very valuable document,
 <0399> \ That's what the person who gave me the book said."
-<0400> \{［desire］}
+<0400> \{[Nozomi]}
 <0401> "But... what does it say?
 <0402> \ I don't understand..."
-<0403> \{［伶］}
+<0403> \{[Rei]}
 <0404> "You don't know--?"
-<0405> \{［desire］}
+<0405> \{[Nozomi]}
 <0406> "The notation is in alphabet,
 <0407> \ The language being used... doesn't seem to be English..."
-<0408> \{［伶］}
+<0408> \{[Rei]}
 <0409> "Tell me what it looks like."
-<0410> \{［desire］}
+<0410> \{[Nozomi]}
 <0411> "Yes..."
 <0412> At Rei's request, Nozomi opens the leather-bound cover.
 <0413> Then, I found something that I would never have guessed from the age of the binding.
 <0414> Written in vibrant colors and beautiful, dancing decorative letters,
 <0415> A page appears, beautifully decorated down to the last detail.
-<0416> \{［伶］}
+<0416> \{[Rei]}
 <0417> "...This is amazing, what a beautiful book..."
 <0418> Upon seeing the opened page, an exclamation of admiration was heard.
 <0419> Nozomi also smiles proudly.
-<0420> \{［伶］}
+<0420> \{[Rei]}
 <0421> "...I'm not an expert,
 <0422> \ I don't know the exact year the book was produced,
 <0423> \ This looks like an illuminated manuscript from the Middle Ages.
-<0424> \{［Hope］}
+<0424> \{[Hope]}
 <0425> "A manuscript...?"
-<0426> \{［伶］}
+<0426> \{[Rei]}
 <0427> "It was made in an era when printing technology did not yet exist.
 <0428> \ I mean handwritten books."
-<0429> \{［伶］}
+<0429> \{[Rei]}
 <0430> "Medieval monks who needed the Bible
 <0431> \ Each monastery had a specialist copyist,
 <0432> \ It seems that copying the Bible led to the flourishing of manuscript culture.
-<0433> \{［伶］}
+<0433> \{[Rei]}
 <0434> "In the days before movable type printing, books were made like this:
 <0435> \ Each character is hand-copied by a skilled craftsman,
 <0436> \ It was written down."
-<0437> \{［伶］}
+<0437> \{[Rei]}
 <0438> "So... look. This decorative border and these letters,
 <0439> \ Everything is hand-drawn, down to the last word.
-<0440> \{［伶］}
+<0440> \{[Rei]}
 <0441> "Since each manuscript is handmade,
 <0442> \ No two are alike.
 <0443> \ It's a very valuable thing."
-<0444> \{［伶］}
+<0444> \{[Rei]}
 <0445> "Especially since it is a book of such beauty.
 <0446> \ How rare this book is,
 <0447> \ Even an outsider like me can see its value.
-<0448> \{［desire］}
+<0448> \{[Nozomi]}
 <0449> "Now that I think about it... this book,
 <0450> \ It is a copy of a book left behind in a very ancient time,
 <0451> \ I've had it explained to me before..."
-<0452> \{［伶］}
+<0452> \{[Rei]}
 <0453> "So this is a much older manuscript,
 <0454> \ It must have been further transcribed at a later date.
 <0455> I wanted to check the book more closely,
@@ -464,180 +464,180 @@
 <0457> Take a quick look through it.
 <0458> In manuscript terms, this is called a carpet page.
 <0459> Rei muttered as she checked the title written on the inside cover page.
-<0460> \{［伶］}
+<0460> \{[Rei]}
 <0461> "...Ah, this is Latin.
 <0462> \ This certainly seems to be a document written about angels.
 <0463> \ It says so on the spine and on this page.
-<0464> \{［伶］}
+<0464> \{[Rei]}
 <0465> "\ruby{Liber Angelicus}={ Liber Angelicus }--
 <0466> \ It's Latin and means "Book of Angels."
-<0467> \{［desire］}
+<0467> \{[Nozomi]}
 <0468> "Can you read this...?!"
-<0469> \{［伶］}
+<0469> \{[Rei]}
 <0470> "A little bit, okay?"
-<0471> \{［伶］}
+<0471> \{[Rei]}
 <0472> "I've studied Latin with interest before.
 <0473> \ I didn't study it in depth on my own,
 <0474> \ I can translate simple sentences with a dictionary in handーthat's about it."
-<0475> \{［Hope］}
+<0475> \{[Hope]}
 <0476> "...Amazing...!"
-<0477> \{［Hope］}
+<0477> \{[Hope]}
 <0478> "Um, then, can you read this page...?"
 <0479> Hope was opened with gorgeous colors and beautiful brushstrokes.
 <0480> The image of an angel and a human being,
 <0481> The author puts special thought into this
 <0482> It was a beautiful piece that seemed to have been drawn with exceptional care and precision.
-<0483> \{［伶］}
+<0483> \{[Rei]}
 <0484> "Ah, it doesn't seem like such a difficult sentence.
 <0485> \ Which――」
-<0486> \{［伶］}
+<0486> \{[Rei]}
 <0487> "......"
-<0488> \{［伶］}
+<0488> \{[Rei]}
 <0489> "...very old,
 <0490> \ Regarding the "legend of angels" that is passed down in that area,
 <0491> \ It seems to be written there.
-<0492> \{［伶］}
+<0492> \{[Rei]}
 <0493> "--An angel found a Son of Man and took him by the hand, saying to him"
-<0494> \{［伶］}
+<0494> \{[Rei]}
 <0495> "You are a rare and noble being among the human race.
 <0496> \ I, \ruby{above}={God}, \ruby{seat}={now}, by the grace bestowed upon me by \ruby{the Lord}={Onkata},
 <0497> \ I will lead you from the face of the earth to heaven..."
-<0498> \{［伶］}
+<0498> \{[Rei]}
 <0499> "The heavenly One guides the sons of men in his deeds,
 <0500> \ Let's aim for the summit together..."
-<0501> \{［伶］}
+<0501> \{[Rei]}
 <0502> "...Well, that's about it.
 <0503> \ It's like the story of a man who was led by an angel and ascended to heaven."
-<0504> \{［desire］}
+<0504> \{[Nozomi]}
 <0505> "...!"
-<0506> \{［Hope］}
+<0506> \{[Hope]}
 <0507> "Um, please tell me...!
 <0508> \ I wonder what kind of story is written in this book...!
-<0509> \{［伶］}
+<0509> \{[Rei]}
 <0510> "Oh, you're the owner and you don't know it?
 <0511> \ The person who gave you this book is
 <0512> \ Did you say anything about the written story?
-<0513> \{［Hope］}
+<0513> \{[Hope]}
 <0514> "...The story of the angel depicted here,
 <0515> \ That's all I was told..."
-<0516> \{［desire］}
+<0516> \{[Nozomi]}
 <0517> "This is the story of the angel in the illustration on this page."
 <0518> Hope was drawn on the open page,
 <0519> A pair of white wings spread across its back, exuding grace,
 <0520> Point to the image of an angel.
-<0521> \{［Hope］}
+<0521> \{[Hope]}
 <0522> "The angel depicted in this illustration is
 <0523> \ A young man,
 <0524> \ He led me to heaven... He's a very wise angel."
-<0525> \{［desire］}
+<0525> \{[Nozomi]}
 <0526> "This angel has a wonderful instrument,
 <0527> \ It is said to have produced a very beautiful sound..."
-<0528> \{［desire］}
+<0528> \{[Nozomi]}
 <0529> "Young humans travel the world following this sound,
 <0530> \ Finally, we will find the door to heaven."
-<0531> \{［Hope］}
+<0531> \{[Hope]}
 <0532> "...This is the only story I know."
-<0533> \{［伶］}
+<0533> \{[Rei]}
 <0534> "You didn't ask for any other details?"
-<0535> \{［Hope］}
+<0535> \{[Hope]}
 <0536> "...I promised you to speak slowly."
-<0537> \{［Hope］}
+<0537> \{[Hope]}
 <0538> "But then that person suddenly had to leave,
 <0539> \ I ran out of time to learn..."
-<0540> \{［desire］}
+<0540> \{[Nozomi]}
 <0541> "So..."
-<0542> \{［desire］}
+<0542> \{[Nozomi]}
 <0543> "......"
-<0544> \{［伶］}
+<0544> \{[Rei]}
 <0545> "Have you never seen the person who entrusted you with the book?"
-<0546> \{［desire］}
+<0546> \{[Nozomi]}
 <0547> "...Yes."
-<0548> \{［Hope］}
+<0548> \{[Hope]}
 <0549> "That day...without being told anything,
 <0550> \ It's been years since I broke up with that person..."
-<0551> \{［伶］}
+<0551> \{[Rei]}
 <0552> "......"
-<0553> \{［伶］}
+<0553> \{[Rei]}
 <0554> "Nozomi, the person who gave you this book is
 <0555> \ Who the hell are you?"
-<0556> \{［伶］}
+<0556> \{[Rei]}
 <0557> "It is rare to possess such a precious manuscript,
 <0558> \ I let it go easily,
 <0559> \ Giving it to a young child--"
-<0560> \{［伶］}
+<0560> \{[Rei]}
 <0561> "He's quite an unusual person."
-<0562> \{［desire］}
+<0562> \{[Nozomi]}
 <0563> "......"
-<0564> \{［desire］}
+<0564> \{[Nozomi]}
 <0565> "Your job is to research and find angels,
 <0566> \ That person... said..."
-<0567> \{［desire］}
+<0567> \{[Nozomi]}
 <0568> "Your name and background,
 <0569> \ I don't know anything..."
-<0570> \{［Hope］}
+<0570> \{[Hope]}
 <0571> "So, I've always thought of that person,
 <0572> \ "The Angel Researcher Uncle" -- she called him."
-<0573> \{［伶］}
+<0573> \{[Rei]}
 <0574> "...with someone whose name I don't even know,
 <0575> \ How did you guys meet?
-<0576> \{［desire］}
+<0576> \{[Nozomi]}
 <0577> "In that forest where I lived all my life until I came here,
 <0578> \ That person wandered in..."
-<0579> \{［Hope］}
+<0579> \{[Hope]}
 <0580> "That was the trigger--"
-<0581> \{［伶］}
+<0581> \{[Rei]}
 <0582> "I see. You seem to have trouble talking to people,
 <0583> \ I'm amazed you were able to become friends with someone you don't know."
-<0584> \{［Hope］}
+<0584> \{[Hope]}
 <0585> "When we first met, you were injured... so..."
-<0586> \{［伶］}
+<0586> \{[Rei]}
 <0587> "...When you were young,
 <0588> \ He seems to have been a fearless child."
-<0589> \{［Hope］}
+<0589> \{[Hope]}
 <0590> "He looked so distressed that I couldn't just leave him alone, so I ended up..."
-<0591> \{［Hope］}
+<0591> \{[Hope]}
 <0592> "But he had such kind eyes.
 <0593> \ So I don't think he's a bad person..."
-<0594> \{［伶］}
+<0594> \{[Rei]}
 <0595> "Ah... that's right. You mentioned it before,
 <0596> \ The "other person" who wasn't afraid of your power was
 <0597> \ Perhaps you're talking about that person?
-<0598> \{［Hope］}
+<0598> \{[Hope]}
 <0599> "...! Yes, that's right."
-<0600> \{［伶］}
+<0600> \{[Rei]}
 <0601> "--That means,
 <0602> \ So your judgment was not wrong.
-<0603> \{［伶］}
+<0603> \{[Rei]}
 <0604> "By the way -- perhaps the angel in this illustration,
 <0605> \ Is she the angel you admired?
-<0606> \{［desire］}
+<0606> \{[Nozomi]}
 <0607> "Y-yes! That's right...!"
-<0608> \{［伶］}
+<0608> \{[Rei]}
 <0609> "So, what you're particularly interested in knowing is,
 <0610> \ Are you sure you want to know the details of this angel's story?
-<0611> \{［desire］}
+<0611> \{[Nozomi]}
 <0612> "...Yes."
-<0613> \{［伶］}
+<0613> \{[Rei]}
 <0614> "......"
-<0615> \{［伶］}
+<0615> \{[Rei]}
 <0616> "Well, if you're okay with it,
 <0617> \ Should I look into this book a bit?
 <0618> \ Maybe we can find out something."
-<0619> \{［desire］}
+<0619> \{[Nozomi]}
 <0620> "Really?!"
-<0621> \{［desire］}
+<0621> \{[Nozomi]}
 <0622> "I'm so happy...!"
-<0623> \{［伶］}
+<0623> \{[Rei]}
 <0624> "If I were to investigate, I would have to look into your precious book.
 <0625> \ I'll have to take care of it for a while,
 <0626> \ Are you okay with that?
-<0627> \{［desire］}
+<0627> \{[Nozomi]}
 <0628> "Yes, please."
-<0629> \{［伶］}
+<0629> \{[Rei]}
 <0630> "Are you sure you want to leave it with me?"
-<0631> \{［desire］}
+<0631> \{[Nozomi]}
 <0632> "Yes. If it's you..."
-<0633> \{［伶］}
+<0633> \{[Rei]}
 <0634> "......"
 <0635> Nozomi handed the important book over to Rei without any hesitation,
 <0636> He smiled broadly, full of trust.
@@ -659,7 +659,7 @@
 <0652> I glanced over the opening sentence of the chapter,
 <0653> Find out what kind of story will be written.
 <0654> 『The story of a city destroyed by an angel』
-<0655> \{［伶］}
+<0655> \{[Rei]}
 <0656> "This is... it doesn't matter if you don't read it..."
 <0657> At first glance, the subject seems filled with disaster and sorrow.
 <0658> Even if I hear of Nozomi's admiration for the Angel,
@@ -696,11 +696,11 @@
 <0689> “The book has been passed down to his descendants to this day,
 <0690> \ It is said to have been passed down through the generations.
 <0691> --To sum up, that was the story.
-<0692> \{［伶］}
+<0692> \{[Rei]}
 <0693> (...Through heaven, guided by angels,
 <0694> \ Speaking of the story of the man who left behind a book,
 <0695> \ The content is similar to the Apocrypha "Book of Enoch.")
-<0696> \{［伶］}
+<0696> \{[Rei]}
 <0697> (Is this one of those stories that is passed down in the variant versions?)
 <0698> After looking through it once, Rei finished checking it,
 <0699> It was about time.
@@ -713,7 +713,7 @@
 <0706> Don't check
 <0707> I thought about returning it to the owner as soon as possible,
 <0708> Rei opened the book again, ready to start tonight.
-<0709> \{［伶］}
+<0709> \{[Rei]}
 <0710> (Now, which story should I look into in more detail...?)
 <0711> While I was lost, I suddenly opened the page,
 <0712> I was attracted by the title, which is not very suitable for a book of angels.
@@ -732,17 +732,17 @@
 <0725> "The man's soul also returned to heaven with the stars."
 <0726> The word "angel" does not appear even once in the sentence.
 <0727> It was a very short and mysterious story.
-<0728> \{［伶］}
+<0728> \{[Rei]}
 <0729> (Does the "star" depicted here refer to an angel?)
 <0730> These are stories collected in the Book of Angels,
 <0731> Surely this must be one of those angel stories.
 <0732> When I realized it, it was past midnight.
-<0733> \{［伶］}
+<0733> \{[Rei]}
 <0734> (...It's already late tonight.
 <0735> \ I'll look into the rest next time.)
 <0736> Having made that decision, I quietly closed the book,
 <0737> Rei crawled into bed and soon fell asleep.
-<0738> \{［伶］}
+<0738> \{[Rei]}
 <0739> (...There's no need to rush, huh?
 <0740> \ It's late tonight.
 <0741> \ I'll look into it in detail next time.)

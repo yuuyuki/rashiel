@@ -1,9 +1,9 @@
 // Resources for SEEN0500.TXT
 
-#character '［Marie］'
+#character '[Marie]'
 #character '[Rei]'
-#character '[male]'
-#character '［Takami］'
+#character '[Man]'
+#character '[Takami]'
 
 <0000> May 4th Marie Route
 <0001> A familiar darkness.
@@ -40,19 +40,19 @@
 <0032> \{[Mari]}
 <0033> "Good morning, Rei-sama!
 <0034> \ Is it okay to wake up now?
-<0035> \{［伶］}
+<0035> \{[Rei]}
 <0036> "Yeah, I've had plenty of rest.
 <0037> \ By the way, Marie.
 <0038> \ Why didn't you come and wake me up this morning?
 <0039> \{[Mari]}
 <0040> "It seems you went to bed late last night,
 <0041> \ I refrained from calling out to you so early in the morning today.
-<0042> \{［伶］}
+<0042> \{[Rei]}
 <0043> "I see... I'm sorry for making you worry."
 <0044> \{[Mari]}
 <0045> "No! Ah, the meal is ready,
 <0046> \ Would you like to eat it now?
-<0047> \{［伶］}
+<0047> \{[Rei]}
 <0048> "That's right. I'll have a light meal."
 <0049> \{[Mari]}
 <0050> "Well, I'll reheat the food,
@@ -60,7 +60,7 @@
 <0052> \{[Mari]}
 <0053> "Rei-sama, can I have another cup of tea?
 <0054> \ How do you like it?
-<0055> \{［伶］}
+<0055> \{[Rei]}
 <0056> "Today's tea leaves smell especially nice.
 <0057> \ I'll take it since you've offered it.
 <0058> \{[Mari]}
@@ -79,13 +79,13 @@
 <0071> \{[Mari]}
 <0072> "Rei-sama, what are your plans for the rest of today?
 <0073> \ What would you like to do?
-<0074> \{［伶］}
+<0074> \{[Rei]}
 <0075> "I think I'll spend today reading a book.
 <0076> \ ...I'm going back to my room."
 <0077> \{[Mari]}
 <0078> "I see. I'll come to Rei-sama's room later.
 <0079> \ I'll bring you some tea."
-<0080> \{［伶］}
+<0080> \{[Rei]}
 <0081> "Yes, please. Thank you."
 <0082> \{[Mari]}
 <0083> "Understood.
@@ -94,23 +94,23 @@
 <0086> I enjoyed reading.
 <0087> Marie prepares tea for Rei,
 <0088> I think it might be about time.
-<0089> \{［伶］}
+<0089> \{[Rei]}
 <0090> (…………?)
 <0091> Suddenlyーa faint sound in the room,
 <0092> Feeling something like a current of air, Rei raised her head.
-<0093> \{［伶］}
+<0093> \{[Rei]}
 <0094> "--!"
 <0095> --At that moment.
 <0096> The presence of something other than myself,
 <0097> I feel it in the room.
-<0098> \{［伶］}
+<0098> \{[Rei]}
 <0099> (...Is there anyone else in this room besides me?)
 <0100> A chill down my spine,
 <0101> I turned around to look in the direction I felt the presence,
 <0102> Just before it started to move.
 <0103> A quick, silent arm stretched out from behind me.
 <0104> He restrained Rei's movements and covered her mouth.
-<0105> \{［伶］}
+<0105> \{[Rei]}
 <0106> "――!?"
 <0107> He held Rei's mouth with one hand to prevent her from calling for help,
 <0108> The other arm tries to press the cloth in his hand.
@@ -125,13 +125,13 @@
 <0117> A man Rei didn't know stood there.
 <0118> The man, who I had never seen before,
 <0119> He doesn't seem to be from the mansion.
-<0120> \{［伶］}
+<0120> \{[Rei]}
 <0121> "Who are you?!"
 <0122> Without answering any questions,
 <0123> The unknown intruder attacks Rei again.
 <0124> All Rei could do was avoid the approaching arms.
 <0125> They are forced into a situation where they have no time to call for help.
-<0126> \{［伶］}
+<0126> \{[Rei]}
 <0127> "...Ugh..."
 <0128> And then, finally, Rei's arm was grabbed by the intruder,
 <0129> Your freedom will be taken away.
@@ -141,7 +141,7 @@
 <0133> It was filled with some kind of mysterious chemical liquid.
 <0134> An ampoule with a small syringe-like needle attached to the end,
 <0135> The intruder takes it out.
-<0136> \{［伶］}
+<0136> \{[Rei]}
 <0137> "......!"
 <0138> With a quick movement, there was no time for Rei to resist, and the man grabbed her arm.
 <0139> I stabbed it with the tip of the needle.
@@ -154,7 +154,7 @@
 <0146> The intruder stumbled back a few steps,
 <0147> Rei noticed him quickly take something out of his pocket,
 <0148> The man is astonished to see what he has in his hands.
-<0149> \{［伶］}
+<0149> \{[Rei]}
 <0150> "...A gun?! Even something like that..."
 <0151> A pistol was quickly pulled from his pocket,
 <0152> A chill runs down my spine at the prospect of it being aimed directly at my forehead.
@@ -162,12 +162,12 @@
 <0154> The door opened with a soft knock.
 <0155> \{[Mari]}
 <0156> "Rei-sama, I've brought you some tea."
-<0157> \{［伶］}
+<0157> \{[Rei]}
 <0158> (...Damn it, Marie!)
 <0159> From Marie's position, the spot by the wall where Rei and the man are standing,
 <0160> It's hidden by the curtain and can't be seen.
 <0161> Marie is still unaware of this dangerous situation.
-<0162> \{［伶］}
+<0162> \{[Rei]}
 <0163> "--No, Marie! Don't come!"
 <0164> \{[Mari]}
 <0165> "Rei-sama...!?"
@@ -175,14 +175,14 @@
 <0167> I suddenly let out a cry.
 <0168> However, the man who had already aimed his gun,
 <0169> I turned around in the direction of Marie's voice.
-<0170> \{［伶］}
+<0170> \{[Rei]}
 <0171> (No, Marie is being targeted!)
 <0172> Run into a man
 <0173> Silently watch the developments
 <0174> The moment the man's gun was aimed at Marie.
 <0175> Rei suddenly forgot all about the danger she was in.
 <0176> He bumped into the man's back with his shoulder.
-<0177> \{［Male］}
+<0177> \{[Man]}
 <0178> "Whoa...!?"
 <0179> He hit me with all his might from behind,
 <0180> The man couldn't help but stumble.
@@ -190,7 +190,7 @@
 <0182> Rei and the man became entangled and both fell to the floor.
 <0183> \{[Mari]}
 <0184> "Rei-sama――――!"
-<0185> \{［伶］}
+<0185> \{[Rei]}
 <0186> "---Don't come near me...!"
 <0187> To prevent him from going to Marie,
 <0188> Rei desperately puts her arms around the man's waist to stop him.
@@ -199,26 +199,26 @@
 <0191> Rei also puts in all her strength so that she won't be let go.
 <0192> Finally, having had enough, the man gave up trying to pull Rei off.
 <0193> He grabbed Rei's collar and began to tighten it.
-<0194> \{［伶］}
+<0194> \{[Rei]}
 <0195> "Ugh...!"
 <0196> Before I could escape, I was pinned down by the man's arms.
 <0197> I almost fainted from lack of oxygen.
 <0198> As the view gets darker and darker,
 <0199> Squeezing out a painful breath, Rei cried out.
-<0200> \{［伶］}
+<0200> \{[Rei]}
 <0201> "I'm fine...
 <0202> \ Run, Marie--!"
 <0203> \{[Mari]}
 <0204> "I won't listen to that order---!"
 <0205> \{[Mari]}
 <0206> "I will protect Rei-sama!"
-<0207> \{［伶］}
+<0207> \{[Rei]}
 <0208> "No good... Marie..."
 <0209> As Rei's consciousness fades, he hears Marie's earnest voice.
 <0210> Something loud came through.
 <0211> At the same time as the sound, the weight that had been placed on Rei
 <0212> It suddenly disappears and becomes lighter.
-<0213> \{［伶］}
+<0213> \{[Rei]}
 <0214> (Did the man... retreat...?)
 <0215> \{[Mari]}
 <0216> "Rei-sama...! Are you okay?"
@@ -240,7 +240,7 @@
 <0232> "Rei-sama, please open your eyes!"
 <0233> \{[Mari]}
 <0234> "Rei-sama..."
-<0235> \{［伶］}
+<0235> \{[Rei]}
 <0236> "...Mariye, huh?"
 <0237> \{[Mari]}
 <0238> "Rei-sama--!"
@@ -251,15 +251,15 @@
 <0243> \{[Mari]}
 <0244> "If something were to happen to Rei-sama...
 <0245> \ My heart nearly stopped...!
-<0246> \{［伶］}
+<0246> \{[Rei]}
 <0247> "You're the one... I'm glad you're safe."
 <0248> \{[Mari]}
 <0249> "...I,
 <0250> \ I'm glad you left me alone."
-<0251> \{［伶］}
+<0251> \{[Rei]}
 <0252> "When I thought you were in danger, my body moved on its own.
 <0253> \ I think I was being reckless."
-<0254> \{［伶］}
+<0254> \{[Rei]}
 <0255> "...By the way, how did you defeat that guy?
 <0256> \ I'm glad you were safe.
 <0257> \{[Mari]}
@@ -278,7 +278,7 @@
 <0270> \ I couldn't follow him..."
 <0271> \{[Mari]}
 <0272> "I'm sorry..."
-<0273> \{［伶］}
+<0273> \{[Rei]}
 <0274> "If you're safe, that's good enough.
 <0275> \ ...Thank you, Marie."
 <0276> \{[Mari]}
@@ -296,13 +296,13 @@
 <0288> \ May I serve you?
 <0289> Marie, who had left her seat for a medical examination, called out,
 <0290> I can hear it from behind the door.
-<0291> \{［伶］}
+<0291> \{[Rei]}
 <0292> "Yeah, that's fine."
 <0293> \{[Mari]}
 <0294> "I see! Then let me show you through."
 <0295> \{[Takami]}
 <0296> "--Rei, are you okay?!"
-<0297> \{［伶］}
+<0297> \{[Rei]}
 <0298> "It seems there was some commotion outside my room as well.
 <0299> \ Can you explain to me what exactly happened?"
 <0300> \{[Takami]}
@@ -324,9 +324,9 @@
 <0316> "We managed to capture everyone except the one who attacked you."
 <0317> \{[Takami]}
 <0318> "This will give me peace of mind for the time being. Thank you."
-<0319> \{［伶］}
+<0319> \{[Rei]}
 <0320> "For the time being..."
-<0321> \{［伶］}
+<0321> \{[Rei]}
 <0322> "--Around you,
 <0323> \ Does that happen often?
 <0324> \{[Takami]}
@@ -335,7 +335,7 @@
 <0327> \{[Takami]}
 <0328> "When you deal with greedy customers,
 <0329> \ This kind of thing happens all the time.
-<0330> \{［伶］}
+<0330> \{[Rei]}
 <0331> "--The security here seems pretty lax.
 <0332> \ The intrusion of gun-carrying people,
 <0333> \ They even allowed it inside the building..."
@@ -343,12 +343,12 @@
 <0335> "...Sorry.
 <0336> \ We were late in obtaining the information and ended up falling behind.
 <0337> \ It seems that discipline within the building has become a little lax.
-<0338> \{［伶］}
+<0338> \{[Rei]}
 <0339> "...I'm surprised you apologized to me so honestly."
 <0340> \{[Takami]}
 <0341> "...! These are rare words spoken honestly by someone,
 <0342> \ Just shut up and accept it!
-<0343> \{［伶］}
+<0343> \{[Rei]}
 <0344> "More importantly, I'd like to know the identity of the intruder.
 <0345> \ Do you have any idea?
 <0346> \{[Takami]}
@@ -361,12 +361,12 @@
 <0353> \ There are people who are up to such wicked schemes."
 <0354> \{[Takami]}
 <0355> "They're a tricky business partner..."
-<0356> \{［伶］}
+<0356> \{[Rei]}
 <0357> "......"
 <0358> \{[Takami]}
 <0359> "We'll handle everything else.
 <0360> \ You guys should continue living in the mansion as is."
-<0361> \{［伶］}
+<0361> \{[Rei]}
 <0362> "When something like today happens,
 <0363> \ I'm feeling uneasy about staying in this mansion."
 <0364> \{[Takami]}
@@ -382,7 +382,7 @@
 <0374> \{[Takami]}
 <0375> "You're so
 <0376> \ Does that mean you like Marie?
-<0377> \{［伶］}
+<0377> \{[Rei]}
 <0378> "I wonder..."
 <0379> \{[Takami]}
 <0380> "...Are you trying to avoid the question? Well, I don't really mind..."
@@ -390,13 +390,13 @@
 <0382> "......"
 <0383> \{[Takami]}
 <0384> "By the way -- have you met Nozomi?"
-<0385> \{［伶］}
+<0385> \{[Rei]}
 <0386> "No, not at all."
-<0387> \{［伶］}
+<0387> \{[Rei]}
 <0388> "If you don't feel like it, there's nothing you can do about it."
 <0389> \{[Takami]}
 <0390> "You...!"
-<0391> \{［伶］}
+<0391> \{[Rei]}
 <0392> "But I liked living at the mansion.
 <0393> \ I'd like to stay a little longer, is that okay?
 <0394> \{[Takami]}
@@ -410,18 +410,18 @@
 <0402> And then, he became more desperate than usual for Marie,
 <0403> Thinking about his own actions, he was seized by a strange emotion.
 <0404> Rei quietly closed her eyes.
-<0405> \{［伶］}
+<0405> \{[Rei]}
 <0406> (...For Marie's sake, I have no intention of taking any more risks.
 <0407> \ Let's just keep quiet and watch how things go...)
 <0408> While Rei was frightened for just a moment,
 <0409> The man aimed his punch at Rei's stomach.
 <0410> In an instant, a dull shock ran through me.
-<0411> \{［伶］}
+<0411> \{[Rei]}
 <0412> "――――!?"
 <0413> My vision quickly becomes dark and I lose consciousness.
 <0414> Everything around me melts into darkness,
 <0415> And soon, Rei's thoughts also came to a halt.
-<0416> \{［伶］}
+<0416> \{[Rei]}
 <0417> "......"
 <0418> Rei decided to ignore the voice.
 <0419> Slowly, while leaving the place,
@@ -447,19 +447,19 @@
 <0439> \{[Mari]}
 <0440> "Good morning, Rei-sama!
 <0441> \ Is it okay to wake up now?
-<0442> \{［伶］}
+<0442> \{[Rei]}
 <0443> "Yeah, I've had plenty of rest.
 <0444> \ By the way, Marie.
 <0445> \ Why didn't you come and wake me up this morning?
 <0446> \{[Mari]}
 <0447> "It seems you went to bed late last night,
 <0448> \ I refrained from calling out to you so early in the morning today.
-<0449> \{［伶］}
+<0449> \{[Rei]}
 <0450> "I see... I'm sorry for making you worry."
 <0451> \{[Mari]}
 <0452> "No! Ah, the meal is ready,
 <0453> \ Would you like to eat it now?
-<0454> \{［伶］}
+<0454> \{[Rei]}
 <0455> "That's right. I'll have a light meal."
 <0456> \{[Mari]}
 <0457> "Well, I'll reheat the food,
@@ -467,7 +467,7 @@
 <0459> \{[Mari]}
 <0460> "Rei-sama, can I have another cup of tea?
 <0461> \ How do you like it?
-<0462> \{［伶］}
+<0462> \{[Rei]}
 <0463> "No, that's fine. Thank you."
 <0464> After breakfast, enjoy the aroma of tea.
 <0465> When the cup is empty,
@@ -475,13 +475,13 @@
 <0467> \{[Mari]}
 <0468> "Rei-sama, what are your plans for the rest of today?
 <0469> \ What would you like to do?
-<0470> \{［伶］}
+<0470> \{[Rei]}
 <0471> "I think I'll spend today reading a book.
 <0472> \ ...I'm going back to my room."
 <0473> \{[Mari]}
 <0474> "I see. I'll come to Rei-sama's room later.
 <0475> \ I'll bring you some tea."
-<0476> \{［伶］}
+<0476> \{[Rei]}
 <0477> "No, you don't need to be so considerate.
 <0478> \ I want to be left alone.
 <0479> \{[Mari]}
@@ -490,19 +490,19 @@
 <0482> After finishing the meal, while relaxing in my room,
 <0483> While Rei was enjoying reading,
 <0484> I felt as if I caught a faint sound and looked up.
-<0485> \{［伶］}
+<0485> \{[Rei]}
 <0486> "--!"
 <0487> --At that moment.
 <0488> Suddenly, I sensed the presence of something other than myself.
 <0489> I felt it in the room.
-<0490> \{［伶］}
+<0490> \{[Rei]}
 <0491> (...Is there anyone else in this room besides me?)
 <0492> A chill down my spine,
 <0493> I turned around to look in the direction I felt the presence.
 <0494> Just before it started to move.
 <0495> A quick, silent arm stretched out from behind me.
 <0496> He restrained Rei's movements and covered her mouth.
-<0497> \{［伶］}
+<0497> \{[Rei]}
 <0498> "――!?"
 <0499> I was pressed down firmly with a cloth soaked in some kind of chemical,
 <0500> Unable to resist, she is forced to drink the drug.
@@ -513,11 +513,11 @@
 <0505> All I knew was that I was being held in someone's arms.
 <0506> However, as darkness rapidly filled the field of vision,
 <0507> I can't even see his face.
-<0508> \{［伶］}
+<0508> \{[Rei]}
 <0509> “…Who…?”
 <0510> As my consciousness fades, I sense a ripple of laughter.
 <0511> It echoes in Rei's mind forever.
-<0512> \{［伶］}
+<0512> \{[Rei]}
 <0513> (Who on earth... could have... me?)
 <0514> Repeating questions that will never be answered,
 <0515> Rei's mind sank into deep darkness...

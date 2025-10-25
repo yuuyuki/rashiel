@@ -1,9 +1,9 @@
 // Resources for SEEN0404.TXT
 
 #character '[mother]'
-#character '［Marie］'
+#character '[Marie]'
 #character '[Rei]'
-#character '［Takami］'
+#character '[Takami]'
 
 <0000> May 8th Takami Route
 <0001> \{[Mother]}
@@ -89,7 +89,7 @@
 <0081> \{[Mari]}
 <0082> "Good morning, Rei-sama.
 <0083> \ Um... are you awake now?
-<0084> \{［伶］}
+<0084> \{[Rei]}
 <0085> "...Ah, he's awake."
 <0086> \{[Mari]}
 <0087> "I see! Well then, I'll be off then."
@@ -97,18 +97,18 @@
 <0089> "I came to wake you up this morning,
 <0090> \ Since you seemed tired,
 <0091> \ I didn't say anything and just waited for him to wake up.
-<0092> \{［伶］}
+<0092> \{[Rei]}
 <0093> "I see... sorry about that."
 <0094> \{[Mari]}
 <0095> "It's almost lunchtime,
 <0096> \ Would you like to have dinner?
-<0097> \{［伶］}
+<0097> \{[Rei]}
 <0098> "...No need."
 <0099> \{[Mari]}
 <0100> "Yes...! But then,
 <0101> \ That means you haven't eaten anything since this morning.
 <0102> \ It would be better if you said something at least..."
-<0103> \{［伶］}
+<0103> \{[Rei]}
 <0104> "I'm sorry about you and the chef, but I don't want anything.
 <0105> \ ...Just water will do."
 <0106> \{[Mari]}
@@ -116,16 +116,16 @@
 <0108> \{[Mari]}
 <0109> "Excuse me, perhaps you're not feeling well?
 <0110> \ Your complexion doesn't look good either."
-<0111> \{［伶］}
+<0111> \{[Rei]}
 <0112> "......"
 <0113> \{[Mari]}
 <0114> "If you're not feeling well,
 <0115> \ Please rest as you are!
 <0116> \ I'll call a doctor right away...!"
-<0117> \{［伶］}
+<0117> \{[Rei]}
 <0118> "Wait, it's not that big of a deal.
 <0119> \ I'm just a little... down."
-<0120> \{［伶］}
+<0120> \{[Rei]}
 <0121> "...I want to be alone for a while."
 <0122> \{[Mari]}
 <0123> "...Yes. I understand.
@@ -156,13 +156,13 @@
 <0148> \{[Mari]}
 <0149> "Rei-sama, Takami-sama has arrived.
 <0150> \ Would you like to meet me?
-<0151> \{［伶］}
+<0151> \{[Rei]}
 <0152> "...Takami's here? Why..."
 <0153> \{[Mari]}
 <0154> "Ah, Rei-sama! It's dangerous if you wake up suddenly!"
 <0155> I stood up to get up, my body feeling a little unsteady.
 <0156> Marie hurriedly supports him from the side.
-<0157> \{［伶］}
+<0157> \{[Rei]}
 <0158> "...Sorry."
 <0159> \{[Mari]}
 <0160> "Um, I have a suggestion - if you're okay with it, Rei-sama,
@@ -172,9 +172,9 @@
 <0164> "I understand that Rei-sama is not feeling well today.
 <0165> \ Takami-sama already knows,
 <0166> \ I don't think it would be rude to welcome you here like this."
-<0167> \{［伶］}
+<0167> \{[Rei]}
 <0168> "...That's right. I'll do that."
-<0169> \{［伶］}
+<0169> \{[Rei]}
 <0170> "I just want to clear my head a bit,
 <0171> \ I want time to take a shower.
 <0172> \ I'm sorry, but please tell Takami to wait a while."
@@ -190,24 +190,24 @@
 <0182> The desire to run away only grows stronger.
 <0183> I wiped the water off my completely chilled body,
 <0184> After getting ready, I called Takami into my room.
-<0185> \{［伶］}
+<0185> \{[Rei]}
 <0186> "What's wrong, Takami? Why did you come to see me at this time?
 <0187> \ Is there some urgent matter?"
 <0188> \{[Takami]}
 <0189> "...There's something strange about you,
 <0190> \ Marie contacted me and I came to see you.
 <0191> \ How are you?
-<0192> \{［伶］}
+<0192> \{[Rei]}
 <0193> "Mariie contacted you?
 <0194> \ Right -- that must have worried you..."
-<0195> \{［伶］}
+<0195> \{[Rei]}
 <0196> "But it's nothing serious.
 <0197> \ Perhaps I was feeling a little tired from living a different life than usual,
 <0198> \ I just didn't have an appetite."
 <0199> \{[Takami]}
 <0200> "Is that really all?
 <0201> \ Just as Marie said, your complexion doesn't look good.
-<0202> \{［伶］}
+<0202> \{[Rei]}
 <0203> "Nothing in particular..."
 <0204> \{[Takami]}
 <0205> "...About yesterday,
@@ -217,12 +217,12 @@
 <0209> "You said you wanted to be alone to think,
 <0210> \ Until you calm down a bit,
 <0211> \ I was thinking of refraining from coming to see you..."
-<0212> \{［伶］}
+<0212> \{[Rei]}
 <0213> "......"
 <0214> \{[Takami]}
 <0215> "--Rei? What happened to you?
 <0216> \ There's something strange about it after all."
-<0217> \{［伶］}
+<0217> \{[Rei]}
 <0218> "...Nothing. None of your business."
 <0219> --And then,
 <0220> Rei wonders why she has been feeling so anxious,
@@ -243,7 +243,7 @@
 <0235> To Takami.
 <0236> \{[Takami]}
 <0237> "...Is what we talked about yesterday still bothering you?"
-<0238> \{［伶］}
+<0238> \{[Rei]}
 <0239> "......"
 <0240> \{[Takami]}
 <0241> "I guess so..."
@@ -253,9 +253,9 @@
 <0245> \{[Takami]}
 <0246> "Rei, the burden that is tormenting you,
 <0247> \ Please, can you let me carry this burden as well?
-<0248> \{［伶］}
+<0248> \{[Rei]}
 <0249> "...Takami..."
-<0250> \{［伶］}
+<0250> \{[Rei]}
 <0251> "You areーa mysterious being called me,
 <0252> \ That's the power I have,
 <0253> \ Don't you think it's disgusting...?
@@ -269,7 +269,7 @@
 <0261> "That is certainly a power that ordinary people do not possess.
 <0262> \ It's no wonder you find that power repulsive,
 <0263> \ It's not something that is "abominable" in itself.
-<0264> \{［伶］}
+<0264> \{[Rei]}
 <0265> "...It's a heretical power that terrified my mother and ruined her life.
 <0266> \ I can't say for sure that it's not an abomination."
 <0267> \{[Takami]}
@@ -278,7 +278,7 @@
 <0270> \{[Takami]}
 <0271> "So, to use your power in this way,
 <0272> \ Isn't there any need to belittle him?
-<0273> \{［伶］}
+<0273> \{[Rei]}
 <0274> "I see - it was the power of the Angel that saved you,
 <0275> \ You're not afraid of me..."
 <0276> Without knowing Rei's current power,
@@ -294,63 +294,63 @@
 <0286> I want to end it all--
 <0287> With this half-hearted feeling,
 <0288> Rei coldly threw out words that tested Takami's heart.
-<0289> \{［伶］}
+<0289> \{[Rei]}
 <0290> "Have you never thought my power was disgusting...?
 <0291> \ If we do not see the horrible side of power,
 <0292> \ That's a pretty easy statement to make.
-<0293> \{［伶］}
+<0293> \{[Rei]}
 <0294> "You say you don't find power disgusting,
 <0295> \ The power you know of me in the past and the power I possess now,
 <0296> \ They are completely different in quality and form."
-<0297> \{［伶］}
+<0297> \{[Rei]}
 <0298> "Even after learning that, you still said the same thing.
 <0299> \ Can we say it with the same feelings?
 <0300> \{[Takami]}
 <0301> "Rei...? What does that mean?"
-<0302> \{［伶］}
+<0302> \{[Rei]}
 <0303> "Most women who sleep with me end up leaving me afterwards.
 <0304> \ --Why do you think that is?"
-<0305> \{［伶］}
+<0305> \{[Rei]}
 <0306> "Well, by overlapping our bodies,
 <0307> \ Because you read too much into the other person's information."
-<0308> \{［伶］}
+<0308> \{[Rei]}
 <0309> "It's not something I want to do, and I can't control it.
 <0310> \ What the person you are deeply connected to feels,
 <0311> \ It flows into me when our bodies are together."
-<0312> \{［伶］}
+<0312> \{[Rei]}
 <0313> "This is not my intention,
 <0314> \ To avoid being recognized as having looked into the mind of the person with whom you have a relationship,
 <0315> \ I acted as discreetly as possible.
-<0316> \{［伶］}
+<0316> \{[Rei]}
 <0317> "But even so, you touched me deeply,
 <0318> \ They sensed something strange lurking inside me,
 <0319> \ In the end, they were afraid of me and left me--"
-<0320> \{［伶］}
+<0320> \{[Rei]}
 <0321> "There are some kids who are more intuitive,
 <0322> \ They clearly noticed my power."
 <0323> \{[Takami]}
 <0324> "...What happened with those women?"
-<0325> \{［伶］}
+<0325> \{[Rei]}
 <0326> "They called me a monster,
 <0327> \ He ran away from me."
 <0328> \{[Takami]}
 <0329> "......"
-<0330> \{［伶］}
+<0330> \{[Rei]}
 <0331> "Why do you look so angry?
 <0332> \ Their reaction was natural.
 <0333> \ There is one thought in my heart that I don't want anyone to know.
-<0334> \{［伶］}
+<0334> \{[Rei]}
 <0335> "My power will expose that, whether you like it or not.
 <0336> \ It's a rude and uncaring power--"
 <0337> \{[Takami]}
 <0338> “Rei…”
-<0339> \{［伶］}
+<0339> \{[Rei]}
 <0340> "What do you think? Even with this,
 <0341> \ Are you sure you don't fear my power?"
 <0342> \{[Takami]}
 <0343> "--Don't make fun of me!
 <0344> \ So you think you're trying to hold me back, Rei?
-<0345> \{［伶］}
+<0345> \{[Rei]}
 <0346> "Eh..."
 <0347> \{[Takami]}
 <0348> "Don't underestimate me! If you don't trust my words,
@@ -363,7 +363,7 @@
 <0355> Taking advantage of the difference in physique, he pins him down by leaning over him.
 <0356> \{[Takami]}
 <0357> "You have no idea how I feel!"
-<0358> \{［伶］}
+<0358> \{[Rei]}
 <0359> "Takami...?"
 <0360> From such close proximity that their bangs touch each other's foreheads,
 <0361> With a frighteningly serious face,
@@ -380,33 +380,33 @@
 <0372> \{[Takami]}
 <0373> "What kind of power do you currently possess?
 <0374> \ I've known for a long time...!!"
-<0375> \{［伶］}
+<0375> \{[Rei]}
 <0376> "...!"
-<0377> \{［伶］}
+<0377> \{[Rei]}
 <0378> "How long have you been thinking about that?"
 <0379> \{[Takami]}
 <0380> "...the girl you were dating,
 <0381> \ Do you remember that I used to date you?
-<0382> \{［伶］}
+<0382> \{[Rei]}
 <0383> "Yeah, that happened too.
 <0384> \ ! Surely you heard it from her...?
-<0385> \{［伶］}
+<0385> \{[Rei]}
 <0386> "Now that I think about it, around the time we broke up, she
 <0387> \ He was quite creeped out by me--"
 <0388> \{[Takami]}
 <0389> "That woman! She thought of you,
 <0390> \ "He's a pretty guy, but he's creepy," you said!
 <0391> \ You should be a little more selective about who you associate with!
-<0392> \{［伶］}
+<0392> \{[Rei]}
 <0393> "...Takami. You can't tell me that's the reason you broke up with her...
 <0394> \ You're not going to continue, are you?
 <0395> \{[Takami]}
 <0396> "That's...!"
-<0397> \{［伶］}
+<0397> \{[Rei]}
 <0398> "...I guess that hit the nail on the head."
 <0399> \{[Takami]}
 <0400> "......"
-<0401> \{［伶］}
+<0401> \{[Rei]}
 <0402> "So, based on the testimony of the woman who dated me,
 <0403> \ The power to read the mind of the person you sleep with,
 <0404> \ So you knew I had it...?
@@ -419,9 +419,9 @@
 <0411> "But, with all of that strange power,
 <0412> \ I guess that's what shaped you into the person you are today?
 <0413> \ Then don't belittle your own power."
-<0414> \{［伶］}
+<0414> \{[Rei]}
 <0415> "Takami..."
-<0416> \{［伶］}
+<0416> \{[Rei]}
 <0417> "You... you really don't like it?
 <0418> \ The person you hug can read your mind..."
 <0419> \{[Takami]}
@@ -431,7 +431,7 @@
 <0423> \{[Takami]}
 <0424> "Even if someone reads my mind, if it's you,
 <0425> \ It's no big deal to me at all."
-<0426> \{［伶］}
+<0426> \{[Rei]}
 <0427> "...Takami..."
 <0428> --Don't touch it.
 <0429> The anguished screams of her mother from that childhood were burned into Rei's ears.
@@ -446,19 +446,19 @@
 <0438> Looking straight into Rei's eyes,
 <0439> Takami spoke these words with such a serious expression,
 <0440> I believe there is no lie.
-<0441> \{［伶］}
+<0441> \{[Rei]}
 <0442> "Thank you... Takami."
 <0443> To convey that my feelings have been conveyed,
 <0444> Rei gently tightened her arms around Takami's back.
 <0445> \{[Takami]}
 <0446> “Rei…”
-<0447> \{［伶］}
+<0447> \{[Rei]}
 <0448> "Even so, you're quite the reckless guy.
 <0449> \ Even though it was to convey your feelings to me,
 <0450> \ To think that you would suddenly push me down and try to embrace me..."
 <0451> \{[Takami]}
 <0452> "...! Ah, that!"
-<0453> \{［伶］}
+<0453> \{[Rei]}
 <0454> "After confessing, you suddenly resorted to force,
 <0455> \ I feel like this is very much like you,
 <0456> \ Without my consent, it's a crime, right?
@@ -475,11 +475,11 @@
 <0467> "...I loved you."
 <0468> \{[Takami]}
 <0469> "You're my first love...!"
-<0470> \{［伶］}
+<0470> \{[Rei]}
 <0471> "......"
 <0472> \{[Takami]}
 <0473> "......"
-<0474> \{［伶］}
+<0474> \{[Rei]}
 <0475> "...You're such an idiot..."
 <0476> \{[Takami]}
 <0477> "Don't laugh, Rei! I'm serious!"
@@ -488,30 +488,30 @@
 <0480> Unable to contain herself, Rei burst out laughing under Takami's arm.
 <0481> \{[Takami]}
 <0482> "Rei! Don't laugh so much..."
-<0483> \{［伶］}
+<0483> \{[Rei]}
 <0484> "Sorry, but it's funny..."
 <0485> After we'd finished laughing,
 <0486> He seemed a little angry, but also relieved by Rei's smile.
 <0487> Takami's face is staring at me with a complicated expression.
 <0488> Rei looked straight up.
-<0489> \{［伶］}
+<0489> \{[Rei]}
 <0490> "No, I'm sorry for laughing at your hard work.
 <0491> \ I was wrong. I'll apologize.
 <0492> \ Please don't make such a sulky face."
 <0493> \{[Takami]}
 <0494> "...I was serious.
 <0495> \ And yet, he laughed like that..."
-<0496> \{［伶］}
+<0496> \{[Rei]}
 <0497> "Don't worry. I can sense your sincerity.
 <0498> \ I didn't have to prove it by putting my body on the floorーit got through to me."
 <0499> \{[Takami]}
 <0500> “Rei…”
-<0501> \{［伶］}
+<0501> \{[Rei]}
 <0502> "I can honestly say that I'm glad you're by my side.
 <0503> \ I'm truly happy about your feelings."
 <0504> I understand your feelings very well
 <0505> ...Shall we continue like this?
-<0506> \{［伶］}
+<0506> \{[Rei]}
 <0507> "I understand your feelings very well.
 <0508> \ ...By the way, can you please leave now?
 <0509> \ It's a little heavy.
@@ -520,30 +520,30 @@
 <0512> \ I was so absorbed in it..."
 <0513> \{[Takami]}
 <0514> "...Whoa!?"
-<0515> \{［伶］}
+<0515> \{[Rei]}
 <0516> "...Takami?!"
 <0517> In the panic of jumping back,
 <0518> Takami had fallen off the bed,
 <0519> Rei couldn't help but give a wry smile.
-<0520> \{［伶］}
+<0520> \{[Rei]}
 <0521> "What are you doing?"
 <0522> \{[Takami]}
 <0523> "...Shut up. I was just a little panicked!"
 <0524> After helping Takami to his feet, he looked straight into his eyes.
 <0525> Rei announced.
-<0526> \{［伶］}
+<0526> \{[Rei]}
 <0527> "Would you like to talk to me now?
 <0528> \ I want to hear some stories about you that I didn't know before."
-<0529> \{［伶］}
+<0529> \{[Rei]}
 <0530> "When we lived together at Kujo's residence and in the boarding school,
 <0531> \ Without my knowledge,
 <0532> \ I want to know how you felt and thought."
-<0533> \{［伶］}
+<0533> \{[Rei]}
 <0534> "...It's not just the tie pin incident, is it?
 <0535> \ You worked behind the scenes for me."
 <0536> \{[Takami]}
 <0537> "...Well...well..."
-<0538> \{［伶］}
+<0538> \{[Rei]}
 <0539> "See, I thought so. There were things like that I didn't know,
 <0540> \ I'd like to hear it from your own mouth."
 <0541> \{[Takami]}
@@ -561,13 +561,13 @@
 <0553> \ We could have had so much fun together..."
 <0554> \{[Takami]}
 <0555> "...When I think about it like that, I feel like I've lost out a lot."
-<0556> \{［伶］}
+<0556> \{[Rei]}
 <0557> "Well, that's fine, Takami.
 <0558> \ That kind of clumsy way of doing things suits us."
-<0559> \{［伶］}
+<0559> \{[Rei]}
 <0560> "It was because of those years that I went through what seemed like a detour,
 <0561> \ I think we were able to come to an honest compromise in this way.
-<0562> \{［伶］}
+<0562> \{[Rei]}
 <0563> "I certainly miss the time that has passed,
 <0564> \ We have a future ahead of us.
 <0565> \ Starting today, we can create new memories together.
@@ -576,7 +576,7 @@
 <0568> \ Our relationship is just beginning."
 <0569> \{[Takami]}
 <0570> "So, where should we start?"
-<0571> \{［伶］}
+<0571> \{[Rei]}
 <0572> "That's right - so let's start with the story of how we first met..."
 <0573> And so, as Rei and Takami talked about their memories,
 <0574> The quiet night passed peacefully.

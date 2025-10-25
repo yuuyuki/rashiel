@@ -1,7 +1,7 @@
 // Resources for SEEN0604.TXT
 
-#character '［Youth］'
-#character '[male]'
+#character '[Youth]'
+#character '[Man]'
 
 <0000> ANOTHER1
 <0001> \{[Youth]}
@@ -60,18 +60,18 @@
 <0054> \{[Youth]}
 <0055> "It's better to woo a woman who never seems to be attracted to you,
 <0056> \ It will burn."
-<0057> \{［Male］}
+<0057> \{[Man]}
 <0058> "--Someday, I'll hold you in my arms."
-<0059> \{［Male］}
+<0059> \{[Man]}
 <0060> "I can't die until that day comes."
 <0061> - Stupid.
 <0062> \{[Youth]}
 <0063> "It's fine to be an idiot. But, even if you're an idiot,
 <0064> \ It has changed the world."
-<0065> \{［Male］}
+<0065> \{[Man]}
 <0066> "From the first time I saw you in a dream,
 <0067> \ Everything about me is dyed in your color."
-<0068> \{［Male］}
+<0068> \{[Man]}
 <0069> "Now it's my turn to dye you in my colors."
 <0070> --…………
 <0071> \{[Youth]}

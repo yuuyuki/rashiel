@@ -1,9 +1,9 @@
 // Resources for SEEN0203.TXT
 
-#character '［Marie］'
+#character '[Marie]'
 #character '[Rei]'
-#character '［Takami］'
-#character '［desire］'
+#character '[Takami]'
+#character '[Nozomi]'
 
 <0000> That morning, as if called by a premonition,
 <0001> Rei woke up just before dawn.
@@ -17,18 +17,18 @@
 <0009> A small, discreet knock,
 <0010> Marie's voice had a somewhat sad tone to it.
 <0011> I called out to Rei from outside the door.
-<0012> \{［伶］}
+<0012> \{[Rei]}
 <0013> "What's wrong, why are you making that noise?
 <0014> \ ...Is something wrong?
 <0015> \{[Mari]}
 <0016> "Takami-sama has come.
 <0017> \ So... I'm waiting for Rei-sama..."
-<0018> \{［伶］}
+<0018> \{[Rei]}
 <0019> "...Takami? What do you want from me?"
 <0020> \{[Mari]}
 <0021> "Regarding Nozomi's treatment,
 <0022> \ I want to talk to Rei-sama..."
-<0023> \{［伶］}
+<0023> \{[Rei]}
 <0024> "...!"
 <0025> Finallyーthe time has come.
 <0026> I knew this moment would come eventually,
@@ -38,7 +38,7 @@
 <0030> \{[Mari]}
 <0031> "Rei-sama, how are you?
 <0032> \ Takami-sama has been waiting in the reception room for a while now..."
-<0033> \{［伶］}
+<0033> \{[Rei]}
 <0034> "...Okay. I'll meet Takami."
 <0035> I don't really feel like it, but I can't avoid meeting him.
 <0036> Rei suppressed her gloomy thoughts and began to get dressed.
@@ -51,22 +51,22 @@
 <0043> "Hey, Rei! You've kept our guest waiting this long.
 <0044> \ You're quite late.
 <0045> \ I thought if I kept waiting like this it would be night."
-<0046> \{［伶］}
+<0046> \{[Rei]}
 <0047> "It was your choice to come early in the morning without an appointment.
 <0048> \ I'm under no obligation to accommodate your needs."
 <0049> \{[Takami]}
 <0050> "You...!"
-<0051> \{［伶］}
+<0051> \{[Rei]}
 <0052> "--More importantly, at this hour,
 <0053> \ What on earth do you want from me?"
 <0054> \{[Takami]}
 <0055> "Ah... about that,
 <0056> \ Actually, I came to pick up Nozomi."
-<0057> \{［伶］}
+<0057> \{[Rei]}
 <0058> "--So that's what you were talking about."
 <0059> He thought bitterly, frowning in displeasure.
 <0060> Rei looks at Takami coldly.
-<0061> \{［伶］}
+<0061> \{[Rei]}
 <0062> "From what you first told me,
 <0063> \ It's a pretty early arrival.
 <0064> \ --That's not what we said.
@@ -74,7 +74,7 @@
 <0066> "When I put the desired data on the <Product> list,
 <0067> \ There was a customer who "really wanted what he wanted."
 <0068> \ I'm a little earlier than expected, but I've come to pick it up."
-<0069> \{［伶］}
+<0069> \{[Rei]}
 <0070> "This is becoming increasingly different.
 <0071> \ Don't put Nozomi on the list until I check.
 <0072> \ Wasn't that the promise?
@@ -85,13 +85,13 @@
 <0077> "I don't support myself through charity.
 <0078> \ If it is in a state where it can be shipped at any time as a normal <product>,
 <0079> \ Surely you should take advantage of the business opportunity and put it on sale?
-<0080> \{［伶］}
+<0080> \{[Rei]}
 <0081> "What a ridiculous guy..."
 <0082> \{[Takami]}
 <0083> "I haven't heard anything from you, and I haven't heard anything from the people at the mansion.
 <0084> \ It seems that things aren't going well.
 <0085> Nozomi--it seems like she has no prospects as an Angel."
-<0086> \{［伶］}
+<0086> \{[Rei]}
 <0087> "...It hasn't been decided yet..."
 <0088> \{[Takami]}
 <0089> "No. I won't wait any longer.
@@ -100,7 +100,7 @@
 <0092> "Those with no hope,
 <0093> \ I can't let him play around forever.
 <0094> \ I'll get my money back."
-<0095> \{［伶］}
+<0095> \{[Rei]}
 <0096> "......"
 <0097> \{[Takami]}
 <0098> "...Hey, you look like you want to say something,
@@ -109,7 +109,7 @@
 <0101> "I've fallen in love with you - what a thing,
 <0102> \ This is impossible for you, who thinks rationally.
 <0103> \ There's no reason to refuse, right?
-<0104> \{［伶］}
+<0104> \{[Rei]}
 <0105> "...Ah, that's right."
 <0106> \{[Takami]}
 <0107> "Well then, let me take you there right away.
@@ -131,17 +131,17 @@
 <0123> \{[Takami]}
 <0124> "Nozomi, how about you? Thank you to the master who took care of me.
 <0125> Is there anything you want to say?
-<0126> \{［desire］}
+<0126> \{[Nozomi]}
 <0127> "......"
-<0128> \{［Hope］}
+<0128> \{[Hope]}
 <0129> "There's nothing to talk about."
 <0130> \{[Takami]}
 <0131> "Rei, what about you?"
-<0132> \{［伶］}
+<0132> \{[Rei]}
 <0133> "...There are no more words to be exchanged between us now."
 <0134> \{[Takami]}
 <0135> "Well, whatever. Come on, let's go, Nozomi."
-<0136> \{［desire］}
+<0136> \{[Nozomi]}
 <0137> "...Yes."
 <0138> \{[Takami]}
 <0139> "Oh wait. Before you leave the mansion,
@@ -161,7 +161,7 @@
 <0153> \{[Takami]}
 <0154> "Once you hand over Nozomi to the Customer, she will come again.
 <0155> \ Until then, don't go home on your own, okay?
-<0156> \{［伶］}
+<0156> \{[Rei]}
 <0157> "......"
 <0158> Takami entrusts the new product to Rei again,
 <0159> It seems they intend to repeat the same attempt,
@@ -176,12 +176,12 @@
 <0168> A feeling of intense confusion overcomes Rei's heart.
 <0169> I was worried that I had made an irreparable mistake.
 <0170> A chill runs down my spine.
-<0171> \{［伶］}
+<0171> \{[Rei]}
 <0172> “Nozomi…”
 <0173> My hand reached out without thinking,
 <0174> Through the thick, distant glass, before touching Nozomi's fingers,
 <0175> --The car starts moving.
-<0176> \{［伶］}
+<0176> \{[Rei]}
 <0177> “Nozomi…!”
 <0178> Nozomi's lips trembled slightly, and she spelt out some words,
 <0179> The voices they make no longer reach each other.
@@ -203,7 +203,7 @@
 <0195> “--See you, Rei.
 <0196> \ Whenever you feel like it, just let me know.
 <0197> \ I'm waiting to hear from you.
-<0198> \{［伶］}
+<0198> \{[Rei]}
 <0199> "...You're pretty persistent too.
 <0200> \ Even if you persist, I won't feel like it.
 <0201> \ Give up quickly."

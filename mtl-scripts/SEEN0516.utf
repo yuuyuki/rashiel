@@ -1,8 +1,8 @@
 // Resources for SEEN0516.TXT
 
 #character '[Rei]'
-#character '［desire］'
-#character '［Takami］'
+#character '[Nozomi]'
+#character '[Takami]'
 
 <0000> ……………………
 <0001> …………
@@ -37,52 +37,52 @@
 <0030> I lived alone in this beautiful and cruel world, and then I left.
 <0031> The soul of that black-winged Angel,
 <0032> Rei prayed from the bottom of her heart that he was now at peace.
-<0033> \{［伶］}
+<0033> \{[Rei]}
 <0034> "Nozomi...wake up."
 <0035> Gently shaking the unconscious Nozomi's body,
 <0036> Encourages a gentle awakening.
-<0037> \{［Hope］}
+<0037> \{[Hope]}
 <0038> "...? Rei...san...?"
 <0039> Nozomi blinked absentmindedly,
 <0040> Rei smiles and whispers.
-<0041> \{［伶］}
+<0041> \{[Rei]}
 <0042> "Good morning, Nozomi.
 <0043> \ Look, what a beautiful dawn sky you can see."
-<0044> \{［Hope］}
+<0044> \{[Hope]}
 <0045> "Ah..."
-<0046> \{［desire］}
+<0046> \{[Nozomi]}
 <0047> "You're right... the sky is so beautiful..."
 <0048> Nozomi returned the smile and muttered happily,
 <0049> I stared blankly at the dawn sky for a while,
 <0050> Suddenly, I come to my senses and get up.
-<0051> \{［desire］}
+<0051> \{[Nozomi]}
 <0052> "Rei-san...!?"
-<0053> \{［Hope］}
+<0053> \{[Hope]}
 <0054> "Has that person gone...?"
-<0055> \{［伶］}
+<0055> \{[Rei]}
 <0056> "Yes. He has left this world."
-<0057> \{［Hope］}
+<0057> \{[Hope]}
 <0058> "I see..."
-<0059> \{［Hope］}
+<0059> \{[Hope]}
 <0060> "...the voice of that person that resonated at the end,
 <0061> \ It was so quiet and beautiful..."
-<0062> \{［伶］}
+<0062> \{[Rei]}
 <0063> "Did you hear that too?"
-<0064> \{［desire］}
+<0064> \{[Nozomi]}
 <0065> "Yes...!"
-<0066> \{［Hope］}
+<0066> \{[Hope]}
 <0067> "Such a beautiful sound,
 <0068> \ He was a person who resonated with people..."
-<0069> \{［Hope］}
+<0069> \{[Hope]}
 <0070> "It's scary, but... it's a harsh, beautiful sound..."
-<0071> \{［伶］}
+<0071> \{[Rei]}
 <0072> "--Ah, that's right."
 <0073> Takami, who had woken up late after hearing the voices,
 <0074> Looking up at the same dawn sky,
 <0075> Listen quietly to the conversation.
 <0076> As the sky began to lighten,
 <0077> Rei took Nozomi's hand, turned to Takami and said.
-<0078> \{［伶］}
+<0078> \{[Rei]}
 <0079> "--I'll go, Takami.
 <0080> \ Bring Nozomi with you..."
 <0081> \{[Takami]}
@@ -95,15 +95,15 @@
 <0088> Sparkling in the morning sun, it drew a parabola,
 <0089> I caught the item Takami had thrown to me in the palm of my hand,
 <0090> Rei lowers her gaze in confusion.
-<0091> \{［伶］}
+<0091> \{[Rei]}
 <0092> "Is this the key to Nozomi's collar?"
 <0093> What was contained in Rei's outstretched palm was,
 <0094> It was a small, cylindrical key that shone silver in the dawn light.
-<0095> \{［伶］}
+<0095> \{[Rei]}
 <0096> "Takami... why did you do this to me?"
 <0097> \{[Takami]}
 <0098> "You need it, right? ...Just accept it."
-<0099> \{［伶］}
+<0099> \{[Rei]}
 <0100> "Takami--"
 <0101> Even if Rei doesn't have this key now,
 <0102> It is now easy to throw off the shackles of desire.
@@ -113,7 +113,7 @@
 <0106> \{[Takami]}
 <0107> "You two can go anywhere.
 <0108> \ ...I won't chase you anymore."
-<0109> \{［伶］}
+<0109> \{[Rei]}
 <0110> "Thank you... I appreciate it."
 <0111> The feelings that Takami showed to Rei and Nozomi,
 <0112> Rei certainly received it.
@@ -123,7 +123,7 @@
 <0116> \{[Takami]}
 <0117> "You are seriously trying to protect someone,
 <0118> \ You found it..."
-<0119> \{［伶］}
+<0119> \{[Rei]}
 <0120> "......"
 <0121> \{[Takami]}
 <0122> "...See you later."
@@ -131,7 +131,7 @@
 <0124> He raised his hand slightly and walked away.
 <0125> Rei watched in silence as Takami's back walked away.
 <0126> I turn around with the key in my hand.
-<0127> \{［伶］}
+<0127> \{[Rei]}
 <0128> "Come on, Nozomi. Let's take that thing off your neck."
 <0129> I placed my hand on Nozomi's slender neck, who nodded.
 <0130> In the keyhole of the collar that had been binding the boy,
@@ -140,35 +140,35 @@
 <0133> Nozomi's collar comes off.
 <0134> I wonder if he was holding his breath the whole time he was unlocking the door.
 <0135> The moment Rei's hand let go, Nozomi let out a small sigh of relief.
-<0136> \{［伶］}
+<0136> \{[Rei]}
 <0137> "...Now, there are no more shackles binding you."
-<0138> \{［desire］}
+<0138> \{[Nozomi]}
 <0139> "Yes..."
 <0140> Standing on a hill overlooking the sea in the distance,
 <0141> I look up at the dawn sky.
-<0142> \{［伶］}
+<0142> \{[Rei]}
 <0143> "...From here on, it's just you and me.
 <0144> \ Neither Marie nor Takami are here.
-<0145> \{［伶］}
+<0145> \{[Rei]}
 <0146> "--Nozomi. This is the outside you've always longed for."
-<0147> \{［伶］}
+<0147> \{[Rei]}
 <0148> "You are now completely free.
 <0149> \ You can go anywhere you want."
-<0150> \{［desire］}
+<0150> \{[Nozomi]}
 <0151> “…freedom…”
-<0152> \{［伶］}
+<0152> \{[Rei]}
 <0153> "How are you feeling, Nozomi?"
-<0154> \{［Hope］}
+<0154> \{[Hope]}
 <0155> "The wind has blown up here,
 <0156> \ It feels so good..."
-<0157> \{［伶］}
+<0157> \{[Rei]}
 <0158> "Nozomi, where do you want to go now?"
-<0159> \{［Hope］}
+<0159> \{[Hope]}
 <0160> "Um... Is Rei here with us...?"
-<0161> \{［伶］}
+<0161> \{[Rei]}
 <0162> "Of course. As long as you don't mind, I'll go anywhere with you.
 <0163> \ Now, Nozomi--where are you going?"
-<0164> \{［Hope］}
+<0164> \{[Hope]}
 <0165> "As long as Rei-san is with me, I'll go anywhere...!"
 <0166> Rei stretched out her hand straight towards Nozomi,
 <0167> She clenches her little fingers together.

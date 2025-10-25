@@ -1,10 +1,10 @@
 // Resources for SEEN0106.TXT
 
-#character '［Marie］'
+#character '[Marie]'
 #character '[Rei]'
-#character '[male]'
-#character '［desire］'
-#character '［Takami］'
+#character '[Man]'
+#character '[Nozomi]'
+#character '[Takami]'
 #character '[Servant]'
 
 <0000> May 3rd
@@ -13,7 +13,7 @@
 <0003> \ How are you feeling this morning, Rei-sama?
 <0004> A cheerful voice waking you up in the morning,
 <0005> Rei pushes open her heavy eyelids, which still refuse to wake up.
-<0006> \{［伶］}
+<0006> \{[Rei]}
 <0007> "...Good morning, Marie.
 <0008> \ I'm not feeling too bad this morning.
 <0009> \{[Mari]}
@@ -23,12 +23,12 @@
 <0013> \{[Mari]}
 <0014> "Well then, breakfast is ready,
 <0015> \ Please come to the dining room."
-<0016> \{［伶］}
+<0016> \{[Rei]}
 <0017> "Okay. I'll be there as soon as I'm ready."
 <0018> After leaving the room and walking for a while,
 <0019> Last night, Rei picked out a book for Nozomi,
 <0020> I realized I forgot.
-<0021> \{［伶］}
+<0021> \{[Rei]}
 <0022> (It'd be a pain to go back and get it now.
 <0023> \ There's no need to rush, so I guess I can do it next time...)
 <0024> For a moment, I thought about going back to my room,
@@ -42,14 +42,14 @@
 <0032> Look around the mansion
 <0033> Exit the mansion
 <0034> Return to room
-<0035> \{［伶］}
+<0035> \{[Rei]}
 <0036> "That's right... First of all,
 <0037> \ I'll go and check on Nozomi."
 <0038> \{[Mari]}
 <0039> "I have something I'd like to give to Nozomi-san,
 <0040> \ I also went to Nozomi's room.
 <0041> \ Would it be alright if I joined you...?
-<0042> \{［伶］}
+<0042> \{[Rei]}
 <0043> "I don't mind."
 <0044> \{[Mari]}
 <0045> "Thank you very much!
@@ -73,72 +73,72 @@
 <0063> Nozomi thought he was in his room.
 <0064> What on earth is this?
 <0065> Rei and Marie rush to the source of the commotion.
-<0066> \{［伶］}
+<0066> \{[Rei]}
 <0067> "Hey guys, what's all this fuss about?"
-<0068> \{［Male］}
+<0068> \{[Man]}
 <0069> "Oh, Saiga-sama! What an unsightly sight..."
-<0070> \{［伶］}
+<0070> \{[Rei]}
 <0071> "No need to say hello. In a place like this,
 <0072> \ What are you doing to Nozomi?
-<0073> \{［Male］}
+<0073> \{[Man]}
 <0074> "I'm so sorry.
 <0075> \ This product attempted to escape from the building,
 <0076> \ I was just about to arrest him..."
-<0077> \{［Hope］}
+<0077> \{[Hope]}
 <0078> "Let go...!!
 <0079> \ Please, I won't run away...!"
-<0080> \{［Male］}
+<0080> \{[Man]}
 <0081> "Hey... don't act violently!
 <0082> \ Do you think a mere commodity like you would want to be tied up?
-<0083> \{［伶］}
+<0083> \{[Rei]}
 <0084> "Wait, stop being so rough.
 <0085> I don't remember giving you permission to do whatever you want."
-<0086> \{［Male］}
+<0086> \{[Man]}
 <0087> "But, this guy tried to escape from the mansion..."
-<0088> \{［Hope］}
+<0088> \{[Hope]}
 <0089> "No, that's not it...!"
-<0090> \{[Male]}
+<0090> \{[Man]}
 <0091> "How can you trust a word like that?
 <0092> \ You tried to cross the garden boundary!
-<0093> \{［Hope］}
+<0093> \{[Hope]}
 <0094> "No...!
 <0095> \ I won't run away... Let me go."
-<0096> \{［Hope］}
+<0096> \{[Hope]}
 <0097> "I can... hear... a voice..."
-<0098> \{［Hope］}
+<0098> \{[Hope]}
 <0099> "If this continues, that child will...!"
 <0100> He looked very worried, unlike usual.
 <0101> As Nozomi desperately tries to escape,
 <0102> Rei whispers softly, as if blowing a cool breeze.
-<0103> \{［伶］}
+<0103> \{[Rei]}
 <0104> "Nozomi, calm down."
-<0105> \{［desire］}
+<0105> \{[Nozomi]}
 <0106> "Ah..."
-<0107> \{［伶］}
+<0107> \{[Rei]}
 <0108> "Listen carefully to what I have to say, Nozomi.
 <0109> \ If this continues, you will
 <0110> \ You'll lose a lot more freedom than you have now."
-<0111> \{［Hope］}
+<0111> \{[Hope]}
 <0112> "......"
-<0113> \{［伶］}
+<0113> \{[Rei]}
 <0114> "I'll tell you the details in my room,
 <0115> \ For now, be quiet.
 <0116> \ ...Did you understand?
-<0117> \{［Hope］}
+<0117> \{[Hope]}
 <0118> "...Yes..."
 <0119> Upon hearing Rei's words, Nozomi relaxed her body as if giving up.
 <0120> He slumped his shoulders and looked down sadly,
 <0121> After that, he pursed his lips tightly and fell silent.
-<0122> \{［伶］}
+<0122> \{[Rei]}
 <0123> "...I'll take care of the rest.
 <0124> \ You can step back now."
-<0125> \{［Male］}
+<0125> \{[Man]}
 <0126> "Yes... Understood."
 <0127> Leaving the man there, bowing deeply,
 <0128> Rei pulled Nozomi's arm as she bit her lip and looked down.
 <0129> With Marie beside him, who is quietly concerned about Nozomi,
 <0130> The group heads to Nozomi's room.
-<0131> \{［伶］}
+<0131> \{[Rei]}
 <0132> "--Nozomi, what on earth is that commotion about?
 <0133> \ I heard you tried to cross the garden boundary,
 <0134> \ Why would you take such a risk?
@@ -147,26 +147,26 @@
 <0137> Nozomi looked up as if she had been bounced off something,
 <0138> He clung to Rei's chest with such intensity that it felt like he was about to collide with her.
 <0139> Summoning his trembling voice, he pleaded desperately.
-<0140> \{［Hope］}
+<0140> \{[Hope]}
 <0141> "Please... help me...!"
-<0142> \{［伶］}
+<0142> \{[Rei]}
 <0143> "Help me?"
-<0144> \{［Hope］}
+<0144> \{[Hope]}
 <0145> "Please stop that Himei..."
-<0146> \{［伶］}
+<0146> \{[Rei]}
 <0147> "...screams?"
-<0148> \{［Hope］}
+<0148> \{[Hope]}
 <0149> "It hurts, and he's crying.
 <0150> \ Please help that child...!
 <0151> Surprised, I strained my ears,
 <0152> The room was silent, not even a scream.
 <0153> I can't even hear a whisper.
-<0154> \{［伶］}
+<0154> \{[Rei]}
 <0155> "--I can't hear anything."
-<0156> \{［Hope］}
+<0156> \{[Hope]}
 <0157> "I'm not lying!
 <0158> \ ...Please...!"
-<0159> \{［Hope］}
+<0159> \{[Hope]}
 <0160> "...Someone...help that child..."
 <0161> Finally, he couldn't bear it any longer,
 <0162> Nozomi had her ears pressed tightly into her palms,
@@ -175,7 +175,7 @@
 <0165> From behind her tightly closed thin eyelids,
 <0166> Uncontrollable tears welled up,
 <0167> Drops ran down my cheeks and fell to the floor.
-<0168> \{［伶］}
+<0168> \{[Rei]}
 <0169> "......"
 <0170> Someone screams that Rei can't hear,
 <0171> "I can hear you," he insisted.
@@ -186,22 +186,22 @@
 <0176> Rei ponders for a while.
 <0177> Believe in the words of hope
 <0178> Refuse Nozomi's request
-<0179> \{［伶］}
+<0179> \{[Rei]}
 <0180> "...I understand. If you say so,
 <0181> \ I'll believe your words too."
-<0182> \{［Hope］}
+<0182> \{[Hope]}
 <0183> "Eh..."
-<0184> \{［伶］}
+<0184> \{[Rei]}
 <0185> "So, where should I go?
 <0186> \ If you don't have time, hurry up.
-<0187> \{［Hope］}
+<0187> \{[Hope]}
 <0188> "Y-yes...!"
-<0189> \{［伶］}
+<0189> \{[Rei]}
 <0190> "Mari. You're trying to calm Nozomi down.
 <0191> \ Please stay by my side."
 <0192> \{[Mari]}
 <0193> "Yes! Please leave this to me."
-<0194> \{［伶］}
+<0194> \{[Rei]}
 <0195> "I'm counting on you."
 <0196> "I hear a cry for help..."
 <0197> I headed in the direction Nozomi had told me,
@@ -211,23 +211,23 @@
 <0201> They were probably the ones Nozomi was talking about.
 <0202> What are the men surrounding?
 <0203> Although he was suspicious inside, he called out to them.
-<0204> \{［伶］}
+<0204> \{[Rei]}
 <0205> "--What are you guys doing there?"
-<0206> \{［Male］}
+<0206> \{[Man]}
 <0207> "...! T-this is...thanks."
 <0208> In response to Rei's sharp questioning voice,
 <0209> The men who were surrounding something were laughing unpleasantly.
 <0210> He stops moving and looks back at me in a panic.
-<0211> \{［伶］}
+<0211> \{[Rei]}
 <0212> "You guys... are in charge of security for this mansion.
 <0213> \ It looks like a lot of fun,
 <0214> \ What are you doing here, abandoning your duties?
-<0215> \{［Male］}
+<0215> \{[Man]}
 <0216> "Well, that's... you see..."
-<0217> \{［伶］}
+<0217> \{[Rei]}
 <0218> "I don't want to hear any lame explanations.
 <0219> \ I want you to tell me just the facts about what you were doing."
-<0220> \{［Male］}
+<0220> \{[Man]}
 <0221> "Uh, yeah..."
 <0222> The men looked at each other in confusion.
 <0223> Rei urges him with a cold gaze.
@@ -235,20 +235,20 @@
 <0225> Rei's shins were watching the men exchanging glances,
 <0226> Suddenly, something small, light and warm appeared.
 <0227> It bumped into me.
-<0228> \{［伶］}
+<0228> \{[Rei]}
 <0229> "...?"
 <0230> Surprised, I looked down at my feet,
 <0231> It wags its little tail so hard it looks like it might fall off.
 <0232> The brown Mameshiba puppy looked up at Rei as if pleading for help.
 <0233> She rubbed her body against me with all her might.
-<0234> \{［伶］}
+<0234> \{[Rei]}
 <0235> "...A puppy? Is it the mansion's pet dog?"
-<0236> \{［伶］}
+<0236> \{[Rei]}
 <0237> "No. He's just a stray dog that wandered into the mansion."
-<0238> \{［Male］}
+<0238> \{[Man]}
 <0239> "Um... this dog wandered in,
 <0240> \ We were trying to get rid of this guy..."
-<0241> \{［伶］}
+<0241> \{[Rei]}
 <0242> "Disposalーwhat?"
 <0243> If you look closely, you'll see that the puppy's body is very dirty.
 <0244> There are several shoe prints and scuff marks visible.
@@ -258,17 +258,17 @@
 <0248> Now I understand.
 <0249> In Rei's heart, she felt a deep resentment towards the men's cruel actions.
 <0250> A cold rage rises up inside me.
-<0251> \{［伶］}
+<0251> \{[Rei]}
 <0252> "...a bunch of grown men gathered around me,
 <0253> \ I can't believe you enjoy torturing such a small dog.
 <0254> \ Aren't you ashamed of your actions?"
-<0255> \{［伶］}
+<0255> \{[Rei]}
 <0256> "If you're bored enough to play silly games,
 <0257> \ I think we should consider relieving you of your duties.
 <0258> \ I'll let Takami know that too."
-<0259> \{［Male］}
+<0259> \{[Man]}
 <0260> "N-No way...! We just..."
-<0261> \{［伶］}
+<0261> \{[Rei]}
 <0262> "No excuses.
 <0263> \ If you don't like that, then hurry back to your post.
 <0264> \ Do your job as you should.
@@ -276,7 +276,7 @@
 <0266> The men stood there, cowering in dejection,
 <0267> At that word, everyone was pushing and shoving, trying to get in first.
 <0268> He left the scene in a hurry.
-<0269> \{［伶］}
+<0269> \{[Rei]}
 <0270> "...Now, this is a problem."
 <0271> Although it was a coincidence,
 <0272> It seems that Rei has been forced to take care of him.
@@ -285,7 +285,7 @@
 <0275> The puppy instinctively realized that Rei was on its side.
 <0276> Without the slightest fear,
 <0277> He picked up Rei and eagerly reached up to lick her cheek.
-<0278> \{［伶］}
+<0278> \{[Rei]}
 <0279> "Ahhh -- don't be so spoiled.
 <0280> \ What should I do with you?
 <0281> \ I'm really in trouble."
@@ -294,24 +294,24 @@
 <0284> It shines with friendly affection.
 <0285> It's no use trying to explain anything to such an innocent creature.
 <0286> Rei sighs in resignation.
-<0287> \{［伶］}
+<0287> \{[Rei]}
 <0288> (...Nozomi said "help me"
 <0289> \ Are you talking about this puppy...?
 <0290> There were many things I wanted to ask Nozomi.
 <0291> Why is hope so far away?
 <0292> And the cry for help that came from a puppy, not a human,
 <0293> Were you able to hear me?
-<0294> \{［伶］}
+<0294> \{[Rei]}
 <0295> "--But first,
 <0296> \ After we sort out the issue regarding the puppy..."
 <0297> When Rei returned to Nozomi's room with the puppy in her arms,
 <0298> Before I could even reach the doorknob, the door was slammed open from inside.
 <0299> It seems they were waiting for me to return.
 <0300> Sensing Rei's presence, Nozomi opened the door before us.
-<0301> \{［伶］}
+<0301> \{[Rei]}
 <0302> "I'm sorry to have kept you waiting.
 <0303> \ Was it this puppy's life that you wanted to protect?
-<0304> \{［desire］}
+<0304> \{[Nozomi]}
 <0305> "Ah..."
 <0306> I pulled away the puppy that was clinging to me, not wanting to let go.
 <0307> Rei leaves it in Nozomi's care.
@@ -320,22 +320,22 @@
 <0310> Nozomi finally relaxed and nodded.
 <0311> \{[Mari]}
 <0312> "That's good for you, Nozomi."
-<0313> \{［desire］}
+<0313> \{[Nozomi]}
 <0314> "Yes...!"
-<0315> \{［desire］}
+<0315> \{[Nozomi]}
 <0316> "Himei... I can't hear you anymore..."
 <0317> Burying her face in the puppy's brown fur,
 <0318> Nozomi narrows her eyes in embarrassment and gives a small smile.
-<0319> \{［伶］}
+<0319> \{[Rei]}
 <0320> "By the way, what should I do with this dog?
 <0321> \ We can't keep them in the mansion,
 <0322> \ If we let it go like this, it will just get hunted by wild dogs."
-<0323> \{［伶］}
+<0323> \{[Rei]}
 <0324> "This is a problem..."
 <0325> \{[Mari]}
 <0326> "In that case, leave it to me.
 <0327> \ I have one idea about where to take the puppy.
-<0328> \{［伶］}
+<0328> \{[Rei]}
 <0329> "To you...?"
 <0330> \{[Mari]}
 <0331> "Yes! It's a little ways from here,
@@ -345,14 +345,14 @@
 <0335> "Those people would be happy to take the puppy.
 <0336> \ If Lady Rei would allow it,
 <0337> \ I'll give you some time to leave it with you..."
-<0338> \{［伶］}
+<0338> \{[Rei]}
 <0339> "I see. Then I'll leave this matter to you.
 <0340> \ Take the puppy somewhere safe."
 <0341> \{[Mari]}
 <0342> "Yes, I understand.
 <0343> \ It's not that far to walk,
 <0344> \ I'll leave in the afternoon."
-<0345> \{［Hope］}
+<0345> \{[Hope]}
 <0346> "...Ah..."
 <0347> \{[Mari]}
 <0348> "Nozomi-san..."
@@ -363,12 +363,12 @@
 <0353> "They are a very kind couple,
 <0354> \ I'm sure you will raise this child with great care.
 <0355> \ Therefore――」
-<0356> \{［desire］}
+<0356> \{[Nozomi]}
 <0357> "...I'll leave it to you..."
-<0358> \{［Hope］}
+<0358> \{[Hope]}
 <0359> "Rather than staying here,
 <0360> \ I'm sure... that would be better..."
-<0361> \{［desire］}
+<0361> \{[Nozomi]}
 <0362> "Please..."
 <0363> \{[Mari]}
 <0364> "...Nozomi..."
@@ -379,7 +379,7 @@
 <0369> He licks back Nozomi's white cheek with his small tongue.
 <0370> It's as if she's laughing innocently,
 <0371> A happy puppy's face.
-<0372> \{［Hope］}
+<0372> \{[Hope]}
 <0373> "...Goodbye..."
 <0374> I let go of his cheek,
 <0375> Nozomi takes a leap of faith and hands the puppy over to Marie.
@@ -388,185 +388,185 @@
 <0378> Surprised at being separated from Nozomi,
 <0379> Yawn yawn,
 <0380> The puppy cries, making a sad, shrieking noise.
-<0381> \{［Hope］}
+<0381> \{[Hope]}
 <0382> "......"
 <0383> Beyond the door, it gradually recedes into the distance,
 <0384> The puppy's heartbreaking cry for Nozomi,
 <0385> Nozomi remained silent and continued to listen.
 <0386> Eventually, when the puppy's voice became less audible in the distance,
 <0387> Nozomi suddenly let out a sigh of tension.
-<0388> \{［伶］}
+<0388> \{[Rei]}
 <0389> "...Was it okay if we didn't stop that noise?"
-<0390> \{［Hope］}
+<0390> \{[Hope]}
 <0391> "That's... not a painful voice..."
-<0392> \{［伶］}
+<0392> \{[Rei]}
 <0393> "I see..."
-<0394> \{［伶］}
+<0394> \{[Rei]}
 <0395> "......"
-<0396> \{［伶］}
+<0396> \{[Rei]}
 <0397> "--Nozomi, I want to tell you,
 <0398> \ There's just one thing I want to ask you."
-<0399> \{［伶］}
+<0399> \{[Rei]}
 <0400> "Perhaps you can hear the inner voices of the speechless beasts,
 <0401> \ Can't you feel it?
-<0402> \{［desire］}
+<0402> \{[Nozomi]}
 <0403> "...!"
-<0404> \{［Hope］}
+<0404> \{[Hope]}
 <0405> "No... that's not true...!"
-<0406> \{［伶］}
+<0406> \{[Rei]}
 <0407> "No, that's not true. You can't see it,
 <0408> \ The screams of a puppy in the distance,
 <0409> \ You were certainly listening then. -- Right?
-<0410> \{［desire］}
+<0410> \{[Nozomi]}
 <0411> "......!"
-<0412> \{［伶］}
+<0412> \{[Rei]}
 <0413> "But what you took there,
 <0414> \ The reason for that mysterious behavior,
 <0415> \ The results derived from this cannot be explained.
-<0416> \{［Hope］}
+<0416> \{[Hope]}
 <0417> "...Ah..."
-<0418> \{［伶］}
+<0418> \{[Rei]}
 <0419> "You've always done that,
 <0420> \ Have you hidden this from anyone?
 <0421> \ The "power" you possess--"
-<0422> \{［desire］}
+<0422> \{[Nozomi]}
 <0423> "......"
-<0424> \{［Hope］}
+<0424> \{[Hope]}
 <0425> "No one believes me..."
-<0426> \{［伶］}
+<0426> \{[Rei]}
 <0427> "...Right. That's true."
-<0428> \{［伶］}
+<0428> \{[Rei]}
 <0429> “--Nozomi”
-<0430> \{［伶］}
+<0430> \{[Rei]}
 <0431> "Youーyour power,
 <0432> \ Can you even read people's thoughts?
-<0433> \{［Hope］}
+<0433> \{[Hope]}
 <0434> "No. ... I can't hear what people are thinking."
-<0435> \{［伶］}
+<0435> \{[Rei]}
 <0436> "...I see."
-<0437> \{［Hope］}
+<0437> \{[Hope]}
 <0438> "...Um..."
-<0439> \{［Hope］}
+<0439> \{[Hope]}
 <0440> "You believed my words.
 <0441> \ Why?
-<0442> \{［伶］}
+<0442> \{[Rei]}
 <0443> "......"
 <0444> He didn't seem to be lying.
 <0445> I didn't believe it.
-<0446> \{［伶］}
+<0446> \{[Rei]}
 <0447> "It didn't seem like you were lying to me."
-<0448> \{［desire］}
+<0448> \{[Nozomi]}
 <0449> "......!"
-<0450> \{［伶］}
+<0450> \{[Rei]}
 <0451> "Well - yes,
 <0452> \ The fact that I was able to hear the feelings of a puppy from so far away,
 <0453> \ I was surprised, too..."
-<0454> \{［伶］}
+<0454> \{[Rei]}
 <0455> "If you can hear it like that all the time,
 <0456> \ The world must be a noisy place for you."
-<0457> \{［desire］}
+<0457> \{[Nozomi]}
 <0458> "...No. It's not always like this...
 <0459> \ The reason why I continued to hear such a distant voice even though it was so far away was
 <0460> \ This is my first time..."
-<0461> \{［伶］}
+<0461> \{[Rei]}
 <0462> "So... normally you can't hear as well as you can today?"
-<0463> \{［desire］}
+<0463> \{[Nozomi]}
 <0464> "Yes..."
-<0465> \{［desire］}
+<0465> \{[Nozomi]}
 <0466> "......"
-<0467> \{［伶］}
+<0467> \{[Rei]}
 <0468> "...What's wrong? Can you still hear anything?"
-<0469> \{［desire］}
+<0469> \{[Nozomi]}
 <0470> "N-no! That's not what I meant!"
-<0471> \{［伶］}
+<0471> \{[Rei]}
 <0472> "But you still have something
 <0473> \ You look like you haven't said enough yet, right?
-<0474> \{［Hope］}
+<0474> \{[Hope]}
 <0475> "Um... well, I'm glad you believed my words earlier.
 <0476> \ Thank you so much...!
-<0477> \{［Hope］}
+<0477> \{[Hope]}
 <0478> "Thanks to your faith in me,
 <0479> \ The puppy was saved."
-<0480> \{［desire］}
+<0480> \{[Nozomi]}
 <0481> "I'm truly grateful to you...!"
-<0482> \{［伶］}
+<0482> \{[Rei]}
 <0483> "Until now, have you ever told anyone about your "power"?
 <0484> \ Have you never confided in anyone?
 <0485> \ Was there no one around you who believed in your "power"?
-<0486> \{［desire］}
+<0486> \{[Nozomi]}
 <0487> "......"
-<0488> \{［desire］}
+<0488> \{[Nozomi]}
 <0489> "I've tried talking to him..."
-<0490> \{［desire］}
+<0490> \{[Nozomi]}
 <0491> "Like today... I hear a cry for help,
 <0492> \ Please help me,
 <0493> \ I have asked my uncle and aunt for help."
-<0494> \{［伶］}
+<0494> \{[Rei]}
 <0495> "So? How were your adoptive parents?"
-<0496> \{［desire］}
+<0496> \{[Nozomi]}
 <0497> "...You didn't believe a word I said.
 <0498> \ She's a creepy kid who always says strange things..."
-<0499> \{［Hope］}
+<0499> \{[Hope]}
 <0500> "The one who believed in me was
 <0501> \ You and... just one other person."
-<0502> \{［伶］}
+<0502> \{[Rei]}
 <0503> "Me andーone other person?
 <0504> \ Are you related to the Kujo family, who raised you as your adoptive parents?
-<0505> \{［Hope］}
+<0505> \{[Hope]}
 <0506> "No... that's not it."
-<0507> \{［伶］}
+<0507> \{[Rei]}
 <0508> "So, are you from the mansion?"
-<0509> \{［Hope］}
+<0509> \{[Hope]}
 <0510> "...No."
-<0511> \{［伶］}
+<0511> \{[Rei]}
 <0512> "If he's not related to the Kujo family or from the mansion,
 <0513> \ Who the hell are you and where are you from?
-<0514> \{［Hope］}
+<0514> \{[Hope]}
 <0515> "......"
-<0516> \{［伶］}
+<0516> \{[Rei]}
 <0517> "...It seems like you don't want to talk."
-<0518> \{［伶］}
+<0518> \{[Rei]}
 <0519> "In that case, I won't pry into anything now.
 <0520> \ If you ever feel like talking, please let me know."
-<0521> \{［Hope］}
+<0521> \{[Hope]}
 <0522> "...I'm sorry..."
-<0523> \{［伶］}
+<0523> \{[Rei]}
 <0524> "I don't mind."
-<0525> \{［伶］}
+<0525> \{[Rei]}
 <0526> "...But even so,
 <0527> \ The power to understand the minds of birds and animals that do not have words...
 <0528> \ It's a very angelic power."
-<0529> \{［Hope］}
+<0529> \{[Hope]}
 <0530> "......!"
-<0531> \{［伶］}
+<0531> \{[Rei]}
 <0532> "...? What's wrong, Nozomi?
 <0533> \ Your face is pretty red though."
-<0534> \{［Hope］}
+<0534> \{[Hope]}
 <0535> "Oh, well, it's nothing!"
-<0536> \{［伶］}
+<0536> \{[Rei]}
 <0537> "--?"
-<0538> \{［伶］}
+<0538> \{[Rei]}
 <0539> (Nozomi's "ability to hear the voices of birds and animals" is
 <0540> \ I certify that this child is of Angelic blood,
 <0541> \ Is it a "\ruby{sign}={sign}"?
-<0542> \{［伶］}
+<0542> \{[Rei]}
 <0543> (Although different in nature from me, there is a boy with mysterious powers - Asaba Nozomi.
 <0544> The previous head of the Kujo family took a special liking to him,
 <0545> \ Something that belongs to the Angels, hidden from everyone and raised in secret――)
-<0546> \{［伶］}
+<0546> \{[Rei]}
 <0547> (...Interesting. I'm becoming more and more interested.)
-<0548> \{［伶］}
+<0548> \{[Rei]}
 <0549> "Well, I'll be heading back soon.
 <0550> \ If I feel like it, I'll come and see you again."
-<0551> \{［desire］}
+<0551> \{[Nozomi]}
 <0552> "Y-yes."
 <0553> Just a little more than before,
 <0554> I left Nozomi in the room with a happy look on her face.
 <0555> Rei left the scene.
-<0556> \{［伶］}
+<0556> \{[Rei]}
 <0557> "I didn't believe a word you said.
 <0558> \ I was just trying to calm you down for the time being."
-<0559> \{［desire］}
+<0559> \{[Nozomi]}
 <0560> "Is that so...?"
 <0561> He looked extremely disappointed,
 <0562> When Nozomi dropped her gaze to her feet,
@@ -575,22 +575,22 @@
 <0565> Nozomi stopped answering.
 <0566> Realizing that there was no point in wasting any more time,
 <0567> I had no choice but to leave Nozomi's room.
-<0568> \{［伶］}
+<0568> \{[Rei]}
 <0569> "--I can't do what you ask.
 <0570> \ There is a possibility that you are planning to escape,
 <0571> \ It can't be said to be zero."
-<0572> \{［Hope］}
+<0572> \{[Hope]}
 <0573> "...Uh..."
 <0574> Nozomi's shoulders trembled at Rei's words.
 <0575> Tears pattering down,
 <0576> On the polished floor,
 <0577> Creates a dark stain, like a ripple that never fades.
 <0578> Rei just stared at the scene in silence.
-<0579> \{［伶］}
+<0579> \{[Rei]}
 <0580> "...Mariie"
 <0581> \{[Mari]}
 <0582> "Y-Yes!"
-<0583> \{［伶］}
+<0583> \{[Rei]}
 <0584> "You too, don't get involved with Nozomi. Good."
 <0585> \{[Mari]}
 <0586> "...Yes. Understood."
@@ -601,7 +601,7 @@
 <0591> I spoke to Rei in a hesitant voice.
 <0592> \{[Mari]}
 <0593> "Nozomi-san, how desperate you were... I'm worried."
-<0594> \{［伶］}
+<0594> \{[Rei]}
 <0595> "......"
 <0596> \{[Mari]}
 <0597> "I... I wonder if Nozomi is planning something,
@@ -610,9 +610,9 @@
 <0600> \{[Mari]}
 <0601> "Somethingーsome special circumstances,
 <0602> \ Perhaps Nozomi-san had one...?
-<0603> \{［伶］}
+<0603> \{[Rei]}
 <0604> "...You're probably right."
-<0605> \{［伶］}
+<0605> \{[Rei]}
 <0606> "Either way, I didn't believe Nozomi.
 <0607> \ ...It's all over now.
 <0608> \ I would like you not to bring up this matter any further.
@@ -624,7 +624,7 @@
 <0614> "Nozomi-san, I heard you're not feeling well.
 <0615> \ I didn't eat anything this morning,
 <0616> \ He is resting in his room.
-<0617> \{［伶］}
+<0617> \{[Rei]}
 <0618> "Well, how is your health?
 <0619> \ I'll go and check it out."
 <0620> \{[Mari]}
@@ -636,18 +636,18 @@
 <0626> --That's a familiar face.
 <0627> I'm pretty sure he was a man in the department in charge of security at the mansion.
 <0628> Feeling suspicious, I approached and called out to him.
-<0629> \{［伶］}
+<0629> \{[Rei]}
 <0630> "What are you doing in a place like this?
 <0631> \ What about Nozomi? Is she in her room?
-<0632> \{［Male］}
+<0632> \{[Man]}
 <0633> "Yes, that's it... Actually, the product I just mentioned,
 <0634> \ He was trying to escape and cross the garden boundary.
-<0635> \{［伶］}
+<0635> \{[Rei]}
 <0636> "Nozomi tried to escape...?
 <0637> \ That's a hard story to believe. So, what about Nozomi?
-<0638> \{［Male］}
+<0638> \{[Man]}
 <0639> "We caught them when we found them and put them inside..."
-<0640> \{［Male］}
+<0640> \{[Man]}
 <0641> "When I caught him, he struggled and resisted,
 <0642> \ I locked the door to prevent them from escaping and kept watch here.
 <0643> \ It seems to have calmed down and become quieter now."
@@ -658,12 +658,12 @@
 <0648> Usually, Nozomi doesn't resist, so it's not used,
 <0649> In such an emergency,
 <0650> It is used to keep the commodity under house arrest.
-<0651> \{［伶］}
+<0651> \{[Rei]}
 <0652> "...I'll try talking to you. Get out of the way.
 <0653> \ You can step back now."
-<0654> \{［Male］}
+<0654> \{[Man]}
 <0655> "Huh..."
-<0656> \{［伶］}
+<0656> \{[Rei]}
 <0657> "Nozomi, it's me. I'm coming in."
 <0658> I stood in front of the door the man had left and knocked lightly several times,
 <0659> Rei unlocked the door and opened it.
@@ -672,15 +672,15 @@
 <0662> Nozomi closed her eyes tightly,
 <0663> With both ears firmly pressed under the palms of your hands,
 <0664> He bites his lip and trembles silently.
-<0665> \{［伶］}
+<0665> \{[Rei]}
 <0666> "Nozomi... what's wrong?"
 <0667> Be careful not to stimulate it too much.
 <0668> Rei called out softly,
 <0669> Nozomi's shoulders twitched in response to the call.
-<0670> \{［伶］}
+<0670> \{[Rei]}
 <0671> "I heard you tried to escape, but it's hard to believe.
 <0672> \ What on earth happened, Nozomi?
-<0673> \{［desire］}
+<0673> \{[Nozomi]}
 <0674> "......"
 <0675> Nozomi listens to Rei's quiet words,
 <0676> Without opening his tightly closed lips,
@@ -688,10 +688,10 @@
 <0678> From behind her tightly closed thin eyelids,
 <0679> Uncontrollable tears welled up,
 <0680> Drops ran down my cheeks and fell to the floor.
-<0681> \{［伶］}
+<0681> \{[Rei]}
 <0682> "Nozomi... what are you lamenting?
 <0683> \ Can you tell me?"
-<0684> \{［desire］}
+<0684> \{[Nozomi]}
 <0685> "......"
 <0686> Even after Rei called out again,
 <0687> I simply shook my head a few times to show my refusal.
@@ -712,10 +712,10 @@
 <0702> In the end, there was nothing more that could be done.
 <0703> Leaving Nozomi in the room, her shoulders shaking and sobbing,
 <0704> I had no choice but to leave the place.
-<0705> \{［伶］}
+<0705> \{[Rei]}
 <0706> "That's right... in the morning,
 <0707> \ I don't really feel like meeting anyone..."
-<0708> \{［伶］}
+<0708> \{[Rei]}
 <0709> "Just like last time, I walked around the building lightly,
 <0710> \ I'm going back to my room."
 <0711> \{[Mari]}
@@ -737,7 +737,7 @@
 <0727> I make my way into the bushes in the courtyard.
 <0728> Across the terrace and courtyard,
 <0729> Marie goes further into the corner of the garden.
-<0730> \{［伶］}
+<0730> \{[Rei]}
 <0731> "...?"
 <0732> What on earth could be in a place like this?
 <0733> Rei follows after him, though she is skeptical.
@@ -758,32 +758,32 @@
 <0748> \ This bone-in meat is probably delicious...!
 <0749> Marie was talking gently to the puppy,
 <0750> Rei called out softly.
-<0751> \{［伶］}
+<0751> \{[Rei]}
 <0752> "...Mari-e"
 <0753> \{[Mari]}
 <0754> "Aaaaahhh...!!"
 <0755> \{[Mari]}
 <0756> "Rei-sama?!"
-<0757> \{［伶］}
+<0757> \{[Rei]}
 <0758> "What are you doing in a place like that?
 <0759> \ What about that puppy...?
 <0760> \{[Mari]}
 <0761> "Um, well, this is..."
-<0762> \{［伶］}
+<0762> \{[Rei]}
 <0763> "......"
 <0764> \{[Mari]}
 <0765> "This dog is... a stray dog.
 <0766> \ It seems that he recently entered the mansion grounds..."
 <0767> \{[Mari]}
 <0768> "So, um..."
-<0769> \{［伶］}
+<0769> \{[Rei]}
 <0770> "You are hiding from everyone in the mansion,
 <0771> \ You were feeding a puppy... right?
 <0772> \{[Mari]}
 <0773> "Y-yes! Sorry...!"
 <0774> Blaming Marie
 <0775> Forgive Marie
-<0776> \{［伶］}
+<0776> \{[Rei]}
 <0777> "I don't think it's a good idea for you to do this on your own.
 <0778> \ You haven't reported this to your superiors, have you?
 <0779> \{[Mari]}
@@ -796,19 +796,19 @@
 <0786> \{[Mari]}
 <0787> "So, at least until I get better...
 <0788> \ I fed them without permission."
-<0789> \{［伶］}
+<0789> \{[Rei]}
 <0790> "......"
 <0791> \{[Mari]}
 <0792> "I'm sorry for acting on your own...!"
-<0793> \{［伶］}
+<0793> \{[Rei]}
 <0794> "...Well, it's fine. It's just a harmless looking puppy.
 <0795> \ I don't have any particular intention to punish you either."
-<0796> \{［伶］}
+<0796> \{[Rei]}
 <0797> "Do as you like."
 <0798> \{[Mari]}
 <0799> "Yes...! Thank you!"
 <0800> With a relieved look on her face, Marie hugged the puppy.
-<0801> \{［伶］}
+<0801> \{[Rei]}
 <0802> "However, it would probably be a bad idea to keep it in the mansion.
 <0803> \ You'd better do something quickly."
 <0804> \{[Mari]}
@@ -825,7 +825,7 @@
 <0815> \{[Mari]}
 <0816> "The ranch is not that far away to walk to,
 <0817> \ I'll leave in the afternoon."
-<0818> \{［伶］}
+<0818> \{[Rei]}
 <0819> "I see. Then I'll leave the rest to you."
 <0820> \{[Mari]}
 <0821> "Yes, I understand!"
@@ -833,26 +833,26 @@
 <0823> "Umm, Rei-sama... thank you!"
 <0824> Leaving Marie there, holding the puppy,
 <0825> Rei left the terrace.
-<0826> \{［伶］}
+<0826> \{[Rei]}
 <0827> "...Well, it's fine. It's just a harmless looking puppy.
 <0828> \ I don't have any particular intention of punishing you either."
-<0829> \{［伶］}
+<0829> \{[Rei]}
 <0830> "Do as you like."
 <0831> \{[Mari]}
 <0832> "Th...Thank you...!"
 <0833> With a relieved look on her face, Marie hugged the puppy.
-<0834> \{［伶］}
+<0834> \{[Rei]}
 <0835> "But, how can I put it, that's typical of you.
 <0836> \ I wonder what you're doing secretly..."
 <0837> Rei couldn't help but smile.
 <0838> \{[Mari]}
 <0839> "I... did something like this without thinking...!
 <0840> \ I'm so sorry...!
-<0841> \{［伶］}
+<0841> \{[Rei]}
 <0842> "You say you're the type of person who can't leave a stray dog alone,
 <0843> \ I understand.
 <0844> \ I guess it can't be helped, given your personality."
-<0845> \{［伶］}
+<0845> \{[Rei]}
 <0846> "However, it's still not a good idea to keep them in the mansion.
 <0847> \ We'd better do something."
 <0848> \{[Mari]}
@@ -869,21 +869,21 @@
 <0859> \{[Mari]}
 <0860> "The ranch is not that far away to walk to,
 <0861> \ I'll leave in the afternoon."
-<0862> \{［伶］}
+<0862> \{[Rei]}
 <0863> "I see..."
-<0864> \{［伶］}
+<0864> \{[Rei]}
 <0865> "I don't have any plans for the afternoon.
 <0866> \ As long as you're okay,
 <0867> \ And I don't mind if I accompany you?
 <0868> \{[Mari]}
 <0869> "Huh?! Um, I'm fine, but
 <0870> \ Are you sure...?
-<0871> \{［伶］}
+<0871> \{[Rei]}
 <0872> "Yeah. Sounds like a good way to kill time.
 <0873> \ Besides, I don't really dislike dogs that much either."
 <0874> \{[Mari]}
 <0875> "Rei-sama... thank you!"
-<0876> \{［伶］}
+<0876> \{[Rei]}
 <0877> "...Then let's go out after lunch."
 <0878> \{[Mari]}
 <0879> "Yes! Understood."
@@ -893,7 +893,7 @@
 <0883> On the way back from the ranch run by the elderly couple who had entrusted the puppy to me,
 <0884> Rei and Marie,
 <0885> We walked slowly, shoulder to shoulder, through the deserted forest.
-<0886> \{［伶］}
+<0886> \{[Rei]}
 <0887> "How long have you known that old couple?"
 <0888> \{[Mari]}
 <0889> "There is a spring nearby where I can draw water,
@@ -905,17 +905,17 @@
 <0895> \{[Mari]}
 <0896> "But... hehe. That puppy,
 <0897> \ Even though it was only a short time, you really grew attached to Rei-sama."
-<0898> \{［伶］}
+<0898> \{[Rei]}
 <0899> "...I guess so. I don't think that's the case."
 <0900> \{[Mari]}
 <0901> "Finally, in a very sad voice,
 <0902> \ I've been calling out to you, Rei-sama..."
-<0903> \{［伶］}
+<0903> \{[Rei]}
 <0904> "......"
 <0905> \{[Mari]}
 <0906> "After all, animals have instincts,
 <0907> \ I can see that Rei-sama is a kind person."
-<0908> \{［伶］}
+<0908> \{[Rei]}
 <0909> "...I'm not a good person."
 <0910> \{[Mari]}
 <0911> "No, Rei-sama is a kind person.
@@ -930,12 +930,12 @@
 <0920> Perhaps that's what Rei likes about it.
 <0921> Suddenly, Rei asks Marie about life at the mansion.
 <0922> I thought I'd ask.
-<0923> \{［伶］}
+<0923> \{[Rei]}
 <0924> "By the way... Marie, I have a few things for you.
 <0925> \ Is it okay if I ask a question?
 <0926> \{[Mari]}
 <0927> "Yes, please!"
-<0928> \{［伶］}
+<0928> \{[Rei]}
 <0929> "What do you think about living in that mansion?"
 <0930> \{[Mari]}
 <0931> "Working at the mansion... I really like it."
@@ -949,9 +949,9 @@
 <0939> \{[Mari]}
 <0940> "I hope that my body can be of use to someone.
 <0941> \ I am so happy!
-<0942> \{［伶］}
+<0942> \{[Rei]}
 <0943> "I see..."
-<0944> \{［伶］}
+<0944> \{[Rei]}
 <0945> "By the way, does Takami ever treat you harshly?"
 <0946> \{[Mari]}
 <0947> "That's not true at all...!"
@@ -962,7 +962,7 @@
 <0952> "Takami-sama... he can be a little quick to anger,
 <0953> \ Just like Rei-sama,
 <0954> \ I think you are a very kind person at heart."
-<0955> \{［伶］}
+<0955> \{[Rei]}
 <0956> "...When you're like that,
 <0957> \ Honestly, I'm surprised you mentioned Takami."
 <0958> \{[Mari]}
@@ -978,12 +978,12 @@
 <0968> \{[Mari]}
 <0969> "If this continues... Nozomi-san,
 <0970> \ I think you might get sick..."
-<0971> \{［伶］}
+<0971> \{[Rei]}
 <0972> "Nozomi..."
-<0973> \{［伶］}
+<0973> \{[Rei]}
 <0974> "To be honest, I told her,
 <0975> \ I'm not particularly interested in it..."
-<0976> \{［伶］}
+<0976> \{[Rei]}
 <0977> "What do those kids enjoy every day?
 <0978> \ I guess you're spending your time here."
 <0979> \{[Mari]}
@@ -991,7 +991,7 @@
 <0981> \{[Mari]}
 <0982> "Nozomi always goes to the bathroom at night.
 <0983> \ She's by the window watching the stars."
-<0984> \{［伶］}
+<0984> \{[Rei]}
 <0985> “Star?”
 <0986> \{[Mari]}
 <0987> "When I was a child, I loved looking at the stars.
@@ -1008,7 +1008,7 @@
 <0998> \ I think I understand..."
 <0999> I ask if you still like stars.
 <1000> Say nothing
-<1001> \{［伶］}
+<1001> \{[Rei]}
 <1002> "Do you still like the stars?"
 <1003> \{[Mari]}
 <1004> "Yes, I love it!"
@@ -1018,15 +1018,15 @@
 <1008> \{[Mari]}
 <1009> "Even today, outdoor astronomical observations are
 <1010> \ It's one of my dreams since I was a child!
-<1011> \{［伶］}
+<1011> \{[Rei]}
 <1012> "...I see. Then I will give you special permission,
 <1013> \ Shall we go outside and look at the stars tonight?
 <1014> \{[Mari]}
 <1015> "What...?!"
-<1016> \{［伶］}
+<1016> \{[Rei]}
 <1017> "Listening to you,
 <1018> \ I also feel like going outside to see the stars for the first time in a while.
-<1019> \{［伶］}
+<1019> \{[Rei]}
 <1020> "It's just a whimsical idea, but sometimes it's nice to have something like that.
 <1021> \ I thought it might be interesting."
 <1022> \{[Mari]}
@@ -1034,13 +1034,13 @@
 <1024> \{[Mari]}
 <1025> "The person who invited Takami-sama and Nozomi-san,
 <1026> \ I think you'll be pleased...!
-<1027> \{［伶］}
+<1027> \{[Rei]}
 <1028> "...Right now, I would not make such an invitation to Takami or Nozomi.
 <1029> \ I don't feel like calling.
 <1030> \ I'm inviting you because it's you, right?
 <1031> \{[Mari]}
 <1032> "...!"
-<1033> \{［伶］}
+<1033> \{[Rei]}
 <1034> "Or do you not want to spend time with me, Marie?"
 <1035> \{[Mari]}
 <1036> "...No, not at all!"
@@ -1055,12 +1055,12 @@
 <1045> \ Um... it seems to be okay..."
 <1046> Seeing Marie pinch her cheek to check,
 <1047> Rei couldn't help but laugh.
-<1048> \{［伶］}
+<1048> \{[Rei]}
 <1049> "Interesting, you..."
 <1050> \{[Mari]}
 <1051> "Is that so...?
 <1052> \ I'm always serious..."
-<1053> \{［伶］}
+<1053> \{[Rei]}
 <1054> "...Do you mind if I'm around?"
 <1055> \{[Mari]}
 <1056> "No, not at all...!
@@ -1069,14 +1069,14 @@
 <1059> "To an inexperienced servant like me,
 <1060> \ Such thoughtfulness...
 <1061> \ Thank you so much...!
-<1062> \{［伶］}
+<1062> \{[Rei]}
 <1063> "...It's not something worth thanking you for."
-<1064> \{［伶］}
+<1064> \{[Rei]}
 <1065> "So, after dinner,
 <1066> \ Let's have some tea and then go outside for a while."
 <1067> \{[Mari]}
 <1068> "Y-yes!"
-<1069> \{［伶］}
+<1069> \{[Rei]}
 <1070> "......"
 <1071> However, there was nothing in particular to say to Marie,
 <1072> Rei kept her mouth shut.
@@ -1099,7 +1099,7 @@
 <1089> Rei left the place in silence.
 <1090> When Rei returned to her room, she spent the time until lunchtime.
 <1091> I spent the day holed up in my room reading books.
-<1092> \{［伶］}
+<1092> \{[Rei]}
 <1093> "Just like last time, I walked around the building lightly,
 <1094> \ I'm going back to my room."
 <1095> \{[Mari]}
@@ -1116,7 +1116,7 @@
 <1106> Rei left the place in silence.
 <1107> When Rei returned to her room, she spent the time until lunchtime.
 <1108> I spent the day holed up in my room reading books.
-<1109> \{［伶］}
+<1109> \{[Rei]}
 <1110> "The weather seems to be pretty good this morning.
 <1111> \ Since I had the chance, I decided to take a morning walk.
 <1112> \ I think I'll take a look around a bit."
@@ -1128,7 +1128,7 @@
 <1118> "If you don't mind, I'd like to recommend a nice walking course around here.
 <1119> \ I will introduce you to Rei-sama,
 <1120> \ Why don't you take your time looking around until around noon?
-<1121> \{［伶］}
+<1121> \{[Rei]}
 <1122> "Yes, that would be good."
 <1123> \{[Mari]}
 <1124> "--Ah! I've got a great idea!"
@@ -1136,7 +1136,7 @@
 <1126> "Umm, I have a suggestion for you, Rei-sama.
 <1127> \ The plan to take a walk with Takami-sama,
 <1128> \ What do you think?
-<1129> \{［伶］}
+<1129> \{[Rei]}
 <1130> "No... I don't think that far..."
 <1131> \{[Mari]}
 <1132> "It may be nice to stroll around alone,
@@ -1144,7 +1144,7 @@
 <1134> \ I think it's a fun and refreshing change of pace!
 <1135> Go see Takami
 <1136> I prefer being alone
-<1137> \{［伶］}
+<1137> \{[Rei]}
 <1138> "...I understand. While you're out and about,
 <1139> \ I'll go and see Takami."
 <1140> \{[Mari]}
@@ -1152,7 +1152,7 @@
 <1142> \ I'm sure Takami-sama will be pleased!
 <1143> \{[Mari]}
 <1144> "--Ah, Rei-sama, please wait just a moment!"
-<1145> \{［伶］}
+<1145> \{[Rei]}
 <1146> "Hey... Marie?"
 <1147> Leaving Rei where she is,
 <1148> Marie hurriedly ran down the hallway.
@@ -1165,7 +1165,7 @@
 <1155> When Rei sees what Marie is holding, she has a bad feeling.
 <1156> \{[Mari]}
 <1157> "Yes! Please take this!"
-<1158> \{［伶］}
+<1158> \{[Rei]}
 <1159> "...What is this?"
 <1160> \{[Mari]}
 <1161> "I baked it two weeks ago and left it to rest until today.
@@ -1186,12 +1186,12 @@
 <1176> A small hand-held basket that can be held in one hand.
 <1177> Marie forcefully handed Rei over to her.
 <1178> My shoulders slumped in disappointment as my premonition came true.
-<1179> \{［伶］}
+<1179> \{[Rei]}
 <1180> "Wait a moment, Marie!
 <1181> \ Are you sure you want me to take this?"
 <1182> \{[Mari]}
 <1183> "Yes! Please join me, Takami-sama!"
-<1184> \{［伶］}
+<1184> \{[Rei]}
 <1185> "......"
 <1186> \{[Mari]}
 <1187> "Well then, have a nice trip, Rei-sama.
@@ -1207,7 +1207,7 @@
 <1197> I was shown into Takami's room without having to wait.
 <1198> \{[Takami]}
 <1199> "You really... came to see me again today."
-<1200> \{［伶］}
+<1200> \{[Rei]}
 <1201> "I told you you could come if you were bored.
 <1202> \ I decided to take you up on your offer. ...Was it a bother?
 <1203> \{[Takami]}
@@ -1217,32 +1217,32 @@
 <1207> \ You're carrying something that doesn't really suit you..."
 <1208> Rei pointed to the basket she was holding in one hand,
 <1209> Takami asked with a puzzled look on his face.
-<1210> \{［伶］}
+<1210> \{[Rei]}
 <1211> "...These are sweets handed to me by Marie.
 <1212> \ I was forced to have it because you like sweet things.
-<1213> \{［伶］}
+<1213> \{[Rei]}
 <1214> "I brought it all the way here,
 <1215> \ I'll make sure you eat this, okay?
 <1216> \{[Takami]}
 <1217> "Ah, ah..."
-<1218> \{［伶］}
+<1218> \{[Rei]}
 <1219> "Then I'll leave this to you."
 <1220> Taking advantage of this opportunity, he pushed the basket he was holding towards Takami,
 <1221> Then Rei finally breathed a sigh of relief.
 <1222> Takami was staring at the basket with a troubled look on his face.
 <1223> A slightly malicious thought pops into Rei's head.
-<1224> \{［伶］}
+<1224> \{[Rei]}
 <1225> "Right -- you just said you'd take responsibility for me, right?
 <1226> \ Well then, I suppose you should keep your promise."
 <1227> \{[Takami]}
 <1228> "Wh... What's that!? That person's evil smile...!"
-<1229> \{［伶］}
+<1229> \{[Rei]}
 <1230> "Takami, I want you to hold that basket.
 <1231> \ I'll have you join me on my walk."
 <1232> \{[Takami]}
 <1233> "Eh...! Something like this, me?
 <1234> \ Are you going to carry it around?
-<1235> \{［伶］}
+<1235> \{[Rei]}
 <1236> "You'll keep your promise, right Takami?"
 <1237> \{[Takami]}
 <1238> "......"
@@ -1250,7 +1250,7 @@
 <1240> "...I can't win against you.
 <1241> \ Okay, I'll go along with it.
 <1242> \ By the way, where were you planning to go?
-<1243> \{［伶］}
+<1243> \{[Rei]}
 <1244> "I don't have any particular destination in mind, but..."
 <1245> \{[Takami]}
 <1246> "......"
@@ -1259,16 +1259,16 @@
 <1249> \ I'll show you around, so why don't you take a walk through the forest?
 <1250> That's not bad either.
 <1251> I'll stop
-<1252> \{［伶］}
+<1252> \{[Rei]}
 <1253> "No... I'll stop.
 <1254> \ I have accomplished my purpose for coming here,
 <1255> \ That's fine, I'll call it a day."
 <1256> \{[Takami]}
 <1257> "...I see."
-<1258> \{［伶］}
+<1258> \{[Rei]}
 <1259> "Oh? You look very disappointed, Takami.
 <1260> \ I wonder if I was rude to refuse."
-<1261> \{［伶］}
+<1261> \{[Rei]}
 <1262> "That's how much you've been doing with this basket in your hand.
 <1263> \ I didn't think I wanted to walk through the forest.
 <1264> \ --You have an unexpected taste for girls, don't you?
@@ -1280,7 +1280,7 @@
 <1270> Rei left Takami and went straight back to the mansion.
 <1271> After finishing my meal, I went back to my room.
 <1272> I spent the whole day absorbed in sorting through the library.
-<1273> \{［伶］}
+<1273> \{[Rei]}
 <1274> "No, I refuse. I'm more comfortable being alone.
 <1275> \ I won't go to Takami's place.
 <1276> \{[Mari]}
@@ -1312,17 +1312,17 @@
 <1302> Soon, a dry female servant voice asks Rei.
 <1303> \{[Servant]}
 <1304> 『Who is this...?』
-<1305> \{［伶］}
+<1305> \{[Rei]}
 <1306> "It's Saiga. Is Takami there?"
 <1307> \{[Servant]}
 <1308> “No. Master is out today.
 <1309> \ Would you like to leave a message?
-<1310> \{［伶］}
+<1310> \{[Rei]}
 <1311> "--No. I don't mind."
 <1312> Rei left Takami and went straight back to the mansion.
 <1313> After finishing my meal, I went back to my room,
 <1314> I spent the whole day absorbed in sorting through the library.
-<1315> \{［伶］}
+<1315> \{[Rei]}
 <1316> "From now on? That's right... I have a book I'm reading,
 <1317> \ I'm going back to my room."
 <1318> Rei then spent the time until lunch,

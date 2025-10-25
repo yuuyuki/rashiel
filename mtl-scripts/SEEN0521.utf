@@ -1,14 +1,14 @@
 // Resources for SEEN0521.TXT
 
 #character '[Rei]'
-#character '［Takami］'
+#character '[Takami]'
 
-<0000> \{［伶］}
+<0000> \{[Rei]}
 <0001> "... Shall we continue like this? I'll respect your feelings.
 <0002> \ You can love me."
 <0003> \{[Takami]}
 <0004> "Ah... are you sure...?"
-<0005> \{［伶］}
+<0005> \{[Rei]}
 <0006> "Would you like to test your words and see if they're true?"
 <0007> \{[Takami]}
 <0008> "Ah... yeah, that's right..."
@@ -17,7 +17,7 @@
 <0011> \{[Takami]}
 <0012> "My words... are true,
 <0013> \ I'll prove it to you.
-<0014> \{［伶］}
+<0014> \{[Rei]}
 <0015> "Well then... come on, Takami."
 <0016> \{[Takami]}
 <0017> "I, I get it."
@@ -26,47 +26,47 @@
 <0020> It covered Rei.
 <0021> What resonates in the quiet room is
 <0022> The sound of each other's breathing and the faint rustling of clothes.
-<0023> \{［伶］}
+<0023> \{[Rei]}
 <0024> "......"
 <0025> \{[Takami]}
 <0026> "Um..."
-<0027> \{［伶］}
+<0027> \{[Rei]}
 <0028> "......"
 <0029> \{[Takami]}
 <0030> "Oh... that's... this way..."
-<0031> \{［伶］}
+<0031> \{[Rei]}
 <0032> "......"
 <0033> \{[Takami]}
 <0034> "Hmm? Wait a sec..."
-<0035> \{［伶］}
+<0035> \{[Rei]}
 <0036> "Hey, Takami...!
 <0037> \ What have you been doing all this time?
 <0038> \ It tickles."
 <0039> \{[Takami]}
 <0040> "Is that so...?!"
-<0041> \{［伶］}
+<0041> \{[Rei]}
 <0042> "Could it be... you,
 <0043> \ Are you not used to this sort of thing...?
-<0044> \{［伶］}
+<0044> \{[Rei]}
 <0045> "No way... this is the first time..."
 <0046> \{[Takami]}
 <0047> "Don't make fun of me! I have experience with women.
 <0048> \ I just have no experience with men!
-<0049> \{［伶］}
+<0049> \{[Rei]}
 <0050> "...Hmm. I see."
 <0051> \{[Takami]}
 <0052> "--Huh? Are you angry, Rei?"
-<0053> \{［伶］}
+<0053> \{[Rei]}
 <0054> "...Nothing special."
 <0055> \{[Takami]}
 <0056> "Well, I have experienced it... but,
 <0057> I don't remember much about that time..."
-<0058> \{［伶］}
+<0058> \{[Rei]}
 <0059> "Don't you remember?"
 <0060> \{[Takami]}
 <0061> "...I got drunk and fell asleep,
 <0062> \ When I woke up in the morning, there was a woman sleeping next to me..."
-<0063> \{［伶］}
+<0063> \{[Rei]}
 <0064> “…………Takami. That’s a bit…
 <0065> \ I don't think it's fair to say that you've experienced it.
 <0066> \{[Takami]}
@@ -79,7 +79,7 @@
 <0073> \{[Takami]}
 <0074> "The fact that our first kiss was like that,
 <0075> \ It was really troublesome for me...!"
-<0076> \{［伶］}
+<0076> \{[Rei]}
 <0077> "What do you mean...?"
 <0078> \{[Takami]}
 <0079> "...My first experience,
@@ -91,37 +91,37 @@
 <0085> \{[Takami]}
 <0086> "...Hey, don't laugh!
 <0087> \ This is all your fault!"
-<0088> \{［伶］}
+<0088> \{[Rei]}
 <0089> "I... I understand, I'm sorry about that..."
 <0090> \{[Takami]}
 <0091> "Damn it...! Keep doing that forever,
 <0092> \ Just make fun of me..."
-<0093> \{［伶］}
+<0093> \{[Rei]}
 <0094> "Sorry for laughing. Don't be so sulky.
 <0095> \ Well, I guess I need to apologize."
-<0096> \{［伶］}
+<0096> \{[Rei]}
 <0097> "If this is your first time, I'll take the lead."
 <0098> \{[Takami]}
 <0099> "Hey! This isn't my first time!"
-<0100> \{［伶］}
+<0100> \{[Rei]}
 <0101> "Just do as I say, okay?
 <0102> \ It's up to me to accept it."
-<0103> \{［伶］}
+<0103> \{[Rei]}
 <0104> "So that I won't have to suffer,
 <0105> \ Could you please tame me...?
 <0106> \{[Takami]}
 <0107> "...! I, I got it!"
-<0108> \{［伶］}
+<0108> \{[Rei]}
 <0109> "Thank you, please take your time..."
 <0110> \{[Takami]}
 <0111> "...I'll try my best."
 <0112> \{[Takami]}
 <0113> "Hey... Rei,
 <0114> \ Is it okay if I kiss you?
-<0115> \{［伶］}
+<0115> \{[Rei]}
 <0116> "...In times like these, you need to create a suitable atmosphere,
 <0117> \ It's something you do quietly."
-<0118> \{［伶］}
+<0118> \{[Rei]}
 <0119> "But, well... those clumsy parts are fine too.
 <0120> \ Maybe it's good to be like you."
 <0121> \{[Takami]}
@@ -131,7 +131,7 @@
 <0125> I give Takami a light kiss on the lips.
 <0126> \{[Takami]}
 <0127> "Re...Rei?!"
-<0128> \{［伶］}
+<0128> \{[Rei]}
 <0129> "Come on... let's continue..."
 <0130> As our lips were about to touch, we whispered softly,
 <0131> Rei kisses Takami again.
@@ -150,7 +150,7 @@
 <0144> However, he became so engrossed that he pressed Rei's body against the bed,
 <0145> I devoured her lips and tongue as if I was losing myself in it.
 <0146> Takami's enthusiasm seems to be making Rei lose her composure.
-<0147> \{［伶］}
+<0147> \{[Rei]}
 <0148> "Ta...min...nn...!"
 <0149> \{[Takami]}
 <0150> "...Hmmm...Hmm...
@@ -173,12 +173,12 @@
 <0167> So bold that it makes me feel embarrassed,
 <0168> A passionate kiss that makes a wet sound,
 <0169> This went on for quite a long time.
-<0170> \{［伶］}
+<0170> \{[Rei]}
 <0171> "Hmm..."
 <0172> Eventually, we parted our lips, leaving a wet sound behind.
 <0173> He lifted Takami's hot fingers and bit into them softly.
 <0174> I whispered into his trembling ear.
-<0175> \{［伶］}
+<0175> \{[Rei]}
 <0176> "...Takami...touch me further down."
 <0177> \{[Takami]}
 <0178> "...! I, I got it..."
@@ -188,14 +188,14 @@
 <0182> It felt a little ticklish, like my body was burning with heat.
 <0183> The feeling of Takami's big, hot palm
 <0184> I clumsily pull out the bottom of my shirt, parting it and touching my skin.
-<0185> \{［伶］}
+<0185> \{[Rei]}
 <0186> "Hmm..."
 <0187> From Rei's toned stomach to her waist,
 <0188> Then, I slid my palm down to his back,
 <0189> Takami slowly lowers it.
 <0190> \{[Takami]}
 <0191> "...Is this...?"
-<0192> \{［伶］}
+<0192> \{[Rei]}
 <0193> "Mm... more..."
 <0194> \{[Takami]}
 <0195> “…Rei…!”
@@ -205,7 +205,7 @@
 <0199> And then, once it was already hot and hard,
 <0200> Pressing hard against Rei's body,
 <0201> He buried his face in her chest and gave her a passionate kiss.
-<0202> \{［伶］}
+<0202> \{[Rei]}
 <0203> "Ouch...!"
 <0204> The pain of being forcefully sucked under the collarbone,
 <0205> Rei instinctively raised a voice in protest,
@@ -213,7 +213,7 @@
 <0207> Takami pressed his body, which was hot with excitement, against her.
 <0208> I awkwardly unfastened the front of Rei's clothes,
 <0209> I slip my fingers through the back of his pants and underwear.
-<0210> \{［伶］}
+<0210> \{[Rei]}
 <0211> "Huh..."
 <0212> \{[Takami]}
 <0213> “…Rei!
@@ -221,22 +221,22 @@
 <0215> Takami's fingers touched something he had never let anyone touch before.
 <0216> The feeling of touching deep inside,
 <0217> I feel an unfamiliar foreign sensation and a pleasure that trembles to the core.
-<0218> \{［伶］}
+<0218> \{[Rei]}
 <0219> "...ha..."
 <0220> Gently insert from the deep to the shallow part,
 <0221> Takami's fingertips eagerly groping inside Rei,
 <0222> I accidentally hit a sensitive spot, causing my body to jump in shock.
-<0223> \{［伶］}
+<0223> \{[Rei]}
 <0224> "Ah...!"
 <0225> \{[Takami]}
 <0226> “-Rei!?
 <0227> Did you feel anything with my fingers?
-<0228> \{［伶］}
+<0228> \{[Rei]}
 <0229> "That's... if you do that,
 <0230> \ It's a natural reaction for me to feel the same way..."
 <0231> \{[Takami]}
 <0232> “Rei――!”
-<0233> \{［伶］}
+<0233> \{[Rei]}
 <0234> "Wait... wait a moment, Takami...!?
 <0235> \ It's painful...!
 <0236> Just as a dog jumps for joy when praised,
@@ -249,7 +249,7 @@
 <0243> He peers into Rei's face, trying to gauge her mood.
 <0244> He pulled Takami's face closer and kissed his lips.
 <0245> She said with a smile, her slightly flushed cheeks relaxing.
-<0246> \{［伶］}
+<0246> \{[Rei]}
 <0247> "...Continue, Takami..."
 <0248> \{[Takami]}
 <0249> "--! Ah, that's right...!"
@@ -264,7 +264,7 @@
 <0258> Without realizing it, Rei gradually loses her composure.
 <0259> He let out a hot sigh,
 <0260> Blinking her eyes moist with fever, Rei told Takami.
-<0261> \{［伶］}
+<0261> \{[Rei]}
 <0262> "That's enough... Takami.
 <0263> \ You too... look like you're in a lot of pain..."
 <0264> \{[Takami]}
@@ -275,27 +275,27 @@
 <0269> "Rei, let's go..."
 <0270> Once fully relaxed and breathing softly,
 <0271> Takami's hot, hard thing is pressed against me.
-<0272> \{［伶］}
+<0272> \{[Rei]}
 <0273> "Ah..."
 <0274> The passion of Takami, who was assigned to me,
 <0275> For just a moment, Rei felt a sense of dread about the act.
 <0276> But before I could hesitate,
 <0277> Takami's heat forcefully pushes in.
-<0278> \{［伶］}
+<0278> \{[Rei]}
 <0279> "Ah...!"
 <0280> \{[Takami]}
 <0281> "Ugh...ugh...!"
 <0282> The narrowness of Rei's heart as she accepts a stranger for the first time,
 <0283> Takami's burning desire fills her tightly and opens up her body little by little.
-<0284> \{［伶］}
+<0284> \{[Rei]}
 <0285> "Ah...ah..."
 <0286> I was pushed up from below, and the pain of my body being opened up was overwhelming.
 <0287> Rei gasped uncontrollably.
 <0288> \{[Takami]}
 <0289> "Ugh..."
-<0290> \{［伶］}
+<0290> \{[Rei]}
 <0291> "...Idiot, go slower...!"
-<0292> \{［伶］}
+<0292> \{[Rei]}
 <0293> "Ugh...Ah!"
 <0294> \{[Takami]}
 <0295> "...Huh...Ha..."
@@ -312,22 +312,22 @@
 <0306> "Huh..."
 <0307> When the hot wedge was fully seated inside Rei,
 <0308> Finally, Takami stopped moving.
-<0309> \{［伶］}
+<0309> \{[Rei]}
 <0310> "...Ah..."
 <0311> Takami's hot, pulsating desire,
 <0312> Feeling it filling up my vulnerable, soft spot,
 <0313> I feel embarrassed and uneasy.
-<0314> \{［伶］}
+<0314> \{[Rei]}
 <0315> (This... doesn't seem like me...)
 <0316> \{[Takami]}
 <0317> "...Ugh, it's no good...!"
 <0318> \{[Takami]}
 <0319> "Let's move... Rei!"
-<0320> \{［伶］}
+<0320> \{[Rei]}
 <0321> "Eh...?"
 <0322> In a voice that sounded desperate and stressed,
 <0323> Takami begins to thrust.
-<0324> \{［伶］}
+<0324> \{[Rei]}
 <0325> "Ugh..."
 <0326> \{[Takami]}
 <0327> "Hmm...huh..."
@@ -337,7 +337,7 @@
 <0331> "Haa..."
 <0332> \{[Takami]}
 <0333> "...Ugh...Ugh!"
-<0334> \{［伶］}
+<0334> \{[Rei]}
 <0335> "Uh... Wait, Takami...!"
 <0336> \{[Takami]}
 <0337> "Ha... ha... ah...!"
@@ -346,7 +346,7 @@
 <0340> It seems Takami is feeling so much pleasure that he can't control himself.
 <0341> My fingers had just touched the spot that Rei felt the most,
 <0342> Takami's tip rubs against the inside.
-<0343> \{［伶］}
+<0343> \{[Rei]}
 <0344> "Ahhh...!!"
 <0345> The bursting pleasure I felt there,
 <0346> Rei's body arches back involuntarily.
@@ -354,7 +354,7 @@
 <0348> "Rei... this is... nice... isn't it...?"
 <0349> Takami noticed Rei's hypersensitive reaction,
 <0350> Feeling the excitement, he focuses on Rei's sensitive spots.
-<0351> \{［伶］}
+<0351> \{[Rei]}
 <0352> "Ugh...!"
 <0353> Although inexperienced, he is at the mercy of Takami's passionate and persistent actions.
 <0354> Rei, who had completely lost all composure,
@@ -363,7 +363,7 @@
 <0357> The stimulation of being kissed and sucked up again and again,
 <0358> A tingling sensation of pleasure surges up inside me.
 <0359> And thenーfinally.
-<0360> \{［伶］}
+<0360> \{[Rei]}
 <0361> "Ah, ahhhh...!"
 <0362> Takami thrusts deeply, rubbing against the inside of her body.
 <0363> Rei couldn't hold back any longer - she reached climax.
@@ -375,16 +375,16 @@
 <0369> "Ugh, ahhh...!"
 <0370> The tight grip,
 <0371> Takami also reached orgasm, letting out an irresistible cry.
-<0372> \{［伶］}
+<0372> \{[Rei]}
 <0373> "......!"
 <0374> The heat of Takami's bursting forth, deep within my body,
 <0375> Rei bit her lip tightly to hold back.
-<0376> \{［伶］}
+<0376> \{[Rei]}
 <0377> "...Ah..."
 <0378> It feels like the inside of my body is being burned.
 <0379> Immersed in the afterglow of the irresistible pleasure,
 <0380> Rei blinks her moist eyes.
-<0381> \{［伶］}
+<0381> \{[Rei]}
 <0382> "...like this..."
 <0383> I can't believe that Rei reached the goal before Takami.
 <0384> I didn't think we'd be able to catch up.
@@ -392,78 +392,78 @@
 <0386> "Ha... ah..."
 <0387> With a sigh of indescribable bliss,
 <0388> Takami, with a satisfied look on his face, snuggles deeply into Rei.
-<0389> \{［伶］}
+<0389> \{[Rei]}
 <0390> "Hmm...!"
 <0391> With that movement, it fills the depths without being pulled out.
 <0392> Takami's thing moved suddenly,
 <0393> Rei bit back the voice that was about to rise.
 <0394> \{[Takami]}
 <0395> "Rei... it felt so... good..."
-<0396> \{［伶］}
+<0396> \{[Rei]}
 <0397> "...You're an idiot."
-<0398> \{［伶］}
+<0398> \{[Rei]}
 <0399> "Hey...can you please pull it out now?
 <0400> \ It's a bit painful..."
 <0401> \{[Takami]}
 <0402> "No... still a little longer..."
-<0403> \{［伶］}
+<0403> \{[Rei]}
 <0404> "Takami... it's heavy."
 <0405> \{[Takami]}
 <0406> "Hmm... I see..."
-<0407> \{［伶］}
+<0407> \{[Rei]}
 <0408> "...It's heavy."
 <0409> \{[Takami]}
 <0410> "Hmm..."
-<0411> \{［伶］}
+<0411> \{[Rei]}
 <0412> "Wait...wait a second, Takami?!"
 <0413> Just as he was about to start again,
 <0414> Rei couldn't help but protest,
 <0415> It seems Takami, engrossed in his thoughts, didn't hear it.
-<0416> \{［伶］}
+<0416> \{[Rei]}
 <0417> "Wait, Takami... Ah...!"
-<0418> \{［伶］}
+<0418> \{[Rei]}
 <0419> "Stop... Takami... Takami..."
 <0420> In the end, she was carried away by Takami's forceful and passionate actions.
 <0421> Rei's body is also elevated once again.
-<0422> \{［伶］}
+<0422> \{[Rei]}
 <0423> "Ah..."
 <0424> The position was changed while still inserted,
 <0425> Rei couldn't help but gasp softly at the big movement.
 <0426> \{[Takami]}
 <0427> "Ugh...!"
 <0428> Takami also seemed to be in a difficult position, and cried out in a slightly painful voice.
-<0429> \{［伶］}
+<0429> \{[Rei]}
 <0430> "Ahh... it's... tight."
 <0431> \{[Takami]}
 <0432> "...it's...tight..."
 <0433> From a place of deep connection,
 <0434> An irresistible stimulation that makes you numb,
 <0435> Both of them bite their lips tightly and let it go.
-<0436> \{［伶］}
+<0436> \{[Rei]}
 <0437> "Ha..."
 <0438> The waves had passed, and I was finally able to breathe a sigh of relief.
 <0439> I notice Takami staring intently.
-<0440> \{［伶］}
+<0440> \{[Rei]}
 <0441> "...What are you looking at?"
 <0442> \{[Takami]}
 <0443> "Rei... I love you..."
 <0444> With a face that seems to melt with happiness,
 <0445> He put his arms around Rei from behind and gently hugged her waist,
 <0446> Takami whispers sweetly.
-<0447> \{［伶］}
+<0447> \{[Rei]}
 <0448> "...You know, if you say you like me like that,
 <0449> \ Do you think you can get away with anything you do to me?
 <0450> \{[Takami]}
 <0451> "I love you..."
-<0452> \{［伶］}
+<0452> \{[Rei]}
 <0453> "...Takami"
 <0454> \{[Takami]}
 <0455> "I love you..."
-<0456> \{［伶］}
+<0456> \{[Rei]}
 <0457> "......"
 <0458> Takami's thoughts were openly expressed without any embarrassment.
 <0459> This makes me feel much more embarrassed.
-<0460> \{［伶］}
+<0460> \{[Rei]}
 <0461> "What a shameful fellow you are...!"
 <0462> I didn't want him to know that my cheeks were a little hot.
 <0463> Rei suddenly let out an angry voice.
@@ -471,26 +471,26 @@
 <0465> I leaned my cheek against Rei's back as she was held in my arms and gave her a light kiss.
 <0466> \{[Takami]}
 <0467> “Rei…”
-<0468> \{［伶］}
+<0468> \{[Rei]}
 <0469> "Ugh...!"
 <0470> Takami's desire grows a little stronger within Rei.
 <0471> The feeling of being pushed open from the inside sends shivers down my spine.
-<0472> \{［伶］}
+<0472> \{[Rei]}
 <0473> "Ah... Wait a minute...!"
 <0474> Slowly, my hips shook from where we were connected,
 <0475> The hot soft flesh and hard stake rub against each other inside,
 <0476> An irresistible excitement wells up from there.
-<0477> \{［伶］}
+<0477> \{[Rei]}
 <0478> "Ugh..."
 <0479> \{[Takami]}
 <0480> "Ugh...!"
-<0481> \{［伶］}
+<0481> \{[Rei]}
 <0482> "Ah... Takami... come on..."
 <0483> \{[Takami]}
 <0484> "Rei, let's keep going like this...!"
-<0485> \{［伶］}
+<0485> \{[Rei]}
 <0486> "Wait..."
-<0487> \{［伶］}
+<0487> \{[Rei]}
 <0488> "Hmm...!"
 <0489> \{[Takami]}
 <0490> "Haa..."
@@ -498,7 +498,7 @@
 <0492> The movement changes little by little, becoming stronger and more intense.
 <0493> \{[Takami]}
 <0494> "Rei... Rei..."
-<0495> \{［伶］}
+<0495> \{[Rei]}
 <0496> "Ah..."
 <0497> Calling Rei's name over and over again,
 <0498> Takami thrusts his hips hard, thrusting deep inside her with unwavering intensity.
@@ -512,7 +512,7 @@
 <0506> \{[Takami]}
 <0507> "Rei, I love you...!
 <0508> \ Rei...! ! ”
-<0509> \{［伶］}
+<0509> \{[Rei]}
 <0510> "......!"
 <0511> The exact feelings he conveys to Rei in words,
 <0512> I can see it overflowing from Takami's heart.
@@ -521,16 +521,16 @@
 <0515> Takami's earnest and brave feelings are conveyed.
 <0516> \{[Takami]}
 <0517> "Rei...! Here I go...!"
-<0518> \{［伶］}
+<0518> \{[Rei]}
 <0519> "Ugh...!"
 <0520> Everything that desire has unleashed to its limits,
 <0521> It is poured deep into the body.
-<0522> \{［伶］}
+<0522> \{[Rei]}
 <0523> "Uh... Ah...!"
 <0524> Dripping hot drops,
 <0525> I was made to take in every last drop,
 <0526> The heat makes Rei also let out her desire.
-<0527> \{［伶］}
+<0527> \{[Rei]}
 <0528> "Huh..."
 <0529> The sticky heat that fills my body,
 <0530> Rei involuntarily shivered,
@@ -540,19 +540,19 @@
 <0534> When I'm embraced in your warm arms, no matter who I've been with before,
 <0535> I never felt that way,
 <0536> I was filled with a warm feeling of deep concern for Rei.
-<0537> \{［伶］}
+<0537> \{[Rei]}
 <0538> (This is the first time I've ever done something like this...)
 <0539> By being united as deeply as possible,
 <0540> Unconsciously, power overflows,
 <0541> Perhaps he has resonated with Takami's heart?
 <0542> The fact that I connected my body with someone I shared a heart with
 <0543> I never thought it would feel this good.
-<0544> \{［伶］}
+<0544> \{[Rei]}
 <0545> (I didn't know that...)
-<0546> \{［伶］}
+<0546> \{[Rei]}
 <0547> (This act is so warm,
 <0548> \ It was something that made me feel happy...
-<0549> \{［伶］}
+<0549> \{[Rei]}
 <0550> (I can't laugh at Takami anymore.
 <0551> \ Perhaps I too,
 <0552> \ This might be the first time...

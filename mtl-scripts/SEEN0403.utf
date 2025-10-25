@@ -1,21 +1,21 @@
 // Resources for SEEN0403.TXT
 
 #character '[Rei]'
-#character '［Takami］'
+#character '[Takami]'
 
 <0000> May 7th Takami Route
-<0001> \{［伶］}
+<0001> \{[Rei]}
 <0002> (…………Morning?)
 <0003> Even after I opened my eyes, the blue of the sky I looked up at remained
 <0004> It's burned into the back of my eyes,
 <0005> Rei blinks her eyes several times, her eyes hazy as the dream continues to linger.
-<0006> \{［伶］}
+<0006> \{[Rei]}
 <0007> (I just saw... the child in the dream was Takami and me?)
 <0008> The scene recorded from the perspective of the child Takami,
 <0009> It was a vivid dream, as if it had been reproduced exactly as it was.
 <0010> Takami, who fell off a cliff and nearly died,
 <0011> Takami was saved by a mysterious power - an angel.
-<0012> \{［伶］}
+<0012> \{[Rei]}
 <0013> (No, this isn't just a dream.
 <0014> Is this Takami's memory?
 <0015> The image I saw earlier wasn't just a well-made dream.
@@ -33,7 +33,7 @@
 <0027> Rei gently opens it.
 <0028> The pebble I picked up at the bottom of the cliff on my way home yesterday,
 <0029> There it was, slightly warm from the warmth of human skin.
-<0030> \{［伶］}
+<0030> \{[Rei]}
 <0031> (Could it be that the stone showed me this memory...?)
 <0032> When a person's memories or consciousness are imprinted on an object or place,
 <0033> I've heard a story like that.
@@ -49,7 +49,7 @@
 <0043> Is it possible to access the memories contained within objects?
 <0044> Even if I cast a questioning gaze at the stone in my palm,
 <0045> There is silence, no answer.
-<0046> \{［伶］}
+<0046> \{[Rei]}
 <0047> (Even so - that, power)
 <0048> Takami was given this by the young Rei,
 <0049> The feeling of contentment, as if embraced by light, is revived.
@@ -57,17 +57,17 @@
 <0051> Takami gets a glimpse of the power that Rei possessed in the past by touching his memories.
 <0052> I realized that this was so different from my current power.
 <0053> Rei feels confused and suspicious.
-<0054> \{［伶］}
+<0054> \{[Rei]}
 <0055> (That kind of power--I don't know.
 <0056> What on earth is that power...?
-<0057> \{［伶］}
+<0057> \{[Rei]}
 <0058> (Even I myself don't know about that power,
 <0059> \ I've known Takami for a long time,
 <0060> \ And on top of that, you've been watching over me all this time--?
-<0061> \{［伶］}
+<0061> \{[Rei]}
 <0062> (I have to go - to Takami.
 <0063> \ I have to go and check everything.
-<0064> \{［伶］}
+<0064> \{[Rei]}
 <0065> (The truth――)
 <0066> Following on from yesterday,
 <0067> Rei appears before Takami again, looking serious.
@@ -75,25 +75,25 @@
 <0069> \{[Takami]}
 <0070> "--Did something happen?
 <0071> \ I can't believe you have such a worried look on your face..."
-<0072> \{［伶］}
+<0072> \{[Rei]}
 <0073> "..."
-<0074> \{［伶］}
+<0074> \{[Rei]}
 <0075> "I rememberedーwell, it's hard to say exactly,
 <0076> \ What happened on the day they met?
 <0077> \ I know everything that happened to you."
 <0078> \{[Takami]}
 <0079> "--! Then you..."
-<0080> \{［伶］}
+<0080> \{[Rei]}
 <0081> "Yes, I know now.
 <0082> \ That power that saved you when you were on the verge of death."
 <0083> \{[Takami]}
 <0084> "...I see..."
-<0085> \{［伶］}
+<0085> \{[Rei]}
 <0086> “…Takami. Is that really me?
 <0087> \ Didn't you think it was someone else who looked a lot like me?
 <0088> \{[Takami]}
 <0089> "......"
-<0090> \{［伶］}
+<0090> \{[Rei]}
 <0091> "......"
 <0092> In contrast to Rei, who is confused and at a loss for words,
 <0093> Takami looked up with a determined expression.
@@ -108,17 +108,17 @@
 <0102> \{[Takami]}
 <0103> "They did everything they could to help me as a child,
 <0104> \ I was researching ways to summon angels--"
-<0105> \{［伶］}
+<0105> \{[Rei]}
 <0106> "How to summon an angel--?"
 <0107> \{[Takami]}
 <0108> "...At first, I thought of you as...
 <0109> \ I didn't think he was a real person.
 <0110> \ I completely assumed that you were an angel who had come to save me, so...
-<0111> \{［伶］}
+<0111> \{[Rei]}
 <0112> "--You asked for a way to summon an angel?"
 <0113> \{[Takami]}
 <0114> "......That's right."
-<0115> \{［伶］}
+<0115> \{[Rei]}
 <0116> "...Now that I think about it, when we first met,
 <0117> \ It seems that you thought of me that way. ...An angel, perhaps."
 <0118> \{[Takami]}
@@ -136,12 +136,12 @@
 <0130> "I think your father probably had been thinking about you since before he took you in.
 <0131> \ Sometimes I invite your family over to stay close to me like that.
 <0132> I've been watching your growth from afar..."
-<0133> \{［伶］}
+<0133> \{[Rei]}
 <0134> "......"
 <0135> \{[Takami]}
 <0136> "So, as the records of the past prove,
 <0137> \ The person I met that day was definitely you.
-<0138> \{［伶］}
+<0138> \{[Rei]}
 <0139> "Takami..."
 <0140> \{[Takami]}
 <0141> "Ever since I found out you had lost your old memories and powers,
@@ -150,19 +150,19 @@
 <0144> "I don't know who did it, why, or how,
 <0145> The power that saved me, along with the memories of that summer,
 <0146> \ Perhaps it has been sealed inside you?
-<0147> \{［伶］}
+<0147> \{[Rei]}
 <0148> "...Who, why, why...
 <0149> \ Do you need to do that to me?"
 <0150> \{[Takami]}
 <0151> "......"
-<0152> \{［伶］}
+<0152> \{[Rei]}
 <0153> "Instantly heals a mortally wounded human,
 <0154> \ Who am I to possess such special powers?"
-<0155> \{［伶］}
+<0155> \{[Rei]}
 <0156> "A mere mortal can perform such a miracle,
 <0157> \ He does not possess any magical powers.
 <0158> \ What on earth do you think I am?"
-<0159> \{［伶］}
+<0159> \{[Rei]}
 <0160> "You too--you don't see me as a human being,
 <0161> \ Do you think I'm a monster with strange powers?
 <0162> \{[Takami]}
@@ -170,23 +170,23 @@
 <0164> \ You are――!”
 <0165> Takami continued speaking,
 <0166> He suddenly came to his senses and quickly closed his mouth.
-<0167> \{［伶］}
+<0167> \{[Rei]}
 <0168> "Takami--?"
 <0169> Seeing this unusual state,
 <0170> Takami learns more deeply about what is hidden within Rei,
 <0171> I have a hunch that they are hiding it.
-<0172> \{［伶］}
+<0172> \{[Rei]}
 <0173> "You know something so important about me, don't you think?
 <0174> \ Are you hiding it from me?"
 <0175> \{[Takami]}
 <0176> "Iーnothing…"
-<0177> \{［伶］}
+<0177> \{[Rei]}
 <0178> "...Takami. Even if it's just a small part of the truth,
 <0179> \ If you have something, please tell me.
 <0180> \ I'mーwhat?
 <0181> \{[Takami]}
 <0182> "......"
-<0183> \{［伶］}
+<0183> \{[Rei]}
 <0184> "Takami...!"
 <0185> \{[Takami]}
 <0186> "Someday...to you,
@@ -197,27 +197,27 @@
 <0191> \{[Takami]}
 <0192> "...If possible,
 <0193> \ I want you to remain ignorant... That's what I think.
-<0194> \{［伶］}
+<0194> \{[Rei]}
 <0195> "......"
-<0196> \{［伶］}
+<0196> \{[Rei]}
 <0197> "...Tell me, Takami.
 <0198> \ I want to know. I have to know.
 <0199> \{[Takami]}
 <0200> "......"
 <0201> \{[Takami]}
 <0202> "Rei, you're not human."
-<0203> \{［伶］}
+<0203> \{[Rei]}
 <0204> "--Huh?"
 <0205> \{[Takami]}
 <0206> "You are an Angel."
-<0207> \{［伶］}
+<0207> \{[Rei]}
 <0208> "...Takami, what kind of joke is that?
 <0209> \ I want to hear something serious from you.
 <0210> \ Stop messing around."
 <0211> \{[Takami]}
 <0212> "This is no joke.
 <0213> \ At least my father truly believed in it.
-<0214> \{［伶］}
+<0214> \{[Rei]}
 <0215> "That person--?"
 <0216> \{[Takami]}
 <0217> "Here are the records my father left behind.
@@ -232,8 +232,8 @@
 <0226> \ That's――」
 <0227> \{[Takami]}
 <0228> "An angel..."
-<0229> \{［伶］}
-<0230> “<Angel>…”
+<0229> \{[Rei]}
+<0230> “\<Angel\>…”
 <0231> \{[Takami]}
 <0232> "And... in the records of my father's research on Angels,
 <0233> \ As the subject of the most important experiment,
@@ -244,14 +244,14 @@
 <0238> The one who inherits the purest blood of an Angel--"
 <0239> \{[Takami]}
 <0240> "His name is Saiga, Rei."
-<0241> \{［伶］}
+<0241> \{[Rei]}
 <0242> "Eh..."
 <0243> \{[Takami]}
-<0244> "...That's right. The treasured <Angel> that my father left behind was,
+<0244> "...That's right. The treasured \<Angel\> that my father left behind was,
 <0245> \ It's about you, Rei--"
-<0246> \{［伶］}
+<0246> \{[Rei]}
 <0247> "Me――?! That can't be."
-<0248> \{［伶］}
+<0248> \{[Rei]}
 <0249> "Wasn't it Nozomi?
 <0250> \ Isn't she a valuable subject for Angel research?
 <0251> \ Isn't that what you were talking about?
@@ -263,14 +263,14 @@
 <0257> \ It was not a wish.
 <0258> \{[Takami]}
 <0259> "Well, that's you, Rei."
-<0260> \{［伶］}
+<0260> \{[Rei]}
 <0261> "......"
 <0262> \{[Takami]}
 <0263> "If you want to know more, read this."
 <0264> With that, Takami handed Rei
 <0265> It's worn out and pretty worn out.
 <0266> It was a palm-sized notebook bound in black leather.
-<0267> \{［伶］}
+<0267> \{[Rei]}
 <0268> "...What's this?"
 <0269> \{[Takami]}
 <0270> "Of all the documents my father left behind, this was the most interesting.
@@ -288,23 +288,23 @@
 <0282> I casually looked down at the page,
 <0283> That sentence came to me without any warning.
 <0284> A cold chill shakes Rei's chest.
-<0285> \{［伶］}
+<0285> \{[Rei]}
 <0286> "An angelic likeness...?"
 <0287> Andーand other things,
 <0288> My name appeared again and again on the pages I turned.
 <0289> Rei felt an indescribable chill,
 <0290> I can't help but shudder.
-<0291> \{［伶］}
+<0291> \{[Rei]}
 <0292> "...The contents of this notebook,
 <0293> \ Have you even read it?
 <0294> \{[Takami]}
 <0295> "--Yeah, I've checked everything."
-<0296> \{［伶］}
+<0296> \{[Rei]}
 <0297> "...I see. In that case, I'll read it too."
 <0298> I picked up the notebook I was given and,
 <0299> Rei flipped through the pages with her fingers stiff with tension,
 <0300> I look over the small print filling the pages.
-<0301> About <Angel>
+<0301> About \<Angel\>
 <0302> About Rei
 <0303> About Hope
 <0304> That's enough
@@ -389,25 +389,25 @@
 <0383> I thought about creating a \ruby{duplicate}={clone}.
 <0384> And soーthe existence known as Rei was born.
 <0385> As an artificial angel, created by human hands.
-<0386> \{［伶］}
+<0386> \{[Rei]}
 <0387> (It's not just that they have powers different from humans.
 <0388> \ So I wasn't even human――)
 <0389> Although I was born from my mother's womb,
 <0390> If you know the truth, the relationship between Rei and her mother is
 <0391> That is to say, they were more distant than other people.
-<0392> \{［伶］}
+<0392> \{[Rei]}
 <0393> (He told his mother the true nature of what she was carrying in her womb,
 <0394> \ I never told you...)
-<0395> \{［伶］}
+<0395> \{[Rei]}
 <0396> (But my mother was sensitive and told me,
 <0397> I sensed the scent of a non-human being.
-<0398> \{［伶］}
+<0398> \{[Rei]}
 <0399> (They should be afraid of me.)
 <0400> But even so, in those days when I knew nothing,
 <0401> As my own son whom I sent into this world with great pains,
 <0402> When I think of my mother's heart, who tried to love me with all her heart,
 <0403> My chest ached in an unbearable way.
-<0404> \{［伶］}
+<0404> \{[Rei]}
 <0405> (Everything and everything - she is innocent.
 <0406> \ She was held by Takahisa Kujo,
 <0407> \ I am merely a victim of my own obsession with Angels...)
@@ -423,14 +423,14 @@
 <0417> "All of these descriptions of fundamental facts,
 <0418> \ Everything is missing from my father's notes.
 <0419> \ There are no other records I have found of it either.
-<0420> \{［伶］}
+<0420> \{[Rei]}
 <0421> "...So, ultimately, my true identity is,
 <0422> \ It seems like you're in a state where you don't know anything at all."
 <0423> \{[Takami]}
 <0424> "But I just remember how my father was captivated by the Angel,
 <0425> \ Did you put everything into recreating the perfect Angel?
 <0426> \ You can see the depth of that delusion.
-<0427> \{［伶］}
+<0427> \{[Rei]}
 <0428> "......"
 <0429> Yesーthis was precisely what delusion was.
 <0430> In order to achieve Takahisa's goal,
@@ -456,7 +456,7 @@
 <0450> "For some reason, you, along with your past memories,
 <0451> \ The power of the Angel that should have been manifested at that time,
 <0452> \ I had forgotten and lost everything, but--"
-<0453> \{［伶］}
+<0453> \{[Rei]}
 <0454> "...I have no recollection of it."
 <0455> \{[Takami]}
 <0456> "But if you could regain the strength you had back then,
@@ -469,7 +469,7 @@
 <0463> \{[Takami]}
 <0464> "I invite you to my mansion, and you, who are of Angelic blood,
 <0465> \ That's why I wanted to introduce you to him."
-<0466> \{［伶］}
+<0466> \{[Rei]}
 <0467> "......"
 <0468> \{[Takami]}
 <0469> "According to the records left by my father, the blood of an Angel,
@@ -486,7 +486,7 @@
 <0480> "I tried to get you involved with Nozomi,
 <0481> \ By connecting more deeply with those who exert their power,
 <0482> \ Because records show that it has a stronger effect.
-<0483> \{［伶］}
+<0483> \{[Rei]}
 <0484> "...Is that what you were thinking?
 <0485> \ You and that person..."
 <0486> \{[Takami]}
@@ -496,7 +496,7 @@
 <0490> \{[Takami]}
 <0491> "...I'm sorry, Rei.
 <0492> I was hopelessly stupid."
-<0493> \{［伶］}
+<0493> \{[Rei]}
 <0494> "...?"
 <0495> \{[Takami]}
 <0496> "You and Nozomi - for my own sake,
@@ -513,7 +513,7 @@
 <0507> \{[Takami]}
 <0508> "...You came to Kujo's residence,
 <0509> \ Do you remember what we talked about at the beginning?
-<0510> \{［伶］}
+<0510> \{[Rei]}
 <0511> "Yeah... I remember that very well."
 <0512> \{[Takami]}
 <0513> "I know you don't think anything of me,
@@ -533,14 +533,14 @@
 <0527> \{[Takami]}
 <0528> "I really want to know about you,
 <0529> \ I couldn't help but be aware of it--"
-<0530> \{［伶］}
+<0530> \{[Rei]}
 <0531> "......"
 <0532> \{[Takami]}
 <0533> "I didn't want to hate you.
 <0534> \ That's not it..."
 <0535> \{[Takami]}
 <0536> "I just wanted you to look back at me."
-<0537> \{［伶］}
+<0537> \{[Rei]}
 <0538> "...Takami..."
 <0539> \{[Takami]}
 <0540> "...while I was being stubborn,
@@ -552,7 +552,7 @@
 <0546> \{[Takami]}
 <0547> "Just as I have always thought of you,
 <0548> I wanted you to remember me too."
-<0549> \{［伶］}
+<0549> \{[Rei]}
 <0550> "...I see..."
 <0551> \{[Takami]}
 <0552> "You probably think I'm a fool.
@@ -560,30 +560,30 @@
 <0554> \{[Takami]}
 <0555> "You... are in a position where you can resent me.
 <0556> \ Even if you hate me, I have no right to say anything.
-<0557> \{［伶］}
+<0557> \{[Rei]}
 <0558> "Takami..."
 <0559> \{[Takami]}
 <0560> "...I'm sorry. I was afraid you'd dislike me,
 <0561> \ He's a coward who tried to hide his deception."
 <0562> \{[Takami]}
 <0563> "...I'm sorry..."
-<0564> \{［伶］}
+<0564> \{[Rei]}
 <0565> "......"
-<0566> \{［伶］}
+<0566> \{[Rei]}
 <0567> "I don't hate you, Takami."
-<0568> \{［伶］}
+<0568> \{[Rei]}
 <0569> "Rather, this will clear up any misunderstandings between us,
 <0570> \ If this was the catalyst that brought us closer,
 <0571> \ I think it was a good thing."
 <0572> \{[Takami]}
 <0573> "Eh..."
-<0574> \{［伶］}
+<0574> \{[Rei]}
 <0575> "If it weren't for this, you and I would
 <0576> \ I wouldn't have been able to approach you with an open heart.
 <0577> \ ...I think this was a good thing."
 <0578> \{[Takami]}
 <0579> “Rei…”
-<0580> \{［伶］}
+<0580> \{[Rei]}
 <0581> "By the way, that person's - your father's -
 <0582> \ Is there anything else that seems important?
 <0583> \{[Takami]}
@@ -596,7 +596,7 @@
 <0590> It is a well-made product with elaborate and elegant decorations.
 <0591> How precious the stored items are to Takahisa,
 <0592> You can see that at a glance.
-<0593> \{［伶］}
+<0593> \{[Rei]}
 <0594> "...Is there a jewel inside?"
 <0595> \{[Takami]}
 <0596> "No... that's not it.
@@ -608,14 +608,14 @@
 <0602> Takami opened the lid of the box and showed
 <0603> Securely stored inside,
 <0604> Somethingーa fragment of stone or something.
-<0605> \{［伶］}
+<0605> \{[Rei]}
 <0606> "Is this a stone?
 <0607> \ It looks like a part that was carved out of something..."
 <0608> Its surface is not polished like a jewel,
 <0609> At first glance, it doesn't seem like a strange material,
 <0610> It appears to have shattered part of the surface of something.
 <0611> It just looks like a piece of stone.
-<0612> \{［伶］}
+<0612> \{[Rei]}
 <0613> "...materials, properties,
 <0614> \ Have you looked into that sort of thing yet?
 <0615> \{[Takami]}
@@ -633,7 +633,7 @@
 <0627> "Rei, do you really not recognize this person?
 <0628> \ I saw something similar to this in some document,
 <0629> \ My father once taught me--"
-<0630> \{［伶］}
+<0630> \{[Rei]}
 <0631> "No... I don't recall ever seeing anything like this."
 <0632> \{[Takami]}
 <0633> "No matter how you look at it, it looks like nothing more than a rock,
@@ -643,7 +643,7 @@
 <0637> "It turns out that my father kept it to remember his memories.
 <0638> \ It may just be a souvenir.
 <0639> \ It may have no value to anyone other than my father..."
-<0640> \{［伶］}
+<0640> \{[Rei]}
 <0641> "...I'd like to investigate further.
 <0642> \ Takami, can you let me pick up that stone?
 <0643> \{[Takami]}
@@ -651,7 +651,7 @@
 <0645> Takami picked up a piece of stone from the small box and said,
 <0646> Then he dropped it into Rei's palm.
 <0647> And then, at that moment――
-<0648> \{［伶］}
+<0648> \{[Rei]}
 <0649> "My strength is...leaking...!?"
 <0650> Suddenly, a shaking sensation hit Rei, as if the heavens and the earth were shaking.
 <0651> I feel as if my feet are unreliable and crumbling.
@@ -663,14 +663,14 @@
 <0657> Worried about Rei's strange behavior,
 <0658> Takami's surprised expression and the scream he let out involuntarily,
 <0659> It felt so far away.
-<0660> \{［伶］}
+<0660> \{[Rei]}
 <0661> "The moment I touched the stone, my body went limp..."
 <0662> I was so reluctant to tell Takami those words,
 <0663> My whole body quickly loses strength.
 <0664> I want to let go of it as soon as possible,
 <0665> It was as if the palms of my hands had stuck together.
 <0666> I can't open my fingers to drop the stone.
-<0667> \{［伶］}
+<0667> \{[Rei]}
 <0668> "...Ah..."
 <0669> \{[Takami]}
 <0670> "Rei, it's dangerous...!"
@@ -681,47 +681,47 @@
 <0675> Takami forcefully snatched the stone from Rei's hand.
 <0676> \{[Takami]}
 <0677> "Hey, are you okay...?!"
-<0678> \{［伶］}
+<0678> \{[Rei]}
 <0679> "Yeah... I'm fine now. My senses are back."
 <0680> Rei breathed a sigh of relief as her senses finally began to return.
 <0681> With Takami's help, he stands up.
 <0682> Seeing Takami clutching the stone with a calm expression,
 <0683> Rei asked, frowning.
-<0684> \{［伶］}
+<0684> \{[Rei]}
 <0685> "...Does anything happen when you touch that stone?"
 <0686> \{[Takami]}
 <0687> "Oh, I have touched the stone many times before,
 <0688> \ There was absolutely no change.
 <0689> \ This stone seems harmless to me."
-<0690> \{［伶］}
+<0690> \{[Rei]}
 <0691> "......"
-<0692> \{［伶］}
+<0692> \{[Rei]}
 <0693> "To you...or rather, to any normal person,
 <0694> \ I don't think it has any effect whatsoever, it's--"
-<0695> \{［伶］}
+<0695> \{[Rei]}
 <0696> "The stone can only be used by beings who meet certain conditions.
 <0697> \ What if it has some kind of effect?"
-<0698> \{［伶］}
+<0698> \{[Rei]}
 <0699> "And the condition is that you have the blood of an Angel...
 <0700> \ --Is that not possible?
 <0701> \{[Takami]}
 <0702> "So... this is,
 <0703> \ It was a stone used to seal the power of the Angel...?!
-<0704> \{［伶］}
+<0704> \{[Rei]}
 <0705> "That's a possibility."
-<0706> \{［伶］}
+<0706> \{[Rei]}
 <0707> "...Takami, is it okay if I keep this stone?
 <0708> \ I'd like to take a closer look."
 <0709> \{[Takami]}
 <0710> "That's fine, but... is it okay to have it?"
-<0711> \{［伶］}
+<0711> \{[Rei]}
 <0712> "Put the stone back in the box,
 <0713> \ And could you please give it to me?
 <0714> \{[Takami]}
 <0715> "Yeah... Is this okay?"
 <0716> Takami put the stone back in the box as it was before and closed the lid.
 <0717> Rei timidly placed the box in her palm.
-<0718> \{［伶］}
+<0718> \{[Rei]}
 <0719> "...It's okay. As long as you don't touch it directly,
 <0720> \ It doesn't seem to have any effect."
 <0721> \{[Takami]}
@@ -729,11 +729,11 @@
 <0723> \{[Takami]}
 <0724> "But please be careful when handling it!
 <0725> \ Don't underestimate it and let your guard down!
-<0726> \{［伶］}
+<0726> \{[Rei]}
 <0727> "Thank you. I'll be careful..."
 <0728> Rei took the small box that Takami had entrusted to her,
 <0729> I answered, gently squeezing it.
-<0730> \{［伶］}
+<0730> \{[Rei]}
 <0731> "I'm an angel...? That still doesn't really click with me.
 <0732> \ How should I behave from now on?"
 <0733> \{[Takami]}
@@ -751,10 +751,10 @@
 <0745> "Well... the plan my father left behind,
 <0746> \ I ended up just taking over,
 <0747> \ I don't mean to sound arrogant, but..."
-<0748> \{［伶］}
+<0748> \{[Rei]}
 <0749> "Now that I've had the opportunity to hear what's on your mind,
 <0750> \ I don't care anymore."
-<0751> \{［伶］}
+<0751> \{[Rei]}
 <0752> "However, I'm still... in response to this series of facts,
 <0753> \ I can't sort out how I should feel.
 <0754> \ ...I want to be alone for a while to think."
@@ -768,7 +768,7 @@
 <0762> \{[Takami]}
 <0763> "This isn't a sense of obligation or atonement.
 <0764> \ I truly want to help you!
-<0765> \{［伶］}
+<0765> \{[Rei]}
 <0766> "...Thank you, Takami."
 <0767> \{[Takami]}
 <0768> "Don't forget, I'll always,

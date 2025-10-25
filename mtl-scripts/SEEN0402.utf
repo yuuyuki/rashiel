@@ -1,10 +1,10 @@
 // Resources for SEEN0402.TXT
 
 #character '[Father]'
-#character '［Takahisa］'
+#character '[Takahisa]'
 #character '[Rei]'
-#character '［Takami］'
-#character '［Marie］'
+#character '[Takami]'
+#character '[Marie]'
 
 <0000> May 6th Takami Route
 <0001> --The first time Rei was brought to the Kujo family mansion,
@@ -42,13 +42,13 @@
 <0033> "Our Kujo family will take responsibility,
 <0034> \ To give you the best environment and the best education,
 <0035> \ Let's make this promise here.
-<0036> \{［伶］}
+<0036> \{[Rei]}
 <0037> "What do you want in return?"
 <0038> \{[Takahisa]}
 <0039> "...What a clever kid.
 <0040> \ Of course, this loan will be repaid.
 <0041> \ In the future, in some form――"
-<0042> \{［伶］}
+<0042> \{[Rei]}
 <0043> "...I see."
 <0044> If you let your guard down, it will devour you right down to your bones.
 <0045> A man with scary eyes who looks like he's not easy to deal with.
@@ -85,19 +85,19 @@
 <0076> \{[Takami]}
 <0077> "There hasn't been a single day in these past seven years that I've forgotten you.
 <0078> \ I really wanted to meet you..."
-<0079> \{［伶］}
+<0079> \{[Rei]}
 <0080> "......"
-<0081> \{［伶］}
+<0081> \{[Rei]}
 <0082> "...Hey, you. You've been saying this for a while now,
 <0083> \ What on earth are you talking about to me?"
 <0084> \{[Takami]}
 <0085> "What? What are you talking about... Because you're my--"
-<0086> \{［伶］}
+<0086> \{[Rei]}
 <0087> "I have no idea what you're trying to say.
 <0088> \ Even if you say you missed me, I don't know you.
 <0089> \{[Takami]}
 <0090> "Eh..."
-<0091> \{［伶］}
+<0091> \{[Rei]}
 <0092> "--Nice to meet you. I'm Saiga Rei.
 <0093> \ Today is the first time I've met you."
 <0094> \{[Takami]}
@@ -106,24 +106,24 @@
 <0097> Rei peers into the boy's face in suspicion.
 <0098> The boy seemed extremely surprised by Rei's words.
 <0099> He had a sad expression on his face, as if he had been hurt.
-<0100> \{［伶］}
+<0100> \{[Rei]}
 <0101> "What's wrong...?"
 <0102> \{[Takami]}
 <0103> "...Could it be that I...
 <0104> \ Don't you remember even a little bit...?
-<0105> \{［伶］}
+<0105> \{[Rei]}
 <0106> "...? I've never met you before."
 <0107> \{[Takami]}
 <0108> "You don't know me?! That's a lie!"
-<0109> \{［伶］}
+<0109> \{[Rei]}
 <0110> "Even if you say that, what you don't know, you don't know.
 <0111> \ Are you mistaking me for someone else?
 <0112> \{[Takami]}
 <0113> "That can't be... that can't be!
 <0114> \ You are definitely the child from back then, I'm sure you wouldn't make a mistake!
-<0115> \{［伶］}
+<0115> \{[Rei]}
 <0116> "......"
-<0117> \{［伶］}
+<0117> \{[Rei]}
 <0118> "Sorry, but I really don't know you."
 <0119> \{[Takami]}
 <0120> "......!"
@@ -164,7 +164,7 @@
 <0155> The lively chirping of birds,
 <0156> Called by the bright, warm morning light,
 <0157> Rei slowly opened her eyelids.
-<0158> \{［伶］}
+<0158> \{[Rei]}
 <0159> (Is it morning?)
 <0160> This morning marks the eight years since that day.
 <0161> Even after realizing that he had woken up,
@@ -175,13 +175,13 @@
 <0166> \{[Mari]}
 <0167> "Good morning, Rei-sama.
 <0168> \ If you're up already, would you like to have breakfast?
-<0169> \{［伶］}
+<0169> \{[Rei]}
 <0170> "Ah... No, I don't have an appetite so I don't need it right now."
 <0171> \{[Mari]}
 <0172> "If you don't have breakfast,
 <0173> \ I won't have the strength to move on that day...
 <0174> \ Would you like some soup at least?
-<0175> \{［伶］}
+<0175> \{[Rei]}
 <0176> "......Okay. Just a little."
 <0177> \{[Mari]}
 <0178> "Then please come to the dining room!"
@@ -204,7 +204,7 @@
 <0195> I feel like I'll regret hurting someone for a long time to come.
 <0196> With a pained look in his eyes, a mixture of grief and anger,
 <0197> Takami stared intently at Rei that day.
-<0198> \{［伶］}
+<0198> \{[Rei]}
 <0199> (Really, that was Takami and I,
 <0200> \ Was this our first encounter...?
 <0201> About how the two met,
@@ -212,7 +212,7 @@
 <0203> Shouldn't we listen to what he has to say...?
 <0204> Pursue
 <0205> Don't ask anything
-<0206> \{［伶］}
+<0206> \{[Rei]}
 <0207> (...If this continues, I just can't calm down.
 <0208> \ (I'll check with Takami.)
 <0209> With that determination in mind,
@@ -223,37 +223,37 @@
 <0214> \{[Takami]}
 <0215> "What exactly happened, Rei?
 <0216> \ That's not like you, you seem very unsettled."
-<0217> \{［伶］}
+<0217> \{[Rei]}
 <0218> "I had a dream about the day I first met you.
 <0219> \ It was the day I was taken in by Kujo's residence."
 <0220> \{[Takami]}
 <0221> "...!"
-<0222> \{［伶］}
+<0222> \{[Rei]}
 <0223> "At that time, you saw my face,
 <0224> \ "I've always wanted to see you" -- that's what you said, right?"
 <0225> \{[Takami]}
 <0226> "...Yeah, I did say that."
-<0227> \{［伶］}
+<0227> \{[Rei]}
 <0228> "I remember every word of your words,
 <0229> What was it that you were trying to convey that day?
 <0230> \ That's what I've been thinking about again--"
-<0231> \{［伶］}
+<0231> \{[Rei]}
 <0232> "Takami... please answer me.
 <0233> \ Was that really the first time we met?
 <0234> \{[Takami]}
 <0235> "...You really don't remember anything."
-<0236> \{［伶］}
+<0236> \{[Rei]}
 <0237> "...I don't know what you're implying,
 <0238> \ I have no idea.
 <0239> I have no memory of meeting you before I was twelve."
 <0240> \{[Takami]}
 <0241> "Then, no matter what I say,
 <0242> \ None of this seems true to you, does it?
-<0243> \{［伶］}
+<0243> \{[Rei]}
 <0244> "No, unlike back then,
 <0245> \ I have the foundation to take your words seriously.
 <0246> \ I won't deny it without considering it.
-<0247> \{［伶］}
+<0247> \{[Rei]}
 <0248> "Takami, if you know anything, please tell me.
 <0249> \ When we first met...
 <0250> \{[Takami]}
@@ -270,16 +270,16 @@
 <0261> \{[Takami]}
 <0262> "I won't go into detail about the situation at the time, but
 <0263> \ That day, you saved my life."
-<0264> \{［伶］}
+<0264> \{[Rei]}
 <0265> "Did I save your life--?"
 <0266> \{[Takami]}
 <0267> "Yes, that's right. It was because of that encounter that
 <0268> \ I haven't forgotten you."
-<0269> \{［伶］}
+<0269> \{[Rei]}
 <0270> "I... will take your life..."
-<0271> \{［伶］}
+<0271> \{[Rei]}
 <0272> "......"
-<0273> \{［伶］}
+<0273> \{[Rei]}
 <0274> "...No good. I don't remember anything at all.
 <0275> \ Takami, when exactly was that story?
 <0276> \{[Takami]}
@@ -287,15 +287,15 @@
 <0278> \{[Takami]}
 <0279> "The place is--yes,
 <0280> \ It's under the cliff where you and I walked the other day."
-<0281> \{［伶］}
+<0281> \{[Rei]}
 <0282> "Ah, that place..."
 <0283> \{[Takami]}
 <0284> "You didn't react much back then,
 <0285> I ended up sulking as well..."
-<0286> \{［伶］}
+<0286> \{[Rei]}
 <0287> "I see... the reason you were in such a bad mood was because
 <0288> \ That's why you kept that reason a secret."
-<0289> \{［伶］}
+<0289> \{[Rei]}
 <0290> "But... I don't know. In my memory,
 <0291> \ I don't have any memories like that..."
 <0292> \{[Takami]}
@@ -305,13 +305,13 @@
 <0296> \{[Takami]}
 <0297> "You forgot that,
 <0298> \ It was an unbearable shame for me..."
-<0299> \{［伶］}
+<0299> \{[Rei]}
 <0300> "Takami..."
 <0301> \{[Takami]}
 <0302> "No - sorry, never mind.
 <0303> \ Just because you tried to remember that,
 <0304> \ Enough for me."
-<0305> \{［伶］}
+<0305> \{[Rei]}
 <0306> "But, Takami..."
 <0307> \{[Takami]}
 <0308> "...I was frustrated that I was the only one who remembered it in the past.
@@ -323,14 +323,14 @@
 <0314> \{[Takami]}
 <0315> "Yes... Right now, I have no idea about Angels.
 <0316> \ I don't care anymore..."
-<0317> \{［伶］}
-<0318> "...<Angel>...?"
-<0319> \{［伶］}
+<0317> \{[Rei]}
+<0318> "...\<Angel\>...?"
+<0319> \{[Rei]}
 <0320> "WaitーTakami."
-<0321> \{［伶］}
+<0321> \{[Rei]}
 <0322> "I hadn't really paid much attention to this until now,
 <0323> \ Why did you invite me to this mansion in the first place?
-<0324> \{［伶］}
+<0324> \{[Rei]}
 <0325> "You've taken the trouble to bring me to this memorable place,
 <0326> \ What is your intention in summoning me?
 <0327> \ Is it something to do with my meeting you...?
@@ -340,7 +340,7 @@
 <0331> "Yes - certainly, there was a connection.
 <0332> But it was all you who caused that past incident,
 <0333> \ It's pointless if you don't remember it."
-<0334> \{［伶］}
+<0334> \{[Rei]}
 <0335> "What does that mean...?"
 <0336> \{[Takami]}
 <0337> "...Sorry. Please forget what I just said."
@@ -363,7 +363,7 @@
 <0354> Now Takami truly hopes that Rei's memories will never return.
 <0355> Forgive me for not even remembering Takami,
 <0356> It looks like you're trying to accept a new start.
-<0357> \{［伶］}
+<0357> \{[Rei]}
 <0358> "...Takami..."
 <0359> Rei was speechless, at a loss for words.
 <0360> I tapped his shoulder, which was shaking in confusion,
@@ -372,10 +372,10 @@
 <0363> \{[Takami]}
 <0364> "Hey, enough talking, why don't we go and have some tea?
 <0365> \ I'll serve you the new tea I told you about before."
-<0366> \{［伶］}
+<0366> \{[Rei]}
 <0367> "No, I'll stop.
 <0368> \ ...Sorry for showing up so suddenly."
-<0369> \{［伶］}
+<0369> \{[Rei]}
 <0370> "I don't want to disturb your work any more than this,
 <0371> \ I think I'll head home now."
 <0372> \{[Takami]}
@@ -384,33 +384,33 @@
 <0375> \ But――」
 <0376> \{[Takami]}
 <0377> "Come see me again anytime."
-<0378> \{［伶］}
+<0378> \{[Rei]}
 <0379> "...Thank you. I'll keep those words in mind.
 <0380> \ See you then."
 <0381> Rei cuts her conversation with Takami short and leaves the annex.
 <0382> On my way home, I continued to worry secretly.
-<0383> \{［伶］}
+<0383> \{[Rei]}
 <0384> (If their meeting was as Takami said,
 <0385> Why can't I remember that?
-<0386> \{［伶］}
+<0386> \{[Rei]}
 <0387> (And... the fact that I saved Takami's life...
 <0388> \ Is that true?
-<0389> \{［伶］}
+<0389> \{[Rei]}
 <0390> (That one word that Takami let slip,
 <0391> \ I'm also worried about the Angel...)
-<0392> \{［伶］}
+<0392> \{[Rei]}
 <0393> (What exactly does Takami know about me?)
-<0394> \{［伶］}
+<0394> \{[Rei]}
 <0395> (My meeting with Takami and my being called to this mansion,
 <0396> And the existence of Angels...
-<0397> \{［伶］}
+<0397> \{[Rei]}
 <0398> (What connection is there between these three things?)
-<0399> \{［伶］}
+<0399> \{[Rei]}
 <0400> (Apparently, meeting Takami,
 <0401> \ This should be the key to solving the mystery...
-<0402> \{［伶］}
+<0402> \{[Rei]}
 <0403> (……………………)
-<0404> \{［伶］}
+<0404> \{[Rei]}
 <0405> (I don't know... I don't remember anything like that...)
 <0406> Rei has memories from when she was very young.
 <0407> As a memory album that neatly follows the process of growth,
@@ -427,11 +427,11 @@
 <0418> Where does the truth of how the two met lie?
 <0419> To prove that Takami's words are true,
 <0420> There's no other way than to remember the past he spoke of.
-<0421> \{［伶］}
+<0421> \{[Rei]}
 <0422> (If we believe that Takami's words are true,
 <0423> I'll try a little harder to regain my memories.
 <0424> \ Maybe I should give it a try...)
-<0425> \{［伶］}
+<0425> \{[Rei]}
 <0426> (To the place where the two of us first met,
 <0427> \ Shall we try again?
 <0428> Let's go
@@ -462,24 +462,24 @@
 <0453> The cliffs towering like walls, their rock faces exposed,
 <0454> Just below it,
 <0455> Small rocks that have fallen from the cliff lie scattered here and there.
-<0456> \{［伶］}
+<0456> \{[Rei]}
 <0457> (...I can't remember... anything)
 <0458> Even if it's just a little, it might be a clue to awaken your memories.
 <0459> I was looking for a view to catch my eye.
 <0460> Rei walks around the square with the utmost caution.
-<0461> \{［伶］}
+<0461> \{[Rei]}
 <0462> (Takami met me here,
 <0463> And he said that I saved his life--
-<0464> \{［伶］}
+<0464> \{[Rei]}
 <0465> (At this place, between me and Takami,
 <0466> \ What exactly happened...?
-<0467> \{［伶］}
+<0467> \{[Rei]}
 <0468> (--I want to know. Your memories with Takami...)
-<0469> \{［伶］}
+<0469> \{[Rei]}
 <0470> (Any fragment will do.
 <0471> \ I want to know...)
 <0472> At that moment, a flash of light passed through Rei's field of vision as she fervently prayed.
-<0473> \{［伶］}
+<0473> \{[Rei]}
 <0474> "...? What was that just now...?"
 <0475> It resembled a fragment of light emitted from the human heart.
 <0476> Somethingーlike I was being called,
@@ -488,12 +488,12 @@
 <0479> There, just below the cliff,
 <0480> A small collapse occurred from above,
 <0481> A place where gravel and small rocks are scattered quietly.
-<0482> \{［伶］}
+<0482> \{[Rei]}
 <0483> "I think it's somewhere around here..."
 <0484> I crouch down and gently touch the things around me.
 <0485> Is there anything that feels special?
 <0486> Carefully check and examine each item.
-<0487> \{［伶］}
+<0487> \{[Rei]}
 <0488> "...?"
 <0489> Why did you pick up that stone?
 <0490> It was difficult to put into words the motivation.
@@ -506,34 +506,34 @@
 <0497> It's such an ordinary mineral that even I have doubts.
 <0498> Take home
 <0499> Throw away
-<0500> \{［伶］}
+<0500> \{[Rei]}
 <0501> (I don't know why I picked it up,
 <0502> \ I picked it up because I felt something.
 <0503> \ Maybe I should just take it home like this...)
 <0504> Thinking this, Rei stood up with the stone in her hand.
-<0505> \{［伶］}
+<0505> \{[Rei]}
 <0506> (...Even so, my memories still won't return, huh?
 <0507> \ I was prepared for it, but...)
 <0508> Rei let out a sigh of disappointment,
 <0509> He pulled himself up, playing with the stone in his palm.
-<0510> \{［伶］}
+<0510> \{[Rei]}
 <0511> (...I guess there's no point in bringing something like this back.)
 <0512> I dropped the stone in my hand and threw it away.
 <0513> Rei stands up and claps her hands.
-<0514> \{［伶］}
+<0514> \{[Rei]}
 <0515> (I was prepared for this, but it was a wasted trip after all...)
 <0516> Unable to hide his disappointment, he let out a sigh.
 <0517> Rei left the place.
-<0518> \{［伶］}
+<0518> \{[Rei]}
 <0519> (There's no guarantee that anything will happen if you go.
 <0520> \ This is also proof that Takami's words are true...)
-<0521> \{［伶］}
+<0521> \{[Rei]}
 <0522> (And the story of Takami saying "enough is enough"
 <0523> \ There's no need to bring this up again.
 <0524> \ I don't think I need to go all the way there...)
 <0525> Rei quickly dismissed the thought that had crossed her mind,
 <0526> I simply walked straight back along the road leading to the mansion.
-<0527> \{［伶］}
+<0527> \{[Rei]}
 <0528> (No... I guess it's not something worth asking Takami about.)
 <0529> Rei shook her head to dismiss those timid thoughts,
 <0530> I decided to try to forget about my dreams.

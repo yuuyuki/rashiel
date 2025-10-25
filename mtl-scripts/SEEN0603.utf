@@ -1,14 +1,14 @@
 // Resources for SEEN0603.TXT
 
 #character '[Rei]'
-#character '［Marie］'
+#character '[Marie]'
 
 <0000> After that
 <0001> The night I left the mansion.
 <0002> Rei and Marie were sitting on a hill gazing at the stars.
 <0003> As Marie earnestly makes a wish on a shooting star,
 <0004> Rei asked, curious.
-<0005> \{［伶］}
+<0005> \{[Rei]}
 <0006> "You've been saying this for a while now,
 <0007> \ What are you wishing upon a shooting star, Marie?
 <0008> \{[Mari]}
@@ -17,7 +17,7 @@
 <0011> \ I'm praying."
 <0012> \{[Mari]}
 <0013> "Rei-sama? What wish did you make?"
-<0014> \{［伶］}
+<0014> \{[Rei]}
 <0015> "I don't really wish upon stars or anything."
 <0016> \{[Mari]}
 <0017> "I see..."
@@ -27,29 +27,29 @@
 <0021> \{[Mari]}
 <0022> "Please tell me!
 <0023> \ I want to know Rei-sama's wish."
-<0024> \{［伶］}
+<0024> \{[Rei]}
 <0025> "A wish..."
-<0026> \{［伶］}
+<0026> \{[Rei]}
 <0027> "......"
-<0028> \{［伶］}
+<0028> \{[Rei]}
 <0029> "Can I be honest?"
 <0030> \{[Mari]}
 <0031> "Yes, please!"
 <0032> I want to touch you
 <0033> ...As I thought, it's nothing.
-<0034> \{［伶］}
+<0034> \{[Rei]}
 <0035> "I want to touch you..."
-<0036> \{［伶］}
+<0036> \{[Rei]}
 <0037> "I want to get to know you better."
 <0038> \{[Mari]}
 <0039> "Huh...?"
-<0040> \{［伶］}
+<0040> \{[Rei]}
 <0041> "I mean... I want to hold you."
 <0042> \{[Mari]}
 <0043> "Huh... Huh?!"
-<0044> \{［伶］}
+<0044> \{[Rei]}
 <0045> "Of course, if you don't want to, I won't..."
-<0046> \{［伶］}
+<0046> \{[Rei]}
 <0047> "Mariie, how about you?"
 <0048> \{[Mari]}
 <0049> "......"
@@ -71,7 +71,7 @@
 <0065> \{[Mari]}
 <0066> "But I... I want to tell you something important.
 <0067> \ I didn't tell Rei-sama."
-<0068> \{［伶］}
+<0068> \{[Rei]}
 <0069> "Something important...?"
 <0070> \{[Mari]}
 <0071> "When Rei-sama gave me my body,
@@ -95,7 +95,7 @@
 <0089> \{[Mari]}
 <0090> "I, a female form with reproductive functions,
 <0091> \ I didn't want that..."
-<0092> \{［伶］}
+<0092> \{[Rei]}
 <0093> "......"
 <0094> \{[Mari]}
 <0095> "So, strictly speaking, I am now
@@ -104,7 +104,7 @@
 <0098> "This is... well,
 <0099> \ To make it yours,
 <0100> \ I can't beat that..."
-<0101> \{［伶］}
+<0101> \{[Rei]}
 <0102> "Mari..."
 <0103> \{[Mari]}
 <0104> "...Um..."
@@ -112,14 +112,14 @@
 <0106> "But with Rei-sama's help,
 <0107> \ Because of the body you created,
 <0108> \ There are things we can do.
-<0109> \{［伶］}
+<0109> \{[Rei]}
 <0110> "What can you do...?"
 <0111> \{[Mari]}
 <0112> "Rei-sama, please, from now on,
 <0113> \ Please "create" my gender.
 <0114> \{[Mari]}
 <0115> "If Rei-sama and I truly wish for it, it's probably possible."
-<0116> \{［伶］}
+<0116> \{[Rei]}
 <0117> "What...?"
 <0118> \{[Mari]}
 <0119> "Of course, by a strong desire from the heart,
@@ -128,10 +128,10 @@
 <0122> \{[Mari]}
 <0123> "Please choose the form you prefer, Rei-sama.
 <0124> \ I will follow Lady Rei's will."
-<0125> \{［伶］}
+<0125> \{[Rei]}
 <0126> "That's... I'm afraid that something so important to you would be too much for you.
 <0127> \ I don't think it's a good idea for me to decide.
-<0128> \{［伶］}
+<0128> \{[Rei]}
 <0129> "It's your precious body,
 <0130> \ I think that's something you should choose for yourself..."
 <0131> \{[Mari]}
@@ -145,14 +145,14 @@
 <0139> Women are good
 <0140> Men are good
 <0141> I want both features
-<0142> \{［伶］}
+<0142> \{[Rei]}
 <0143> "I don't care what gender you are..."
-<0144> \{［伶］}
+<0144> \{[Rei]}
 <0145> "If I had to say, I think it would be more natural for you to be a woman."
 <0146> \{[Mari]}
 <0147> "...I see!
 <0148> \ Then I will choose that form.
-<0149> \{［伶］}
+<0149> \{[Rei]}
 <0150> "Are you sure...?"
 <0151> \{[Mari]}
 <0152> "Yes. No matter what form I take, I am still me."
@@ -161,7 +161,7 @@
 <0155> I'm genuinely happy..."
 <0156> \{[Mari]}
 <0157> "Then... please."
-<0158> \{［伶］}
+<0158> \{[Rei]}
 <0159> "......"
 <0160> Encouraged by Marie's powerful words of determination,
 <0161> Rei took Marie's outstretched hand.
@@ -169,7 +169,7 @@
 <0163> I close my eyes to feel Marie's heart more deeply.
 <0164> And thenーthe information that forms the vessel called Marie’s body,
 <0165> Rei gently reached out and touched it.
-<0166> \{［伶］}
+<0166> \{[Rei]}
 <0167> "――――!!"
 <0168> Marie's desire to have the body Rei desires
 <0169> It was the first thing that jumped into Rei's heart.
@@ -184,9 +184,9 @@
 <0178> Marie is standing next to him.
 <0179> At first glance,
 <0180> Nothing seemed to have changed.
-<0181> \{［伶］}
+<0181> \{[Rei]}
 <0182> "Mari..."
-<0183> \{［伶］}
+<0183> \{[Rei]}
 <0184> "...Did it go well?"
 <0185> \{[Mari]}
 <0186> "......"
@@ -203,17 +203,17 @@
 <0197> Untie the ribbon that adorns the collar of the maid outfit,
 <0198> Just as I untied the waistband of my apron,
 <0199> I notice Marie looking up at me with an anxious expression.
-<0200> \{［伶］}
+<0200> \{[Rei]}
 <0201> "...Mariie, are you scared?"
 <0202> \{[Mari]}
 <0203> "Um... no, um... just a little bit.
 <0204> \ This is my first time doing something like this, so I'm nervous..."
-<0205> \{［伶］}
+<0205> \{[Rei]}
 <0206> "So... this is your first time.
 <0207> \ Have you never dated anyone before?
 <0208> \{[Mari]}
 <0209> "Yes, there wasn't. ...Um, I..."
-<0210> \{［伶］}
+<0210> \{[Rei]}
 <0211> "......?"
 <0212> \{[Mari]}
 <0213> "This body is a bit special,
@@ -225,13 +225,13 @@
 <0219> \{[Mari]}
 <0220> "If it's not with the person I love...
 <0221> \ I won't do something like this..."
-<0222> \{［伶］}
+<0222> \{[Rei]}
 <0223> "Mari..."
 <0224> Marie truly trusts and adores Rei,
 <0225> It comes across clearly from that bright smile.
 <0226> Marie's sincere and earnest gaze directed at him,
 <0227> Rei's heart is filled with love for Marie.
-<0228> \{［伶］}
+<0228> \{[Rei]}
 <0229> "...I'll be gentle."
 <0230> \{[Mari]}
 <0231> "Yes...! I'll leave everything to you, Rei-sama..."
@@ -247,7 +247,7 @@
 <0241> "Ah... please don't stare at me like that..."
 <0242> She squirms shyly, trying to avoid his gaze.
 <0243> He controls Marie's movements and smiles gently.
-<0244> \{［伶］}
+<0244> \{[Rei]}
 <0245> "Why are you trying to hide it? It's so beautiful."
 <0246> As she spoke, Rei leaned her face close to his bare chest,
 <0247> I rub my cheek against her soft curves.
@@ -302,7 +302,7 @@
 <0296> "Kyaa...!"
 <0297> The sensation of a man's wet fingertip exploring her sensitive spots,
 <0298> Marie involuntarily lets out a cry and shakes her hips.
-<0299> \{［伶］}
+<0299> \{[Rei]}
 <0300> "It's okay... I'll touch you gently, so don't run away..."
 <0301> \{[Mari]}
 <0302> "...Rei...sama..."
@@ -321,12 +321,12 @@
 <0315> It starts to become moist and moist.
 <0316> As I entangled my fingers in the nectar droplets and moistened them,
 <0317> Whisper softly to Marie.
-<0318> \{［伶］}
+<0318> \{[Rei]}
 <0319> "...You're getting wet, Marie."
 <0320> \{[Mari]}
 <0321> "No... No...!
 <0322> \ Rei-sama, please don't say that...!"
-<0323> \{［伶］}
+<0323> \{[Rei]}
 <0324> "Why...?
 <0325> \ Are you feeling it with my fingers?
 <0326> \ I'm so happy..."
@@ -347,7 +347,7 @@
 <0341> "Ahh... ngh...!"
 <0342> There was a wet squishing sound,
 <0343> Marie shakes her hips and cries out loud.
-<0344> \{［伶］}
+<0344> \{[Rei]}
 <0345> "...Are you feeling it, Marie?"
 <0346> \{[Mari]}
 <0347> "That's... not something I'd say... agh...!"
@@ -396,7 +396,7 @@
 <0390> I stirred up Marie's dripping wet honeypot.
 <0391> \{[Mari]}
 <0392> "Rei-sama... please don't be mean...!"
-<0393> \{［伶］}
+<0393> \{[Rei]}
 <0394> "...When I see your face like that,
 <0395> \ I want to try making him show more different expressions..."
 <0396> \{[Mari]}
@@ -404,7 +404,7 @@
 <0398> Rei's skillful fingering,
 <0399> Marie was at the mercy of the others, shaking her hips,
 <0400> They are being caught up.
-<0401> \{［伶］}
+<0401> \{[Rei]}
 <0402> "How does it feel...? Marie"
 <0403> \{[Mari]}
 <0404> "I... feel weird like this... ah!"
@@ -435,14 +435,14 @@
 <0429> I can see Marie's heart.
 <0430> And thenーRei thought that Marie was like that,
 <0431> I can't help but feel love for him again.
-<0432> \{［伶］}
+<0432> \{[Rei]}
 <0433> "Mari... I want to connect with you more deeply..."
 <0434> \{[Mari]}
 <0435> "...Ah..."
 <0436> In a husky voice, he seemed a little nervous.
 <0437> Rei whispered passionately into Marie's ear,
 <0438> Marie's hips tremble violently.
-<0439> \{［伶］}
+<0439> \{[Rei]}
 <0440> "If you don't want to, I won't do it again..."
 <0441> \{[Mari]}
 <0442> "...Ah...Rei-sama..."
@@ -459,11 +459,11 @@
 <0453> \{[Mari]}
 <0454> "Hmm...!"
 <0455> Marie is surprised by Rei's body temperature and can't help but cry out.
-<0456> \{［伶］}
+<0456> \{[Rei]}
 <0457> "Are you scared?"
 <0458> \{[Mari]}
 <0459> "N-no..."
-<0460> \{［伶］}
+<0460> \{[Rei]}
 <0461> "Well, let's go."
 <0462> \{[Mari]}
 <0463> "......!"
@@ -490,11 +490,11 @@
 <0484> Rei moves forward.
 <0485> Eventually, inside Marie,
 <0486> All of Rei's excitement was completely subsided.
-<0487> \{［伶］}
+<0487> \{[Rei]}
 <0488> "...Everything fits in."
 <0489> \{[Mari]}
 <0490> "Ah...huh..."
-<0491> \{［伶］}
+<0491> \{[Rei]}
 <0492> "Does it hurt?"
 <0493> \{[Mari]}
 <0494> "Oh... no... it doesn't hurt..."
@@ -503,9 +503,9 @@
 <0497> \ I feel Rei-sama inside me..."
 <0498> \{[Mari]}
 <0499> "That makes me so happy...!"
-<0500> \{［伶］}
+<0500> \{[Rei]}
 <0501> "I feel you too."
-<0502> \{［伶］}
+<0502> \{[Rei]}
 <0503> "I love you, Marie..."
 <0504> Whispering gently,
 <0505> Rei's love and growing lust led her to
@@ -518,7 +518,7 @@
 <0512> Repeated twitching contractions.
 <0513> Marie's insides react to every thrust of Rei,
 <0514> Rei's desire grows stronger and stronger.
-<0515> \{［伶］}
+<0515> \{[Rei]}
 <0516> "Ugh... Marie..."
 <0517> \{[Mari]}
 <0518> "Rei-sama...!"
@@ -559,7 +559,7 @@
 <0553> "Ah... Ah, ha, ah!!"
 <0554> \{[Mari]}
 <0555> "Ugh, ah, ahh, ahh...!"
-<0556> \{［伶］}
+<0556> \{[Rei]}
 <0557> "Ugh...!"
 <0558> He pulled it out as far as the vaginal opening and thrust it back in again.
 <0559> In response to Rei's wild and passionate movements,
@@ -572,7 +572,7 @@
 <0566> \{[Mari]}
 <0567> "Oh, please,
 <0568> \ Please fill me up, Rei-sama...!"
-<0569> \{［伶］}
+<0569> \{[Rei]}
 <0570> "Mariie...!"
 <0571> \{[Mari]}
 <0572> "Ah, ahhhh...!"
@@ -582,7 +582,7 @@
 <0576> With Rei's genitals in his mouth,
 <0577> Marie's voluptuous flesh moves as if squeezing
 <0578> Finally, Rei's desire reaches a critical point.
-<0579> \{［伶］}
+<0579> \{[Rei]}
 <0580> "...Damn it!"
 <0581> \{[Mari]}
 <0582> "Ahhh... Aaaahhh...!!"
@@ -594,15 +594,15 @@
 <0588> "Ah, ahh, ahhhh..."
 <0589> With her hips trembling,
 <0590> Marie accepted everything that was poured into her body.
-<0591> \{［伶］}
+<0591> \{[Rei]}
 <0592> "I don't care what gender you are..."
-<0593> \{［伶］}
+<0593> \{[Rei]}
 <0594> "If I had to say, you want to forget the past,
 <0595> \ I think it would be better to choose a man's body instead.
 <0596> \{[Mari]}
 <0597> "...I see!
 <0598> \ Then I will choose that form.
-<0599> \{［伶］}
+<0599> \{[Rei]}
 <0600> "Are you sure...?"
 <0601> \{[Mari]}
 <0602> "Yes. No matter what form I take, I am still me."
@@ -611,7 +611,7 @@
 <0605> \ I'm genuinely happy..."
 <0606> \{[Mari]}
 <0607> "Then... please."
-<0608> \{［伶］}
+<0608> \{[Rei]}
 <0609> "......"
 <0610> Encouraged by Marie's powerful words of determination,
 <0611> Rei took Marie's outstretched hand.
@@ -619,7 +619,7 @@
 <0613> I close my eyes to feel Marie's heart more deeply.
 <0614> And thenーthe information that forms the vessel called Marie’s body,
 <0615> Rei gently reached out and touched it.
-<0616> \{［伶］}
+<0616> \{[Rei]}
 <0617> "――――!!"
 <0618> Marie's desire to have the body Rei desires
 <0619> It was the first thing that jumped into Rei's heart.
@@ -634,9 +634,9 @@
 <0628> Marie is standing next to him.
 <0629> At first glance,
 <0630> Nothing seemed to have changed.
-<0631> \{［伶］}
+<0631> \{[Rei]}
 <0632> "Mari..."
-<0633> \{［伶］}
+<0633> \{[Rei]}
 <0634> "...Did it go well?"
 <0635> \{[Mari]}
 <0636> "......"
@@ -653,17 +653,17 @@
 <0647> Untie the ribbon that adorns the collar of the maid outfit,
 <0648> Just as I untied the waistband of my apron,
 <0649> I notice Marie looking up at me with an anxious expression.
-<0650> \{［伶］}
+<0650> \{[Rei]}
 <0651> "...Mariie, are you scared?"
 <0652> \{[Mari]}
 <0653> "Ah... no, um... just a little.
 <0654> \ This is my first time doing something like this, so I'm nervous..."
-<0655> \{［伶］}
+<0655> \{[Rei]}
 <0656> "So... this is your first time.
 <0657> \ Have you never dated anyone before?
 <0658> \{[Mari]}
 <0659> "Yes, there wasn't. ...Um, I..."
-<0660> \{［伶］}
+<0660> \{[Rei]}
 <0661> "......?"
 <0662> \{[Mari]}
 <0663> "This body is a bit special,
@@ -675,13 +675,13 @@
 <0669> \{[Mari]}
 <0670> "If it's not with the person I love... I,
 <0671> \ I won't do something like this..."
-<0672> \{［伶］}
+<0672> \{[Rei]}
 <0673> "Mari..."
 <0674> Marie truly trusts and loves Rei,
 <0675> It comes across clearly from that bright smile.
 <0676> Marie's sincere and earnest gaze directed at him,
 <0677> Rei's heart is filled with love for Marie.
-<0678> \{［伶］}
+<0678> \{[Rei]}
 <0679> "...I'll be gentle."
 <0680> \{[Mari]}
 <0681> "Yes...! I'll leave everything to you, Rei-sama..."
@@ -696,7 +696,7 @@
 <0690> "Ah... please don't stare at me like that..."
 <0691> She squirms shyly, trying to avoid his gaze.
 <0692> He controls Marie's movements and smiles gently.
-<0693> \{［伶］}
+<0693> \{[Rei]}
 <0694> "Why are you trying to hide it? It's so beautiful."
 <0695> Now that he was the boy's,
 <0696> I leaned my face against her bare, flat chest,
@@ -748,7 +748,7 @@
 <0742> "Kyaa...!"
 <0743> The sensation of a man's wet fingertip exploring her sensitive spots,
 <0744> Marie involuntarily lets out a cry and shakes her hips.
-<0745> \{［伶］}
+<0745> \{[Rei]}
 <0746> "It's okay... I'll touch you gently, so don't run away..."
 <0747> \{[Mari]}
 <0748> "...Rei...sama..."
@@ -776,7 +776,7 @@
 <0770> \{[Mari]}
 <0771> "Ahh... ngh...!"
 <0772> Marie shook her hips and let out a loud cry.
-<0773> \{［伶］}
+<0773> \{[Rei]}
 <0774> "...Are you feeling it, Marie?"
 <0775> \{[Mari]}
 <0776> "That's... not something I'd say... agh...!"
@@ -807,7 +807,7 @@
 <0801> Her slender waist jumped like a young sweetfish.
 <0802> The stimulation was so intense that
 <0803> Marie screams and arches her back violently.
-<0804> \{［伶］}
+<0804> \{[Rei]}
 <0805> "This is where you feel it..."
 <0806> I raise my hips and try to escape.
 <0807> Repeatedly touching with your fingers,
@@ -821,7 +821,7 @@
 <0815> "Ugh, ahhh... ahhh, ahhh, ahhh...!"
 <0816> \{[Mari]}
 <0817> "Rei-sama... please don't be mean...!"
-<0818> \{［伶］}
+<0818> \{[Rei]}
 <0819> "...When I see your face like that,
 <0820> \ I want to try making him show more different expressions..."
 <0821> \{[Mari]}
@@ -829,7 +829,7 @@
 <0823> Rei's skillful fingering,
 <0824> Marie was at the mercy of the others, shaking her hips,
 <0825> They are being caught up.
-<0826> \{［伶］}
+<0826> \{[Rei]}
 <0827> "How does it feel...? Marie"
 <0828> \{[Mari]}
 <0829> "I... feel weird like this... ah!"
@@ -860,14 +860,14 @@
 <0854> I can see Marie's heart.
 <0855> And thenーRei thought that Marie was like that,
 <0856> I can't help but feel love for him again.
-<0857> \{［伶］}
+<0857> \{[Rei]}
 <0858> "Mari... I want to connect with you more deeply..."
 <0859> \{[Mari]}
 <0860> "...Ah..."
 <0861> In a husky voice, he seemed a little nervous,
 <0862> Rei whispered passionately into Marie's ear,
 <0863> Marie's hips tremble violently.
-<0864> \{［伶］}
+<0864> \{[Rei]}
 <0865> "If you don't want to, I won't do it again..."
 <0866> \{[Mari]}
 <0867> "...Ah... Rei-sama..."
@@ -887,11 +887,11 @@
 <0881> \{[Mari]}
 <0882> "Hmm...!"
 <0883> Marie is surprised by Rei's body temperature and can't help but cry out.
-<0884> \{［伶］}
+<0884> \{[Rei]}
 <0885> "Are you scared?"
 <0886> \{[Mari]}
 <0887> "N-no..."
-<0888> \{［伶］}
+<0888> \{[Rei]}
 <0889> "Well, let's go."
 <0890> \{[Mari]}
 <0891> "......!"
@@ -918,11 +918,11 @@
 <0912> Rei moves forward.
 <0913> Eventually, inside Marie,
 <0914> All of Rei's excitement was completely subsided.
-<0915> \{［伶］}
+<0915> \{[Rei]}
 <0916> "...Everything fits in."
 <0917> \{[Mari]}
 <0918> "Ah...huh..."
-<0919> \{［伶］}
+<0919> \{[Rei]}
 <0920> "Does it hurt?"
 <0921> \{[Mari]}
 <0922> "Ah... no... it doesn't hurt..."
@@ -931,9 +931,9 @@
 <0925> \ I feel Rei-sama inside me..."
 <0926> \{[Mari]}
 <0927> "That makes me so happy...!"
-<0928> \{［伶］}
+<0928> \{[Rei]}
 <0929> "I feel you too."
-<0930> \{［伶］}
+<0930> \{[Rei]}
 <0931> "I love you, Marie..."
 <0932> Whispering gently,
 <0933> Rei's love and growing lust led her to
@@ -983,7 +983,7 @@
 <0977> She was so happy she couldn't even make a sound.
 <0978> Marie's slender waist and the knees supporting it shook violently.
 <0979> The swelling in my palm suddenly increases in volume.
-<0980> \{［伶］}
+<0980> \{[Rei]}
 <0981> "Ugh..."
 <0982> At the same time as inspiring Marie's boyish mark,
 <0983> The inner walls that squeezed Rei's thing,
@@ -1003,7 +1003,7 @@
 <0997> "Ah... Ah, ha, ah!!"
 <0998> \{[Mari]}
 <0999> "Ugh, ah, ahh, ahh...!"
-<1000> \{［伶］}
+<1000> \{[Rei]}
 <1001> "Ugh...!"
 <1002> Pull it out as far as you can and then thrust it in again.
 <1003> In response to Rei's wild and passionate movements,
@@ -1016,7 +1016,7 @@
 <1010> \{[Mari]}
 <1011> "Oh, please take me, Rei-sama
 <1012> \ Please fill me up...!
-<1013> \{［伶］}
+<1013> \{[Rei]}
 <1014> "Mari...!"
 <1015> \{[Mari]}
 <1016> "Ah, ahhhh...!"
@@ -1026,7 +1026,7 @@
 <1020> With Rei's genitals in his mouth,
 <1021> The movement of Marie's soft flesh as she squeezes me up,
 <1022> Finally, Rei's desire reaches a critical point.
-<1023> \{［伶］}
+<1023> \{[Rei]}
 <1024> "...Damn it!"
 <1025> \{[Mari]}
 <1026> "Ahhh... Aaaahhh...!!"
@@ -1041,12 +1041,12 @@
 <1035> With her hips shaking violently,
 <1036> Marie accepts everything that is poured into her body,
 <1037> For the first time in my life, I reached orgasm as a boy.
-<1038> \{［伶］}
+<1038> \{[Rei]}
 <1039> "I don't care what gender you are..."
-<1040> \{［伶］}
+<1040> \{[Rei]}
 <1041> "You have a masculine vibrancy,
 <1042> \ It also has a feminine softness to it.
-<1043> \{［伶］}
+<1043> \{[Rei]}
 <1044> "Better yet,
 <1045> \ How about a body that has the functions of both sexes?
 <1046> \{[Mari]}
@@ -1054,9 +1054,9 @@
 <1048> \{[Mari]}
 <1049> "Ryo... Are you bisexual...?
 <1050> \ So that means it has two functions..."
-<1051> \{［伶］}
+<1051> \{[Rei]}
 <1052> "Yes. Of course, I wouldn't force you to do it..."
-<1053> \{［伶］}
+<1053> \{[Rei]}
 <1054> "Is that a bit of an outlandish suggestion?"
 <1055> \{[Mari]}
 <1056> "......"
@@ -1067,12 +1067,12 @@
 <1061> \{[Mari]}
 <1062> "But, Rei-sama... well,
 <1063> \ Isn't that body disgusting...?
-<1064> \{［伶］}
+<1064> \{[Rei]}
 <1065> "Huh? Not at all."
 <1066> \{[Mari]}
 <1067> "...I see!
 <1068> \ Then I'm fine."
-<1069> \{［伶］}
+<1069> \{[Rei]}
 <1070> "Are you sure...?"
 <1071> \{[Mari]}
 <1072> "Yes. No matter what form I take, I am still me."
@@ -1081,7 +1081,7 @@
 <1075> \ I'm genuinely happy..."
 <1076> \{[Mari]}
 <1077> "Well then... here you go."
-<1078> \{［伶］}
+<1078> \{[Rei]}
 <1079> "......"
 <1080> Encouraged by Marie's powerful words of determination,
 <1081> Rei took Marie's outstretched hand.
@@ -1089,7 +1089,7 @@
 <1083> I close my eyes to feel Marie's heart more deeply.
 <1084> And thenーthe information that forms the vessel called Marie’s body,
 <1085> Rei gently reached out and touched it.
-<1086> \{［伶］}
+<1086> \{[Rei]}
 <1087> "――――!!"
 <1088> Marie's desire to have the body that Rei desires
 <1089> It was the first thing that jumped into Rei's heart.
@@ -1104,9 +1104,9 @@
 <1098> Marie is standing next to him.
 <1099> At first glance,
 <1100> Nothing seemed to have changed.
-<1101> \{［伶］}
+<1101> \{[Rei]}
 <1102> "Mari..."
-<1103> \{［伶］}
+<1103> \{[Rei]}
 <1104> "...Did it go well?"
 <1105> \{[Mari]}
 <1106> "......"
@@ -1123,17 +1123,17 @@
 <1117> Untie the ribbon that adorns the collar of the maid outfit,
 <1118> I untied the waistband of my apron,
 <1119> I notice Marie looking up at me with an anxious expression.
-<1120> \{［伶］}
+<1120> \{[Rei]}
 <1121> "...Mariie, are you scared?"
 <1122> \{[Mari]}
 <1123> "Um... no, um... just a little bit.
 <1124> \ This is my first time doing something like this, so I'm nervous..."
-<1125> \{［伶］}
+<1125> \{[Rei]}
 <1126> "So... this is your first time.
 <1127> \ Have you never dated anyone before?
 <1128> \{[Mari]}
 <1129> "Yes, there wasn't. ...Um, I..."
-<1130> \{［伶］}
+<1130> \{[Rei]}
 <1131> "......?"
 <1132> \{[Mari]}
 <1133> "This body is a bit special,
@@ -1145,13 +1145,13 @@
 <1139> \{[Mari]}
 <1140> "If it's not with the person I love... I,
 <1141> \ I won't do something like this..."
-<1142> \{［伶］}
+<1142> \{[Rei]}
 <1143> "Mari..."
 <1144> Marie truly trusts and loves Rei,
 <1145> It comes across clearly from that bright smile.
 <1146> Marie's sincere and earnest gaze directed at her,
 <1147> Rei's heart also begins to feel a surge of love for Marie.
-<1148> \{［伶］}
+<1148> \{[Rei]}
 <1149> "...I'll be gentle."
 <1150> \{[Mari]}
 <1151> "Yes...! I'll leave everything to you, Rei-sama..."
@@ -1167,7 +1167,7 @@
 <1161> "Ah... please don't stare at me like that..."
 <1162> She squirms shyly, trying to avoid his gaze.
 <1163> He controls Marie's movements and smiles gently.
-<1164> \{［伶］}
+<1164> \{[Rei]}
 <1165> "Why are you trying to hide it? It's so beautiful."
 <1166> As she spoke, Rei leaned her face close to his bare chest,
 <1167> I rub my cheek against her soft curves.
@@ -1222,7 +1222,7 @@
 <1216> "Kyaa...!"
 <1217> The sensation of a man's wet fingertip exploring her sensitive spots,
 <1218> Marie involuntarily lets out a cry and shakes her hips.
-<1219> \{［伶］}
+<1219> \{[Rei]}
 <1220> "It's okay... I'll touch you gently, so don't run away..."
 <1221> \{[Mari]}
 <1222> "...Rei...sama..."
@@ -1241,12 +1241,12 @@
 <1235> It begins to become moist and moist.
 <1236> As I entangled my fingers in the drops of honey,
 <1237> Whisper softly to Marie.
-<1238> \{［伶］}
+<1238> \{[Rei]}
 <1239> "...You're getting wet, Marie."
 <1240> \{[Mari]}
 <1241> "No... No...!
 <1242> \ Rei-sama, please don't say that...!"
-<1243> \{［伶］}
+<1243> \{[Rei]}
 <1244> "Why...?
 <1245> \ Are you feeling it with my fingers?
 <1246> \ I'm so happy..."
@@ -1267,7 +1267,7 @@
 <1261> "Ahh... ngh...!"
 <1262> There was a wet squishing sound,
 <1263> Marie shook her hips and let out a loud cry.
-<1264> \{［伶］}
+<1264> \{[Rei]}
 <1265> "...Are you feeling it, Marie?"
 <1266> \{[Mari]}
 <1267> "That's... not something I'd say... agh...!"
@@ -1316,7 +1316,7 @@
 <1310> I stirred around inside Marie's dripping wet honeypot.
 <1311> \{[Mari]}
 <1312> "Rei-sama... please don't be mean...!"
-<1313> \{［伶］}
+<1313> \{[Rei]}
 <1314> "...When I see your face like that,
 <1315> \ I want to try making more different expressions..."
 <1316> \{[Mari]}
@@ -1324,7 +1324,7 @@
 <1318> Rei's skillful fingering,
 <1319> Marie was at the mercy of the others, shaking her hips,
 <1320> They are being caught up.
-<1321> \{［伶］}
+<1321> \{[Rei]}
 <1322> "How does it feel...? Marie?"
 <1323> \{[Mari]}
 <1324> "I... feel weird like this... ah!"
@@ -1355,14 +1355,14 @@
 <1349> I can see Marie's heart.
 <1350> And thenーRei thought that Marie was like that,
 <1351> I can't help but feel love for him again.
-<1352> \{［伶］}
+<1352> \{[Rei]}
 <1353> "Mari... I want to connect with you more deeply..."
 <1354> \{[Mari]}
 <1355> "...Ah..."
 <1356> In a slightly husky voice,
 <1357> Rei whispered passionately into Marie's ear,
 <1358> Marie's hips tremble violently.
-<1359> \{［伶］}
+<1359> \{[Rei]}
 <1360> "If you don't want to, I won't do it again..."
 <1361> \{[Mari]}
 <1362> "...Ah...Rei-sama..."
@@ -1388,11 +1388,11 @@
 <1382> Shake your body.
 <1383> The boy's thing, loosely erect,
 <1384> The movement caused it to sway slightly, spilling drops.
-<1385> \{［伶］}
+<1385> \{[Rei]}
 <1386> "Are you scared?"
 <1387> \{[Mari]}
 <1388> "N-no..."
-<1389> \{［伶］}
+<1389> \{[Rei]}
 <1390> "Well, let's go."
 <1391> \{[Mari]}
 <1392> "......!"
@@ -1419,11 +1419,11 @@
 <1413> Rei moves forward.
 <1414> Eventually, inside Marie,
 <1415> All of Rei's excitement was completely subsided.
-<1416> \{［伶］}
+<1416> \{[Rei]}
 <1417> "...It's all in."
 <1418> \{[Mari]}
 <1419> "Ah...huh..."
-<1420> \{［伶］}
+<1420> \{[Rei]}
 <1421> "Does it hurt?"
 <1422> \{[Mari]}
 <1423> "Oh... no... it doesn't hurt..."
@@ -1432,9 +1432,9 @@
 <1426> \ I feel Rei-sama inside me..."
 <1427> \{[Mari]}
 <1428> "That makes me so happy...!"
-<1429> \{［伶］}
+<1429> \{[Rei]}
 <1430> "I feel you too."
-<1431> \{［伶］}
+<1431> \{[Rei]}
 <1432> "I love you, Marie..."
 <1433> Whispering gently,
 <1434> Rei's love and growing lust led her to
@@ -1492,7 +1492,7 @@
 <1486> And at the same time as giving a stimulus to the front,
 <1487> The inner walls that were squeezing Rei's thing also responded to the pleasure,
 <1488> Her clitoris twitches and convulses.
-<1489> \{［伶］}
+<1489> \{[Rei]}
 <1490> "Ugh..."
 <1491> Marie's body feels Rei's caresses,
 <1492> The pleasure was transmitted to Rei's thing, which was swallowed deep inside,
@@ -1521,7 +1521,7 @@
 <1515> "Ah... Ah, ha, ah!!"
 <1516> \{[Mari]}
 <1517> "Ugh, ah, ahh, ahh...!"
-<1518> \{［伶］}
+<1518> \{[Rei]}
 <1519> "Ugh...!"
 <1520> He pulled it out as far as the opening of her vagina, then thrust it back in again.
 <1521> In response to Rei's wild and passionate movements,
@@ -1534,7 +1534,7 @@
 <1528> \{[Mari]}
 <1529> "Oh, please,
 <1530> \ Please fill me up, Rei-sama...!
-<1531> \{［伶］}
+<1531> \{[Rei]}
 <1532> "Mari...!"
 <1533> \{[Mari]}
 <1534> "Ah, ahhhh...!"
@@ -1544,7 +1544,7 @@
 <1538> With Rei's genitals in his mouth,
 <1539> Marie's voluptuous flesh moves as if squeezing
 <1540> Finally, Rei's desire reaches a critical point.
-<1541> \{［伶］}
+<1541> \{[Rei]}
 <1542> "...Damn it!"
 <1543> \{[Mari]}
 <1544> "Ahhh... Aaaahhh...!!"
@@ -1565,7 +1565,7 @@
 <1559> I lay myself down on the green hills,
 <1560> While embracing Marie's exhausted body,
 <1561> I look up at the high, twinkling starry sky.
-<1562> \{［伶］}
+<1562> \{[Rei]}
 <1563> "...Mari-e, isn't it painful?"
 <1564> \{[Mari-e]}
 <1565> "Yes... I'm fine."
@@ -1574,7 +1574,7 @@
 <1568> \ It feels so good..."
 <1569> \{[Mari]}
 <1570> "I... I'm embarrassed..."
-<1571> \{［伶］}
+<1571> \{[Rei]}
 <1572> "That must be because Marie thinks of me,
 <1573> \ Because you trusted me."
 <1574> \{[Mari-e]}
@@ -1585,7 +1585,7 @@
 <1579> \ I know you're treating it with care..."
 <1580> \{[Mari]}
 <1581> "I was really happy..."
-<1582> \{［伶］}
+<1582> \{[Rei]}
 <1583> "I see... Let's do it again then, okay?"
 <1584> \{[Mari-e]}
 <1585> "......! Y-yes!"
@@ -1612,7 +1612,7 @@
 <1606> It seems as if it accepts everything in this world into its bosom.
 <1607> The future of our life together,
 <1608> It seemed to be celebrating with the twinkling stars.
-<1609> \{［伶］}
+<1609> \{[Rei]}
 <1610> "...As I thought, it's nothing."
 <1611> \{[Mari-e]}
 <1612> "......?"
@@ -1624,7 +1624,7 @@
 <1618> "I'm sure the weather will be nice tomorrow too!"
 <1619> \{[Mari-e]}
 <1620> "Somehow, that's what I feel."
-<1621> \{［伶］}
+<1621> \{[Rei]}
 <1622> "Yeah... that's right. I'm sure that's the case."
 <1623> We snuggled up together, looking up at the starry sky,
 <1624> Rei gently stroked Marie's hair,

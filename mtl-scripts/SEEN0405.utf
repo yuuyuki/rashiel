@@ -1,21 +1,21 @@
 // Resources for SEEN0405.TXT
 
 #character '[Rei]'
-#character '［Takami］'
-#character '［Marie］'
+#character '[Takami]'
+#character '[Marie]'
 #character '[Katagiri]'
 #character '[? ]'
 #character '[Nue]'
 #character '[Subordinate]'
-#character '[male]'
+#character '[Man]'
 #character '[? ? ]'
-#character '［desire］'
+#character '[Nozomi]'
 
 <0000> May 9th Takami Route
 <0001> A clear, pleasant day is on the way.
 <0002> It feels like a refreshing early summer morning.
 <0003> As if called by that presence, Rei woke up.
-<0004> \{［伶］}
+<0004> \{[Rei]}
 <0005> "...Takami?!"
 <0006> I opened my eyes and saw a scene that jumped straight into my eyes.
 <0007> Rei's heart thumped loudly.
@@ -29,7 +29,7 @@
 <0015> The warmth of our embrace fades away,
 <0016> I touched the cold, crumpled sheets with my fingers,
 <0017> I realize with my bare skin that there is no one next to me.
-<0018> \{［伶］}
+<0018> \{[Rei]}
 <0019> (Ahh, I see. …Takami too.)
 <0020> When I woke up, there was no sign of anyone beside me.
 <0021> I had experienced this several times and should have been prepared.
@@ -42,11 +42,11 @@
 <0028> Rei's heart freezes with hopeless despair.
 <0029> --And then, at that moment.
 <0030> Suddenly, the door to the room was slammed open without a knock.
-<0031> \{［伶］}
+<0031> \{[Rei]}
 <0032> "――!?"
 <0033> \{[Takami]}
 <0034> "--Huh? What's going on? You're awake too, Rei."
-<0035> \{［伶］}
+<0035> \{[Rei]}
 <0036> "Takami...?"
 <0037> A cheerful voice came into the room,
 <0038> A mug that gives off the aroma of fragrant coffee,
@@ -68,47 +68,47 @@
 <0054> "...Oops! I asked Marie, who came to wake you up,
 <0055> \ I had some coffee made.
 <0056> \ Here, here's your share too, so take it.
-<0057> \{［伶］}
+<0057> \{[Rei]}
 <0058> "......"
 <0059> \{[Takami]}
 <0060> "...What's wrong? You have a strange look on your face.
 <0061> \ Did something happen while I was away?
-<0062> \{［伶］}
+<0062> \{[Rei]}
 <0063> "......"
 <0064> \{[Takami]}
 <0065> "Hey - what's wrong, Rei?"
-<0066> \{［伶］}
+<0066> \{[Rei]}
 <0067> "...I...I'll pretend you're not here..."
 <0068> \{[Takami]}
 <0069> "Huh? What are you talking about?"
-<0070> \{［伶］}
+<0070> \{[Rei]}
 <0071> "When I woke up, you were gone,
 <0072> \ I thought you had gone away while I was sleeping,
 <0073> \ I was completely convinced..."
 <0074> \{[Takami]}
 <0075> "Huh?! What's that?
 <0076> \ Did you not trust a word I said at all?
-<0077> \{［伶］}
+<0077> \{[Rei]}
 <0078> "...Even if you say so,
 <0079> \ Since you weren't in the room, I assumed..."
 <0080> \{[Takami]}
 <0081> "...Did I make you feel uneasy?
 <0082> \ Sorry for leaving you alone when you woke up.
-<0083> \{［伶］}
+<0083> \{[Rei]}
 <0084> "! No, don't apologize. It's not your fault.
 <0085> \ This is just like being a child.
 <0086> \ I'm not at an age where I'm afraid of sleeping alone, so..."
-<0087> \{［伶］}
+<0087> \{[Rei]}
 <0088> "......"
 <0089> \{[Takami]}
 <0090> "...Rei. Your cheeks are red, you see?"
-<0091> \{［伶］}
+<0091> \{[Rei]}
 <0092> "...You're a bit noisy."
 <0093> \{[Takami]}
 <0094> "Haha, our positions are reversed!
 <0095> \ To see you blush at my words,
 <0096> \ Perhaps this is your first time?
-<0097> \{［伶］}
+<0097> \{[Rei]}
 <0098> "......"
 <0099> \{[Takami]}
 <0100> "...I will never leave your side.
@@ -117,24 +117,24 @@
 <0103> \{[Takami]}
 <0104> "Even if you cry and beg me to leave you, it's too late.
 <0105> \ I won't leave your side."
-<0106> \{［伶］}
+<0106> \{[Rei]}
 <0107> "Takami..."
 <0108> \{[Takami]}
 <0109> "Look, here's the coffee I brought over while it was still hot.
 <0110> \ Drink it before it gets cold."
-<0111> \{［伶］}
+<0111> \{[Rei]}
 <0112> "...That's right. I'll take it."
 <0113> The mug he offered me as if to hide his embarrassment,
 <0114> I took it from Takami with both hands,
 <0115> Rei holds the warmth in the palm of her hand.
 <0116> The heat warms not only your fingertips but also your heart.
 <0117> Feeling a sense of calm and peace, Rei smiled.
-<0118> \{［伶］}
+<0118> \{[Rei]}
 <0119> "...Takami?"
 <0120> As soon as I opened my eyes,
 <0121> I saw Takami sleeping with his eyes closed in comfort,
 <0122> Rei's eyes widened in shock.
-<0123> \{［伶］}
+<0123> \{[Rei]}
 <0124> (Ahh, I see. While I was talking with Takami,
 <0125> \ Just sleep like that...)
 <0126> Last night, we sat side by side on the bed,
@@ -144,7 +144,7 @@
 <0130> It seemed like Takami,
 <0131> After pulling up the coverlet, Takami seems to have run out of strength.
 <0132> He is asleep, curled up next to Rei.
-<0133> \{［伶］}
+<0133> \{[Rei]}
 <0134> (...Somehow, a big, friendly dog,
 <0135> \ It's like he's sleeping next to me.)
 <0136> Gently reach out your hand,
@@ -164,7 +164,7 @@
 <0150> I looked at Rei with my sleepy eyes wide open.
 <0151> \{[Takami]}
 <0152> "...Hmm, what's going on? You're already awake, Rei..."
-<0153> \{［伶］}
+<0153> \{[Rei]}
 <0154> "Good morning, Takami. You still look sleepy.
 <0155> \ It seems you went to bed later,
 <0156> \ I don't mind sleeping a little longer."
@@ -182,30 +182,30 @@
 <0168> Takami follows me around without leaving my side for even a moment.
 <0169> Gradually, Rei began to follow her master around happily, wagging her tail.
 <0170> It makes me feel like I'm dragging a large dog around.
-<0171> \{［伶］}
+<0171> \{[Rei]}
 <0172> "...Takami, do you not have to go to work?"
 <0173> \{[Takami]}
 <0174> "I contacted them this morning and gave them instructions.
 <0175> \ I've decided to take an emergency leave today.
-<0176> \{［伶］}
+<0176> \{[Rei]}
 <0177> "...Takami, can you please leave now?
 <0178> \ Annoying."
 <0179> \{[Takami]}
 <0180> "Hey, Rei! You don't have to say such cold things...!"
-<0181> \{［伶］}
+<0181> \{[Rei]}
 <0182> "...It's heavy, Takami."
 <0183> \{[Takami]}
 <0184> "It's because you say such cruel things!"
-<0185> \{［伶］}
+<0185> \{[Rei]}
 <0186> "Wait... it's really heavy,
 <0187> \ Wait, Takami...!
 <0188> \{[Takami]}
 <0189> "No. I won't wait."
-<0190> \{［伶］}
+<0190> \{[Rei]}
 <0191> "Takami...!"
 <0192> He plays around like a child, hitting Takami on the head,
 <0193> As she chases them away, Rei lets out a sigh.
-<0194> \{［伶］}
+<0194> \{[Rei]}
 <0195> "You've always been a bit childish,
 <0196> \ I'm acting like a kid today.
 <0197> \ Don't mess with me with such a big \ruby{shape}={form}."
@@ -217,18 +217,18 @@
 <0203> \ I decided to do that today."
 <0204> \{[Takami]}
 <0205> "Once I made up my mind... I felt relieved."
-<0206> \{［伶］}
+<0206> \{[Rei]}
 <0207> "...What exactly have you decided?"
 <0208> \{[Takami]}
 <0209> "I don't want to continue doing shady work anymore.
 <0210> \ Therefore, from now on, the Kujo family will withdraw from all shady business dealings.
-<0211> \{［伶］}
+<0211> \{[Rei]}
 <0212> "Eh...!"
 <0213> \{[Takami]}
 <0214> "It's not a business that I wanted to take over.
 <0215> \ I cut off all ties with business that I don't like,
 <0216> \ I would like to take this opportunity to give the Kujo family a new lease on life.
-<0217> \{［伶］}
+<0217> \{[Rei]}
 <0218> "I will give the Kujo family a new lease on life..."
 <0219> \{[Takami]}
 <0220> "There are quite a few people involved in Article 9's work.
@@ -242,7 +242,7 @@
 <0228> "Now,
 <0229> \ The Kujo family does not really need the power of their customers.
 <0230> \ In fact, it could become an obstacle in the future.
-<0231> \{［伶］}
+<0231> \{[Rei]}
 <0232> "Takami..."
 <0233> \{[Takami]}
 <0234> "Some people are difficult to break up with,
@@ -255,41 +255,41 @@
 <0241> I'm the one being forced to clean up my father's mess."
 <0242> \{[Takami]}
 <0243> "If you think about it like that, there's no need to be grateful to him."
-<0244> \{［伶］}
+<0244> \{[Rei]}
 <0245> "Yes... if that's what you've decided,
 <0246> \ That might be a good idea."
 <0247> \{[Takami]}
 <0248> "Now, you and I can finally truly...
 <0249> \ I guess I'll be freed from my father's curse."
-<0250> \{［伶］}
+<0250> \{[Rei]}
 <0251> "Yeah... I guess so."
 <0252> \{[Takami]}
 <0253> "...Umm, so...
 <0254> \ Regarding the future,
 <0255> \ There's something I'd like to discuss with you..."
-<0256> \{［伶］}
+<0256> \{[Rei]}
 <0257> "What about the future? I wonder what it's about?"
 <0258> \{[Takami]}
 <0259> "...Um...As long as you don't mind,
 <0260> \ I wonder if there's...
-<0261> \{［伶］}
+<0261> \{[Rei]}
 <0262> "...? I can't hear you very well.
 <0263> \ Could you please speak a little more clearly?
 <0264> \{[Takami]}
 <0265> "...So, if you don't mind,
 <0266> \ With me... I thought..."
-<0267> \{［伶］}
+<0267> \{[Rei]}
 <0268> "--Takami. Even if you say it in such a small voice,
 <0269> \ I can't hear anything.
 <0270> \ Just say it clearly and without any pretense.
 <0271> \{[Takami]}
 <0272> "--That's why!
 <0273> \ Well, as long as you don't mind, that is!
-<0274> \{［伶］}
+<0274> \{[Rei]}
 <0275> "...Unless you don't mind?"
 <0276> \{[Takami]}
 <0277> "...Would you like to live with me...?"
-<0278> \{［伶］}
+<0278> \{[Rei]}
 <0279> "Eh...?"
 <0280> \{[Takami]}
 <0281> "Customers who are closely related to the Kujo family,
@@ -299,7 +299,7 @@
 <0285> "If that happens, we'll be separated again.
 <0286> \ So, on this occasion when I leave the mansion,
 <0287> \ I was thinking, why not live together..."
-<0288> \{［伶］}
+<0288> \{[Rei]}
 <0289> "Takami..."
 <0290> \{[Takami]}
 <0291> "--No! I mean, if you don't want to,
@@ -311,12 +311,12 @@
 <0297> \{[Takami]}
 <0298> "So... if you don't mind, please think about it.
 <0299> \ To live with me..."
-<0300> \{［伶］}
+<0300> \{[Rei]}
 <0301> "...Hey, Takami. Those words of yours...
 <0302> \ Can I take this as a proposal to me?"
 <0303> \{[Takami]}
 <0304> "A-Are you proposing to me?!"
-<0305> \{［伶］}
+<0305> \{[Rei]}
 <0306> "Isn't that right?
 <0307> \ I don't want to be separated so I thought we should live together.
 <0308> \ Or... is it different?
@@ -326,7 +326,7 @@
 <0312> \{[Takami]}
 <0313> "So... Rei, I want you to think about it seriously.
 <0314> \ These words of mine――」
-<0315> \{［伶］}
+<0315> \{[Rei]}
 <0316> "...I understand. I'll try to think positively.
 <0317> \ It might not be so bad to live with you again like back then."
 <0318> \{[Takami]}
@@ -339,7 +339,7 @@
 <0325> \{[Mari]}
 <0326> "Congratulations, Rei-sama...!!
 <0327> \ I hope you'll be happy...!
-<0328> \{［伶］}
+<0328> \{[Rei]}
 <0329> "Mari...?"
 <0330> \{[Takami]}
 <0331> "Wait, wait a minute!
@@ -355,7 +355,7 @@
 <0341> \ I just couldn't sit still!
 <0342> \{[Mari]}
 <0343> "Rei-sama, congratulations...!"
-<0344> \{［伶］}
+<0344> \{[Rei]}
 <0345> "Mari, by the way, are you in this room?
 <0346> \ I thought you were here to bring tea?
 <0347> \{[Mari]}
@@ -365,13 +365,13 @@
 <0351> "...Oh? The tea has gotten really cold."
 <0352> \{[Takami]}
 <0353> "Don't eavesdrop until it gets to that point!"
-<0354> \{［伶］}
+<0354> \{[Rei]}
 <0355> "...Mari..."
 <0356> \{[Mari]}
 <0357> "I will now prepare a meal for you two.
 <0358> \ Since it's such a special day,
 <0359> \ Tonight I'll show off my cooking skills and prepare a feast...!
-<0360> \{［伶］}
+<0360> \{[Rei]}
 <0361> "No... I don't mind a normal meal."
 <0362> \{[Mari]}
 <0363> "Well, at a time like this, we need a celebratory cake...!"
@@ -379,7 +379,7 @@
 <0365> "That's enough!!"
 <0366> \{[Mari]}
 <0367> "I see...that's unfortunate..."
-<0368> \{［伶］}
+<0368> \{[Rei]}
 <0369> "Mariie, I appreciate your feelings.
 <0370> \ Please make the special cake next time.
 <0371> \ I want you to decorate it as lavishly as possible - for Takami's sake."
@@ -406,7 +406,7 @@
 <0392> \{[Takami]}
 <0393> "If only you were by my side at that time,
 <0394> \ I think you'll be happy..."
-<0395> \{［伶］}
+<0395> \{[Rei]}
 <0396> "That's right... about that too,
 <0397> \ Try to think positively.
 <0398> \{[Takami]}
@@ -431,7 +431,7 @@
 <0417> \{[Takami]}
 <0418> "If only you were by my side at that time,
 <0419> \ I think you'll be happy..."
-<0420> \{［伶］}
+<0420> \{[Rei]}
 <0421> "That's right... about that too,
 <0422> \ Try to think positively.
 <0423> \{[Takami]}
@@ -458,7 +458,7 @@
 <0444> The person on the phone and the name Marie had just given me,
 <0445> That sounds familiar.
 <0446> Rei spoke the name as if ruminating.
-<0447> \{［伶］}
+<0447> \{[Rei]}
 <0448> "Katagiri--?"
 <0449> \{[Takami]}
 <0450> "Yeah... Katagiri is my subordinate.
@@ -467,9 +467,9 @@
 <0453> "You must know about Katagiri.
 <0454> \ We've met a few times at Kujo's residence, right?
 <0455> \ I was introduced as my father's secretary--"
-<0456> \{［伶］}
+<0456> \{[Rei]}
 <0457> "Ahーthat person, you mean?"
-<0458> \{［伶］}
+<0458> \{[Rei]}
 <0459> "I've never spoken to him personally,
 <0460> \ I remember meeting such a person at the residence.
 <0461> \ ...It was rare for me to meet someone I work with."
@@ -481,7 +481,7 @@
 <0467> "Katagiri is a trusted subordinate of my father,
 <0468> \ He is a man who has served the Kujo family for many years.
 <0469> \ After my father passed away, he continued to serve me.
-<0470> \{［伶］}
+<0470> \{[Rei]}
 <0471> "...with eyes that are somehow unreliable,
 <0472> \ I didn't have a very good impression of him."
 <0473> \{[Takami]}
@@ -494,7 +494,7 @@
 <0480> \ He has held an important position in the Kujo family--"
 <0481> \{[Takami]}
 <0482> "So you can trust me."
-<0483> \{［伶］}
+<0483> \{[Rei]}
 <0484> "...I see. If you say so,
 <0485> \ I guess there's nothing to worry about.
 <0486> \ Maybe I'm worrying a little too much."
@@ -517,7 +517,7 @@
 <0503> \ What do you mean, this story is related to Rei too?
 <0504> \{[Takami]}
 <0505> "Hey... Katagiri?!"
-<0506> \{［伶］}
+<0506> \{[Rei]}
 <0507> "Takami, it seems like people are talking about me.
 <0508> \ What on earth happened?"
 <0509> \{[Takami]}
@@ -532,10 +532,10 @@
 <0518> “…It’s been a long time, Rei-sama.
 <0519> \ It's a shame I can't meet you in person.
 <0520> \ Do you remember me?
-<0521> \{［伶］}
+<0521> \{[Rei]}
 <0522> "I remember you,
 <0523> \ I wasn't on friendly terms with you.
-<0524> \{［伶］}
+<0524> \{[Rei]}
 <0525> "Soーwhat did you tell me?"
 <0526> \{[Katagiri]}
 <0527> "This is a bit of an old story -- about 20 years ago,
@@ -545,7 +545,7 @@
 <0531> "The research is still ongoing,
 <0532> \ This is a difficult problem, and it has taken twenty years since we started.
 <0533> \ I can't get the results I want...'
-<0534> \{［伶］}
+<0534> \{[Rei]}
 <0535> "...What does that have to do with me?"
 <0536> \{[Katagiri]}
 <0537> “What does this story have to do with you?
@@ -560,7 +560,7 @@
 <0546> "--! You, don't tell me...!?"
 <0547> \{[Katagiri]}
 <0548> "Yes, the subject of my research is, in other words, Angels."
-<0549> \{［伶］}
+<0549> \{[Rei]}
 <0550> "--!"
 <0551> \{[Takami]}
 <0552> "You... knew that name too...!"
@@ -588,12 +588,12 @@
 <0574> \{[Katagiri]}
 <0575> "The reason I started researching angels was
 <0576> \ It's you - Rei-sama.
-<0577> \{［伶］}
+<0577> \{[Rei]}
 <0578> "I...was it the trigger?"
 <0579> \{[Katagiri]}
 <0580> "Rei-sama, we would like to
 <0581> \ I would like to ask for your cooperation as an angel.
-<0582> \{［伶］}
+<0582> \{[Rei]}
 <0583> "...cooperation means, to me,
 <0584> \ Am I to be a guinea pig for your experiments?"
 <0585> \{[Katagiri]}
@@ -602,7 +602,7 @@
 <0588> “You are a very valuable individual.
 <0589> \ As our distinguished guest,
 <0590> \ We will do our best to treat you with the utmost respect.
-<0591> \{［伶］}
+<0591> \{[Rei]}
 <0592> "No matter how you try to explain it, I'm not
 <0593> \ It remains the same that they will be treated as research subjects.
 <0594> \{[Takami]}
@@ -683,19 +683,19 @@
 <0669> The call was abruptly ended.
 <0670> \{[Takami]}
 <0671> "Damn... that guy!"
-<0672> \{［伶］}
+<0672> \{[Rei]}
 <0673> "Mariie, please take care of Nozomi. I can't leave Nozomi alone.
 <0674> \ I want you to bring him here right away."
 <0675> \{[Mari]}
 <0676> "Okay! I'll bring Nozomi over here."
 <0677> Marie goes to pick up Nozomi,
 <0678> He hurriedly ran out of the room.
-<0679> \{［伶］}
+<0679> \{[Rei]}
 <0680> "...Katagiri said they were surrounding the mansion."
-<0681> \{［伶］}
+<0681> \{[Rei]}
 <0682> "The main exit from the mansion is likely covered.
 <0683> \ We must find another way out..."
-<0684> \{［伶］}
+<0684> \{[Rei]}
 <0685> "At an exit that would be difficult for an outsider to notice,
 <0686> \ Do you have any idea?
 <0687> \{[Takami]}
@@ -710,7 +710,7 @@
 <0696> "Damn, the light's gone...!?"
 <0697> Without warning, I was suddenly thrown into the pitch black world of night,
 <0698> Only Takami's voice echoed in the darkness.
-<0699> \{［伶］}
+<0699> \{[Rei]}
 <0700> "...It seems the power has been turned off."
 <0701> \{[Takami]}
 <0702> "Ah... it seems that's the case.
@@ -724,12 +724,12 @@
 <0710> "Hey, somebodyーcall security!"
 <0711> Takami shouted out to the outside of the room,
 <0712> The voice echoed hollowly in the hall, as quiet as a pond.
-<0713> \{［伶］}
+<0713> \{[Rei]}
 <0714> "...Don't you notice, Takami?
 <0715> \ The mansion is too quiet."
 <0716> \{[Takami]}
 <0717> "Now that you mention it... it's certainly too quiet..."
-<0718> \{［伶］}
+<0718> \{[Rei]}
 <0719> "Even after all this time, the people at the mansion who don't know the circumstances,
 <0720> \ It's strange not to make a fuss."
 <0721> All the lights are out and still not restored,
@@ -755,17 +755,17 @@
 <0741> Rei looked around the silent corridor on both sides,
 <0742> Still no one in sight.
 <0743> And then――at that moment.
-<0744> \{［伶］}
+<0744> \{[Rei]}
 <0745> "…………!?"
 <0746> Suddenly, Rei sensed the presence of something other than themselves.
 <0747> I sense it in the darkness behind me.
-<0748> \{［伶］}
+<0748> \{[Rei]}
 <0749> (Someone other than us is here!)
 <0750> A chill runs down my spine,
 <0751> I started to turn around in the direction I felt the presenceー
 <0752> A quick, silent arm stretched out from behind me.
 <0753> Rei's movements were controlled.
-<0754> \{［伶］}
+<0754> \{[Rei]}
 <0755> "――!!"
 <0756> A cloth soaked in some kind of chemical was tightly pressed against my mouth,
 <0757> Unable to resist, she is forced to drink the drug.
@@ -774,7 +774,7 @@
 <0760> My consciousness sinks unstoppably into darkness.
 <0761> Unable to endure, my body collapsed to the floor from my feet,
 <0762> Someone's arms catch it.
-<0763> \{［伶］}
+<0763> \{[Rei]}
 <0764> “…Who…?”
 <0765> However, as my vision rapidly sank into darkness,
 <0766> I can't see his face.
@@ -782,19 +782,19 @@
 <0768> He says with a wry smile.
 <0769> \{[? ]}
 <0770> "Rei - I've come to take you."
-<0771> \{［伶］}
+<0771> \{[Rei]}
 <0772> "...Who...are you...?"
 <0773> \{[? ]}
 <0774> "I'm here to take you."
-<0775> \{［伶］}
+<0775> \{[Rei]}
 <0776> "...! Katagiri was talking about, are you here to pick me up...?"
-<0777> \{［伶］}
+<0777> \{[Rei]}
 <0778> "Takami... Huh...?"
-<0779> \{［伶］}
+<0779> \{[Rei]}
 <0780> "If you're targeting me... then don't lay a hand on Takami...!"
 <0781> \{[? ]}
 <0782> "Well, you see -- what should we do?"
-<0783> \{［伶］}
+<0783> \{[Rei]}
 <0784> "...!"
 <0785> \{[? ]}
 <0786> "Come on, Rei. Just go to bed well for tonight.
@@ -803,12 +803,12 @@
 <0789> It echoes in Rei's ears forever.
 <0790> And soon,
 <0791> Rei's consciousness sank into the depths of darkness.
-<0792> \{［伶］}
+<0792> \{[Rei]}
 <0793> "...Takami, let's leave the room."
 <0794> \{[Takami]}
 <0795> "That's fine, but
 <0796> \ What on earth are you planning to do...?
-<0797> \{［伶］}
+<0797> \{[Rei]}
 <0798> "I'm worried about Marie and the others. Let's go find them and meet up."
 <0799> It was a dark night, with the new moon fast approaching.
 <0800> When the lights in the building, even the night lights illuminating the hallways, were turned off,
@@ -819,12 +819,12 @@
 <0805> \{[Takami]}
 <0806> "Anyway, where are we heading?
 <0807> \ If we're looking for Marie and the others, we should head to Nozomi's room..."
-<0808> \{［伶］}
+<0808> \{[Rei]}
 <0809> "That's right... let's head there first."
-<0810> \{［伶］}
+<0810> \{[Rei]}
 <0811> "However, along the way,
 <0812> \ It would be best to check for possible escape routes.
-<0813> \{［伶］}
+<0813> \{[Rei]}
 <0814> "Once I meet up with Marie,
 <0815> \ Let's get out of there right away."
 <0816> \{[Takami]}
@@ -832,7 +832,7 @@
 <0818> \{[Takami]}
 <0819> "Now that the power is off and security is disabled,
 <0820> \ The windows shouldn't be locked either."
-<0821> \{［伶］}
+<0821> \{[Rei]}
 <0822> "Well, let's check first."
 <0823> Open the nearest door along the corridor.
 <0824> Takami immediately rushes to the large window facing the garden.
@@ -850,14 +850,14 @@
 <0836> "On the way to Nozomi's room,
 <0837> \ I'd like to take a look at the security system control room,
 <0838> \ Is that okay?
-<0839> \{［伶］}
+<0839> \{[Rei]}
 <0840> "That's right - there are other things too,
 <0841> \ While checking for any possible exits,
 <0842> \ Let's head to Marie and the others."
 <0843> First, I started walking towards the security system control room,
 <0844> The entire mansion was eerily quiet,
 <0845> There is not the slightest sign of life.
-<0846> \{［伶］}
+<0846> \{[Rei]}
 <0847> "It's so quiet... I can't help but think there's no one here."
 <0848> \{[Takami]}
 <0849> "...In this mansion, including the guards,
@@ -877,7 +877,7 @@
 <0863> Takami had a clue about the place that could be the exit.
 <0864> We searched everywhere,
 <0865> As far as I can think of, I can't find any viable escape route.
-<0866> \{［伶］}
+<0866> \{[Rei]}
 <0867> "Everywhere seems to be sealed off, and we can't get out."
 <0868> I tiptoed through the deserted corridor,
 <0869> Soon we reach the security systems control room.
@@ -887,7 +887,7 @@
 <0873> \{[Takami]}
 <0874> "No matter what happens, this place will never be deserted.
 <0875> \ It should be absolutely impossible--"
-<0876> \{［伶］}
+<0876> \{[Rei]}
 <0877> "--There's no one here."
 <0878> \{[Takami]}
 <0879> "That's strange... The security sensors...
@@ -898,7 +898,7 @@
 <0884> \{[Takami]}
 <0885> "It's no good - I'm at my wit's end.
 <0886> \ Unless you're an expert, it can't be deactivated.
-<0887> \{［伶］}
+<0887> \{[Rei]}
 <0888> "...The mansion's system is
 <0889> \ Have they been taken over by the enemy?
 <0890> \{[Takami]}
@@ -906,18 +906,18 @@
 <0892> \ We are like birds in a cage..."
 <0893> After Rei and Takami left the security system control room,
 <0894> I headed to Nozomi's room.
-<0895> \{［伶］}
+<0895> \{[Rei]}
 <0896> "Nozomi, Marie... are you here?"
 <0897> I looked into Nozomi's room to see what was inside,
 <0898> The two of them are nowhere to be seen.
 <0899> \{[Takami]}
 <0900> "...It seems Marie is...
 <0901> \ It seems we've missed each other.
-<0902> \{［伶］}
+<0902> \{[Rei]}
 <0903> "That's true..."
 <0904> When I came out into the hallway again,
 <0905> Suddenly, the sound of a phone ringing echoed through the darkness, breaking the silence.
-<0906> \{［伶］}
+<0906> \{[Rei]}
 <0907> "This is..."
 <0908> \{[Takami]}
 <0909> "...It must be Katagiri's doing."
@@ -952,23 +952,23 @@
 <0938> After he told me this, the phone was hung up.
 <0939> \{[Takami]}
 <0940> "Damn it, are you trying to scare us into believing that?"
-<0941> \{［伶］}
+<0941> \{[Rei]}
 <0942> "...Those words didn't seem like a mere threat.
 <0943> \ There was something ominous about it."
-<0944> \{［伶］}
+<0944> \{[Rei]}
 <0945> "Maybe the reason I can't see Marie and Nozomi is because
 <0946> \ Already caught――?”
 <0947> \{[Takami]}
 <0948> "...There's no point in thinking about it like this.
 <0949> \ Shall we head down the hall?
-<0950> \{［伶］}
+<0950> \{[Rei]}
 <0951> "That's right--"
 <0952> When I reached the spacious entrance hall,
 <0953> The thin, fragile moon is hidden by the clouds,
 <0954> The moonlight that we had been relying on for a little while disappears.
 <0955> Surrounded by a dense darkness that makes it hard to breathe,
 <0956> I hesitate to even whisper.
-<0957> \{［伶］}
+<0957> \{[Rei]}
 <0958> (What――?)
 <0959> In the depths of darkness, where you can't see even an inch ahead,
 <0960> I sense something moving.
@@ -990,7 +990,7 @@
 <0976> He says with a wry smile.
 <0977> \{[? ]}
 <0978> "I missed you... Rei"
-<0979> \{［伶］}
+<0979> \{[Rei]}
 <0980> "...!?"
 <0981> My name was called by someone I shouldn't know,
 <0982> Rei turns her gaze into the darkness with great caution.
@@ -1017,7 +1017,7 @@
 <1003> From the depths of the painted-on darkness,
 <1004> Under the faint moonlight, something slowly appears...
 <1005> What is that――?
-<1006> \{［伶］}
+<1006> \{[Rei]}
 <1007> "...!"
 <1008> I saw a figure emerge from the pitch black darkness,
 <1009> I could hear Takami gasping next to me.
@@ -1042,13 +1042,13 @@
 <1028> "And you, Saiga Rei--"
 <1029> \{[? ]}
 <1030> "Nice to meet you, Rei. I've always wanted to meet you."
-<1031> \{［伶］}
+<1031> \{[Rei]}
 <1032> "...I don't know you."
 <1033> \{[? ]}
 <1034> "I know you better than that."
 <1035> \{[? ]}
 <1036> "You are my precious half."
-<1037> \{［伶］}
+<1037> \{[Rei]}
 <1038> "Who are you?"
 <1039> \{[? ]}
 <1040> "--I don't have a name."
@@ -1057,7 +1057,7 @@
 <1043> \ They are just names given to me by people who fear me.
 <1044> \{[Nue]}
 <1045> "Yes... they call me '\ruby{Nue}={Nue}'"
-<1046> \{［伶］}
+<1046> \{[Rei]}
 <1047> "\ruby{Nue}={Nue}..."
 <1048> This is what remains in ancient legends such as the Tale of the Heike.
 <1049> The name of a strange, sinister monster.
@@ -1082,9 +1082,9 @@
 <1068> "What...?"
 <1069> The words, which hinted at an eerie sense of ease,
 <1070> Rather than feeling anger, Rei senses an ominous smell.
-<1071> \{［伶］}
+<1071> \{[Rei]}
 <1072> "Where does that confidence come from?"
-<1073> \{［伶］}
+<1073> \{[Rei]}
 <1074> "Why did you go that far?
 <1075> \ Do you have the confidence to face us alone?
 <1076> \{[Nue]}
@@ -1092,7 +1092,7 @@
 <1078> \{[Nue]}
 <1079> "There is no one else in this mansion but you,
 <1080> \ --Have you noticed yet?
-<1081> \{［伶］}
+<1081> \{[Rei]}
 <1082> "...I noticed."
 <1083> \{[Nue]}
 <1084> "If I told you I did that all by myself,
@@ -1111,9 +1111,9 @@
 <1097> \ I erased it from this world without a trace.
 <1098> \{[Nue]}
 <1099> "That's my power."
-<1100> \{［伶］}
+<1100> \{[Rei]}
 <1101> "Your...power..."
-<1102> As a collaborator in the experiment, he learns of the existence of the <Angel>.
+<1102> As a collaborator in the experiment, he learns of the existence of the \<Angel\>.
 <1103> With a different method and purpose than Takahisa,
 <1104> Katagiri has been researching angels for the past 20 years.
 <1105> He learns that Rei is a replica of the Angel,
@@ -1122,9 +1122,9 @@
 <1108> A young man called Nue, who looks exactly like Rei.
 <1109> He said that he had "eliminated" the people in the mansion with his own hands.
 <1110> He calls this his "power."
-<1111> \{［伶］}
+<1111> \{[Rei]}
 <1112> "That's where your confidence comes from."
-<1113> \{［伶］}
+<1113> \{[Rei]}
 <1114> "The power of non-human entities"
 <1115> \{[Takami]}
 <1116> "You're not human...?!"
@@ -1136,11 +1136,11 @@
 <1122> \ Perhaps you already sensed it?
 <1123> \{[Nue]}
 <1124> "Who am I..."
-<1125> \{［伶］}
+<1125> \{[Rei]}
 <1126> "......"
-<1127> \{［伶］}
+<1127> \{[Rei]}
 <1128> "You're just like me. --That's how I feel."
-<1129> \{［伶］}
+<1129> \{[Rei]}
 <1130> "You are... an angel."
 <1131> \{[Takami]}
 <1132> "Wh... What did you say?
@@ -1150,19 +1150,19 @@
 <1136> \ The same as Rei... right?
 <1137> \{[Takami]}
 <1138> "He's the same as you... What does that mean, Rei?"
-<1139> \{［伶］}
+<1139> \{[Rei]}
 <1140> "......"
-<1141> \{［伶］}
+<1141> \{[Rei]}
 <1142> "Takami, can you think of a possibility like this?"
-<1143> \{［伶］}
+<1143> \{[Rei]}
 <1144> "The replica your father created from the blood of an Angel,
 <1145> \ I was alone..."
-<1146> \{［伶］}
+<1146> \{[Rei]}
 <1147> "He only created me,
 <1148> \ No further attempts were made to create copies of the Angel.
-<1149> \{［伶］}
+<1149> \{[Rei]}
 <1150> "But--"
-<1151> \{［伶］}
+<1151> \{[Rei]}
 <1152> "Someone other than that person is researching how to replicate Angels.
 <1153> \ What if it continued after that...?
 <1154> \{[Takami]}
@@ -1176,7 +1176,7 @@
 <1162> "But let me correct you on one point.
 <1163> \ You and I are not exactly the same.
 <1164> \ There are some slight differences.
-<1165> \{［伶］}
+<1165> \{[Rei]}
 <1166> "What's different...?"
 <1167> \{[Nue]}
 <1168> "...Let me tell you an old story."
@@ -1224,7 +1224,7 @@
 <1210> "The Angel clones created by Katagiri,
 <1211> \ The telomeres that determine the lifespan of living organisms are extremely short,
 <1212> \ Every single one of them is born with a shorter lifespan than humans.
-<1213> \{［伶］}
+<1213> \{[Rei]}
 <1214> "...!"
 <1215> \{[Takami]}
 <1216> "Could it be that Rei is like that too?
@@ -1233,20 +1233,20 @@
 <1219> "After stealing it, the clone Katagiri created was...
 <1220> \ I told you so.
 <1221> \ Rei was the only one born without the fate of a short life.
-<1222> \{［伶］}
+<1222> \{[Rei]}
 <1223> "I'm the only one..."
 <1224> \{[Nue]}
 <1225> "...made by culturing the original adult somatic cells,
 <1226> \ Do you know the weakness of somatic cell clones?
-<1227> \{［伶］}
+<1227> \{[Rei]}
 <1228> "...at the end of the chromosome,
 <1229> \ The length of telomeres shortens with each cell division.
 <1230> \ Somatic cell clones are influenced by adult cells.
-<1231> \{［伶］}
+<1231> \{[Rei]}
 <1232> "Dolly, the famous somatic cell cloned sheep,
 <1233> \ From birth, telomeres are as short as those of a six-year-old adult,
 <1234> \ Apparently he showed signs of aging at the age of one.
-<1235> \{［伶］}
+<1235> \{[Rei]}
 <1236> "So, somatic cell cloning is
 <1237> \ Cells have already aged before we are born,
 <1238> \ They can only live to the same age as adults..."
@@ -1256,7 +1256,7 @@
 <1242> \{[Nue]}
 <1243> "With modern cloning technology,
 <1244> \ We have not yet found a way to solve this problem.
-<1245> \{［伶］}
+<1245> \{[Rei]}
 <1246> "...The reason why Angel clones have such a short lifespan is
 <1247> \ Is that the reason?
 <1248> \{[Nue]}
@@ -1275,22 +1275,22 @@
 <1261> \{[Nue]}
 <1262> "It's as if they're declaring that no further blasphemy will be tolerated.
 <1263> \ Like a curse cast by an Angel--"
-<1264> \{［伶］}
+<1264> \{[Rei]}
 <1265> "......"
-<1266> \{［伶］}
+<1266> \{[Rei]}
 <1267> "There's something that's been bothering me for a while now."
-<1268> \{［伶］}
+<1268> \{[Rei]}
 <1269> "Another Angel clone,
 <1270> \ It is said that all people are destined to have short lives,
 <1271> \ And what about you?
-<1272> \{［伶］}
+<1272> \{[Rei]}
 <1273> "If you're one of the clones,
 <1274> \ Like the rest of us, we were born to a short life.
-<1275> \{［伶］}
+<1275> \{[Rei]}
 <1276> "But... seeing your age and appearance,
 <1277> \ Those who have only a few years of life,
 <1278> \ I don't think I can grow that much."
-<1279> \{［伶］}
+<1279> \{[Rei]}
 <1280> "What does that look like to you mean?"
 <1281> \{[Nue]}
 <1282> "...After continuing my research for a while, I realized why Takahisa
@@ -1303,7 +1303,7 @@
 <1289> "Well, the mysterious blood of the Angel,
 <1290> \ It's Takahisa who came in out of nowhere.
 <1291> \ It's no wonder he knows something."
-<1292> \{［伶］}
+<1292> \{[Rei]}
 <1293> "......"
 <1294> \{[Nue]}
 <1295> "But even so, the military use of the power of the Angels,
@@ -1335,7 +1335,7 @@
 <1321> \ Continuing to seek combinations with clone individuals--"
 <1322> \{[Nue]}
 <1323> "What we ended up with was a mixture of Beast genes."
-<1324> \{［伶］}
+<1324> \{[Rei]}
 <1325> "Beast genes...?"
 <1326> \{[Nue]}
 <1327> "And thenーI was born.
@@ -1359,18 +1359,18 @@
 <1345> "The best combination for strengthening an Angel is
 <1346> \ An unknown beast,
 <1347> \ Don't you think that's quite ironic, Rei?
-<1348> \{［伶］}
+<1348> \{[Rei]}
 <1349> "......"
 <1350> \{[Nue]}
 <1351> "However, the genetic defect was corrected,
 <1352> \ The method, which at first seemed successful,
 <1353> \ In the end it proved a failure."
-<1354> \{［伶］}
+<1354> \{[Rei]}
 <1355> "...What does that mean?"
 <1356> \{[Nue]}
 <1357> "The genes of the Angels are corrupted by the genes of the Beasts,
 <1358> \ My life will end in less than a year.
-<1359> \{［伶］}
+<1359> \{[Rei]}
 <1360> "...!"
 <1361> \{[Nue]}
 <1362> "If handled improperly, a deadly drug
@@ -1380,14 +1380,14 @@
 <1366> \{[Nue]}
 <1367> "Your life as an angel is coming to an end,
 <1368> \ The way to keep me alive is
-<1369> \ The only way to make up for this is with the power of the same <Angel>."
+<1369> \ The only way to make up for this is with the power of the same \<Angel\>."
 <1370> \{[Nue]}
 <1371> "Rei, the power of the perfect angel that lies within you,
 <1372> \ I need it--"
 <1373> \{[Nue]}
 <1374> "That's why I came here.
 <1375> \ ...to welcome you."
-<1376> \{［伶］}
+<1376> \{[Rei]}
 <1377> "To use me as research material...right?"
 <1378> \{[Nue]}
 <1379> "Now I long for you,
@@ -1404,9 +1404,9 @@
 <1390> \ That man's presence is a nuisance."
 <1391> \{[Nue]}
 <1392> "That man - I think it's time to get rid of him."
-<1393> \{［伶］}
+<1393> \{[Rei]}
 <1394> "Erase--?"
-<1395> \{［伶］}
+<1395> \{[Rei]}
 <1396> "You said that earlier too.
 <1397> \ That's your power."
 <1398> \{[Nue]}
@@ -1419,7 +1419,7 @@
 <1405> "Rei--can you see this?"
 <1406> Behind the young man who was asking Rei a question,
 <1407> Suddenly, something large and transparent appears.
-<1408> \{［伶］}
+<1408> \{[Rei]}
 <1409> "Those are... wings...?"
 <1410> Yesーit spreads across the young man's back,
 <1411> It looked like a pair of black wings.
@@ -1443,7 +1443,7 @@
 <1429> \{[Nue]}
 <1430> "These wings bring death to those who see them,
 <1431> \ They called them the Black Wings in awe.
-<1432> \{［伶］}
+<1432> \{[Rei]}
 <1433> “<Black Wings>――”
 <1434> \{[Nue]}
 <1435> "To all beings on earth,
@@ -1454,7 +1454,7 @@
 <1440> \{[Nue]}
 <1441> "Because, those who touch the Black Wings,
 <1442> \ Its existence would be immediately dissolved..."
-<1443> \{［伶］}
+<1443> \{[Rei]}
 <1444> "Unravel existence?"
 <1445> \{[Nue]}
 <1446> "That is the power that the Black Wings bring."
@@ -1470,7 +1470,7 @@
 <1456> \{[Nue]}
 <1457> "But you, born as a perfect replica of an Angel,
 <1458> \ He must possess both powers."
-<1459> \{［伶］}
+<1459> \{[Rei]}
 <1460> "The power to create existence, the power to unravel existence..."
 <1461> \{[Nue]}
 <1462> "When your power joins mine,
@@ -1497,13 +1497,13 @@
 <1483> "Don't tell me you didn't feel it.
 <1484> \ The ugliness and foolishness of the human heart,
 <1485> \ You've touched me enough times now..."
-<1486> \{［伶］}
+<1486> \{[Rei]}
 <1487> "You speak as if you've seen it before."
 <1488> \{[Nue]}
 <1489> "Yeah. I can feel it.
 <1490> \ The loneliness, sadness, and despair that lie deep within your heart
 <1491> \ I can sense it..."
-<1492> \{［伶］}
+<1492> \{[Rei]}
 <1493> "--!"
 <1494> \{[Nue]}
 <1495> "You understand, don't you, Rei?
@@ -1531,13 +1531,13 @@
 <1517> The darkness whispers an ominous invitation,
 <1518> The attraction may have been so strong that it was hard to resist.
 <1519> But now...
-<1520> \{［伶］}
+<1520> \{[Rei]}
 <1521> "...It seems you can't sense it.
 <1522> \ My heart is filled with more than just sadness and disappointment,
 <1523> \ That it has already been fulfilled――」
-<1524> \{［伶］}
+<1524> \{[Rei]}
 <1525> "I have Takami."
-<1526> \{［伶］}
+<1526> \{[Rei]}
 <1527> "So... I can't go with you.
 <1528> \ Because I don't wish to destroy the world."
 <1529> \{[Takami]}
@@ -1547,7 +1547,7 @@
 <1533> \{[Nue]}
 <1534> "Your attachment to the human world is
 <1535> \ You think it's because of some worthless human being over there?"
-<1536> \{［伶］}
+<1536> \{[Rei]}
 <1537> "I don't think humans are worthless."
 <1538> \{[Nue]}
 <1539> "...I see."
@@ -1559,7 +1559,7 @@
 <1545> \ I will cut it off with my own hands.
 <1546> \{[Nue]}
 <1547> "Turn that thing off."
-<1548> \{［伶］}
+<1548> \{[Rei]}
 <1549> "...!"
 <1550> \{[Nue]}
 <1551> "If you refuse to come, I will take you by force.
@@ -1600,7 +1600,7 @@
 <1586> "...What an eyesore."
 <1587> \{[Nue]}
 <1588> "Yeah, I guess I'll just disappear tonight."
-<1589> \{［伶］}
+<1589> \{[Rei]}
 <1590> "...!"
 <1591> The death sentence for Katagiri was coldly announced.
 <1592> Rei heard the whispers,
@@ -1747,7 +1747,7 @@
 <1733> \{[Katagiri]}
 <1734> "You guys, calm down!
 <1735> \ As long as you don't fall within the range of those Black Wings, there will be no effect!
-<1736> As expected, Katagiri, who had studied the <Angel>,
+<1736> As expected, Katagiri, who had studied the \<Angel\>,
 <1737> He seems to be knowledgeable about the young man's powers, as he hastily gives out instructions.
 <1738> However, the strange intimidation emanating from this otherworldly being,
 <1739> People who are unfamiliar with the situation feel intimidated and nervous.
@@ -1775,7 +1775,7 @@
 <1761> \{[Subordinate]}
 <1762> "That's ridiculous... the bullets just disappeared?
 <1763> \ That's impossible!
-<1764> \{［Male］}
+<1764> \{[Man]}
 <1765> "But, it's true, the bullets..."
 <1766> \{[Subordinate]}
 <1767> "Does the gun not work on him...?!"
@@ -1952,7 +1952,7 @@
 <1938> \{[Nue]}
 <1939> "Well, I guess this power is something like that.
 <1940> \ I'm thinking
-<1941> \{［伶］}
+<1941> \{[Rei]}
 <1942> "Unraveling the causal laws of existence..."
 <1943> The power released from the Black Wings,
 <1944> The very foundations of our existence that are necessary for us to exist in this world are shaken,
@@ -1975,11 +1975,11 @@
 <1961> The young man's wings flutter, and each time a person disappears into the light.
 <1962> Overwhelmed by the heretical power wielded by a young man calling himself Nue,
 <1963> He taps Takami on the shoulder and whispers.
-<1964> \{［伶］}
+<1964> \{[Rei]}
 <1965> "--Takami, pull yourself together."
 <1966> \{[Takami]}
 <1967> "Eh? Ah, Rei...!?"
-<1968> \{［伶］}
+<1968> \{[Rei]}
 <1969> "Let's get out of here now."
 <1970> \{[Takami]}
 <1971> "Oh, that's right..."
@@ -2004,25 +2004,25 @@
 <1990> \ I'll hold him back...!"
 <1991> Takami shouted sharply at Rei, then pulled out a gun from his pocket.
 <1992> He aimed the gun at the young man.
-<1993> \{［伶］}
+<1993> \{[Rei]}
 <1994> "Are you planning to fight with just that one gun?
 <1995> \ That's unreasonable...!"
-<1996> \{［伶］}
+<1996> \{[Rei]}
 <1997> "You know guns don't work on him."
 <1998> \{[Takami]}
 <1999> "But even so, I love you,
 <2000> \ I absolutely don't want to hand it over to him...!"
-<2001> \{［伶］}
+<2001> \{[Rei]}
 <2002> "Takami..."
 <2003> \{[Takami]}
 <2004> "Just run away and ignore me!"
-<2005> \{［伶］}
+<2005> \{[Rei]}
 <2006> "...I don't want to. There's no point in me running away alone.
 <2007> \ If you stay, I'll stay too.
 <2008> \{[Takami]}
 <2009> "You...!
 <2010> \ You never listen to what I say!"
-<2011> \{［伶］}
+<2011> \{[Rei]}
 <2012> "Isn't that the usual thing?"
 <2013> To the approaching youth,
 <2014> Takami swallowed hard and pulled the trigger.
@@ -2036,14 +2036,14 @@
 <2022> Attempts to reload.
 <2023> However, while Takami was struggling with the unfamiliar controls,
 <2024> The young man, having erased his Black Wings, sprints off.
-<2025> \{［伶］}
+<2025> \{[Rei]}
 <2026> "Takami, it's dangerous--!"
 <2027> \{[Takami]}
 <2028> "What...?!"
 <2029> Takami looked up in surprise and saw a young man approaching him.
 <2030> Rei quickly pushes Takami away,
 <2031> A young man suddenly attacks in his place.
-<2032> \{［伶］}
+<2032> \{[Rei]}
 <2033> "Ugh...!"
 <2034> \{[Takami]}
 <2035> “Rei…!”
@@ -2060,7 +2060,7 @@
 <2046> echoed down the dark hallway.
 <2047> \{[Nue]}
 <2048> "...Who are you?"
-<2049> \{［伶］}
+<2049> \{[Rei]}
 <2050> "Are you... Marie?!"
 <2051> From the depths of the darkness, she fixed her dignified gaze on the young man,
 <2052> Marie appears under the moonlight.
@@ -2072,7 +2072,7 @@
 <2058> \{[Mari]}
 <2059> "Sorry for the delay,
 <2060> \ Rei-sama, Takami-sama!
-<2061> \{［伶］}
+<2061> \{[Rei]}
 <2062> "...That's right! What happened to Nozomi?"
 <2063> \{[Mari]}
 <2064> "Nozomi is already hiding in a safe place.
@@ -2080,7 +2080,7 @@
 <2066> \{[Mari]}
 <2067> "Are you both uninjured?
 <2068> \ We will help you immediately..."
-<2069> \{［伶］}
+<2069> \{[Rei]}
 <2070> "! Don't come over here!
 <2071> \ You alone must escape from this mansion!
 <2072> \{[Mari]}
@@ -2091,7 +2091,7 @@
 <2077> \{[Mari]}
 <2078> "I have your protection,
 <2079> \ Because we have the “power”
-<2080> \{［伶］}
+<2080> \{[Rei]}
 <2081> “Power…”
 <2082> \{[Mari]}
 <2083> "Please leave this to me!"
@@ -2107,17 +2107,17 @@
 <2093> He touched the shaft with his left hand and slowly slid his palm down.
 <2094> Thenーthe old, rusty iron bar,
 <2095> The place where Marie touched was enveloped in a dazzling light.
-<2096> \{［伶］}
+<2096> \{[Rei]}
 <2097> "What's that light...?"
 <2098> That radiance will be there when the Black Wings are released from existence.
 <2099> It is very similar to the light emitted by things that are being unraveled.
-<2100> \{［伶］}
+<2100> \{[Rei]}
 <2101> (They're similarーor rather, the same thing...?)
 <2102> As I watched in amazement, the light unraveled,
 <2103> A short spear with a shining silver surface appeared.
-<2104> \{［伶］}
+<2104> \{[Rei]}
 <2105> "That can't be... that's...!"
-<2106> \{［伶］}
+<2106> \{[Rei]}
 <2107> "Is this the same power as the Angels, which allows them to rewrite existence...?"
 <2108> \{[Nue]}
 <2109> "...Who are you?"
@@ -2132,7 +2132,7 @@
 <2118> \{[Mari]}
 <2119> "...to you,
 <2120> \ I have no intention of answering that question.
-<2121> \{［伶］}
+<2121> \{[Rei]}
 <2122> "Mari, who exactly are you...?"
 <2123> \{[Mari]}
 <2124> "I amーI am your protector."
@@ -2153,7 +2153,7 @@
 <2139> "I'd like to see what you can do!"
 <2140> The young man slowly approached Marie,
 <2141> It spread its jet-black wings wide, covering the surrounding area.
-<2142> \{［伶］}
+<2142> \{[Rei]}
 <2143> "Mari...!"
 <2144> Takami rushed over to Rei and supported her.
 <2145> I saw Marie being consumed by the power of the young man's Black Wings.
@@ -2163,7 +2163,7 @@
 <2149> With Marie as the focus of power,
 <2150> That being was meant to be unwound into light.
 <2151> But――
-<2152> \{［伶］}
+<2152> \{[Rei]}
 <2153> "It won't go away...?"
 <2154> A wave of light that shakes the very foundations of existence,
 <2155> After it finally calmed down,
@@ -2209,7 +2209,7 @@
 <2195> It's only a matter of time before we're cornered.
 <2196> And thenーfinally, the young man's knife,
 <2197> Pierced Marie's arm.
-<2198> \{［伶］}
+<2198> \{[Rei]}
 <2199> "Mari--!!"
 <2200> \{[Nue]}
 <2201> "--? Wait a sec, what does this feel like--?"
@@ -2252,7 +2252,7 @@
 <2238> \{[Takami]}
 <2239> "If the gaps created by carelessness are eliminated from the other side,
 <2240> \ Marie's battle situation is becoming increasingly difficult..."
-<2241> \{［伶］}
+<2241> \{[Rei]}
 <2242> "Mari..."
 <2243> \{[Mari]}
 <2244> "Unlike my body, yours is
@@ -2307,10 +2307,10 @@
 <2293> This is probably one of the few chances of victory given to Rei and the others.
 <2294> Before the young man noticed,
 <2295> We must find a way to turn the tide.
-<2296> \{［伶］}
+<2296> \{[Rei]}
 <2297> (However... if there is no way to deal with the Black Wings,
 <2298> \ You can't escape him.)
-<2299> \{［伶］}
+<2299> \{[Rei]}
 <2300> (What should I do...?)
 <2301> \{[Mari]}
 <2302> "Lord Rei, Lord Takami,
@@ -2326,7 +2326,7 @@
 <2312> Whatever Marie's true identity,
 <2313> The affection and love that the girl had shown to Rei and Takami up until now,
 <2314> I felt I could trust them.
-<2315> \{［伶］}
+<2315> \{[Rei]}
 <2316> "...I'm on my way."
 <2317> Rei also entered the room as Marie called him.
 <2318> \{[Mari]}
@@ -2334,7 +2334,7 @@
 <2320> \{[Mari]}
 <2321> "With my immature strength alone,
 <2322> \ It seems we can't compete with him..."
-<2323> \{［伶］}
+<2323> \{[Rei]}
 <2324> "There's no need to apologize, you've fought hard enough."
 <2325> \{[Mari]}
 <2326> "It is very frustrating,
@@ -2342,16 +2342,16 @@
 <2328> \{[Mari]}
 <2329> "I'm not a real Angel,
 <2330> \ There is a limit to the power I can exercise..."
-<2331> \{［伶］}
+<2331> \{[Rei]}
 <2332> "Are you... really not an Angel?
 <2333> \ Even though he had mastered such great power--"
 <2334> \{[Mari]}
 <2335> "Yes. I just...
 <2336> \ I'm just borrowing the power of the Angels."
-<2337> \{［伶］}
+<2337> \{[Rei]}
 <2338> "...Mari, please tell me the truth.
 <2339> \ Is there anything I can do to defeat him?"
-<2340> \{［伶］}
+<2340> \{[Rei]}
 <2341> "The power of the Angel he desires,
 <2342> \ If I really have it,
 <2343> \ Is there something I can do?
@@ -2361,7 +2361,7 @@
 <2347> \{[Mari]}
 <2348> "I will give to Rei-sama the power of my angel,
 <2349> \ If you give me everything..."
-<2350> \{［伶］}
+<2350> \{[Rei]}
 <2351> "You think we might find a chance?"
 <2352> \{[Mari]}
 <2353> "Yes, or..."
@@ -2376,7 +2376,7 @@
 <2362> "Of course, the power of the Angel that I possess,
 <2363> \ Because you have the capacity to accept everything,
 <2364> \ It's possible, but..."
-<2365> \{［伶］}
+<2365> \{[Rei]}
 <2366> "--Mari. Wait a moment.
 <2367> \ So what happens to you?
 <2368> \ If I give you all my power, what will you do...?
@@ -2389,7 +2389,7 @@
 <2375> \{[Mari]}
 <2376> "Rei-sama, please,
 <2377> \ Let me repay your kindness...!"
-<2378> \{［伶］}
+<2378> \{[Rei]}
 <2379> "But even so, you will disappear for us,
 <2380> \ I still think it's wrong."
 <2381> \{[Mari]}
@@ -2411,20 +2411,20 @@
 <2397> \{[Takami]}
 <2398> "If we use that effectively,
 <2399> \ It might help us defeat him."
-<2400> \{［伶］}
+<2400> \{[Rei]}
 <2401> "Right... that stone!"
-<2402> \{［伶］}
+<2402> \{[Rei]}
 <2403> "If he is the same being as me,
 <2404> \ The effect of the stone that had such an effect on me was,
 <2405> \ The same should be shown to him--"
 <2406> \{[Takami]}
 <2407> "At the very least, I'd like to get some revenge on him.
 <2408> \ Isn't that possible?
-<2409> \{［伶］}
+<2409> \{[Rei]}
 <2410> "Yes... that's right."
 <2411> \{[Takami]}
 <2412> "Rei, where is that stone?"
-<2413> \{［伶］}
+<2413> \{[Rei]}
 <2414> "It's in my room. It's still in the box on my desk."
 <2415> \{[Takami]}
 <2416> "I see--"
@@ -2441,25 +2441,25 @@
 <2427> \{[Takami]}
 <2428> "I'll go get the stone. Meanwhile,
 <2429> \ Make sure you catch his eye here."
-<2430> \{［伶］}
+<2430> \{[Rei]}
 <2431> "Okay. I'll take that role."
-<2432> \{［伶］}
+<2432> \{[Rei]}
 <2433> "Mari, the power of your angel,
 <2434> \ Could you lend me enough so that you don't disappear?
-<2435> \{［伶］}
+<2435> \{[Rei]}
 <2436> "He's targeting me. If I fight him,
 <2437> \ No life will be taken away."
 <2438> \{[Mari]}
 <2439> "That's too dangerous! I'll be the decoy--"
-<2440> \{［伶］}
+<2440> \{[Rei]}
 <2441> "No, you'll get killed by him."
-<2442> \{［伶］}
+<2442> \{[Rei]}
 <2443> "I won't be killed,
 <2444> \ If done well, it can buy you a lot of time.
 <2445> \ ...There's no need for you to sacrifice your life in vain."
 <2446> \{[Mari]}
 <2447> "Rei-sama..."
-<2448> \{［伶］}
+<2448> \{[Rei]}
 <2449> "Now, Marie, give me your power..."
 <2450> \{[Mari]}
 <2451> "Yes!"
@@ -2481,13 +2481,13 @@
 <2467> "Excuse me..."
 <2468> As she closed her eyes as instructed,
 <2469> I feel the soft touch of warm human skin.
-<2470> \{［伶］}
+<2470> \{[Rei]}
 <2471> "Mari...?"
 <2472> Marie's forehead was pressed against his own,
 <2473> Rei realized this the next moment.
 <2474> From where Marie touched,
 <2475> Like opening a small sealed box, something inside meーmy sensesーopened up.
-<2476> \{［伶］}
+<2476> \{[Rei]}
 <2477> "--!"
 <2478> From the opened place, towards Rei's inner self,
 <2479> Something emitting a dazzling light slowly pours in.
@@ -2508,15 +2508,15 @@
 <2494> I suddenly come to my senses and open my eyes.
 <2495> \{[Mari]}
 <2496> "How do you like it, Rei-sama...?"
-<2497> \{［伶］}
+<2497> \{[Rei]}
 <2498> "...This is..."
 <2499> Marie handed it to Rei,
 <2500> I can truly feel the pulse of the living, breathing power of the Angel in my heart.
 <2501> The feeling of power permeates every corner of me.
-<2502> \{［伶］}
+<2502> \{[Rei]}
 <2503> "Something... like a light,
 <2504> \ It feels like my mind and body are being fulfilled..."
-<2505> \{［伶］}
+<2505> \{[Rei]}
 <2506> "So this is the power of an Angel..."
 <2507> Suddenly, everything in this world,
 <2508> Fragments of light - that is, the information that constitutes its existence,
@@ -2529,18 +2529,18 @@
 <2515> Essentially, they are the same thing.
 <2516> Rei's powers only allow him to read a portion of the information.
 <2517> The difference is that the young man's power has reached the stage of unraveling existence.
-<2518> \{［伶］}
+<2518> \{[Rei]}
 <2519> "I think I understand the true nature of the power of the Angels."
-<2520> \{［伶］}
+<2520> \{[Rei]}
 <2521> "The stage of manifestation is different,
 <2522> \ My power, the power of the Black Wings, and the power that Marie showed,
 <2523> \ They're all different aspects of the same power..."
-<2524> \{［伶］}
+<2524> \{[Rei]}
 <2525> "That is something I understand very well now.
 <2526> \ Now I can wield the power of an Angel."
 <2527> \{[Mari]}
 <2528> "I see! That's good to hear...!"
-<2529> \{［伶］}
+<2529> \{[Rei]}
 <2530> "Mariye, this power you entrusted to me,
 <2531> \ ...I'll use it."
 <2532> \{[Mari]}
@@ -2589,17 +2589,17 @@
 <2575> \ Takami-sama, please come up with the menu...!"
 <2576> \{[Takami]}
 <2577> "That's true... I'll think about it."
-<2578> \{［伶］}
+<2578> \{[Rei]}
 <2579> "Now, about what we'll do next..."
-<2580> \{［伶］}
+<2580> \{[Rei]}
 <2581> "Mari, you go with Takami."
 <2582> \{[Mari]}
 <2583> "Eh...?! But,
 <2584> \ Then Rei-sama will be left alone...!
-<2585> \{［伶］}
+<2585> \{[Rei]}
 <2586> "I think it's better if I'm alone here.
 <2587> \ Now that you've lost your power, you have no way to oppose him."
-<2588> \{［伶］}
+<2588> \{[Rei]}
 <2589> "More importantly... with the strength you have left,
 <2590> \ I want you to protect Takami."
 <2591> \{[Mari]}
@@ -2609,9 +2609,9 @@
 <2595> "Rei, please hold on until we get back."
 <2596> \{[Takami]}
 <2597> "Don't get caught by that guy."
-<2598> \{［伶］}
+<2598> \{[Rei]}
 <2599> "It's okay. I'll hold out until you guys return."
-<2600> \{［伶］}
+<2600> \{[Rei]}
 <2601> "Be careful there too.
 <2602> \ There may still be intruders lurking.
 <2603> \{[Takami]}
@@ -2630,7 +2630,7 @@
 <2616> \{[Nue]}
 <2617> "Have you given up and become obedient to me?
 <2618> \ Or are you still plotting something?"
-<2619> \{［伶］}
+<2619> \{[Rei]}
 <2620> "...I have no intention of obeying you."
 <2621> \{[Nue]}
 <2622> "So you still defy me?"
@@ -2640,14 +2640,14 @@
 <2626> \{[Nue]}
 <2627> "I don't know how you plan to resist,
 <2628> \ I won't go easy on you."
-<2629> \{［伶］}
+<2629> \{[Rei]}
 <2630> "......"
 <2631> While waiting for the young man to slowly approach me,
 <2632> Rei focuses her consciousness within herself.
 <2633> The power of the Angel entrusted to me by Marie,
 <2634> It is the same power as Rei's that saved Takami long ago.
 <2635> That's why Rei can use it well.
-<2636> \{［伶］}
+<2636> \{[Rei]}
 <2637> (Remember - how to use your power.
 <2638> \ Please give me the strength to fight him...)
 <2639> Rei touches the floor with her right hand,
@@ -2663,7 +2663,7 @@
 <2649> \{[Nue]}
 <2650> "That power is the same as that of another Angel!
 <2651> \ Why do you have that power..."
-<2652> \{［伶］}
+<2652> \{[Rei]}
 <2653> "I inherited Marie's powers. --To fight you."
 <2654> \{[Nue]}
 <2655> "So, you have the power of an Angel,
@@ -2671,7 +2671,7 @@
 <2657> \{[Nue]}
 <2658> "But if you haven't awakened your true power,
 <2659> \ You still can't beat me, you know?
-<2660> \{［伶］}
+<2660> \{[Rei]}
 <2661> "You won't know the results until you try."
 <2662> \{[Nue]}
 <2663> "...Then let me teach you a lesson.
@@ -2705,13 +2705,13 @@
 <2691> To resist the overwhelming power of the Black Wings,
 <2692> Rei has no choice but to muster all her strength to fight back.
 <2693> The young man smiles ominously.
-<2694> \{［伶］}
+<2694> \{[Rei]}
 <2695> "Ugh...!"
 <2696> Just before he sensed danger and tried to retreat,
 <2697> For just a moment, the young man relaxed the power of his Black Wings.
 <2698> When the resistance suddenly dropped and the balance of power was upset,
 <2699> The young man's leg casually brushes Rei's leg away.
-<2700> \{［伶］}
+<2700> \{[Rei]}
 <2701> "......!"
 <2702> A kick that doesn't seem to involve much hip force,
 <2703> Sharp enough, powerful,
@@ -2719,7 +2719,7 @@
 <2705> My body floated gently,
 <2706> Before I knew it, my arm had been grabbed and was being pushed back with force.
 <2707> I was thrown hard onto the floor on my back.
-<2708> \{［伶］}
+<2708> \{[Rei]}
 <2709> "Ugh..."
 <2710> A body that cannot take a passive stance,
 <2711> Unable to escape the impact of being slammed into the hard floor,
@@ -2741,12 +2741,12 @@
 <2727> \{[Nue]}
 <2728> "Just like this, I want you to be mine,
 <2729> \ It would be nice to experience the power of your Angel..."
-<2730> \{［伶］}
+<2730> \{[Rei]}
 <2731> "I will never belong to you..."
 <2732> \{[Nue]}
 <2733> "Don't talk like that,
 <2734> \ Shall I teach your body--Rei?
-<2735> \{［伶］}
+<2735> \{[Rei]}
 <2736> "......"
 <2737> The young man's fingers were around the collar of the immobile Rei's clothes,
 <2738> And then, the moment I tried to pull it out...
@@ -2770,7 +2770,7 @@
 <2756> "If you can do that..."
 <2757> \{[Takami]}
 <2758> "Yes, if that's what you want, I'll do it...!"
-<2759> \{［伶］}
+<2759> \{[Rei]}
 <2760> "Takami...!"
 <2761> \{[Takami]}
 <2762> "...It's okay, Rei!"
@@ -2801,7 +2801,7 @@
 <2787> \{[Nue]}
 <2788> "This is... stupid!
 <2789> \ What on earth... is using my power...?!"
-<2790> \{［伶］}
+<2790> \{[Rei]}
 <2791> "...the stone that seals the power of the Angel,
 <2792> \ I used it for the tip of a spear..."
 <2793> Answering the astonished young man's questions,
@@ -2822,7 +2822,7 @@
 <2808> I pulled it out in one go.
 <2809> \{[Nue]}
 <2810> "Ugh...Ahhh...!"
-<2811> \{［伶］}
+<2811> \{[Rei]}
 <2812> "...!"
 <2813> So that Marie, who has the power of an Angel, can use it,
 <2814> The use of stone in the spear was a disaster.
@@ -2836,7 +2836,7 @@
 <2822> One step ahead, the young man presses the sole of his shoe down on the spear.
 <2823> Next, as Rei was about to use his power,
 <2824> The young man's kick lands.
-<2825> \{［伶］}
+<2825> \{[Rei]}
 <2826> "Ugh..."
 <2827> The kick was well-controlled,
 <2828> Unprepared for the attack,
@@ -2858,7 +2858,7 @@
 <2844> "Now... it's over!"
 <2845> The wings of ominousness fluttered wildly,
 <2846> He attacks Takami to bring about his fate of destruction.
-<2847> \{［伶］}
+<2847> \{[Rei]}
 <2848> "Takami――――!!"
 <2849> Takami certainly looked like he was trapped by the power of the Black Wings.
 <2850> However――
@@ -3022,7 +3022,7 @@
 <3008> Protecting Rei and the others from collapse,
 <3009> All those sent around here to capture Rei,
 <3010> The young man left with him.
-<3011> \{［伶］}
+<3011> \{[Rei]}
 <3012> "Takami...wake up."
 <3013> A body that sleeps with comfortable breathing,
 <3014> Gently rocking to wake you up gently.
@@ -3030,7 +3030,7 @@
 <3016> "...Hmm? Are you...Rei...?"
 <3017> Takami looked up blankly and muttered sleepily,
 <3018> Rei couldn't help but give a wry smile and whisper.
-<3019> \{［伶］}
+<3019> \{[Rei]}
 <3020> "Good morning, Takami.
 <3021> \ He was sleeping comfortably,
 <3022> \ How does it feel to wake up?
@@ -3038,7 +3038,7 @@
 <3024> "How are you feeling...? Yeah... not bad..."
 <3025> \{[Takami]}
 <3026> "It kind of reminds me of that time..."
-<3027> \{［伶］}
+<3027> \{[Rei]}
 <3028> "At that time?"
 <3029> \{[Takami]}
 <3030> "The sky is so high... Your hair shines through the light,
@@ -3051,7 +3051,7 @@
 <3037> "Ah...! That's right, that guy!?"
 <3038> Takami finally became aware of the situation he was in.
 <3039> I come to my senses and quickly sit up.
-<3040> \{［伶］}
+<3040> \{[Rei]}
 <3041> "He has left this world.
 <3042> \ I'll take along those who tried to capture me..."
 <3043> \{[Takami]}
@@ -3059,16 +3059,16 @@
 <3045> \{[Takami]}
 <3046> "Hey, Rei. If I wasn't here,
 <3047> \ Did you follow him...?
-<3048> \{［伶］}
+<3048> \{[Rei]}
 <3049> "I wonder..."
 <3050> \{[Takami]}
 <3051> "Actually... a little bit,
 <3052> \ Weren't you wondering if you wanted to follow me...?
 <3053> \{[Takami]}
 <3054> "Because he was just like you."
-<3055> \{［伶］}
+<3055> \{[Rei]}
 <3056> "...I have you. So I won't waver."
-<3057> \{［伶］}
+<3057> \{[Rei]}
 <3058> "And you'll be by my side, right?
 <3059> \ Close enough to make me feel less alone.
 <3060> \{[Takami]}
@@ -3076,7 +3076,7 @@
 <3062> \{[Takami]}
 <3063> "Rei, I'll always be by your side...!
 <3064> \ I won't let you be alone!"
-<3065> \{［伶］}
+<3065> \{[Rei]}
 <3066> "I believe in you..."
 <3067> As the sky begins to lighten,
 <3068> Rei stands shoulder to shoulder with Takami and looks at him with deep emotion.
@@ -3093,7 +3093,7 @@
 <3079> \{[Mari]}
 <3080> "Rei-sama, Takami-sama, are you okay?
 <3081> \ Are you injured or anything?
-<3082> \{［伶］}
+<3082> \{[Rei]}
 <3083> "Oh, I'm fine.
 <3084> \ --Takami, how about you?"
 <3085> \{[Takami]}
@@ -3102,7 +3102,7 @@
 <3088> "I see, that's good...!"
 <3089> \{[Mari]}
 <3090> "And now I've been able to repay Rei-sama for her kindness."
-<3091> \{［伶］}
+<3091> \{[Rei]}
 <3092> "Mari, what are you going to do now?"
 <3093> \{[Mari]}
 <3094> "Huh? Is it me...?"
@@ -3118,30 +3118,30 @@
 <3104> \{[Mari]}
 <3105> "Of course, this is only possible with the consent of Mr. Nozomi and Mr. Takami.
 <3106> \ That is if you can get it..."
-<3107> \{［伶］}
+<3107> \{[Rei]}
 <3108> "Takami, is it okay if I entrust Nozomi to Marie?"
 <3109> \{[Takami]}
 <3110> "Yes. I was planning to leave it with someone I could trust, but
 <3111> \ I don't mind if Marie takes it on."
-<3112> \{［伶］}
+<3112> \{[Rei]}
 <3113> "Nozomi, how about you?"
-<3114> \{［desire］}
+<3114> \{[Nozomi]}
 <3115> "Um, if I could join you, Marie-san,
 <3116> \ I think it'll be a lot of fun..."
-<3117> \{［伶］}
+<3117> \{[Rei]}
 <3118> "...Are you sure that's okay?"
 <3119> \{[Mari]}
 <3120> "Yes...!"
-<3121> \{［伶］}
+<3121> \{[Rei]}
 <3122> "Mari..."
 <3123> I ask for your hope
 <3124> Is Marie coming with us?
-<3125> \{［伶］}
+<3125> \{[Rei]}
 <3126> "Then I'll leave Nozomi to you.
 <3127> \ ...I'm counting on you."
 <3128> \{[Mari]}
 <3129> "Yes! Please rest assured and leave it to me!"
-<3130> \{［伶］}
+<3130> \{[Rei]}
 <3131> "...Are you coming with me?"
 <3132> I sensed an indescribable feeling in Marie's eyes,
 <3133> Before I knew it, Rei had said those words.
@@ -3150,25 +3150,25 @@
 <3136> I'm sure the invitation wasn't misplaced.
 <3137> \{[Mari]}
 <3138> "Uh... but, I..."
-<3139> \{［desire］}
+<3139> \{[Nozomi]}
 <3140> "Mari-san, please don't worry about me."
-<3141> \{［desire］}
+<3141> \{[Nozomi]}
 <3142> "No sad fate awaits you,
 <3143> \ Now I'm fine being alone!
-<3144> \{［desire］}
+<3144> \{[Nozomi]}
 <3145> "You've been really good to me.
 <3146> \ Please let me repay your kindness.
 <3147> \ Don't worry about me, just choose the path you truly desire."
 <3148> \{[Mari]}
 <3149> "Nozomi-san..."
-<3150> \{［伶］}
+<3150> \{[Rei]}
 <3151> "So, I'll ask you again.
 <3152> \ Marie, would you like to come with us?"
 <3153> \{[Mari]}
 <3154> "Y-yes!
 <3155> \ If it's somewhere Rei-sama goes,
 <3156> \ I'll accompany you wherever you go!
-<3157> \{［伶］}
+<3157> \{[Rei]}
 <3158> "I see. Then come with us, Marie."
 <3159> \{[Takami]}
 <3160> "If that's what Rei wants, then I don't mind.
@@ -3177,35 +3177,35 @@
 <3163> "Yes, of course!
 <3164> \ Thank you for your continued support.
 <3165> \ Rei-sama, Takami-sama...!"
-<3166> \{［伶］}
+<3166> \{[Rei]}
 <3167> "Oh, nice to meet you, Marie."
 <3168> \{[Mari]}
 <3169> "Yes...!"
-<3170> \{［伶］}
+<3170> \{[Rei]}
 <3171> "Then I'll leave Nozomi to you.
 <3172> \ ...I'm counting on you."
 <3173> \{[Mari]}
 <3174> "Yes! Please rest assured and leave it to me!"
 <3175> \{[Takami]}
 <3176> "Well then, I guess it's time to get going."
-<3177> \{［伶］}
+<3177> \{[Rei]}
 <3178> "--! Wait a moment, Takami.
 <3179> \ Because it's no longer needed,
 <3180> \ Could you please remove Nozomi's collar?
-<3181> \{［伶］}
+<3181> \{[Rei]}
 <3182> "Otherwise, Nozomi's collar will activate..."
-<3183> \{［伶］}
+<3183> \{[Rei]}
 <3184> "...Wait a moment. Nozomi is now...
 <3185> \ You and Marie came back from outside the mansion, right?
 <3186> \ From such a distance."
-<3187> \{［伶］}
+<3187> \{[Rei]}
 <3188> "That position must be outside the collar's safe zone.
 <3189> \ ...Did the device not work?
 <3190> \{[Takami]}
 <3191> "Ah, that story."
 <3192> \{[Takami]}
 <3193> "Well, actually... that's a lie."
-<3194> \{［伶］}
+<3194> \{[Rei]}
 <3195> "...Are you kidding me?"
 <3196> \{[Takami]}
 <3197> "Don't take Nozomi and run away from the mansion.
@@ -3216,14 +3216,14 @@
 <3202> \ It's a bluff, a bluff."
 <3203> \{[Takami]}
 <3204> "The thing attached to the collar is just a transmitter."
-<3205> \{［伶］}
+<3205> \{[Rei]}
 <3206> "...I was completely fooled.
 <3207> \ I never thought the day would come when I would be fooled by your lies."
 <3208> \{[Takami]}
 <3209> "Are you angry...?"
-<3210> \{［伶］}
+<3210> \{[Rei]}
 <3211> "No, I'm not angry. -- I'm glad it was a lie."
-<3212> \{［伶］}
+<3212> \{[Rei]}
 <3213> "In any case, we don't need it anymore.
 <3214> \ Please remove it."
 <3215> \{[Takami]}
@@ -3232,7 +3232,7 @@
 <3218> \ It was long gone..."
 <3219> \{[Takami]}
 <3220> "Nozomi, come here. I'll take off your collar."
-<3221> \{［desire］}
+<3221> \{[Nozomi]}
 <3222> "Ah, yes...!"
 <3223> I rushed over to Takami and grabbed Nozomi's collar.
 <3224> Takami easily unlocks the door with the electronic key he took out.
@@ -3241,23 +3241,23 @@
 <3227> \{[Takami]}
 <3228> "...I'm sorry. Even though it's a rule from my father's generation,
 <3229> \ They forced me to do this and made things difficult for me."
-<3230> \{［desire］}
+<3230> \{[Nozomi]}
 <3231> "No... it's fine."
-<3232> \{［desire］}
+<3232> \{[Nozomi]}
 <3233> "Thank you for freeing me!
 <3234> \ I... I'm grateful to you."
 <3235> \{[Takami]}
 <3236> "You... will forgive me..."
-<3237> \{［伶］}
+<3237> \{[Rei]}
 <3238> "So now... it's really all over."
-<3239> \{［伶］}
+<3239> \{[Rei]}
 <3240> "Of course, there are things that need to be done.
 <3241> \ It's just a mountain left..."
-<3242> \{［伶］}
+<3242> \{[Rei]}
 <3243> "For now... we're free."
 <3244> \{[Takami]}
 <3245> "That's true..."
-<3246> \{［伶］}
+<3246> \{[Rei]}
 <3247> "Come with me, Takami. I'll help you too.
 <3248> \ Alwaysーby your side.”
 <3249> \{[Takami]}

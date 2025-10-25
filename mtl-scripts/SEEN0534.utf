@@ -1,6 +1,6 @@
 // Resources for SEEN0534.TXT
 
-#character '［Marie］'
+#character '[Marie]'
 #character '[Rei]'
 #character '[Girl]'
 
@@ -9,9 +9,9 @@
 <0002> \{[Mari]}
 <0003> "Rei-sama, I've just arrived.
 <0004> \ ...Is there something I can help you with...?
-<0005> \{［伶］}
+<0005> \{[Rei]}
 <0006> "......"
-<0007> \{［伶］}
+<0007> \{[Rei]}
 <0008> "I found this in the archives today."
 <0009> \{[Mari]}
 <0010> "...Huh...?"
@@ -22,36 +22,36 @@
 <0015> Seeing Marie's remarkable reaction,
 <0016> This photo and Marie have a deep connection.
 <0017> Rei is convinced.
-<0018> \{［伶］}
+<0018> \{[Rei]}
 <0019> "So you know about this album."
 <0020> \{[Mari]}
 <0021> "...Ah..."
 <0022> \{[Mari]}
 <0023> "...Have you seen the inside...?"
-<0024> \{［伶］}
+<0024> \{[Rei]}
 <0025> "Yes. I was casually looking at the photos,
 <0026> \ A face that looks just like yours,
 <0027> \ I was surprised to find a photo of someone with the same name.
 <0028> \{[Mari]}
 <0029> "......"
-<0030> \{［伶］}
+<0030> \{[Rei]}
 <0031> "At first, it was a very uncharacteristic thought for me,
 <0032> \ I suspected you were some kind of ghost or something..."
-<0033> \{［伶］}
+<0033> \{[Rei]}
 <0034> "I thought you were like that,
 <0035> \ I don't think it's some vague, insubstantial entity.
-<0036> \{［伶］}
+<0036> \{[Rei]}
 <0037> "You were always cheerful and bright,
 <0038> \ I've actually touched you a few times..."
-<0039> \{［伶］}
+<0039> \{[Rei]}
 <0040> "Above all, I can be sure you are a living person."
 <0041> \{[Mari]}
 <0042> "......!"
-<0043> \{［伶］}
+<0043> \{[Rei]}
 <0044> "I have a keener sense than most people.
 <0045> \ If you have clearly confirmed it with your own eyes and ears,
 <0046> \ I choose to believe in its existence.
-<0047> \{［伶］}
+<0047> \{[Rei]}
 <0048> "I believe you are indeed a human being who lives in this world."
 <0049> \{[Mari]}
 <0050> "Rei-sama..."
@@ -66,31 +66,31 @@
 <0059> \{[Mari]}
 <0060> "I am the girl in the photo in this album,
 <0061> \ Also known as Miyashiro Marie.
-<0062> \{［伶］}
+<0062> \{[Rei]}
 <0063> "...What do you mean?"
-<0064> \{［伶］}
+<0064> \{[Rei]}
 <0065> "The girl in this photo has already passed away.
 <0066> \ So he wasn't actually dead...?
 <0067> \{[Mari]}
 <0068> "...No. I certainly am,
 <0069> \ On the day marked in the photograph, I ended my life at the age of 18.
-<0070> \{［伶］}
+<0070> \{[Rei]}
 <0071> "...I don't understand. Your story lacks coherence."
-<0072> \{［伶］}
+<0072> \{[Rei]}
 <0073> "If you say that you are the girl who has already passed away,
 <0074> \ So now you're here, what are you?"
 <0075> \{[Mari]}
 <0076> "......"
 <0077> \{[Mari]}
 <0078> "It's time to tell you everything."
-<0079> \{［伶］}
+<0079> \{[Rei]}
 <0080> "......"
 <0081> \{[Mari]}
 <0082> "Rei-sama, please touch this hand of mine.
 <0083> \ And - read my mind..."
-<0084> \{［伶］}
+<0084> \{[Rei]}
 <0085> "...!"
-<0086> \{［伶］}
+<0086> \{[Rei]}
 <0087> "Did you know?
 <0088> \ About the power I possess...!"
 <0089> \{[Mari]}
@@ -99,15 +99,15 @@
 <0092> "Because---Rei-sama and I,
 <0093> \ Thanks to that mysterious power
 <0094> \ Because we were able to meet..."
-<0095> \{［伶］}
+<0095> \{[Rei]}
 <0096> "Are you saying I've met you before?
 <0097> I don't remember that..."
 <0098> \{[Mari]}
 <0099> "Please, touch my heart.
 <0100> \ Then maybe you'll remember everything."
-<0101> \{［伶］}
+<0101> \{[Rei]}
 <0102> "......"
-<0103> \{［伶］}
+<0103> \{[Rei]}
 <0104> "Okay, if that's what you want, then let's try it."
 <0105> \{[Mari]}
 <0106> "...Please."
@@ -124,38 +124,38 @@
 <0117> A room in the attic, filled with moonlight.
 <0118> On the floor of the empty room was a doll.
 <0119> The crying comes from this doll.
-<0120> \{［伶］}
+<0120> \{[Rei]}
 <0121> "...What's wrong?"
-<0122> \{［伶］}
+<0122> \{[Rei]}
 <0123> "What are you crying about?"
 <0124> Guided by the sound of sobbing coming from somewhere in the mansion,
 <0125> The boy who arrived in this attic - Rei,
 <0126> Call out to the doll.
 <0127> \{[Girl]}
 <0128> "...Who are you?"
-<0129> \{［伶］}
+<0129> \{[Rei]}
 <0130> "I'm Rei...Saigarei."
-<0131> \{［伶］}
+<0131> \{[Rei]}
 <0132> "And you?"
 <0133> \{[Mari]}
 <0134> "I... I'm Marie. Miyashiro Marie."
 <0135> \{[Mari]}
 <0136> "Can you hear me?"
-<0137> \{［伶］}
+<0137> \{[Rei]}
 <0138> "Oh, what a sad cry.
 <0139> \ What is so sad?
 <0140> \ I was curious so I came all the way here.
-<0141> \{［伶］}
+<0141> \{[Rei]}
 <0142> "What on earth happened?"
 <0143> \{[Mari]}
 <0144> “I… I,
 <0145> \ I want to get out of here... I want to get out.'
-<0146> \{［伶］}
+<0146> \{[Rei]}
 <0147> "Here... Wait, is that from inside this doll?"
 <0148> \{[Mari]}
 <0149> “Yes. I can’t get out of here.
 <0150> I want to get out, but I can't.
-<0151> \{［伶］}
+<0151> \{[Rei]}
 <0152> "Why is that?"
 <0153> \{[Mari]}
 <0154> “…Because mother told me not to go out.”
@@ -175,7 +175,7 @@
 <0168> "...All I get praised for is the doll."
 <0169> \{[Mari]}
 <0170> "I've always been a bad girl..."
-<0171> \{［伶］}
+<0171> \{[Rei]}
 <0172> "Did you disobey your mother?"
 <0173> \{[Mari]}
 <0174> 『Yes……』
@@ -196,7 +196,7 @@
 <0189> \{[Mari]}
 <0190> "My mother was so desperate that she poisoned me a little at a time every day.
 <0191> \ Even if he dies from the disease... it can't be helped.
-<0192> \{［伶］}
+<0192> \{[Rei]}
 <0193> "......"
 <0194> \{[Mari]}
 <0195> “I loved my mother so much,
@@ -229,35 +229,35 @@
 <0222> "Even if the surface is clean and smooth,
 <0223> \ In this cramped environment,
 <0224> \ I hate having a stiff body...!
-<0225> \{［伶］}
+<0225> \{[Rei]}
 <0226> "......"
-<0227> \{［伶］}
+<0227> \{[Rei]}
 <0228> "...Your pain, what I know,
 <0229> \ I think they look a little similar.
 <0230> \{[Mari]}
 <0231> 『…………?』
-<0232> \{［伶］}
+<0232> \{[Rei]}
 <0233> "Don't cry anymore."
-<0234> \{［伶］}
+<0234> \{[Rei]}
 <0235> "Maybe I can do something about it."
-<0236> \{［伶］}
+<0236> \{[Rei]}
 <0237> "The warm flesh and blood you desire,
 <0238> \ I can make it for you."
 <0239> \{[Mari]}
 <0240> "Who are you?"
-<0241> \{［伶］}
+<0241> \{[Rei]}
 <0242> "I no longer need this power, so I'll give it to you..."
 <0243> At that moment, the room was enveloped in a soft light.
 <0244> ……………
 <0245> ………
 <0246> ……
-<0247> \{［伶］}
+<0247> \{[Rei]}
 <0248> "Mari... Mari."
-<0249> \{［伶］}
+<0249> \{[Rei]}
 <0250> "Open your eyes..."
 <0251> \{[Mari]}
 <0252> 『……Ah……』
-<0253> \{［伶］}
+<0253> \{[Rei]}
 <0254> "This is the body you've been wanting."
 <0255> \{[Mari]}
 <0256> 『…………』
@@ -283,14 +283,14 @@
 <0276> \{[Mari]}
 <0277> "I've always dreamed of... many things,
 <0278> \ Now it's finally come true...!
-<0279> \{［伶］}
+<0279> \{[Rei]}
 <0280> "......"
-<0281> \{［伶］}
+<0281> \{[Rei]}
 <0282> "To build your body,
 <0283> \ I transferred most of my power... to you."
-<0284> \{［伶］}
+<0284> \{[Rei]}
 <0285> "Maybe I can't use this power anymore."
-<0286> \{［伶］}
+<0286> \{[Rei]}
 <0287> "But that's okay. I don't need it anymore.
 <0288> \ I want you to have this power."
 <0289> \{[Mari]}
@@ -305,12 +305,12 @@
 <0298> "I want to do something for you."
 <0299> \{[Mari]}
 <0300> "I want to repay you for your kindness...!"
-<0301> \{［伶］}
+<0301> \{[Rei]}
 <0302> "...I'll probably forget you along with this power."
-<0303> \{［伶］}
+<0303> \{[Rei]}
 <0304> "I will forget everything about this power.
 <0305> \ I've decided that for a long time.
-<0306> \{［伶］}
+<0306> \{[Rei]}
 <0307> "So you,
 <0308> \ You don't have to worry about me."
 <0309> \{[Mari]}
@@ -332,9 +332,9 @@
 <0325> "This is... a contract."
 <0326> After the scene from my old memory gradually faded away,
 <0327> Slowly, my vision returns to normal.
-<0328> \{［伶］}
+<0328> \{[Rei]}
 <0329> "......"
-<0330> \{［伶］}
+<0330> \{[Rei]}
 <0331> "...Is this the moment when you and I first met...?"
 <0332> \{[Mari]}
 <0333> "Yes, that's right."
@@ -344,14 +344,14 @@
 <0337> \{[Mari]}
 <0338> "But I still remember it clearly.
 <0339> \ I have never forgotten anything.
-<0340> \{［伶］}
+<0340> \{[Rei]}
 <0341> "...That boy was definitely me.
 <0342> \ However..."
-<0343> \{［伶］}
+<0343> \{[Rei]}
 <0344> "...The abilities I possess now are not that powerful.
 <0345> \ Reading the thoughts left in objects,
 <0346> \ A power that can create a living human being..."
-<0347> \{［伶］}
+<0347> \{[Rei]}
 <0348> "--It goes beyond the realm of common sense.
 <0349> \ I can't believe that a mere human being could do such a thing.
 <0350> \ I can't imagine that at all.
@@ -380,7 +380,7 @@
 <0373> \{[Mari]}
 <0374> "Rei-sama... in this world,
 <0375> \ He gave me a second chance to live."
-<0376> \{［伶］}
+<0376> \{[Rei]}
 <0377> "...Mari..."
 <0378> \{[Mari]}
 <0379> "Thanks to Rei-sama,
@@ -406,7 +406,7 @@
 <0399> "And thenーin this mansion,
 <0400> \ I have been waiting for your arrival,
 <0401> \ There's a reason..."
-<0402> \{［伶］}
+<0402> \{[Rei]}
 <0403> "You were waiting for me at the mansion... why?"
 <0404> \{[Mari]}
 <0405> "To tell you that,
@@ -428,11 +428,11 @@
 <0421> "In response to the power given to me by Rei-sama,
 <0422> \ Within me lay dormantーan innate ability,
 <0423> \ Perhaps he has woken up."
-<0424> \{［伶］}
+<0424> \{[Rei]}
 <0425> "What is your other power?"
 <0426> \{[Mari]}
 <0427> "I have the power to see into the future."
-<0428> \{［伶］}
+<0428> \{[Rei]}
 <0429> "Future vision...?"
 <0430> \ Is that the power to see the future... the ability to foresee things?
 <0431> \{[Mari]}
@@ -444,7 +444,7 @@
 <0437> \{[Mari]}
 <0438> "But I still think about future events,
 <0439> \ They have the power to see things in fragments."
-<0440> \{［伶］}
+<0440> \{[Rei]}
 <0441> "...My powers are limited to current information,
 <0442> \ Are you saying you can read information about the future?
 <0443> \{[Mari]}
@@ -453,7 +453,7 @@
 <0446> "One day a year ago, I had a vivid vision."
 <0447> \{[Mari]}
 <0448> "It was a vision of the future, about Rei-sama."
-<0449> \{［伶］}
+<0449> \{[Rei]}
 <0450> "...My future."
 <0451> \{[Mari]}
 <0452> "On a moonless night, this mansion,
@@ -463,7 +463,7 @@
 <0456> \{[Mari]}
 <0457> "And in the mansion, many screams and many lives,
 <0458> \ I felt like it was disappearing..."
-<0459> \{［伶］}
+<0459> \{[Rei]}
 <0460> "......!"
 <0461> \{[Mari]}
 <0462> "When I saw that, I understood."
@@ -473,7 +473,7 @@
 <0466> "I have to help Rei-sama..."
 <0467> \{[Mari]}
 <0468> "And now is the time to give back your power to Rei-sama."
-<0469> \{［伶］}
+<0469> \{[Rei]}
 <0470> "A black... shadow...?"
 <0471> \{[Mari]}
 <0472> "Yes. I saw something like black wings.
@@ -486,9 +486,9 @@
 <0479> "Eventually, Rei-sama will also be caught by the shadow..."
 <0480> \{[Mari]}
 <0481> "That was a horrifying image."
-<0482> \{［伶］}
+<0482> \{[Rei]}
 <0483> "......"
-<0484> \{［伶］}
+<0484> \{[Rei]}
 <0485> "Is that shadow a person...?"
 <0486> \{[Mari]}
 <0487> "I don't know. My abilities are still inexperienced.
@@ -514,11 +514,11 @@
 <0507> \{[Mari]}
 <0508> "Even now, Rei herself has said,
 <0509> \ I sense the presence of that "shadow"..."
-<0510> \{［伶］}
+<0510> \{[Rei]}
 <0511> "......!"
-<0512> \{［伶］}
+<0512> \{[Rei]}
 <0513> "What is happening in this mansion...?"
-<0514> \{［伶］}
+<0514> \{[Rei]}
 <0515> "That's because I was called here,
 <0516> \ Is there any connection?
 <0517> \{[Mari]}
@@ -531,10 +531,10 @@
 <0524> "However, while I was staying in this mansion,
 <0525> \ A certain plan regarding the Angels is underway...
 <0526> \ I've been feeling that presence for a long time."
-<0527> \{［伶］}
+<0527> \{[Rei]}
 <0528> "An angel..."
 <0529> \{[Mari]}
-<0530> "What exactly is an <Angel>?"
+<0530> "What exactly is an \<Angel\>?"
 <0531> \{[Mari]}
 <0532> "That is, with Nozomi-san and Takami-sama,
 <0533> \ I don't see any connection.
@@ -553,14 +553,14 @@
 <0546> \ I will always come wherever Rei-sama is."
 <0547> \{[Mari]}
 <0548> "The Shadow is targeting Rei-sama."
-<0549> \{［伶］}
+<0549> \{[Rei]}
 <0550> "Me...? Why on earth?"
 <0551> \{[Mari]}
 <0552> "I don't know... but the time is approaching."
 <0553> \{[Mari]}
 <0554> "The moonless nights will soon come.
 <0555> \ Perhaps it will be tomorrow... or the night after..."
-<0556> \{［伶］}
+<0556> \{[Rei]}
 <0557> "......"
 <0558> \{[Mari]}
 <0559> "So, now is the time for me to
@@ -573,10 +573,10 @@
 <0566> \{[Mari]}
 <0567> "So, this power,
 <0568> \ Now I'll give it back to you--"
-<0569> \{［伶］}
+<0569> \{[Rei]}
 <0570> "--Wait, Marie.
 <0571> \ You said that you gained life through the power I gave you, right?
-<0572> \{［伶］}
+<0572> \{[Rei]}
 <0573> "So, if I give that power back to you, what will become of you?"
 <0574> \{[Mari]}
 <0575> "...It was the power that sustained my life,
@@ -596,9 +596,9 @@
 <0589> \{[Mari]}
 <0590> "It was originally yours,
 <0591> \ Please accept this power.
-<0592> \{［伶］}
+<0592> \{[Rei]}
 <0593> "......"
-<0594> \{［伶］}
+<0594> \{[Rei]}
 <0595> "You... you think I really want that,
 <0596> \ Do you think so?
 <0597> \{[Mari]}
@@ -606,44 +606,44 @@
 <0599> Marie's body seems like it will disappear if you take your eyes off it.
 <0600> Rei holds her in his arms so she can't escape.
 <0601> I hugged her so tightly that she might break, and whispered quietly.
-<0602> \{［伶］}
+<0602> \{[Rei]}
 <0603> "More than anything, I'm grateful to have met you in this mansion.
 <0604> \ I am truly happy."
 <0605> \{[Mari]}
 <0606> "......!"
-<0607> \{［伶］}
+<0607> \{[Rei]}
 <0608> "When I'm with you, I feel something I've never felt before.
 <0609> \ I felt a sense of peace.
-<0610> \{［伶］}
+<0610> \{[Rei]}
 <0611> "Until now... no one else has
 <0612> \ I've never felt anything like this before."
-<0613> \{［伶］}
+<0613> \{[Rei]}
 <0614> "...My power is to touch people's hearts..."
-<0615> \{［伶］}
+<0615> \{[Rei]}
 <0616> "Because of this power,
 <0617> \ Associating with other people has always been a burden to me."
-<0618> \{［伶］}
+<0618> \{[Rei]}
 <0619> "More or less, people are all somewhat insensitive,
 <0620> \ Throwing your own preconceived ideas at others,
 <0621> \ The world is full of people who don't think about themselves.
-<0622> \{［伶］}
+<0622> \{[Rei]}
 <0623> "I'm not going to be able to stand people like that anymore.
 <0624> \ I felt really fed up..."
-<0625> \{［伶］}
+<0625> \{[Rei]}
 <0626> "But... you're different."
-<0627> \{［伶］}
+<0627> \{[Rei]}
 <0628> "When I'm with you, I realize the things that I've lost sight of for so long.
 <0629> \ I think I can remember..."
-<0630> \{［伶］}
+<0630> \{[Rei]}
 <0631> "When I'm with you, I feel all sorts of things again,
 <0632> \ I feel like I can look at you with kindness..."
 <0633> \{[Mari]}
 <0634> "Rei-sama..."
-<0635> \{［伶］}
+<0635> \{[Rei]}
 <0636> "...I love you, Marie."
-<0637> \{［伶］}
+<0637> \{[Rei]}
 <0638> "I want to be with you from now on too..."
-<0639> \{［伶］}
+<0639> \{[Rei]}
 <0640> "I don't want to erase you."
 <0641> \{[Mari]}
 <0642> "Ah...ah..."
@@ -666,14 +666,14 @@
 <0659> \{[Mari]}
 <0660> "Always...always, by Rei-sama's side,
 <0661> \ It hurts...!
-<0662> \{［伶］}
+<0662> \{[Rei]}
 <0663> "Mari..."
-<0664> \{［伶］}
+<0664> \{[Rei]}
 <0665> "It's okay. I won't erase you.
 <0666> \ There must be a way to do something about it."
-<0667> \{［伶］}
+<0667> \{[Rei]}
 <0668> "I'll look for it."
-<0669> \{［伶］}
+<0669> \{[Rei]}
 <0670> "So... don't cry anymore, Marie..."
 <0671> \{[Mari]}
 <0672> "Rei-sama...!"

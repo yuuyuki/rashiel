@@ -1,6 +1,6 @@
 // Resources for SEEN0523.TXT
 
-#character '［Takami］'
+#character '[Takami]'
 #character '[Rei]'
 
 <0000> The evening twilight passes in the blink of an eye,
@@ -12,7 +12,7 @@
 <0006> "I'm glad you came and didn't break your promise.
 <0007> \ Well, first of all, just sit down wherever you like.
 <0008> \ I'll prepare some drinks and snacks right away. Please wait.
-<0009> \{［伶］}
+<0009> \{[Rei]}
 <0010> "Yeah. I'll just relax here."
 <0011> As soon as Rei visited the annex,
 <0012> Takami appeared at the front door to greet the guests.
@@ -21,7 +21,7 @@
 <0015> I feel uneasy.
 <0016> So, Rei tried to avoid any roundabout conversations,
 <0017> He started the conversation straight out.
-<0018> \{［伶］}
+<0018> \{[Rei]}
 <0019> "...Takami. What are you talking about?"
 <0020> \{[Takami]}
 <0021> "......"
@@ -37,9 +37,9 @@
 <0031> \ The investigation into the other maid informants is going smoothly.
 <0032> \{[Takami]}
 <0033> "This will give me peace of mind for the time being. Thank you."
-<0034> \{［伶］}
+<0034> \{[Rei]}
 <0035> "For the time being..."
-<0036> \{［伶］}
+<0036> \{[Rei]}
 <0037> "--Around you,
 <0038> \ Does that happen often?
 <0039> \{[Takami]}
@@ -51,7 +51,7 @@
 <0045> \{[Takami]}
 <0046> "Ah, now that I think about it, my father's accident was also
 <0047> \ It may be more natural to think that this was the work of someone trying to kill him.
-<0048> \{［伶］}
+<0048> \{[Rei]}
 <0049> "...Doesn't it get too hard?"
 <0050> \{[Takami]}
 <0051> "--Occasionally, you know."
@@ -62,12 +62,12 @@
 <0056> "There are times when I feel like just throwing it away,
 <0057> \ When I think about the people involved,
 <0058> I can't abandon the Kujo family or my job."
-<0059> \{［伶］}
+<0059> \{[Rei]}
 <0060> "I see..."
 <0061> \{[Takami]}
 <0062> “--Rei. Why did you protect me today?
 <0063> \ Even taking such a risk..."
-<0064> \{［伶］}
+<0064> \{[Rei]}
 <0065> "Why did you have to protect me?
 <0066> \ Did you stand in front of the knife?
 <0067> \{[Takami]}
@@ -76,12 +76,12 @@
 <0070> \ But I couldn't help it--"
 <0071> \{[Takami]}
 <0072> "I think it was only because of you that he did this."
-<0073> \{［伶］}
+<0073> \{[Rei]}
 <0074> "......"
 <0075> \{[Takami]}
 <0076> "After I realized that,
 <0077> \ I thought about our relationship.
-<0078> \{［伶］}
+<0078> \{[Rei]}
 <0079> "Our... relationship?"
 <0080> \{[Takami]}
 <0081> "We lived closest to each other, but we weren't family.
@@ -95,17 +95,17 @@
 <0089> \{[Takami]}
 <0090> "All we have is a thing spun by other hands,
 <0091> \ Only an illusory connection..."
-<0092> \{［伶］}
+<0092> \{[Rei]}
 <0093> "Yes... you're right.
 <0094> \ Now that I think about it, it was a very fleeting thing.
 <0095> \ What is the relationship between you and me?
-<0096> \{［伶］}
+<0096> \{[Rei]}
 <0097> "Somehowーit can break,
 <0098> \ I never thought about it.
 <0099> \{[Takami]}
 <0100> "...Me too.
 <0101> \ But latelyーI think about it a lot.”
-<0102> \{［伶］}
+<0102> \{[Rei]}
 <0103> "......"
 <0104> \{[Takami]}
 <0105> “Rei. What do you think of me?”
@@ -117,15 +117,15 @@
 <0111> \ Even at the risk of my own life!
 <0112> \{[Takami]}
 <0113> "Why? Why didn't you abandon me?"
-<0114> \{［伶］}
+<0114> \{[Rei]}
 <0115> "I hate you, don't I?"
-<0116> \{［伶］}
+<0116> \{[Rei]}
 <0117> "That's not true.
 <0118> \ It's not that I hated you that much.
 <0119> \ Rather, wasn't it you who hated me?
 <0120> \{[Takami]}
 <0121> "I hated you more than you...!?"
-<0122> \{［伶］}
+<0122> \{[Rei]}
 <0123> "That's right. When they see me, they attack me,
 <0124> \ It seems you can't help but find fault with my actions,
 <0125> \ I thought you really disliked me."
@@ -133,75 +133,75 @@
 <0127> "What are you saying? You're the one who's insulting me,
 <0128> \ Because you ignore it.
 <0129> \ That made me so angry that I--!"
-<0130> \{［伶］}
+<0130> \{[Rei]}
 <0131> "...Takami..."
-<0132> \{［伶］}
+<0132> \{[Rei]}
 <0133> "I don't despise you.
 <0134> \ I didn't mean to ignore you."
-<0135> \{［伶］}
+<0135> \{[Rei]}
 <0136> "But back then, I didn't have the ability to accept others.
 <0137> \ I didn't have the mental capacity to do so.
-<0138> \{［伶］}
+<0138> \{[Rei]}
 <0139> "As a result, I, in particular,
 <0140> \ I've been acting cold towards you,
 <0141> \ I might have taken it.
-<0142> \{［伶］}
+<0142> \{[Rei]}
 <0143> "If my attitude has irritated you,
 <0144> \ I'm sorry..."
 <0145> \{[Takami]}
 <0146> "......"
-<0147> \{［伶］}
+<0147> \{[Rei]}
 <0148> "......"
 <0149> \{[Takami]}
 <0150> "...That means,
 <0151> \ You didn't really hate me, did you?"
-<0152> \{［伶］}
+<0152> \{[Rei]}
 <0153> "Yes, that's right."
 <0154> \{[Takami]}
 <0155> "...Until now, we have been hated by others,
 <0156> \ We both strongly believed that,
 <0157> \ You're saying he threw away the opportunity for reconciliation?
-<0158> \{［伶］}
+<0158> \{[Rei]}
 <0159> "I wonder if that's what's going to happen."
 <0160> \{[Takami]}
 <0161> "......"
 <0162> \{[Takami]}
 <0163> "So, I've been stubborn up until now,
 <0164> \ That's just stupid..."
-<0165> \{［伶］}
+<0165> \{[Rei]}
 <0166> "Well, now that the misunderstanding has been cleared up,
 <0167> \ We are in this vain conflict,
 <0168> \ Is there any reason why we should continue this in the future?
 <0169> \{[Takami]}
 <0170> "Uh...yeah. Well...that's certainly true..."
-<0171> \{［伶］}
+<0171> \{[Rei]}
 <0172> "Hey Takami, I have a suggestion.
 <0173> \ Would you listen to me?
 <0174> \{[Takami]}
 <0175> "...What is it? Tell me."
-<0176> \{［伶］}
+<0176> \{[Rei]}
 <0177> "I might as well take this opportunity,
 <0178> \ Why don't we start over from the beginning?
 <0179> \{[Takami]}
 <0180> "Starting over from the beginning? What on earth...?"
-<0181> \{［伶］}
+<0181> \{[Rei]}
 <0182> "The mistake we made as children in our relationship,
 <0183> \ Once again, from the moment we met,
 <0184> \ I'm suggesting that you try again."
 <0185> \{[Takami]}
 <0186> "Since we met...?"
-<0187> \{［伶］}
+<0187> \{[Rei]}
 <0188> "That's right. When we first met,
 <0189> Eight years agoーthe day I was taken in by the Kujo family,
 <0190> \ The moment you and I met
-<0191> \{［伶］}
+<0191> \{[Rei]}
 <0192> "From that time on, our misunderstandings
 <0193> \ It started, but..."
-<0194> \{［伶］}
+<0194> \{[Rei]}
 <0195> "If only we hadn't made that initial mistake,
 <0196> \ Our relationship had a more tranquil beginning,
 <0197> \ It would have been a lot different than it is now."
-<0198> \{［伶］}
+<0198> \{[Rei]}
 <0199> "Our relationship started off right,
 <0200> \ Don't you want to know what it's going to be like?
 <0201> \{[Takami]}
@@ -209,26 +209,26 @@
 <0203> \{[Takami]}
 <0204> "You... are serious,
 <0205> Is that what you want... Rei?
-<0206> \{［伶］}
+<0206> \{[Rei]}
 <0207> "Of course. That's why I'm proposing it.
 <0208> \ Now, what do you want to do, Takami?
 <0209> \ Will you refuse and say you don't want to do this? Or will you laugh it off and say it's a farce?
-<0210> \{［伶］}
+<0210> \{[Rei]}
 <0211> "Or maybe--?"
 <0212> \{[Takami]}
 <0213> "I don't hate it...
 <0214> \ If that's what you want too--I don't mind."
 <0215> \{[Takami]}
 <0216> "I want to start over with you too."
-<0217> \{［伶］}
+<0217> \{[Rei]}
 <0218> "Then it's settled.
 <0219> \ I'll completely let go of all the grudges I've had up until now,
 <0220> \ Let's start our new relationship."
-<0221> \{［伶］}
+<0221> \{[Rei]}
 <0222> "Well then, once again - nice to meet you, Takami."
 <0223> \{[Takami]}
 <0224> "Uh, yeah. Nice to meet you..."
-<0225> \{［伶］}
+<0225> \{[Rei]}
 <0226> "Oh, that's right. I happen to have a glass of sake,
 <0227> \ Shall we have a toast to celebrate our new beginning?
 <0228> \{[Takami]}
@@ -236,7 +236,7 @@
 <0230> Takami raised his glass, muttering to himself.
 <0231> By clinking the cups in their hands with a clear sound,
 <0232> The two men took this as a sign of reconciliation.
-<0233> \{［伶］}
+<0233> \{[Rei]}
 <0234> "Now we can start afresh--"
 <0235> \{[Takami]}
 <0236> "Yeah... that's right."
@@ -252,7 +252,7 @@
 <0246> A simple, ordinary conversation,
 <0247> I never thought I would be able to have such a friendly exchange with Takami.
 <0248> I never imagined this until today when I was invited to the mansion.
-<0249> \{［伶］}
+<0249> \{[Rei]}
 <0250> (But this isn't so bad either...)
 <0251> Rei gave herself over to the pleasant intoxication,
 <0252> I looked at Takami's slightly embarrassed, red face,

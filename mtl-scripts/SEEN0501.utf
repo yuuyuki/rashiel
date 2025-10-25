@@ -1,6 +1,6 @@
 // Resources for SEEN0501.TXT
 
-#character '［Marie］'
+#character '[Marie]'
 #character '[Rei]'
 
 <0000> May 5th Marie Route
@@ -32,12 +32,12 @@
 <0026> A voice asks if you've woken up,
 <0027> Gently, like a gentle breeze hitting the surface,
 <0028> He gently calls out to Rei.
-<0029> \{［伶］}
+<0029> \{[Rei]}
 <0030> "…………Is that you?"
 <0031> \{[Mari]}
 <0032> "Oh, are you awake?
 <0033> \ Good morning, Rei-sama.
-<0034> \{［伶］}
+<0034> \{[Rei]}
 <0035> "Ah... Good morning."
 <0036> \{[Mari]}
 <0037> "Um, Rei-sama, are you okay?
@@ -46,11 +46,11 @@
 <0040> "Rei-sama, there was what happened yesterday,
 <0041> \ If you are not feeling well,
 <0042> \ Why don't you just take a break for today?
-<0043> \{［伶］}
+<0043> \{[Rei]}
 <0044> "No, nothing's wrong. I'll wake up."
 <0045> \{[Mari]}
 <0046> "Please don't push yourself too hard..."
-<0047> \{［伶］}
+<0047> \{[Rei]}
 <0048> "Oh, I'll keep that in mind.
 <0049> \ More importantly, the fact that you came to wake me up means
 <0050> \ Have you come to call me to breakfast?
@@ -58,14 +58,14 @@
 <0052> "Oh, yes, that's right!
 <0053> \ Breakfast is ready,
 <0054> \ Would you like to have dinner?
-<0055> \{［伶］}
+<0055> \{[Rei]}
 <0056> "Yes, I'll take it."
 <0057> After breakfast, I went to bed, which has become a habit for me recently.
 <0058> Time to enjoy the aroma of tea,
 <0059> The party ends when the tilted cup is empty.
 <0060> \{[Mari]}
 <0061> "Rei-sama, what are your plans for today?"
-<0062> \{［伶］}
+<0062> \{[Rei]}
 <0063> "That's right... Marie,
 <0064> \ What are your plans for the future?
 <0065> \{[Mari]}
@@ -73,10 +73,10 @@
 <0067> \{[Mari]}
 <0068> "In the morning, in the orchard on the mansion grounds,
 <0069> \ We are planning to harvest cherries.
-<0070> \{［伶］}
+<0070> \{[Rei]}
 <0071> "I see... Well, the weather is nice, so why not take a walk?
 <0072> \ I'll go and see how you do your job."
-<0073> \{［伶］}
+<0073> \{[Rei]}
 <0074> "It might help kill some time."
 <0075> \{[Mari]}
 <0076> "Is that so...!
@@ -85,7 +85,7 @@
 <0079> \{[Mari]}
 <0080> "The broom flowers are in full bloom in that area right now.
 <0081> \ There are lots of them in bloom."
-<0082> \{［伶］}
+<0082> \{[Rei]}
 <0083> "Broom...?
 <0084> \ That's a flower name I've never heard of before."
 <0085> \{[Mari]}
@@ -110,11 +110,11 @@
 <0104> There was a shrub with branches laden with red berries,
 <0105> There are several lined up.
 <0106> In one of them, I spotted Marie.
-<0107> \{［伶］}
+<0107> \{[Rei]}
 <0108> "Mari..."
 <0109> \{[Mari]}
 <0110> "Well, Rei-sama. Have you finished your walk yet?"
-<0111> \{［伶］}
+<0111> \{[Rei]}
 <0112> "Yes... It looks like the harvest is progressing."
 <0113> \{[Mari]}
 <0114> "Yes! Now is the best time."
@@ -130,7 +130,7 @@
 <0124> \ It's really delicious."
 <0125> \{[Mari]}
 <0126> "I'll serve it as dessert with today's lunch too!"
-<0127> \{［伶］}
+<0127> \{[Rei]}
 <0128> "Yes, that's fun."
 <0129> \{[Mari]}
 <0130> "Next time, I'll try cherry pie!
@@ -152,22 +152,22 @@
 <0146> "Kyaaa...!?"
 <0147> Perhaps he was surprised by the sudden change in his line of sight.
 <0148> Marie becomes flustered and turns bright red.
-<0149> \{［伶］}
+<0149> \{[Rei]}
 <0150> "Look, now you can reach it."
 <0151> \{[Mari]}
 <0152> "Wha-what...?!"
 <0153> \{[Mari]}
 <0154> "Rei-sama, this...!"
-<0155> \{［伶］}
+<0155> \{[Rei]}
 <0156> "What's wrong? Are you embarrassed?"
 <0157> \{[Mari]}
 <0158> "No! I can't do this,
 <0159> \ I can't let you do this to Rei-sama...!"
-<0160> \{［伶］}
+<0160> \{[Rei]}
 <0161> "I'm fine."
 <0162> \{[Mari]}
 <0163> "Um, I'm heavy...!"
-<0164> \{［伶］}
+<0164> \{[Rei]}
 <0165> "That's not true. You're light... like a little bird.
 <0166> \ Are you the one who eats properly every day?
 <0167> \{[Mari]}
@@ -179,7 +179,7 @@
 <0173> Marie's blushing and flustered face made me laugh,
 <0174> Until Marie finishes the harvest,
 <0175> The smile on Rei's face never faded.
-<0176> \{［伶］}
+<0176> \{[Rei]}
 <0177> "...Well, I'll be back soon."
 <0178> \{[Mari]}
 <0179> "Yes! Then I'll continue working."
@@ -197,11 +197,11 @@
 <0191> I went down to the garden looking for Marie,
 <0192> I sat in the comfortable shade of a tree, the sunlight filtering through the trees.
 <0193> I find Marie's back.
-<0194> \{［伶］}
+<0194> \{[Rei]}
 <0195> "Mari, what are you doing here?"
 <0196> \{[Mari]}
 <0197> "Please be quiet, Rei-sama."
-<0198> \{［伶］}
+<0198> \{[Rei]}
 <0199> "Oh, this is..."
 <0200> I whisper softly,
 <0201> I put my head on Marie's lap,
@@ -209,14 +209,14 @@
 <0203> \{[Mari]}
 <0204> "Nozomi, you seem a little tired.
 <0205> \ I've been completely absent..."
-<0206> \{［伶］}
+<0206> \{[Rei]}
 <0207> "It seems like he's become quite attached to you.
 <0208> \ Seeing this child so at ease,
 <0209> \ This might be the first time.
 <0210> \{[Mari]}
 <0211> "Talking with you is so much fun.
 <0212> \ I wonder what it would be like if I had a younger brother."
-<0213> \{［伶］}
+<0213> \{[Rei]}
 <0214> "Mari..."
 <0215> As the words suggest, it's like a kind older sister watching over her younger brother.
 <0216> With a gaze full of compassion and love,
@@ -233,10 +233,10 @@
 <0227> \{[Mari]}
 <0228> "Oh? Rei-sama, there's more than usual today.
 <0229> \ You're eating it."
-<0230> \{［伶］}
+<0230> \{[Rei]}
 <0231> "...Maybe it's because I've been going out in the morning lately,
 <0232> \ I have a better appetite than before.
-<0233> \{［伶］}
+<0233> \{[Rei]}
 <0234> "Everything tastes better than before."
 <0235> \{[Mari]}
 <0236> "That's a good thing...!
@@ -252,26 +252,26 @@
 <0246> \ I think it's good for your health too...!"
 <0247> I'll listen to your advice.
 <0248> Say nothing
-<0249> \{［伶］}
+<0249> \{[Rei]}
 <0250> "...I understand. I'll listen to your advice."
 <0251> \{[Mari]}
 <0252> "Yes...!"
 <0253> \{[Mari]}
 <0254> "Um... thank you very much."
-<0255> \{［伶］}
+<0255> \{[Rei]}
 <0256> "By the way, Marie. Do you like to read books?"
 <0257> \{[Mari]}
 <0258> "A book?"
 <0259> \{[Mari]}
 <0260> "Yes, I love it!
 <0261> \ I read a lot as a child.
-<0262> \{［伶］}
+<0262> \{[Rei]}
 <0263> "Yes. As you can see,
 <0264> \ I enjoy reading when I have free time.
-<0265> \{［伶］}
+<0265> \{[Rei]}
 <0266> "But recently, the books in this room alone aren't enough.
 <0267> \ It's starting to feel unsatisfying..."
-<0268> \{［伶］}
+<0268> \{[Rei]}
 <0269> "It occurred to me that this mansion might have something like a library.
 <0270> \ Don't you know?
 <0271> \{[Mari]}
@@ -282,7 +282,7 @@
 <0276> \ It seems they've all been moved somewhere."
 <0277> \{[Mari]}
 <0278> "All that's left is an empty bookshelf."
-<0279> \{［伶］}
+<0279> \{[Rei]}
 <0280> "I see..."
 <0281> \{[Mari]}
 <0282> "Ah, but I have one idea."
@@ -295,10 +295,10 @@
 <0289> "Currently, entry is prohibited,
 <0290> \ The floors and stairs are solid,
 <0291> \ I think it's okay to come and go!
-<0292> \{［伶］}
+<0292> \{[Rei]}
 <0293> "The attic library... sounds interesting.
 <0294> \ I'd like to see what kind of books they have."
-<0295> \{［伶］}
+<0295> \{[Rei]}
 <0296> "Maybe I'll go after dinner.
 <0297> \ Marie, can you show me to the attic?
 <0298> \{[Mari]}
@@ -307,11 +307,11 @@
 <0301> Rei headed to the archives with Marie's guidance.
 <0302> \{[Mari]}
 <0303> "Rei-sama, the archives are this way."
-<0304> \{［伶］}
+<0304> \{[Rei]}
 <0305> "Is this it...?"
-<0306> \{［伶］}
+<0306> \{[Rei]}
 <0307> "I'm sure I've seen this before..."
-<0308> \{［伶］}
+<0308> \{[Rei]}
 <0309> "This is the first time I've seen this place..."
 <0310> Marie took the lead,
 <0311> I climb the stairs with light steps.
@@ -324,11 +324,11 @@
 <0318> When you reach the top of the stairs, there is a large landing and
 <0319> A corridor stretches out further into the distance.
 <0320> Suddenly, Rei felt like she had seen this scene somewhere before.
-<0321> \{［伶］}
+<0321> \{[Rei]}
 <0322> "...where...?"
 <0323> \{[Mari]}
 <0324> "Rei-sama...?"
-<0325> \{［伶］}
+<0325> \{[Rei]}
 <0326> "Ahh, sorry. I was just thinking about something.
 <0327> \ Where is the archives?
 <0328> \{[Mari]}
@@ -338,23 +338,23 @@
 <0332> Among them, Marie
 <0333> I put my hand on the knob of the particularly large door,
 <0334> It opened slowly.
-<0335> \{［伶］}
+<0335> \{[Rei]}
 <0336> "This room really does have a vintage feel to it."
 <0337> \{[Mari]}
 <0338> "Apparently, this was the library of the previous owner of this mansion.
 <0339> \ The old books and belongings remain intact.
 <0340> Rei walked over to the bookshelf,
 <0341> I looked at the spines of the old books lined up there.
-<0342> \{［伶］}
+<0342> \{[Rei]}
 <0343> "...This is certainly a valuable collection.
 <0344> \ There are a lot of old books here.
-<0345> \{［伶］}
+<0345> \{[Rei]}
 <0346> "The period seems to be...mostly from the early Showa period."
 <0347> Rei muttered as she checked the books on the bookshelf.
-<0348> \{［伶］}
+<0348> \{[Rei]}
 <0349> "But why is this place...
 <0350> \ I guess it's off-limits?"
-<0351> \{［伶］}
+<0351> \{[Rei]}
 <0352> "It's a rare book,
 <0353> \ It would be good to put it to good use."
 <0354> \{[Mari]}
@@ -368,17 +368,17 @@
 <0362> "I often go to this attic,
 <0363> \ I'm coming to clean up,
 <0364> \ Everyone else is scared and won't come near me."
-<0365> \{［伶］}
+<0365> \{[Rei]}
 <0366> "So... are you okay?"
 <0367> \{[Mari]}
 <0368> "Yes! I'm fine."
 <0369> \{[Mari]}
 <0370> "I've got this attic,
 <0371> \ I love cleaning the mansion..."
-<0372> \{［伶］}
+<0372> \{[Rei]}
 <0373> "I see. If I've seen, heard, and confirmed it myself,
 <0374> \ I don't mind.
-<0375> \{［伶］}
+<0375> \{[Rei]}
 <0376> "There's nothing unpleasant about this place."
 <0377> \{[Mari]}
 <0378> "Is that so...!
@@ -387,7 +387,7 @@
 <0381> "The current owner of the mansion is Lady Rei,
 <0382> \ You may come and go here whenever you like,
 <0383> \ I think it'll be fine."
-<0384> \{［伶］}
+<0384> \{[Rei]}
 <0385> "I see... Then let me see the book right away."
 <0386> \{[Mari]}
 <0387> "Yes! Well, I'll be off now.
@@ -400,7 +400,7 @@
 <0394> …………………
 <0395> ………
 <0396> When I realized it, it was past midnight.
-<0397> \{［伶］}
+<0397> \{[Rei]}
 <0398> (...It's already late tonight.
 <0399> \ I'll read the rest tomorrow.)
 <0400> Having made that decision, I quietly closed the book,

@@ -1,7 +1,7 @@
 // Resources for SEEN0503.TXT
 
 #character '[? ]'
-#character '［Marie］'
+#character '[Marie]'
 #character '[Rei]'
 
 <0000> May 7th Marie Route
@@ -53,7 +53,7 @@
 <0046> "The milk is freshly procured from a nearby farm,
 <0047> \ Because we use freshly squeezed juice,
 <0048> \ The flavor is rich and British. Please give it a try.
-<0049> \{［伶］}
+<0049> \{[Rei]}
 <0050> "Ah... this certainly tastes good.
 <0051> \ I like it."
 <0052> \{[Mari]}
@@ -64,7 +64,7 @@
 <0057> The chirping of birds can be heard in the distance.
 <0058> To spend time on the terrace overlooking the garden,
 <0059> It was the perfect day.
-<0060> \{［伶］}
+<0060> \{[Rei]}
 <0061> "Once in a while, I like to drink tea outdoors like this.
 <0062> \ It's not bad..."
 <0063> \{[Mari]}
@@ -73,7 +73,7 @@
 <0066> \{[Mari]}
 <0067> "Just close your eyes and breathe in the air,
 <0068> \ My heart feels warm and swell..."
-<0069> \{［伶］}
+<0069> \{[Rei]}
 <0070> "......"
 <0071> \{[Mari]}
 <0072> "Rei-sama, from now on,
@@ -81,7 +81,7 @@
 <0074> \{[Mari]}
 <0075> "Being exposed to the wind outside is bad for Rei-sama's body,
 <0076> \ I'm sure it's a good thing."
-<0077> \{［伶］}
+<0077> \{[Rei]}
 <0078> "...Yeah, that's right. I'll think about it."
 <0079> I picked up a cucumber and salmon finger sandwich,
 <0080> While tilting the cup of tea,
@@ -93,7 +93,7 @@
 <0086> \ It smells like broom..."
 <0087> \{[Mari]}
 <0088> "It's my favorite scent."
-<0089> \{［伶］}
+<0089> \{[Rei]}
 <0090> "......"
 <0091> \{[Mari]}
 <0092> "......"
@@ -101,7 +101,7 @@
 <0094> "Forever like this,
 <0095> \ I wish I could be by your side...
 <0096> \ I can't help but think that.
-<0097> \{［伶］}
+<0097> \{[Rei]}
 <0098> "......"
 <0099> Originally, it was a whimsical stay.
 <0100> I hope these days will continue forever.
@@ -112,7 +112,7 @@
 <0105> Probably not far off.
 <0106> Speaking of things that bother Rei, there's this thing she's been seeing every day:
 <0107> It was just a strange dream.
-<0108> \{［伶］}
+<0108> \{[Rei]}
 <0109> "Mari..."
 <0110> \{[Mari]}
 <0111> "Sorry, but I can't tell you about something that's beyond our sight.

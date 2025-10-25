@@ -1,11 +1,11 @@
 // Resources for SEEN0300.TXT
 
-#character '［Marie］'
+#character '[Marie]'
 #character '[Rei]'
 #character '[Man in White Coat]'
-#character '[male]'
-#character '［desire］'
-#character '［Takami］'
+#character '[Man]'
+#character '[Nozomi]'
+#character '[Takami]'
 
 <0000> May 4th Nozomi Route
 <0001> I felt a dazzling light on my eyelids and opened them,
@@ -28,19 +28,19 @@
 <0018> \{[Mari]}
 <0019> "Good morning, Rei-sama!
 <0020> \ Is it okay to wake up now?
-<0021> \{［伶］}
+<0021> \{[Rei]}
 <0022> "Yeah, I've had plenty of rest.
 <0023> \ By the way, Marie.
 <0024> \ Why didn't you come and wake me up this morning?
 <0025> \{[Mari]}
 <0026> "It seems you went to bed late last night,
 <0027> \ I refrained from calling out to you so early in the morning today.
-<0028> \{［伶］}
+<0028> \{[Rei]}
 <0029> "I see... I'm sorry for making you worry."
 <0030> \{[Mari]}
 <0031> "No! Ah, the meal is ready,
 <0032> \ Would you like to eat it now?
-<0033> \{［伶］}
+<0033> \{[Rei]}
 <0034> "That's right. I'll have a light meal."
 <0035> \{[Mari]}
 <0036> "Well, I'll reheat the food,
@@ -48,36 +48,36 @@
 <0038> \{[Mari]}
 <0039> "Rei-sama, can I have another cup of tea?
 <0040> \ How do you like it?
-<0041> \{［伶］}
+<0041> \{[Rei]}
 <0042> "No, that's fine. Thank you."
 <0043> After a late breakfast, Rei enjoys the aroma of tea.
 <0044> When the cup I was tilting became empty,
 <0045> It seemed like the time had come to draw the curtain.
 <0046> When you put the cup on the table,
 <0047> I suddenly say whatever comes to mind.
-<0048> \{［伶］}
+<0048> \{[Rei]}
 <0049> "...Mariie, how is Nozomi doing?"
 <0050> \{[Mari]}
 <0051> "Nozomi woke up at her usual time this morning.
 <0052> \ After you have finished your meal,
 <0053> \ He's back in his room reading a book."
-<0054> \{［伶］}
+<0054> \{[Rei]}
 <0055> "I see..."
-<0056> \{［伶］}
+<0056> \{[Rei]}
 <0057> (--Ah, that reminds me, the book I chose to give to Nozomi,
 <0058> \ I haven't given it to you yet...)
-<0059> \{［伶］}
+<0059> \{[Rei]}
 <0060> (I'll go visit her room and give her the book...)
 <0061> \{[Mari]}
 <0062> "Rei-sama, what are your plans for the rest of today?
 <0063> \ What would you like to do?
-<0064> \{［伶］}
+<0064> \{[Rei]}
 <0065> "...I'll drop by Nozomi's room.
 <0066> \ I just want to check in and see how you're doing."
 <0067> \{[Mari]}
 <0068> "Is that so!
 <0069> I'm sure Nozomi will be pleased."
-<0070> \{［伶］}
+<0070> \{[Rei]}
 <0071> "...I wonder. Time spent alone and freely,
 <0072> \ I guess it's not important to Nozomi.
 <0073> \{[Mari]}
@@ -86,7 +86,7 @@
 <0076> "It's important to have time to read a book quietly by yourself,
 <0077> \ Time to talk with someone,
 <0078> \ I think it's a very rare and valuable thing..."
-<0079> \{［伶］}
+<0079> \{[Rei]}
 <0080> "......"
 <0081> \{[Mari]}
 <0082> "Ah... Aaah! No,
@@ -95,7 +95,7 @@
 <0085> "This morning, Nozomi-san,
 <0086> \ I had a regular checkup scheduled!
 <0087> \ It will soon be that time.
-<0088> \{［伶］}
+<0088> \{[Rei]}
 <0089> "Right. Then, I'll show up at Nozomi's place.
 <0090> \ Maybe it's better to stop for today--"
 <0091> \{[Mari]}
@@ -109,7 +109,7 @@
 <0099> "This checkup does not require any special medical equipment,
 <0100> \ It should be held in Nozomi's room.
 <0101> \ If you don't mind, why don't you join us?
-<0102> \{［伶］}
+<0102> \{[Rei]}
 <0103> "...Is it okay for me to be present at the medical examination?"
 <0104> \{[Mari]}
 <0105> "It's just a simple medical interview, so you'll be fine.
@@ -118,23 +118,23 @@
 <0108> "Mr. Takami, regarding this medical examination,
 <0109> \ There were no specific orders to keep it secret.
 <0110> \ There should be no problem!
-<0111> \{［伶］}
+<0111> \{[Rei]}
 <0112> "I see. ...In that case, today is Nozomi's regular checkup.
 <0113> \ I'll be joining you."
 <0114> \{[Mari]}
 <0115> "Yes! It's about time for the teacher to arrive.
 <0116> \ If you wait with me in the room,
 <0117> \ I'm sure Nozomi will be pleased!
-<0118> \{［伶］}
+<0118> \{[Rei]}
 <0119> "Yeah, I understand. I'll do that."
-<0120> \{［伶］}
+<0120> \{[Rei]}
 <0121> "...But even so, today,
 <0122> \ I kind of feel like you got me going."
 <0123> \{[Mari]}
 <0124> "Nozomi-san always seems lonely and alone,
 <0125> \ I'm happy to see you getting along well with Rei-sama.
 <0126> \ Please, stay by my side..."
-<0127> \{［伶］}
+<0127> \{[Rei]}
 <0128> "...I'll consider it positively."
 <0129> \{[Mari]}
 <0130> "Yes...!"
@@ -145,7 +145,7 @@
 <0135> When I went through the dining room door and into the hallway,
 <0136> A man wearing a white coat and with a somewhat unsafe look in his eyes,
 <0137> I come across something walking quickly towards me.
-<0138> \{［伶］}
+<0138> \{[Rei]}
 <0139> (...Who is that?)
 <0140> This was the first face Rei had seen in this mansion.
 <0141> On the day Rei arrived at the mansion, Takami called everyone together to greet them.
@@ -157,7 +157,7 @@
 <0147> Of the people entering and leaving the mansion, those wearing white coats are:
 <0148> Visiting for a regular checkup of the product,
 <0149> The only person I can think of is the doctor employed by the Kujo family.
-<0150> \{［伶］}
+<0150> \{[Rei]}
 <0151> (Soーis this man Nozomi's doctor…?)
 <0152> I'm not a permanent resident of the building,
 <0153> Rei never had the opportunity to get to know her doctor.
@@ -167,30 +167,30 @@
 <0157> The man didn't change his expression at all.
 <0158> With an unnaturally calm gait,
 <0159> He passes in front of Rei without slowing down his pace.
-<0160> \{［伶］}
+<0160> \{[Rei]}
 <0161> "--Hey, could you wait a moment?"
 <0162> When I came to, I instinctively called out to the man.
 <0163> The man stopped without protesting,
 <0164> On the contrary, he looks down at Rei with an unreserved gaze, as if assessing her.
 <0165> \{[Man in White Coat]}
 <0166> "...Is there something I can help you with?"
-<0167> \{［伶］}
+<0167> \{[Rei]}
 <0168> "Who are you? You're not from the mansion.
 <0169> \ Judging from the clothes,
 <0170> \ He looks like the doctor who treated Nozomi, from what I've heard..."
 <0171> \{[Man in White Coat]}
 <0172> "Yes... as you may have guessed, I am a doctor,
 <0173> \ Did you not know the face of your doctor?
-<0174> \{［伶］}
+<0174> \{[Rei]}
 <0175> "...It hasn't been long since I came to the mansion.
 <0176> \ My apologies.
 <0177> \{[Man in White Coat]}
 <0178> "No, it's fine. I'll hurry then."
-<0179> \{［伶］}
+<0179> \{[Rei]}
 <0180> "Ah... sorry for keeping you here."
 <0181> The man bowed slightly to Rei,
 <0182> I quickly walked away.
-<0183> \{［伶］}
+<0183> \{[Rei]}
 <0184> "......"
 <0185> For a moment, Rei watched the back of the man in the white coat hurry away.
 <0186> I narrowed my eyes and stared,
@@ -198,19 +198,19 @@
 <0188> I just can't wipe it off.
 <0189> At that moment, a cart loaded with dishes was being pushed by someone.
 <0190> Marie appeared from the dining room door.
-<0191> \{［伶］}
+<0191> \{[Rei]}
 <0192> "--Mari-e"
 <0193> \{[Mari]}
 <0194> "Oh, Rei-sama. What's wrong?
 <0195> \ Is there anything I can help you with?"
-<0196> \{［伶］}
+<0196> \{[Rei]}
 <0197> "I have something I'd like to ask you. Look at that."
 <0198> Rei beckoned to Marie,
 <0199> He asked, pointing at a man in a white coat walking down the hallway.
-<0200> \{［伶］}
+<0200> \{[Rei]}
 <0201> "Do you recognize the face of that man in the white coat?
 <0202> \ He introduced himself as Nozomi's doctor, but..."
-<0203> \{［伶］}
+<0203> \{[Rei]}
 <0204> "Somehow - it bothers me."
 <0205> \{[Mari]}
 <0206> "Is that... him?"
@@ -227,31 +227,31 @@
 <0217> "Butーit's strange.
 <0218> \ I received a message that Nozomi's doctor had changed.
 <0219> \ I haven't received it yet..."
-<0220> \{［伶］}
+<0220> \{[Rei]}
 <0221> "You don't know about the change in your doctor...?"
 <0222> Chase
 <0223> Ignore
-<0224> \{［伶］}
+<0224> \{[Rei]}
 <0225> "......"
 <0226> \{[Mari]}
 <0227> "What's wrong, Rei-sama...?"
-<0228> \{［伶］}
+<0228> \{[Rei]}
 <0229> "...Is he the new doctor in charge of Nozomi, replacing his predecessor?
 <0230> \ I'd like to hear the story and find out for sure."
-<0231> \{［伶］}
+<0231> \{[Rei]}
 <0232> "I'm going to chase that man. Marie, come with me."
 <0233> \{[Mari]}
 <0234> "Me too?"
-<0235> \{［伶］}
+<0235> \{[Rei]}
 <0236> "Whether what he says is true,
 <0237> \ As an outsider unfamiliar with the circumstances of the mansion, I cannot make a judgment.
 <0238> \ So I want you to listen to what that man has to say."
 <0239> \{[Mari]}
 <0240> "If that's the case, I'd be happy to help."
-<0241> \{［伶］}
+<0241> \{[Rei]}
 <0242> "Then let's hurry.
 <0243> \ If we don't chase after him quickly, we'll lose sight of him."
-<0244> \{［伶］}
+<0244> \{[Rei]}
 <0245> "Hey... you there, could you please wait a moment?
 <0246> \ There's something I want to ask you."
 <0247> Raising his voice a little,
@@ -260,12 +260,12 @@
 <0250> He slowly turns around.
 <0251> \{[Man in White Coat]}
 <0252> "...Is there anything else I can do?"
-<0253> \{［伶］}
+<0253> \{[Rei]}
 <0254> "You were hired by the Kujo family and have been coming in and out of this mansion for a while now.
 <0255> \ You introduced yourself as a doctor in charge of the product.
 <0256> \{[Man in White Coat]}
 <0257> "Yes, that's true... but what is it?"
-<0258> \{［伶］}
+<0258> \{[Rei]}
 <0259> "I am currently in charge of managing the mansion,
 <0260> \ I have never heard of such a sudden change in doctor.
 <0261> \ I'd like your explanation of what that means."
@@ -280,12 +280,12 @@
 <0270> "Really... it was such a sudden thing,
 <0271> \ It seems that we were not able to communicate properly.
 <0272> \ I'm sorry."
-<0273> \{［伶］}
+<0273> \{[Rei]}
 <0274> "...What evidence do you have that your story is true?"
 <0275> \{[Man in White Coat]}
 <0276> "Please take a look at this document.
 <0277> \ It's an official letter of attorney, with the seal of the Kujo family attached."
-<0278> \{［伶］}
+<0278> \{[Rei]}
 <0279> "......"
 <0280> I took the documents the man handed me,
 <0281> I followed the words written there with my eyes,
@@ -293,7 +293,7 @@
 <0283> The stamp of approval was also stamped, and at first glance,
 <0284> The documents needed to prove the man's words
 <0285> Everything is perfectly in order.
-<0286> \{［伶］}
+<0286> \{[Rei]}
 <0287> "...Certainly, the formalities are all in place."
 <0288> \{[Man in White Coat]}
 <0289> "We have also received other items that prove your permission to enter and exit.
@@ -304,7 +304,7 @@
 <0294> \{[Man in White Coat]}
 <0295> "Without this, I would not be able to live in this mansion.
 <0296> \ You're not even allowed to step inside."
-<0297> \{［伶］}
+<0297> \{[Rei]}
 <0298> "...Mariie, is what he's saying correct?"
 <0299> \{[Mari]}
 <0300> "Oh, yes. If an unregistered person enters the building,
@@ -327,7 +327,7 @@
 <0317> "That's right... Even if you enter the mansion grounds,
 <0318> \ If the security guards hadn't come to stop me,
 <0319> \ This means the identification tag is genuine.
-<0320> \{［伶］}
+<0320> \{[Rei]}
 <0321> "......"
 <0322> As Marie said, the identification tag is probably genuine.
 <0323> There is nothing suspicious about the man. However--
@@ -346,7 +346,7 @@
 <0336> \ May I show you around?
 <0337> \{[Man in White Coat]}
 <0338> "No. It's okay, I understand."
-<0339> \{［伶］}
+<0339> \{[Rei]}
 <0340> "......"
 <0341> As expected, there is something that bothers me.
 <0342> I can't let the man go like this -- that's how I feel.
@@ -363,7 +363,7 @@
 <0353> Should I use Rei's power against the man or not?
 <0354> Use force to check
 <0355> Do not use
-<0356> \{［伶］}
+<0356> \{[Rei]}
 <0357> (As expected, to ascertain this man's true intentions,
 <0358> \ I guess I'll just have to use my powers...)
 <0359> I was prepared to suffer the backlash later.
@@ -380,7 +380,7 @@
 <0370> Is this the most effective way to get the answers you're looking for?
 <0371> Have you been to this mansion before?
 <0372> What are your plans for the future?
-<0373> \{［伶］}
+<0373> \{[Rei]}
 <0374> "Have you...been to this mansion before?"
 <0375> As she spoke, Rei tried to act as casual as possible,
 <0376> I gently touched the man's arm and focused my attention.
@@ -393,22 +393,22 @@
 <0383> \{[Man in White Coat]}
 <0384> "Um... earlier,
 <0385> \ You said this is your first time coming to this mansion...?
-<0386> \{［伶］}
+<0386> \{[Rei]}
 <0387> "Oh... that's right."
 <0388> \{[Man in White Coat]}
 <0389> "...Anything else?"
-<0390> \{［伶］}
+<0390> \{[Rei]}
 <0391> "...No..."
 <0392> Maybe what I said wasn't good,
 <0393> The man who touched it could only see vague, prosaic images in his mind.
 <0394> The answer Rei is looking for is nowhere to be found.
-<0395> \{［伶］}
+<0395> \{[Rei]}
 <0396> (This is troubling. Does this mean that this man has a suspicious background?
 <0397> \ I have no idea--)
 <0398> \{[Man in White Coat]}
 <0399> "Um... sorry, can I go now?
 <0400> \ Time is almost up."
-<0401> \{［伶］}
+<0401> \{[Rei]}
 <0402> "Then I'll accompany you to your room.
 <0403> \ I was just about to head to Nozomi's place."
 <0404> \{[Man in White Coat]}
@@ -432,7 +432,7 @@
 <0422> "Well, shall we go?"
 <0423> Rei leaves Marie,
 <0424> I went to Nozomi's room with the man.
-<0425> \{［伶］}
+<0425> \{[Rei]}
 <0426> "Nozomi, it's me. I'm coming in."
 <0427> As Rei always does,
 <0428> After knocking on the solid wooden door several times,
@@ -440,7 +440,7 @@
 <0430> And so, as always, Rei,
 <0431> Without waiting for Nozomi's reply, he opened the door without the slightest hesitation.
 <0432> --At that moment.
-<0433> \{［伶］}
+<0433> \{[Rei]}
 <0434> "...!?"
 <0435> The arm that had been hiding in the shadows of the door, trying to keep quiet,
 <0436> It spreads its ominous wings, bringing misfortune to anyone who sees it.
@@ -452,7 +452,7 @@
 <0442> Rei's throat was completely deprived of the power to resist.
 <0443> A chilly wind blew through.
 <0444> And thenーa surge of heat.
-<0445> \{［伶］}
+<0445> \{[Rei]}
 <0446> "...!"
 <0447> Someone had cut his carotid artery,
 <0448> I realized this when
@@ -466,13 +466,13 @@
 <0456> Rei's consciousness sinks into an inescapable darkness.
 <0457> There is no way to be sure.
 <0458> All I can see before me is endless darkness...
-<0459> \{［伶］}
+<0459> \{[Rei]}
 <0460> "What are your plans for the future?"
 <0461> \{[Man in White Coat]}
 <0462> "Hmm... What are your plans for after this?
 <0463> \ I was sent here to inspect the product,
 <0464> \ I'm heading to my room..."
-<0465> \{［伶］}
+<0465> \{[Rei]}
 <0466> "When I took over the job from my predecessor,
 <0467> \ Didn't you hear about where you work?
 <0468> \ I can't believe it's gotten so deep inside."
@@ -480,7 +480,7 @@
 <0470> "...No. I had heard about it, but
 <0471> \ After all, it was my first time visiting this place.
 <0472> \ I accidentally got lost... I'm sorry."
-<0473> \{［伶］}
+<0473> \{[Rei]}
 <0474> "I heard that the checkups today are only in the morning.
 <0475> \ Although we don't have much time,
 <0476> \ It must have been hard getting lost."
@@ -503,7 +503,7 @@
 <0493> <Product> Capture and escape. Your friends are waiting for you.
 <0494> 10 minutes left, we have to hurry or we won't make it
 <0495> <Product> room. Don't rush to join your friends.
-<0496> \{［伶］}
+<0496> \{[Rei]}
 <0497> (This...can't be!?)
 <0498> Rei touched the man and read his thoughts.
 <0499> They are currently proceeding to kidnap Nozomi from this mansion.
@@ -513,21 +513,21 @@
 <0503> Friends waiting in the room <Product> 10 minutes left until escape
 <0504> The signal is to knock.
 <0505> Hurry up, I can't make it to the room for the product.
-<0506> \{［伶］}
+<0506> \{[Rei]}
 <0507> "! Your companions have already headed to Nozomi's room!"
-<0508> \{［伶］}
+<0508> \{[Rei]}
 <0509> "I see, so they split into two groups.
 <0510> \ Your aim is to disable security...!
 <0511> \{[Man in White Coat]}
 <0512> "Wh...how did you know that...?!"
-<0513> \{［伶］}
+<0513> \{[Rei]}
 <0514> "--What's the signal?
 <0515> \ How will your roommates know it's you?
 <0516> \{[Man in White Coat]}
 <0517> "What... what are you talking about?"
 <0518> The signal is to knock twice at first, then four times after a pause.
 <0519> Knock on the door and let them know inside
-<0520> \{［伶］}
+<0520> \{[Rei]}
 <0521> "Yes - thank you.
 <0522> \ First you knock twice, then four times.
 <0523> \{[Man in White Coat]}
@@ -535,14 +535,14 @@
 <0525> With a look of horror on his face, he saw something terrifying right before his eyes.
 <0526> The man brushed Rei's hand off with a creepy look on his face,
 <0527> With his thoughts still in a state of confusion, he impulsively pulls out a gun from his pocket.
-<0528> \{［伶］}
+<0528> \{[Rei]}
 <0529> "...A gun?! Even something like that..."
 <0530> A pistol was quickly drawn from the pocket of his white coat,
 <0531> A chill runs down my spine at the prospect of it being aimed directly at my forehead.
 <0532> ...And then, at that moment.
 <0533> \{[Mari]}
 <0534> "Rei-sama, it's dangerous...!"
-<0535> \{［伶］}
+<0535> \{[Rei]}
 <0536> "...Mariie?"
 <0537> \{[Man in White Coat]}
 <0538> "Whoa...!?"
@@ -564,16 +564,16 @@
 <0554> Rei was in danger,
 <0555> Before I knew it, Marie had come around to my back,
 <0556> Apparently, she blocked the attack by hitting the man on the head with a vase.
-<0557> \{［伶］}
+<0557> \{[Rei]}
 <0558> "Yeah, I'm safe. Thank goodness."
 <0559> \{[Mari]}
 <0560> "I'm glad! Rei-sama is safe..."
-<0561> \{［伶］}
+<0561> \{[Rei]}
 <0562> "Even so... you're amazing, Marie.
 <0563> \ How could you take out such a big man with just one hit?
 <0564> \{[Mari]}
 <0565> "I... I got carried away..."
-<0566> \{［伶］}
+<0566> \{[Rei]}
 <0567> "Thank you, Marie. Your quick thinking helped me."
 <0568> \{[Mari]}
 <0569> "...! I'm so happy to be of help to you, Rei-sama...!"
@@ -592,18 +592,18 @@
 <0582> According to the knowledge that remains in memory,
 <0583> I unlocked it, removed the magazine, and checked it.
 <0584> It was loaded with 13 bullets.
-<0585> \{［伶］}
+<0585> \{[Rei]}
 <0586> (That's right, Nozomi--!)
 <0587> Another intruder targeting Nozomi,
 <0588> I remember heading to Nozomi's room first.
 <0589> Meanwhile, danger is approaching Nozomi.
-<0590> \{［伶］}
+<0590> \{[Rei]}
 <0591> "Mari, that man is an intruder.
 <0592> \ Capture him so he doesn't escape and notify the guards.
 <0593> \ --I'll leave the rest to you."
 <0594> \{[Mari]}
 <0595> "Ah...! Rei-sama, where are you going?!"
-<0596> \{［伶］}
+<0596> \{[Rei]}
 <0597> "Nozomi's room."
 <0598> \{[Mari]}
 <0599> "In Nozomi's room?
@@ -621,20 +621,20 @@
 <0611> Rei knocks on the door softly.
 <0612> As Rei watched with bated breath, from the other side of the door,
 <0613> An unfamiliar male voice was heard.
-<0614> \{［Male］}
+<0614> \{[Man]}
 <0615> "--The door is open. It's safe here, so please come in quickly.
 <0616> \ The target has already been secured.
-<0617> \{［伶］}
+<0617> \{[Rei]}
 <0618> (...! As expected, there was another intruder,
 <0619> \ Has Nozomi already been captured?
 <0620> Maybe we'll make it in time――
 <0621> I rushed over, clinging to the faint possibility,
 <0622> Nozomi is now in the intruder's hands.
-<0623> \{［伶］}
+<0623> \{[Rei]}
 <0624> (If there is any disturbance in the mansion, they will assume that the kidnapping has failed,
 <0625> \ I don't know what Nozomi is going to do.
 <0626> \ In the worst case scenario, I might consider silencing you.)
-<0627> \{［伶］}
+<0627> \{[Rei]}
 <0628> (Rather than sitting around outside not knowing what the situation is,
 <0629> \ I would rather personally stop the intruder inside.
 <0630> \ We can ensure Nozomi's safety until help arrives.)
@@ -643,41 +643,41 @@
 <0633> The first thing that caught Rei's eye as she opened the door was,
 <0634> In the arms of a well-built man wearing a white coat for camouflage,
 <0635> Nozomi was held in a bear hug and in pain.
-<0636> \{［desire］}
+<0636> \{[Nozomi]}
 <0637> "...Rei-san...!?"
 <0638> Just when I was expecting my companions to arrive,
 <0639> It was Rei holding a gun,
 <0640> The intruder is distracted and for a moment is stunned and speechless.
-<0641> \{［伶］}
+<0641> \{[Rei]}
 <0642> "--Don't move. I have a gun here too."
 <0643> Taking advantage of that slight gap,
 <0644> Rei showed off the guns she held in both hands to the man.
 <0645> He speaks in a quiet voice.
-<0646> \{［Male］}
+<0646> \{[Man]}
 <0647> "Who are you?! What happened to my friends?"
-<0648> \{［desire］}
+<0648> \{[Nozomi]}
 <0649> "...Rei-san, you shouldn't come over here!
 <0650> \ Please run away quickly...!
-<0651> \{［Male］}
+<0651> \{[Man]}
 <0652> "--Shut up, you bastard!"
-<0653> \{［desire］}
+<0653> \{[Nozomi]}
 <0654> "Rei, s---ah!"
 <0655> Even though you are a prisoner, you still want to protect Rei?
 <0656> The boy struggles desperately in his arms,
 <0657> The man, whose hand was burning, tightened his grip on her arm even more.
-<0658> \{［伶］}
+<0658> \{[Rei]}
 <0659> “Nozomi――!”
-<0660> \{［Male］}
+<0660> \{[Man]}
 <0661> "You too, don't move! If you value this boy's life,
 <0662> \ Don't come any closer than this."
 <0663> The intruder holds the gun to Nozomi's head.
 <0664> Resistance is easily suppressed,
 <0665> Nozomi is unable to escape the intruder's arms.
-<0666> \{［伶］}
+<0666> \{[Rei]}
 <0667> "What a stupid thing to do..."
 <0668> Whenever Rei showed even the slightest sign of movement,
 <0669> The intruder tightens his grip, making Nozomi cry out in pain.
-<0670> \{［伶］}
+<0670> \{[Rei]}
 <0671> (...If things continue like this, it will become a stalemate.
 <0672> \ I have to somehow break out of this situation.)
 <0673> The knowledge of martial arts that only defeats opponents by force,
@@ -691,11 +691,11 @@
 <0681> It was clear that Rei had no intention of preventing the escape.
 <0682> And if you can release your desire,
 <0683> The man's attention will be focused solely on escape.
-<0684> \{［伶］}
+<0684> \{[Rei]}
 <0685> (To upset someone to the point that they lose their ability to make sound decisions,
 <0686> \ My - extraordinary power,
 <0687> \ It might be effective to show this guy...)
-<0688> \{［伶］}
+<0688> \{[Rei]}
 <0689> (...But I've already...)
 <0690> Rei has already used up all her strength by the time she got here.
 <0691> If you continue to use force like this,
@@ -705,84 +705,84 @@
 <0695> Rei quietly asked herself this question.
 <0696> I want to help Nozomi
 <0697> Silently watch the developments
-<0698> \{［伶］}
+<0698> \{[Rei]}
 <0699> (To protect Nozomi, I'll have to make some sacrifices here,
 <0700> \ This is the time to use my power--)
 <0701> Rei made up her mind and gathered up her scattered strength,
 <0702> I look for an opportunity to use my remaining power.
-<0703> \{［伶］}
+<0703> \{[Rei]}
 <0704> (Anyway, to use my power,
 <0705> \ I have to somehow get the man to touch me...)
 <0706> After thinking for a moment, Rei spoke as calmly as possible.
 <0707> He even smiled as he addressed the intruder.
-<0708> \{［伶］}
+<0708> \{[Rei]}
 <0709> "To get Nozomi out of the mansion alive,
 <0710> \ It seems like a mission you've been given.
 <0711> \ But as things stand now, you won't be able to achieve that goal."
-<0712> \{［Male］}
+<0712> \{[Man]}
 <0713> "...What does that mean?"
-<0714> \{［伶］}
+<0714> \{[Rei]}
 <0715> "Look at Nozomi's neck.
 <0716> \ ...Do you know what that is?"
-<0717> \{［Male］}
+<0717> \{[Man]}
 <0718> "What's wrong with this collar?!"
-<0719> \{［伶］}
+<0719> \{[Rei]}
 <0720> "Those are dangerous shackles with fuses.
 <0721> \ If you try to take the child out of the mansion without removing the mask,
 <0722> \ The fuse will explode and the child will die."
-<0723> \{［Male］}
+<0723> \{[Man]}
 <0724> "Huh..."
-<0725> \{［伶］}
+<0725> \{[Rei]}
 <0726> "The price we pay is high,
 <0727> \ Rather than just handing the goods over to thieves,
 <0728> \ It seems like a radical idea to just go for it."
-<0729> \{［伶］}
+<0729> \{[Rei]}
 <0730> "So, how did you get out of the mansion?
 <0731> \ Were you planning to take Nozomi out with the collar still on?
-<0732> \{［伶］}
+<0732> \{[Rei]}
 <0733> "Did your friends prepare the key?
 <0734> \ Or, if this is the first time you've heard of the collar mechanism,
 <0735> \ Is it correct to assume that you guys aren't prepared?
-<0736> \{［Male］}
+<0736> \{[Man]}
 <0737> "...That can't be..."
-<0738> \{［伶］}
+<0738> \{[Rei]}
 <0739> "--It seems that,
 <0740> \ It seems fair to say that there was no preparation.
-<0741> \{［Male］}
+<0741> \{[Man]}
 <0742> "......"
-<0743> \{［伶］}
+<0743> \{[Rei]}
 <0744> "I have the unlock key."
-<0745> \{［Male］}
+<0745> \{[Man]}
 <0746> "...You? I can't believe it."
-<0747> \{［伶］}
+<0747> \{[Rei]}
 <0748> "Oh, you doubt me? But I am Nozomi's current master.
 <0749> \ Surely I should have the key?
-<0750> \{［伶］}
+<0750> \{[Rei]}
 <0751> "If you want to know, just ask Nozomi.
 <0752> \ "Who is your current master?" -- that's it."
-<0753> \{［Male］}
+<0753> \{[Man]}
 <0754> "...Why would you tell me that?"
-<0755> \{［伶］}
+<0755> \{[Rei]}
 <0756> "To tell you the truth, I'm just a temporary administrator.
 <0757> \ I don't really care about the wishes of the mansion's owner.
 <0758> \ ...There is no obligation to obey."
-<0759> \{［伶］}
+<0759> \{[Rei]}
 <0760> "My thoughts are different from theirs.
 <0761> \ Even if it meant taking the child's life, you wouldn't hand him over to someone else.
 <0762> \ I have no intention of condoning such ruthless methods."
-<0763> \{［伶］}
+<0763> \{[Rei]}
 <0764> "To be honest, I don't want Nozomi to die."
-<0765> \{［Male］}
+<0765> \{[Man]}
 <0766> "!"
-<0767> \{［伶］}
+<0767> \{[Rei]}
 <0768> "I would rather tell you the truth and quietly hand myself over.
 <0769> \ I thought it would be better if I could save Nozomi's life."
-<0770> \{［伶］}
+<0770> \{[Rei]}
 <0771> "If you promise not to hurt Nozomi, I won't disobey you.
 <0772> \ ...I'm serious."
-<0773> \{［Male］}
+<0773> \{[Man]}
 <0774> "......"
-<0775> \{［伶］}
+<0775> \{[Rei]}
 <0776> "So, I'm giving up my gun."
 <0777> Rei slowly relaxed her stance so as not to provoke the man,
 <0778> Lower your gun to indicate your intention to abandon the fight.
@@ -790,11 +790,11 @@
 <0780> I put the gun on the floor and kicked the barrel with my heel.
 <0781> The gun slid heavily across the floor, far away from the man and Rei.
 <0782> He slid to the corner of the room.
-<0783> \{［伶］}
+<0783> \{[Rei]}
 <0784> "Come on. I won't get in your way."
-<0785> \{［Male］}
+<0785> \{[Man]}
 <0786> "......!"
-<0787> \{［伶］}
+<0787> \{[Rei]}
 <0788> "Oh, would you feel more comfortable if I raised my arms too?"
 <0789> As if to show off to the man, Rei smiled faintly,
 <0790> He crossed his empty arms over his head,
@@ -802,48 +802,48 @@
 <0792> Rei's submissive attitude, which seemed to aid in the escape,
 <0793> The man's expression was confused and he couldn't believe it.
 <0794> Rei gives him a final nudge, as if to gently push him back in his doubts.
-<0795> \{［伶］}
+<0795> \{[Rei]}
 <0796> "If you're going to run away with Nozomi, you'd better hurry."
-<0797> \{［伶］}
+<0797> \{[Rei]}
 <0798> "Right now, I'm the only one aware of the intruder's presence.
 <0799> \ The mansion security is still unaware of your presence.
 <0800> \ But... it's only a matter of time."
-<0801> \{［伶］}
+<0801> \{[Rei]}
 <0802> "If you were going to leave the mansion, I think now would be the time."
-<0803> \{［Male］}
+<0803> \{[Man]}
 <0804> "Give me the key."
-<0805> \{［伶］}
+<0805> \{[Rei]}
 <0806> "I'd be happy to give it to you, but
 <0807> \ Can I put my arm down and search your pockets?
 <0808> \ I want to get the key out.
-<0809> \{［Male］}
+<0809> \{[Man]}
 <0810> "--! No, don't move on your own!"
-<0811> \{［伶］}
+<0811> \{[Rei]}
 <0812> "That's a problem. I can't give you the key like this."
-<0813> \{［伶］}
+<0813> \{[Rei]}
 <0814> "The unlock key is in my breast pocket.
 <0815> \ If you don't let me have my arm free, and you still want the key,
 <0816> \ I think the only way is to come and get it yourself.
-<0817> \{［伶］}
+<0817> \{[Rei]}
 <0818> "So... what should we do?"
-<0819> \{［Male］}
+<0819> \{[Man]}
 <0820> "......"
-<0821> \{［Male］}
+<0821> \{[Man]}
 <0822> "Come over here slowly, keeping your arms above your head.
 <0823> \ If you make any strange movements, I'll shoot you immediately."
-<0824> \{［伶］}
+<0824> \{[Rei]}
 <0825> "I know. I'll obediently follow you.
 <0826> \ Don't lay a hand on that child."
-<0827> \{［Hope］}
+<0827> \{[Hope]}
 <0828> "Rei... S...!"
 <0829> The man called Rei over and said,
 <0830> He tightens his grip around Nozomi's neck, preventing her from even moving.
-<0831> \{［伶］}
+<0831> \{[Rei]}
 <0832> (Hope...!)
-<0833> \{［Male］}
+<0833> \{[Man]}
 <0834> "Look, if you don't want your master killed,
 <0835> \ You better behave yourself."
-<0836> \{［desire］}
+<0836> \{[Nozomi]}
 <0837> "Ugh..."
 <0838> The man's threatening words made Nozomi gasp in agony.
 <0839> Nods slightly.
@@ -860,18 +860,18 @@
 <0850> I wait for the moment when the man's fingertips touch my body.
 <0851> Eventually, the man's fingertips,
 <0852> I touched Rei's waist as if searching, and then...
-<0853> \{［伶］}
+<0853> \{[Rei]}
 <0854> (If you want to touch someone's heart, now is the time!)
 <0855> Enduring the dizziness and headache that arise from repeated use of force,
 <0856> Rei focuses her attention on the place where the man is touching her.
 <0857> In order to guide the man's heart, Rei said in a very casual tone,
 <0858> Now that he was close, he whispered something into the man's ear.
-<0859> \{［伶］}
+<0859> \{[Rei]}
 <0860> "...You've been acting really,
 <0861> \ You look like you have something on your mind."
-<0862> \{［伶］}
+<0862> \{[Rei]}
 <0863> "What's bothering you so much?"
-<0864> \{［Male］}
+<0864> \{[Man]}
 <0865> "--Shut up, it's none of your business."
 <0866> Inspired by Rei's words,
 <0867> The man's consciousness flashes momentarily, reflecting on what concerns him.
@@ -887,61 +887,61 @@
 <0877> Don't think, don't think, don't think
 <0878> Complete your mission. Complete your mission.
 <0879> Don't think about anything now, just complete your mission.
-<0880> \{［伶］}
+<0880> \{[Rei]}
 <0881> "...That's right.
 <0882> \ As you may have guessed, that pistol belongs to one of your comrades."
-<0883> \{［Male］}
+<0883> \{[Man]}
 <0884> "...Huh?"
-<0885> \{［伶］}
+<0885> \{[Rei]}
 <0886> "For now, your companions are safe.
 <0887> \ There should be no danger to his life, so don't worry."
-<0888> \{［Male］}
+<0888> \{[Man]}
 <0889> "...!?"
 <0890> What is this?
 <0891> It's as if you could hear my thoughts
 <0892> Those words were perfectly timed.
-<0893> \{［伶］}
+<0893> \{[Rei]}
 <0894> "Yes, because I can see it.
 <0895> \ ...What you're thinking."
-<0896> \{［Male］}
+<0896> \{[Man]}
 <0897> "!"
 <0898> No way, no way, no way
 <0899> Read my thoughts, you idiot. You can't read my mind.
 <0900> No way, no way, no way
-<0901> \{［伶］}
+<0901> \{[Rei]}
 <0902> "Reading minds is such stupidity"--?
 <0903> \ Well, it's not surprising to be suspicious.
-<0904> \{［Male］}
+<0904> \{[Man]}
 <0905> "...!?"
-<0906> \{［伶］}
+<0906> \{[Rei]}
 <0907> "But I really can read your mind,
 <0908> \ There's no point in lying."
-<0909> \{［伶］}
+<0909> \{[Rei]}
 <0910> "Hey - how do you think I,
 <0911> \ I think you've discovered a secret signal that only you two know...?
-<0912> \{［伶］}
+<0912> \{[Rei]}
 <0913> "After you broke into the mansion and split into two groups,
 <0914> \ Not much time has passed.
 <0915> \ Don't you think there wasn't enough time to interrogate him?
 <0916> Masa, this guy is my friend.
 <0917> Signal information, no way, no way, no way,
 <0918> Really read my mind
-<0919> \{［伶］}
+<0919> \{[Rei]}
 <0920> "...Right, you have good intuition.
 <0921> \ It was through this power of mine that I was able to obtain information from your companions."
-<0922> \{［Male］}
+<0922> \{[Man]}
 <0923> "You can't be... you really read his mind...?!"
 <0924> The man was completely confused by Rei's words,
 <0925> He gives me a faint, provocative smile.
 <0926> What did he sense in Rei's mysterious smile?
 <0927> The man looks horrified and his face turns pale.
-<0928> \{［Male］}
+<0928> \{[Man]}
 <0929> "...You...What are you?!"
-<0930> \{［伶］}
+<0930> \{[Rei]}
 <0931> "Too bad. No matter how hard you try to hide it,
 <0932> \ I know everything.
 <0933> \ Your name, your background... who your employer is, everything."
-<0934> \{［Male］}
+<0934> \{[Man]}
 <0935> "......!"
 <0936> In reality, Rei doesn't have the power to read minds that well,
 <0937> There was no way the man could understand that.
@@ -951,10 +951,10 @@
 <0941> What on earth is this guy? What on earth is this guy?
 <0942> The man's face turned pale and he was frightened.
 <0943> Rei instills fear with a cold smile.
-<0944> \{［伶］}
+<0944> \{[Rei]}
 <0945> "I can see everything in your heart.
 <0946> \ Yes... Your frightened heart is very comforting..."
-<0947> \{［Male］}
+<0947> \{[Man]}
 <0948> "Stop it! Don't touch me! You...monster!"
 <0949> Confused by Rei's words, the man fell into a state of complete panic.
 <0950> With a look in his eyes as if he had found something incomprehensible and terrifying,
@@ -964,43 +964,43 @@
 <0954> At that moment, my whole body became tense with tension.
 <0955> Nozomi, who had been observing the situation,
 <0956> Taking advantage of the moment when his bonds were loosened, he bit the man's arm with all his might.
-<0957> \{［Male］}
+<0957> \{[Man]}
 <0958> "Whoa! You brat...!!"
-<0959> \{［Hope］}
+<0959> \{[Hope]}
 <0960> "Rei-san, please run away now...!"
 <0961> Desperately clinging to the man's arm,
 <0962> Nozomi's face as she tries to attack again with all her might.
 <0963> The man reaches out, intending to hit him with the butt of his gun.
 <0964> Taking advantage of the opportunity when the man's attention was turned to Nozomi,
 <0965> Rei kicked the wrist of the man holding the gun with all her might.
-<0966> \{［Male］}
+<0966> \{[Man]}
 <0967> "Ahh..."
 <0968> The gun left the man's hand and was sent flying towards the ceiling.
 <0969> It falls to the floor and slides into the corner of the room.
-<0970> \{［伶］}
+<0970> \{[Rei]}
 <0971> "Nozomi, get away from there..."
-<0972> \{［Hope］}
+<0972> \{[Hope]}
 <0973> "...Ahh!"
 <0974> Nozomi's small body was crushed by the man's furious arm.
 <0975> I get thrown into the corner of the room.
-<0976> \{［伶］}
+<0976> \{[Rei]}
 <0977> “Nozomi――!?”
 <0978> My back hit the wall and I crouched down.
 <0979> There was no time to worry about Nozomi, who was coughing painfully.
 <0980> The man who had pushed Nozomi away shielded his numb arm,
 <0981> He yelled, drawing a knife with his other hand.
-<0982> \{［Male］}
+<0982> \{[Man]}
 <0983> "You creepy, monstrous bastard...!
 <0984> I-I'll make it so you can't read my mind...!"
 <0985> A man with bloodshot eyes and a knife in hand,
 <0986> Attacks Rei.
-<0987> \{［伶］}
+<0987> \{[Rei]}
 <0988> "...!"
 <0989> The man lost his composure and brandished a knife in a complete rage.
 <0990> Rei dodges the danger.
 <0991> While avoiding the knife,
 <0992> Rei clicks her tongue at the unexpected turn of events.
-<0993> \{［伶］}
+<0993> \{[Rei]}
 <0994> (No -- was that a bit too threatening?
 <0995> \ I never expected him to lose his sense of judgment and become so enraged.)
 <0996> Although we were able to free Nozomi,
@@ -1010,35 +1010,35 @@
 <1000> Attacks that are made without due consideration can be avoided with difficulty.
 <1001> However, if things continue like this, eventually,
 <1002> You will be caught at the edge of a sharp knife.
-<1003> \{［伶］}
+<1003> \{[Rei]}
 <1004> "...Damn it!"
 <1005> Failing to avoid the sharp blow,
 <1006> The tip of the blade just barely grazes the back of my left hand.
 <1007> It was just a scratch, like that made by a sharp claw,
 <1008> After the knife's trajectory,
 <1009> A small drop of red blood suddenly scattered.
-<1010> \{［desire］}
+<1010> \{[Nozomi]}
 <1011> "Rei-san, there's blood...!"
-<1012> \{［伶］}
+<1012> \{[Rei]}
 <1013> "--Don't come!"
 <1014> Finally, Nozomi stood up and shouted,
 <1015> Rei wasn't the only one who reacted.
 <1016> The man, enraged and holding a knife, also turns around at the sound of the voice.
-<1017> \{［伶］}
+<1017> \{[Rei]}
 <1018> (No, Nozomi is being targeted!)
 <1019> The man's gaze caught Nozomi again,
 <1020> At that moment, he turned towards me, his whole body holding the knife.
 <1021> Rei suddenly forgot all about the danger he was in.
 <1022> He bumped into the man's back with his shoulder.
-<1023> \{［Male］}
+<1023> \{[Man]}
 <1024> "Whoa...!?"
 <1025> He hit me with all his might from behind,
 <1026> The man couldn't help but stumble.
 <1027> The momentum of the charge continues unabated.
 <1028> Rei and the man became entangled and fell to the floor together.
-<1029> \{［desire］}
+<1029> \{[Nozomi]}
 <1030> "Rei-san――――!"
-<1031> \{［伶］}
+<1031> \{[Rei]}
 <1032> "---Don't come near me...!"
 <1033> As Nozomi tries to approach me with a shaky body,
 <1034> There is no time to pay attention.
@@ -1051,35 +1051,35 @@
 <1041> In an instant, his body is turned around and his position is reversed.
 <1042> The man's arms pinned Rei's arms to the floor.
 <1043> The man's knee digs into his stomach.
-<1044> \{［伶］}
+<1044> \{[Rei]}
 <1045> "Ugh..."
 <1046> Rei's wrists were so tight that it was difficult for her to breathe.
 <1047> If we put them together and seal them,
 <1048> The man held the knife in his reverse grip and swung it down.
-<1049> \{［desire］}
+<1049> \{[Nozomi]}
 <1050> "Rei-san...! Noooooo...!!"
 <1051> *Dang!* There was a hard, stabbing sound.
 <1052> The tip of the knife sinks into the floor.
-<1053> \{［伶］}
+<1053> \{[Rei]}
 <1054> "Huh...?"
 <1055> The blade missed its target at the last moment,
 <1056> Right next to Rei's neck, it shines dully.
 <1057> Why did the man turn the knife away?
 <1058> I was wondering,
 <1059> The man's body tilted unsteadily and fell on top of Rei.
-<1060> \{［伶］}
+<1060> \{[Rei]}
 <1061> "......!"
 <1062> His huge, heavy body pressed down on me,
 <1063> As Rei struggles uncontrollably,
 <1064> Someone's hand rescued Rei's body from under the man.
-<1065> \{［Male］}
+<1065> \{[Man]}
 <1066> "Are you safe, Saiga-sama?"
-<1067> \{［伶］}
+<1067> \{[Rei]}
 <1068> "Are you... perhaps a guard at the mansion?"
-<1069> \{［Male］}
+<1069> \{[Man]}
 <1070> "Yes, that's right.
 <1071> \ I'm sorry for the delay in helping you."
-<1072> \{［伶］}
+<1072> \{[Rei]}
 <1073> "No... you saved me..."
 <1074> The intruder who had been fighting a life-or-death battle with Rei just moments ago,
 <1075> Unconscious, he is dragged away by another guard.
@@ -1088,7 +1088,7 @@
 <1078> I feel so relieved that all the strength in my body goes limp.
 <1079> Even just sitting there
 <1080> To Rei, who was now completely exhausted, it seemed like extremely hard work.
-<1081> \{［伶］}
+<1081> \{[Rei]}
 <1082> (...That was a close call.
 <1083> \ I think that was a bit of a reckless move...)
 <1084> By using his power so violently in succession in a short space of time,
@@ -1097,10 +1097,10 @@
 <1087> There was a dull pain in my stomach where the man had put his knee.
 <1088> I instinctively frowned and pressed my stomach with the back of my left hand.
 <1089> A few drops of blood drip onto the floor.
-<1090> \{［伶］}
+<1090> \{[Rei]}
 <1091> (...I'm surprised it only got this far against such an opponent.
 <1092> \ It was fortunate that help came there.)
-<1093> \{［伶］}
+<1093> \{[Rei]}
 <1094> (Even so, that was quite uncharacteristic of me.
 <1095> \ Whenever Nozomi is involved, I somehow lose my rhythm...)
 <1096> I was more serious than I ever thought possible.
@@ -1108,7 +1108,7 @@
 <1098> When I suddenly looked around, I still couldn't comprehend the situation.
 <1099> With her moist eyes wide open,
 <1100> The image shows Nozomi standing there frozen in shock.
-<1101> \{［伶］}
+<1101> \{[Rei]}
 <1102> (Even though it was to intimidate the man,
 <1103> \ That girl saw everything...)
 <1104> - You monster!
@@ -1117,32 +1117,32 @@
 <1107> The terrified cry of the intruder,
 <1108> When I was a child, my mother's sorrowful voice
 <1109> It comes back to my ears as a vivid, indelible memory.
-<1110> \{［伶］}
+<1110> \{[Rei]}
 <1111> (I'm sure... Nozomi will also reject it...)
 <1112> However, the scene that Rei saw was,
 <1113> It was as if my expectations were betrayed.
-<1114> \{［hope］}
+<1114> \{[hope]}
 <1115> "Rei-san...!!"
 <1116> Without showing even the slightest hesitation,
 <1117> Nozomi ran straight up to Rei,
 <1118> He clings to Rei without any sign of hesitation.
-<1119> \{［伶］}
+<1119> \{[Rei]}
 <1120> “…Nozomi!?”
 <1121> Rei was crouching on the floor with her hands on her head.
 <1122> He spread his small arms and hugged me to his chest,
 <1123> Nozomi begins to shed tears.
 <1124> Rei felt like she had found something mysterious right in front of her eyes.
 <1125> I look up blankly at the face crumpled with tears.
-<1126> \{［伶］}
+<1126> \{[Rei]}
 <1127> "...Nozomi...you..."
-<1128> \{［desire］}
+<1128> \{[Nozomi]}
 <1129> "Don't die... Rei-san...!"
-<1130> \{［伶］}
+<1130> \{[Rei]}
 <1131> "......"
 <1132> --It seems that Nozomi has been...
 <1133> It seems that Rei has mistakenly thought that she has been stabbed by an intruder.
 <1134> Rei couldn't help but smile at Nozomi's misunderstanding.
-<1135> \{［伶］}
+<1135> \{[Rei]}
 <1136> "...There's no need to cry. I'm fine..."
 <1137> I reached out to wipe away the clear tears that were streaming down Nozomi's cheeks,
 <1138> And just like that... Rei lost consciousness.
@@ -1179,36 +1179,36 @@
 <1169> Because someday you will wake up,
 <1170> Please, even if it's just in a fleeting, gentle dream.
 <1171> --Don't let go.
-<1172> \{［伶］}
+<1172> \{[Rei]}
 <1173> (……?)
 <1174> When I woke up, a familiar ceiling came into view.
 <1175> I looked around,
 <1176> It was a room in the mansion prepared for Rei.
 <1177> I traced my broken memories and thought for a while.
 <1178> I finally remember collapsing in Nozomi's room.
-<1179> \{［伶］}
+<1179> \{[Rei]}
 <1180> (Ah... I see. It was an overload caused by using too much power,
 <1181> \ I've been unconscious this whole time...
-<1182> \{［伶］}
+<1182> \{[Rei]}
 <1183> (--I'm in trouble.)
 <1184> I sighed and tried to run my hand through my hair.
 <1185> Only then,
 <1186> Rei noticed the warm sensation of her right hand being wrapped around it.
 <1187> A small hand is tightly holding Rei's right hand.
 <1188> And the owner of that hand was Nozomi.
-<1189> \{［伶］}
+<1189> \{[Rei]}
 <1190> (Why... Nozomi, why did you take my hand...?)
 <1191> Nozomi holds Rei's hand tightly with her small fingers,
 <1192> He is asleep with his head leaning on the edge of the bed.
 <1193> While holding Rei's hand tightly and accompanying her,
 <1194> I got tired and fell asleep.
 <1195> His sleeping face is defenseless and innocent.
-<1196> \{［伶］}
+<1196> \{[Rei]}
 <1197> (Isn't this kid scared of me...?)
 <1198> He shows no sign of fearing his power to see into the hearts of those he touches,
 <1199> Don't let go of the things that are important to you,
 <1200> Rei smiles unconsciously at the sight of Nozomi sleeping while holding Rei's hand.
-<1201> \{［伶］}
+<1201> \{[Rei]}
 <1202> (…………)
 <1203> Without releasing my grip on his hand,
 <1204> The blanket slipped off from the body breathing peacefully.
@@ -1220,18 +1220,18 @@
 <1210> I was sleeping with my cheek buried in the soft sheets,
 <1211> When the sun went down and the surroundings were enveloped in the darkness of twilight,
 <1212> Finally, my eyelids trembled and I woke up.
-<1213> \{［伶］}
+<1213> \{[Rei]}
 <1214> "Good morning, Nozomi. You slept well."
 <1215> Maybe you just woke up and can't grasp the situation yet?
 <1216> Nozomi blinked blankly,
 <1217> Rei gently sang in.
-<1218> \{［desire］}
+<1218> \{[Nozomi]}
 <1219> "Rei-san...!? You've woken up...!"
-<1220> \{［伶］}
+<1220> \{[Rei]}
 <1221> "Oh, thanks to you.
 <1222> \ Thanks to you always holding my hand,
 <1223> \ The dream was good too."
-<1224> \{［desire］}
+<1224> \{[Nozomi]}
 <1225> "Huh? ...Ah!
 <1226> \ I'm so sorry! I held your hand without your permission..."
 <1227> At that moment, Nozomi finally
@@ -1239,27 +1239,27 @@
 <1229> He blushed and let go.
 <1230> I watched as the hand that conveyed the warmth of Nozomi's skin left me.
 <1231> I feel just a little disappointed.
-<1232> \{［hope］}
+<1232> \{[hope]}
 <1233> "Um, how are you feeling?"
-<1234> \{［伶］}
+<1234> \{[Rei]}
 <1235> "It's okay. I collapsed,
 <1236> \ Fatigue caused by overuse of strength.
 <1237> \ I've had a good rest, so I'm fine now.
-<1238> \{［伶］}
+<1238> \{[Rei]}
 <1239> "Don't worry, I didn't get stabbed and collapse."
-<1240> \{［desire］}
+<1240> \{[Nozomi]}
 <1241> "...Really? Are you really okay...?"
-<1242> \{［伶］}
+<1242> \{[Rei]}
 <1243> "Oh. I seem to have worried you a lot.
 <1244> \ I'm sorry..."
-<1245> \{［desire］}
+<1245> \{[Nozomi]}
 <1246> "Thank goodness...!"
 <1247> At that moment, there was a soft knock on the door.
 <1248> The conversation between the two was interrupted.
 <1249> \{[Mari]}
 <1250> "Excuse me, Takami-sama was here,
 <1251> \ Is Rei-sama awake...?
-<1252> \{［伶］}
+<1252> \{[Rei]}
 <1253> "Oh, I've been awake for a while now.
 <1254> \ You may enter the room."
 <1255> \{[Mari]}
@@ -1268,7 +1268,7 @@
 <1258> "Rei-sama, how are you feeling...?
 <1259> \ Is there any pain or discomfort?
 <1260> \ How about dizziness and nausea?"
-<1261> \{［伶］}
+<1261> \{[Rei]}
 <1262> "It's okay. I'm fine now."
 <1263> \{[Mari]}
 <1264> "I see... I'm relieved to hear that."
@@ -1280,15 +1280,15 @@
 <1270> \{[Takami]}
 <1271> "That's right... Nozomi! I don't think you can believe it,
 <1272> \ Have you been staying in Rei's room ever since?
-<1273> \{［desire］}
+<1273> \{[Nozomi]}
 <1274> "Um, um... yes, that's right..."
 <1275> \{[Takami]}
 <1276> "...He insisted that he would take care of her,
 <1277> \ He really has been by Rei's side ever since she collapsed.
 <1278> \ I've grown quite fond of you..."
-<1279> \{［desire］}
+<1279> \{[Nozomi]}
 <1280> "......"
-<1281> \{［伶］}
+<1281> \{[Rei]}
 <1282> "What if Nozomi took care of me while I was down...?"
 <1283> \{[Takami]}
 <1284> "Yes, that's right. You begged me with such a desperate look on your face,
@@ -1300,7 +1300,7 @@
 <1290> "Now, Rei-sama, you're fine now,
 <1291> \ It's about time for you to go back to your room, Nozomi.
 <1292> \ Let's have a nice rest there."
-<1293> \{［desire］}
+<1293> \{[Nozomi]}
 <1294> "Yes. Umm... thank you for today."
 <1295> \{[Takami]}
 <1296> "...You have no right to thank me."
@@ -1309,15 +1309,15 @@
 <1299> \ We will now excuse ourselves."
 <1300> I bow to Takami and Rei and watch as they leave the room.
 <1301> Rei instinctively called out to him to stop him.
-<1302> \{［伶］}
+<1302> \{[Rei]}
 <1303> “--Nozomi!”
-<1304> \{［desire］}
+<1304> \{[Nozomi]}
 <1305> "Y-Yes! Um... what is it...?"
-<1306> \{［伶］}
+<1306> \{[Rei]}
 <1307> "Thank you for accompanying me.
 <1308> \ I was happy.
 <1309> \ I'd like to have a long talk with you again."
-<1310> \{［desire］}
+<1310> \{[Nozomi]}
 <1311> "...Yes!"
 <1312> Nozomi leaves the room with Marie,
 <1313> Later, Takami, whose face looked like a pigeon that had been hit by a peashooter,
@@ -1326,7 +1326,7 @@
 <1316> \{[Takami]}
 <1317> "...It seems you really like Nozomi too.
 <1318> \ So it was worth introducing him?
-<1319> \{［伶］}
+<1319> \{[Rei]}
 <1320> "I wonder..."
 <1321> \{[Takami]}
 <1322> "...Are you trying to avoid the question? Well, I don't really mind..."
@@ -1337,11 +1337,11 @@
 <1327> \{[Takami]}
 <1328> "According to the doctor who examined you, the results of a thorough examination showed that
 <1329> \ There didn't seem to be anything particularly unusual, but..."
-<1330> \{［伶］}
+<1330> \{[Rei]}
 <1331> "Well, everything's fine for now. Nozomi and I are unharmed."
 <1332> \{[Takami]}
 <1333> "I see..."
-<1334> \{［伶］}
+<1334> \{[Rei]}
 <1335> "The security here seems pretty lax.
 <1336> \ The intrusion of people carrying guns,
 <1337> \ I can't believe you forgave both of them."
@@ -1355,7 +1355,7 @@
 <1345> \ I heard they broke into the mansion.
 <1346> \{[Takami]}
 <1347> "I was worried that help might not arrive in time."
-<1348> \{［伶］}
+<1348> \{[Rei]}
 <1349> "...I'm surprised you apologized to me so honestly."
 <1350> \{[Takami]}
 <1351> "It's thanks to you that my hope wasn't taken away.
@@ -1364,14 +1364,14 @@
 <1354> \{[Takami]}
 <1355> "I honestly appreciate it.
 <1356> \ As the owner of Nozomi, I thank you.
-<1357> \{［伶］}
+<1357> \{[Rei]}
 <1358> "...I'm not really happy about your thanks.
 <1359> \ I feel uneasy because it seems like there's something ulterior motive behind this.
 <1360> \{[Takami]}
 <1361> "...! It's rare for someone to be so honest,
 <1362> \ I was feeling grateful...!
 <1363> \ At least accept my words of thanks in silence!
-<1364> \{［伶］}
+<1364> \{[Rei]}
 <1365> "More importantly, I'd like to know the identity of the intruder.
 <1366> \ Do you have any idea?"
 <1367> \{[Takami]}
@@ -1384,12 +1384,12 @@
 <1374> \ There are people who are up to such wicked schemes."
 <1375> \{[Takami]}
 <1376> "They're a tricky business partner..."
-<1377> \{［伶］}
+<1377> \{[Rei]}
 <1378> "......"
 <1379> \{[Takami]}
 <1380> "We'll handle everything else.
 <1381> \ You should continue living in the mansion as you are.
-<1382> \{［伶］}
+<1382> \{[Rei]}
 <1383> "When something like today happens,
 <1384> \ I feel uneasy staying in this mansion."
 <1385> \{[Takami]}
@@ -1406,11 +1406,11 @@
 <1396> \{[Takami]}
 <1397> "Anyone who bothers the mansion,
 <1398> \ That should clear it all up."
-<1399> \{［伶］}
+<1399> \{[Rei]}
 <1400> "Right. I hope things go as you planned."
 <1401> \{[Takami]}
 <1402> "I'll make it so, I promise...!"
-<1403> \{［伶］}
+<1403> \{[Rei]}
 <1404> "I look forward to hearing your words."
 <1405> \{[Takami]}
 <1406> "...Hmmm. Well then, I'll be off then."
@@ -1421,31 +1421,31 @@
 <1411> And the words that Nozomi gave to Rei,
 <1412> While recalling the gentle warmth of Nozomi's hand,
 <1413> Rei quietly closed her eyes.
-<1414> \{［伶］}
+<1414> \{[Rei]}
 <1415> (...I have no intention of taking any more risks for Nozomi.
 <1416> \ Let's just keep quiet and watch how things go...)
-<1417> \{［Male］}
+<1417> \{[Man]}
 <1418> "Listen... don't disobey me.
 <1419> \ If you don't resist, I won't take your life."
-<1420> \{［伶］}
+<1420> \{[Rei]}
 <1421> "...So what should I do?"
-<1422> \{［Male］}
+<1422> \{[Man]}
 <1423> "Raise your arms slowly above your head,
 <1424> \ Turn around."
-<1425> \{［伶］}
+<1425> \{[Rei]}
 <1426> "......"
 <1427> Do as you are told,
 <1428> Rei turned her back on the intruder and grabbed the back of his head.
 <1429> A violent shock hit.
-<1430> \{［伶］}
+<1430> \{[Rei]}
 <1431> "――――!?"
 <1432> Sparks fly in the depths of my eyes,
 <1433> Then suddenly, my vision goes dark and I lose consciousness.
-<1434> \{［desire］}
+<1434> \{[Nozomi]}
 <1435> "Rei-san――――!"
 <1436> Nozomi's heartbreaking cry calling out her name reached Rei's ears,
 <1437> Those eyes can no longer see Nozomi's face.
-<1438> \{［伶］}
+<1438> \{[Rei]}
 <1439> "Nozomi...?"
 <1440> I stretched out my fingers in the direction of the voice, looking for Nozomi,
 <1441> There was no way that his fingers could reach Nozomi.
@@ -1454,39 +1454,39 @@
 <1444> And soon Rei's thoughts also came to a halt.
 <1445> --The next time Rei wakes up,
 <1446> My eyes met with Takami, who was peering in with a worried expression.
-<1447> \{［伶］}
+<1447> \{[Rei]}
 <1448> "...Takami...?"
 <1449> \{[Takami]}
 <1450> "You've finally woken up, Rei.
 <1451> \ I was worried you wouldn't wake up..."
-<1452> \{［伶］}
+<1452> \{[Rei]}
 <1453> "...! What happened to Nozomi? Nozomi?"
 <1454> \{[Takami]}
 <1455> "...Nozomi... has been taken away."
-<1456> \{［伶］}
+<1456> \{[Rei]}
 <1457> "--!"
 <1458> \{[Takami]}
 <1459> "The intruder knocked you unconscious and then
 <1460> \ It seems that Nozomi has been taken away from the mansion.
 <1461> When the security guards arrived, Nozomi was nowhere to be seen.
-<1462> \{［伶］}
+<1462> \{[Rei]}
 <1463> "...I see."
 <1464> \{[Takami]}
 <1465> "It will be difficult to bring back Nozomi who has been taken away unharmed.
 <1466> \ The person who ordered the abduction is identified,
 <1467> \ By the time we rescue them, they won't be the same as they were before."
-<1468> \{［伶］}
+<1468> \{[Rei]}
 <1469> "......"
 <1470> \{[Takami]}
 <1471> "I'm sorry about Nozomi,
 <1472> \ The only consolation is that you were safe."
-<1473> \{［伶］}
+<1473> \{[Rei]}
 <1474> "......"
 <1475> \{[Takami]}
 <1476> "Because I was hit on the head,
 <1477> The doctor also instructed me to rest for a while.
 <1478> \ --Get some rest alone tonight."
-<1479> \{［伶］}
+<1479> \{[Rei]}
 <1480> "......"
 <1481> Without saying a word to Takami, he quietly left the room.
 <1482> Rei lay on the bed and stared at the ceiling.
@@ -1494,7 +1494,7 @@
 <1484> Without offering a helping hand, they abandoned hope.
 <1485> Although this is the result of Rei's choice,
 <1486> The bitter feeling of guilt weighs heavily on my chest.
-<1487> \{［伶］}
+<1487> \{[Rei]}
 <1488> (...Let's go home. This concludes my time-killing at the mansion.)
 <1489> I decided to leave the mansion tomorrow morning,
 <1490> Rei quietly closed her eyes.
@@ -1506,18 +1506,18 @@
 <1496> \ You could at least say something!
 <1497> Takami's loud voice of criticism came from the other end of the phone.
 <1498> Rei looks annoyed and turns her ears away.
-<1499> \{［伶］}
+<1499> \{[Rei]}
 <1500> "Oh, sorry. I'm kind of bored of being in the mansion.
 <1501> \ By the time I felt like going home, I had already left the mansion.
 <1502> \{[Takami]}
 <1503> “Seriously… you’re still as fickle as ever.
 <1504> I can't forgive your sexual inclinations.
-<1505> \{［伶］}
+<1505> \{[Rei]}
 <1506> "You knew that too, right?
 <1507> \ ...I guess I'll just have to give up."
 <1508> \{[Takami]}
 <1509> "You...!"
-<1510> \{［伶］}
+<1510> \{[Rei]}
 <1511> "Well, that's it. --See you later, Takami."
 <1512> \{[Takami]}
 <1513> "Hey, Rei, wait a minute! There's more to say..."
@@ -1526,13 +1526,13 @@
 <1516> Takami called to protest about my sudden return.
 <1517> If you cut it forcefully,
 <1518> Suddenly, a heavy silence returns to the room.
-<1519> \{［伶］}
+<1519> \{[Rei]}
 <1520> (...Is there really any need to doubt this man to that extent?)
 <1521> I thought about it for a while, but in the end,
 <1522> Rei decided not to use force against the man.
 <1523> \{[Man in White Coat]}
 <1524> "Well then, I'll be off."
-<1525> \{［伶］}
+<1525> \{[Rei]}
 <1526> "Then I'll go with you to your room.
 <1527> \ I was just about to head to Nozomi's place."
 <1528> \{[Man in White Coat]}
@@ -1556,7 +1556,7 @@
 <1546> "Well, shall we go?"
 <1547> Rei leaves Marie,
 <1548> I went to Nozomi's room with the man.
-<1549> \{［伶］}
+<1549> \{[Rei]}
 <1550> "Nozomi, it's me. I'm coming in."
 <1551> As Rei always does,
 <1552> I knocked on the solid wooden door several times.
@@ -1564,7 +1564,7 @@
 <1554> And so, as always, Rei
 <1555> Without waiting for Nozomi's reply, he opened the door without the slightest hesitation.
 <1556> - At that moment.
-<1557> \{［伶］}
+<1557> \{[Rei]}
 <1558> "...!?"
 <1559> The arm that had been hiding in the shadows of the door,
 <1560> It spreads its ominous wings, bringing misfortune to anyone who sees it.
@@ -1576,7 +1576,7 @@
 <1566> At Rei's throat, who had completely lost the ability to resist,
 <1567> A chilly wind blew.
 <1568> And thenーheat surges forth.
-<1569> \{［伶］}
+<1569> \{[Rei]}
 <1570> "...!"
 <1571> Someone had cut his carotid artery.
 <1572> I realized this when
@@ -1590,14 +1590,14 @@
 <1580> Rei's consciousness sinks into an inescapable darkness.
 <1581> There is no way to be sure anymore.
 <1582> All I can see before me is endless darkness...
-<1583> \{［伶］}
+<1583> \{[Rei]}
 <1584> "......"
 <1585> Like a tiny thorn that won't come out,
 <1586> I felt something slightly bother me,
 <1587> Rei decided to ignore the man.
 <1588> \{[Mari-e]}
 <1589> "Rei-sama, what's wrong...?"
-<1590> \{［伶］}
+<1590> \{[Rei]}
 <1591> "No... it's nothing, don't worry about it.
 <1592> \ I'm heading to Nozomi's room now.
 <1593> \{[Mari-e]}
@@ -1605,7 +1605,7 @@
 <1595> After bowing, he carried the cart down the hallway.
 <1596> As I watched Marie leave,
 <1597> Rei headed straight to Nozomi's room.
-<1598> \{［伶］}
+<1598> \{[Rei]}
 <1599> "Nozomi, it's me. I'm coming in."
 <1600> As Rei always does,
 <1601> I knocked on the solid wooden door several times.
@@ -1613,7 +1613,7 @@
 <1603> And so, as always, Rei
 <1604> Without waiting for Nozomi's reply, he opened the door without the slightest hesitation.
 <1605> - At that moment.
-<1606> \{［伶］}
+<1606> \{[Rei]}
 <1607> "...!?"
 <1608> The arm that had been hiding in the shadows of the door,
 <1609> It spreads its ominous wings, bringing misfortune to anyone who sees it.
@@ -1625,7 +1625,7 @@
 <1615> At Rei's throat, who had completely lost the ability to resist,
 <1616> A chilly wind blew.
 <1617> And thenーheat surges.
-<1618> \{［伶］}
+<1618> \{[Rei]}
 <1619> "...!"
 <1620> Someone had cut his carotid artery.
 <1621> I realized this when
@@ -1639,7 +1639,7 @@
 <1629> Rei's consciousness sinks into an inescapable darkness.
 <1630> There is no way to be sure anymore.
 <1631> All I can see before me is endless darkness...
-<1632> \{［伶］}
+<1632> \{[Rei]}
 <1633> "Well, I guess I'll spend today reading a book too.
 <1634> \ ...I'm going back to my room."
 <1635> \{[Mari-e]}
@@ -1650,7 +1650,7 @@
 <1640> It was time for someone to tell me that lunch was ready.
 <1641> But the usual time had passed,
 <1642> Marie doesn't come to call.
-<1643> \{［伶］}
+<1643> \{[Rei]}
 <1644> "--?"
 <1645> Curious, Rei looked away from the book,
 <1646> I noticed that the building was gradually becoming more chaotic.
@@ -1661,18 +1661,18 @@
 <1651> Rei followed the commotion down the hallway,
 <1652> Guards with murderous expressions were coming and going.
 <1653> I spotted Marie in the entrance hall.
-<1654> \{［伶］}
+<1654> \{[Rei]}
 <1655> "...Mari! What on earth is all this commotion about?"
 <1656> \{[Mari-e]}
 <1657> "Ahh! Rei-sama...!
 <1658> \ I was just about to call you!
 <1659> \ Umm... something terrible has happened!
-<1660> \{［伶］}
+<1660> \{[Rei]}
 <1661> "Calm down a bit, Marie. What exactly happened?"
 <1662> \{[Mari-e]}
 <1663> "Nozomi-sanーNozomi-san,
 <1664> \ It was snatched away by an intruder...!"
-<1665> \{［伶］}
+<1665> \{[Rei]}
 <1666> "Whatーwhat do you mean?"
 <1667> According to Marie, an intruder broke in during the morning.
 <1668> He had already kidnapped Nozomi and left the mansion.
@@ -1687,7 +1687,7 @@
 <1677> Just when I thought we had just touched each other,
 <1678> When I think of the hope that vanished so quickly, as if blown away by the wind,
 <1679> I feel like there's a huge hole in me.
-<1680> \{［伶］}
+<1680> \{[Rei]}
 <1681> (...Let's leave the mansion now. My reason for staying here has disappeared.
 <1682> \ This concludes my time killing at the mansion.)
 <1683> I decided to leave the mansion tomorrow morning,
@@ -1700,18 +1700,18 @@
 <1690> \ You should at least say something!
 <1691> Takami's accusatory voice came from the phone,
 <1692> Rei, feeling annoyed, turns her ears away a little.
-<1693> \{［伶］}
+<1693> \{[Rei]}
 <1694> "Oh, sorry. I'm kind of bored of being at the mansion.
 <1695> \ By the time I felt like going home, I had already left the mansion.
 <1696> \{[Takami]}
 <1697> “Seriously… you’re still as fickle as ever.
 <1698> \ I can't forgive your sexual inclinations.
-<1699> \{［伶］}
+<1699> \{[Rei]}
 <1700> "You knew that too, right?
 <1701> \ ...I guess I'll just have to give up."
 <1702> \{[Takami]}
 <1703> "You...!"
-<1704> \{［伶］}
+<1704> \{[Rei]}
 <1705> "Well, that's it. --See you later, Takami."
 <1706> \{[Takami]}
 <1707> "Hey, Rei, wait a minute! I still have something to say..."

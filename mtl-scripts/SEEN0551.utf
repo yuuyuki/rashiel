@@ -1,9 +1,9 @@
 // Resources for SEEN0551.TXT
 
-#character '［Marie］'
+#character '[Marie]'
 #character '[Rei]'
-#character '［Takami］'
-#character '［desire］'
+#character '[Takami]'
+#character '[Nozomi]'
 #character '[Katagiri]'
 #character '[? ]'
 
@@ -19,14 +19,14 @@
 <0009> A small, discreet knock,
 <0010> Marie's voice had a somewhat sad tone to it.
 <0011> I called out to Rei from outside the door.
-<0012> \{［伶］}
+<0012> \{[Rei]}
 <0013> "What's wrong, why are you making that noise?
 <0014> \ ...Did something happen?
 <0015> \{[Mari]}
 <0016> "Takami-sama has come.
 <0017> \ So...um, today,
 <0018> \ Apparently they've come to pick up Nozomi..."
-<0019> \{［伶］}
+<0019> \{[Rei]}
 <0020> "Yeah. We've already agreed on that.
 <0021> \ I'll be there right away, so tell Takami that.
 <0022> \{[Mari]}
@@ -53,17 +53,17 @@
 <0043> \{[Takami]}
 <0044> "Nozomi, how about you? Thank you to the master who took care of me.
 <0045> Is there anything you want to say?
-<0046> \{［desire］}
+<0046> \{[Nozomi]}
 <0047> "......"
 <0048> \{[Takami]}
 <0049> "Rei, what about you?"
-<0050> \{［伶］}
+<0050> \{[Rei]}
 <0051> "...There are no more words to be exchanged between us now."
-<0052> \{［伶］}
+<0052> \{[Rei]}
 <0053> "......"
 <0054> \{[Takami]}
 <0055> "Well, whatever. Come on, let's go, Nozomi."
-<0056> \{［desire］}
+<0056> \{[Nozomi]}
 <0057> "...Yes."
 <0058> \{[Takami]}
 <0059> "Oh wait. Before you leave the mansion,
@@ -83,7 +83,7 @@
 <0073> \{[Takami]}
 <0074> "Once you hand over Nozomi to the Customer, she will come again.
 <0075> \ Until then, don't go home on your own, okay?
-<0076> \{［伶］}
+<0076> \{[Rei]}
 <0077> "......"
 <0078> Takami entrusts the new product to Rei again,
 <0079> It seems they intend to repeat the same attempt,
@@ -113,21 +113,21 @@
 <0103> “I’ve met you before,
 <0104> \ I met you once at the Kujo family mansion,
 <0105> \ Do you remember?
-<0106> \{［伶］}
+<0106> \{[Rei]}
 <0107> "...No, I don't remember very well."
-<0108> \{［伶］}
+<0108> \{[Rei]}
 <0109> "Is there anything you'd like to ask me about Takami?"
 <0110> \{[Katagiri]}
 <0111> “Today’s business is not about Takami-sama.
 <0112> \ I'll take you to an interesting event,
 <0113> \ I contacted you to invite you...'
-<0114> \{［伶］}
+<0114> \{[Rei]}
 <0115> "...?"
 <0116> \{[Katagiri]}
 <0117> "Takami-sama has invited you to his mansion,
 <0118> And what happened inside the building?
 <0119> \ I am well aware of this.
-<0120> \{［伶］}
+<0120> \{[Rei]}
 <0121> "......"
 <0122> \{[Katagiri]}
 <0123> "Currently, I am in charge of managing Nozomi-san."
@@ -141,22 +141,22 @@
 <0131> “Nozomi-san is working really hard.
 <0132> \ The customer who made the purchase also
 <0133> \ Nozomi is very pleased with him...'
-<0134> \{［伶］}
+<0134> \{[Rei]}
 <0135> "......"
 <0136> \{[Katagiri]}
 <0137> "So, I have a suggestion.
 <0138> \ Would you like to see Nozomi-san at work?
-<0139> \{［伶］}
+<0139> \{[Rei]}
 <0140> "Nozomi's...working spirit"
 <0141> \{[Katagiri]}
 <0142> "...If you have even the slightest interest in Nozomi's fate,
 <0143> \ Please come to that mansion.
-<0144> \{［伶］}
+<0144> \{[Rei]}
 <0145> "......"
 <0146> He is Takami's subordinate,
 <0147> Why did you make this offer to Rei?
 <0148> I can't see the true meaning of that.
-<0149> \{［伶］}
+<0149> \{[Rei]}
 <0150> "...Why are you telling me this?
 <0151> \ What happened to Takami?
 <0152> \ I'd like to hear the explanation directly from him."
@@ -170,7 +170,7 @@
 <0160> "What happened to Nozomi after that?
 <0161> \ I thought you might be interested.
 <0162> \ …I was just inviting you.
-<0163> \{［伶］}
+<0163> \{[Rei]}
 <0164> "......"
 <0165> Should I accept the invitation? Or should I rudely reject it?
 <0166> Everything is up to Rei's decision.
@@ -178,7 +178,7 @@
 <0168> "So, what will you do... Rei-sama?"
 <0169> View
 <0170> Don't watch
-<0171> \{［伶］}
+<0171> \{[Rei]}
 <0172> "...I was just getting bored.
 <0173> \ Let me see it.
 <0174> \{[Katagiri]}
@@ -194,7 +194,7 @@
 <0184> The place where Katagiri told me Nozomi was waiting.
 <0185> It wasーthe few days Rei spent with Nozomi in immorality,
 <0186> It was about that mansion.
-<0187> \{［伶］}
+<0187> \{[Rei]}
 <0188> "--That's enough."
 <0189> \{[Katagiri]}
 <0190> "Oh... Rei-sama?"
@@ -204,13 +204,13 @@
 <0194> Even after I quickly left that place,
 <0195> The image I had just seen kept flashing through my mind,
 <0196> Rei was so upset that she instinctively shook her shoulders.
-<0197> \{［伶］}
+<0197> \{[Rei]}
 <0198> (Am I... regretting it? No way...)
 <0199> \{[Katagiri]}
 <0200> "What's the matter... Rei-sama?"
 <0201> I feel like Katagiri is chasing me from behind.
 <0202> Rei spoke without turning around.
-<0203> \{［伶］}
+<0203> \{[Rei]}
 <0204> "I'm going home now. ...I don't need you to see me off.
 <0205> \ You don't care about me,
 <0206> \ Just keep working. I'm sorry for interrupting you."
@@ -218,13 +218,13 @@
 <0208> "I see...that's unfortunate.
 <0209> \ But we still,
 <0210> \ I don't want you to go back."
-<0211> \{［伶］}
+<0211> \{[Rei]}
 <0212> "--?"
 <0213> Unable to grasp the meaning of Katagiri's words,
 <0214> Just as Rei was about to turn around,
 <0215> A quick, silent arm stretched out from behind me.
 <0216> He restrained Rei's movements and covered her mouth.
-<0217> \{［伶］}
+<0217> \{[Rei]}
 <0218> "――!?"
 <0219> I was pressed down firmly with a cloth soaked in some kind of chemical.
 <0220> Unable to resist, she is forced to drink the drug.
@@ -240,39 +240,39 @@
 <0230> He confesses his feelings with a wry smile.
 <0231> \{[? ]}
 <0232> "Rei - I've come to take you."
-<0233> \{［伶］}
+<0233> \{[Rei]}
 <0234> "...Who...are you...?"
 <0235> \{[? ]}
 <0236> "It would be better for you not to know,
 <0237> \ Well, that's right - I'll just wait for you to wake up,
 <0238> \ I guess I should introduce myself.
-<0239> \{［伶］}
+<0239> \{[Rei]}
 <0240> "My...awakening...?
 <0241> \ ...What are you talking about?"
 <0242> \{[? ]}
 <0243> “It’s okay if you don’t understand it yet.
 <0244> \ We'll find out eventually --'
-<0245> \{［伶］}
+<0245> \{[Rei]}
 <0246> "...What does that mean...?"
 <0247> \{[? ]}
 <0248> “For now, I’ll just go to bed quietly.
 <0249> \ The next time you wake up, you'll be――』
 <0250> As my consciousness fades, I sense a ripple of laughter.
 <0251> It echoes in Rei's mind forever.
-<0252> \{［伶］}
+<0252> \{[Rei]}
 <0253> (Who on earth... could have... me?)
 <0254> Repeating questions that will never be answered,
 <0255> Rei's mind sank into deep darkness...
-<0256> \{［伶］}
+<0256> \{[Rei]}
 <0257> "...Thanks. I decline."
-<0258> \{［伶］}
+<0258> \{[Rei]}
 <0259> "Like peeping into someone else's affairs,
 <0260> \ I don't have any bad taste."
 <0261> \{[Katagiri]}
 <0262> "I see...that's unfortunate."
 <0263> Even after hanging up the phone with Katagiri, Rei thought for a long time,
 <0264> I was confused and couldn't get Nozomi out of my head.
-<0265> \{［伶］}
+<0265> \{[Rei]}
 <0266> (Am I... regretting it? No way...)
 <0267> But never again,
 <0268> This is about the boy that Rei will never meet again.
@@ -289,7 +289,7 @@
 <0279> “--See you, Rei.
 <0280> \ Whenever you feel like it, just let me know.
 <0281> \ I'm waiting to hear from you.
-<0282> \{［伶］}
+<0282> \{[Rei]}
 <0283> "...You're pretty persistent too.
 <0284> \ Even if you persist, I won't be interested.
 <0285> \ Give up quickly."

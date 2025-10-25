@@ -1,8 +1,8 @@
 // Resources for SEEN0107.TXT
 
-#character '［Marie］'
+#character '[Marie]'
 #character '[Rei]'
-#character '［desire］'
+#character '[Nozomi]'
 
 <0000> May 3rd
 <0001> Before you know it, the sun has risen high in the sky,
@@ -15,26 +15,26 @@
 <0008> Marie asks, handing over a chilled glass.
 <0009> \{[Mari]}
 <0010> "Rei-sama, what are you planning to do this afternoon?"
-<0011> \{［伶］}
+<0011> \{[Rei]}
 <0012> "...I want to know how Nozomi is doing. I'm going to her room."
 <0013> When I refused Nozomi's request,
 <0014> I'm a little concerned about his state of despair.
 <0015> I drained my glass of iced tea and stood up,
 <0016> Rei headed towards Nozomi's room.
-<0017> \{［伶］}
+<0017> \{[Rei]}
 <0018> "Nozomi, I'm coming in."
 <0019> Rei called out softly as she stepped into the room.
 <0020> Sitting on the bed, looking down,
 <0021> Nozomi looks different, as if she is somehow troubled.
 <0022> I instinctively stopped my approach.
-<0023> \{［伶］}
+<0023> \{[Rei]}
 <0024> “--Nozomi?”
 <0025> Nozomi had clearly cried her eyes out.
 <0026> He looked down with his red, swollen eyes.
 <0027> He doesn't even look at Rei when she enters the room.
-<0028> \{［伶］}
+<0028> \{[Rei]}
 <0029> "What's wrong? ...Something's wrong."
-<0030> \{［Hope］}
+<0030> \{[Hope]}
 <0031> "......"
 <0032> I tried to speak carefully,
 <0033> Sitting on the edge of the bed, her small body stiff,
@@ -45,16 +45,16 @@
 <0038> If you look closely, you can see that the fists are tightly clenched on the knees.
 <0039> Because I gripped it too tightly,
 <0040> He is pale and trembling.
-<0041> \{［伶］}
+<0041> \{[Rei]}
 <0042> "...What happened?"
-<0043> \{［Hope］}
+<0043> \{[Hope]}
 <0044> "......"
-<0045> \{［伶］}
+<0045> \{[Rei]}
 <0046> “Nozomi”
 <0047> I called out a little harder and finally got a response.
 <0048> I startled and shook my shoulders at the sound of Rei's voice,
 <0049> Nozomi looked up, looking extremely tired, and saw Rei.
-<0050> \{［伶］}
+<0050> \{[Rei]}
 <0051> "...!"
 <0052> A pitch-black despair that is hard to put into words,
 <0053> It spreads out in the moist gaze that stares back at the void.
@@ -62,9 +62,9 @@
 <0055> The boy's eyes, irreparably damaged.
 <0056> But the eye, though sorely wounded,
 <0057> It was painfully clear.
-<0058> \{［伶］}
+<0058> \{[Rei]}
 <0059> "...What on earth happened to you? Nozomi..."
-<0060> \{［desire］}
+<0060> \{[Nozomi]}
 <0061> "......"
 <0062> Without answering Rei's question,
 <0063> Nozomi lowers her face again.
@@ -85,13 +85,13 @@
 <0078> After that, I wondered how Nozomi was doing,
 <0079> Rei is aware that she has spoken harshly,
 <0080> I didn't have the energy to visit Nozomi's room again.
-<0081> \{［伶］}
+<0081> \{[Rei]}
 <0082> "That's right... I went back to my room.
 <0083> \ I'll read the books Takami has prepared for me."
 <0084> \{[Mari]}
 <0085> "I understand. Then, when the time is right,
 <0086> \ I'll bring some tea and sweets to your room, Lady Rei."
-<0087> \{［伶］}
+<0087> \{[Rei]}
 <0088> "Yes. Thank you very much."
 <0089> The evening twilight passes in the blink of an eye,
 <0090> After Rei accepted Takami's invitation and stayed at this mansion,
@@ -103,115 +103,115 @@
 <0096> Go to bed without staying up too late.
 <0097> I turn off the soft light in the room and close my eyes,
 <0098> Soon I was immersed in a deep sleep.
-<0099> \{［伶］}
+<0099> \{[Rei]}
 <0100> "...I want to know how Nozomi is. I'm going to her room."
 <0101> I drained my glass of iced tea and stood up,
 <0102> Rei headed towards Nozomi's room.
-<0103> \{［伶］}
+<0103> \{[Rei]}
 <0104> "Nozomi... I'm coming in."
 <0105> I knocked lightly on the door, said something, and then entered the room.
 <0106> Nozomi leaned her forehead against the window glass and gazed intently outside.
 <0107> I turned around at the sound of a knock.
-<0108> \{［desire］}
+<0108> \{[Nozomi]}
 <0109> "Ah..."
-<0110> \{［伶］}
+<0110> \{[Rei]}
 <0111> "Were you looking outside again?"
-<0112> \{［Hope］}
+<0112> \{[Hope]}
 <0113> "Y-Yes!"
-<0114> \{［伶］}
+<0114> \{[Rei]}
 <0115> "What you were looking at from the window earlier was
 <0116> \ It was that puppy."
-<0117> \{［Hope］}
+<0117> \{[Hope]}
 <0118> "...My daily pleasure is,
 <0119> \ Looking out the window..."
-<0120> \{［desire］}
+<0120> \{[Nozomi]}
 <0121> "After I noticed a puppy wandering into my garden,
 <0122> \ When I see puppies playing,
 <0123> \ It was the most fun time..."
-<0124> \{［伶］}
+<0124> \{[Rei]}
 <0125> "--So, when the puppy disappears,
 <0126> \ You'll be lonely too."
-<0127> \{［Hope］}
+<0127> \{[Hope]}
 <0128> "But the puppy left here,
 <0129> \ I was able to live in a safe place with kind people,
 <0130> \ I think it was really good."
-<0131> \{［Hope］}
+<0131> \{[Hope]}
 <0132> "Somewhere other than here,
 <0133> \ When I think of my puppy living happily,
 <0134> \ It makes me feel happy..."
-<0135> \{［Hope］}
+<0135> \{[Hope]}
 <0136> "So, I'm okay with not seeing you again."
 <0137> As if to confirm the truth of those words,
 <0138> Nozomi smiles shyly.
-<0139> \{［伶］}
+<0139> \{[Rei]}
 <0140> "...Right. That's the best thing."
-<0141> \{［伶］}
+<0141> \{[Rei]}
 <0142> "By the way, what else have you seen?"
-<0143> \{［Hope］}
+<0143> \{[Hope]}
 <0144> "Um... during the day, there are clouds floating high in the sky,
 <0145> \ A bird singing on a branch,
 <0146> \ The greenery swaying in the wind, the sunlight..."
-<0147> \{［伶］}
+<0147> \{[Rei]}
 <0148> "...What about at night?"
-<0149> \{［Hope］}
+<0149> \{[Hope]}
 <0150> "At night... I like to look at the stars."
-<0151> \{［Hope］}
+<0151> \{[Hope]}
 <0152> "You can't see much through the window glass,
 <0153> \ The starlight twinkling in the atmosphere is so beautiful...
 <0154> \ I never get bored of watching it."
-<0155> \{［Hope］}
+<0155> \{[Hope]}
 <0156> "When I look at the stars, I feel like my heart is suddenly opened.
 <0157> \ It makes me feel lighter..."
-<0158> \{［伶］}
+<0158> \{[Rei]}
 <0159> "......"
-<0160> \{［伶］}
+<0160> \{[Rei]}
 <0161> "...Stars?"
-<0162> \{［Hope］}
+<0162> \{[Hope]}
 <0163> "......"
 <0164> Unlike this tiny sky cut out in the rectangle of the window,
 <0165> A view of the stars, high and vast,
 <0166> I wonder if Nozomi feels a sense of admiration.
 <0167> A gaze filled with longing, thinking of somewhere far away,
 <0168> I look up wistfully at the sky outside the window.
-<0169> \{［伶］}
+<0169> \{[Rei]}
 <0170> (--Come to think of it, Nozomi is in this mansion,
 <0171> \ He wasn't allowed to go out freely at night.)
-<0172> \{［伶］}
+<0172> \{[Rei]}
 <0173> (I'm not allowed to go out at night,
 <0174> Perhaps this child sees stars other than those visible from the window in his room.
 <0175> \ You've probably never seen it before...
-<0176> \{［伶］}
+<0176> \{[Rei]}
 <0177> (Actually, maybe I just want to go out into the garden at night and look at the stars.)
 <0178> Let's go outside and look at the stars tonight
 <0179> Say nothing
-<0180> \{［伶］}
+<0180> \{[Rei]}
 <0181> "...I understand. Then I will give you special permission,
 <0182> \ Let's go out into the garden tonight and look at the stars."
-<0183> \{［Hope］}
+<0183> \{[Hope]}
 <0184> "Eh..."
-<0185> \{［伶］}
+<0185> \{[Rei]}
 <0186> "Are you unhappy that I'm here with you?
 <0187> \ But unless I'm your escort,
 <0188> \ You won't be allowed to go out."
-<0189> \{［伶］}
+<0189> \{[Rei]}
 <0190> "So, I'm sorry to say this to you,
 <0191> \ I'll join you in looking at the stars.
 <0192> \ ……Sorry.”
-<0193> \{［Hope］}
+<0193> \{[Hope]}
 <0194> "No! That's not true...!"
-<0195> \{［伶］}
+<0195> \{[Rei]}
 <0196> "...Do you mind if I stay by your side?"
-<0197> \{［Hope］}
+<0197> \{[Hope]}
 <0198> "Yes...! Um, thank you very much!
 <0199> \ ...Ah..."
-<0200> \{［伶］}
+<0200> \{[Rei]}
 <0201> "What's wrong?"
-<0202> \{［Hope］}
+<0202> \{[Hope]}
 <0203> "Thank you very much."
-<0204> \{［伶］}
+<0204> \{[Rei]}
 <0205> "...It's not something worth thanking you for.
 <0206> \ I'll be heading back to my room soon."
-<0207> \{［Hope］}
+<0207> \{[Hope]}
 <0208> "Ah... yes."
 <0209> Leaving behind Nozomi, who hastily bowed his head,
 <0210> Rei left the room.
@@ -230,34 +230,34 @@
 <0223> The system administrator will act in accordance with the rules established by Takami.
 <0224> Currently, those who have the right to freely express their desires in the mansion are
 <0225> Rei was all alone.
-<0226> \{［伶］}
+<0226> \{[Rei]}
 <0227> "Nozomi, I've come to pick you up. Are you ready?"
 <0228> Enter the door by inserting your card key into the sensor.
 <0229> Rei called out as she entered the room.
 <0230> Nozomi stood there with her eyes wide open,
 <0231> He looks extremely surprised and stares back at Rei with a blank look on his face.
-<0232> \{［伶］}
+<0232> \{[Rei]}
 <0233> "What's wrong? You look so surprised."
-<0234> \{［Hope］}
+<0234> \{[Hope]}
 <0235> "Ah..."
-<0236> \{［伶］}
+<0236> \{[Rei]}
 <0237> "...I see, perhaps you are...
 <0238> \ Are you surprised that you didn't think I'd actually keep my promise?
-<0239> \{［Hope］}
+<0239> \{[Hope]}
 <0240> "...!"
-<0241> \{［Hope］}
+<0241> \{[Hope]}
 <0242> "Um, that's not right...!
 <0243> \ It feels like a dream to be able to go outside,
 <0244> \ It just didn't feel real, so..."
-<0245> \{［伶］}
+<0245> \{[Rei]}
 <0246> "...I see."
 <0247> Trying desperately to clear up the misunderstanding and convey his feelings,
 <0248> The way they worked so hard,
 <0249> Making Nozomi look more like a small animal than ever before,
 <0250> It made Rei, who was watching, feel a little smile on her face.
-<0251> \{［伶］}
+<0251> \{[Rei]}
 <0252> "If you're ready, let's go."
-<0253> \{［Hope］}
+<0253> \{[Hope]}
 <0254> "Y-Yes."
 <0255> Seeing Nozomi's limbs stiff with tension and jerky movements,
 <0256> Rei left the room with a smile.
@@ -269,13 +269,13 @@
 <0262> Nozomi couldn't hide her fear of everything around her,
 <0263> As soon as I reached a place where I could see the garden,
 <0264> Her eyes regain a brilliant vitality.
-<0265> \{［desire］}
+<0265> \{[Nozomi]}
 <0266> "Ah..."
 <0267> Nozomi looked up timidly, as if asking a question.
 <0268> Rei nodded back with a wry smile.
-<0269> \{［伶］}
+<0269> \{[Rei]}
 <0270> "...You can just go out into the garden."
-<0271> \{［Hope］}
+<0271> \{[Hope]}
 <0272> "Yes...!"
 <0273> At those words, her face suddenly brightened,
 <0274> Nozomi did not hesitate even a moment,
@@ -285,9 +285,9 @@
 <0278> With the building of the mansion behind her, she could see the stars clearly.
 <0279> In search of a distant, open place
 <0280> I keep pace with Nozomi and stroll slowly through the dimly lit garden.
-<0281> \{［Hope］}
+<0281> \{[Hope]}
 <0282> "...the sound of insects."
-<0283> \{［伶］}
+<0283> \{[Rei]}
 <0284> "Yeah... I can hear you."
 <0285> Suddenly, Nozomi stopped in her tracks.
 <0286> He tilted his head as if following the wind and muttered,
@@ -299,73 +299,73 @@
 <0292> If you listen carefully, you can hear the presence of things that live in the night,
 <0293> You can feel it everywhere.
 <0294> The garden was filled with the activity of creatures that were still asleep.
-<0295> \{［Hope］}
+<0295> \{[Hope]}
 <0296> "...It smells sweet..."
-<0297> \{［伶］}
+<0297> \{[Rei]}
 <0298> "This is... the scent of roses...
 <0299> Oh, that reminds me, in a sunny spot on the south side,
 <0300> \ I saw a big white rose in bloom."
 <0301> If you take a deep breath, you will feel stronger than if you were in a garden shining in the sun.
 <0302> The suffocating fragrance that flowers give off when they sprout
 <0303> Feel the powerful breath of life in the lush green garden at night.
-<0304> \{［desire］}
+<0304> \{[Nozomi]}
 <0305> "...the air is so cool..."
-<0306> \{［伶］}
+<0306> \{[Rei]}
 <0307> "Yes, it is. It's veryーbeautiful."
 <0308> Are you trying to feel the presence of night closer to you?
 <0309> Nozomi closes her eyes to sharpen her senses,
 <0310> Stepping barefoot on the ground where young grass is sprouting,
 <0311> I stand still, listening intently to the whispers in the air.
-<0312> \{［伶］}
+<0312> \{[Rei]}
 <0313> "Can you hear anything?"
-<0314> \{［Hope］}
+<0314> \{[Hope]}
 <0315> "…………
 <0316> \ I can hear your voice.
-<0317> \{［伶］}
+<0317> \{[Rei]}
 <0318> "A voice?"
-<0319> \{［Hope］}
+<0319> \{[Hope]}
 <0320> "Living in this garden and forest,
 <0321> \ The voices of birds and animals..."
-<0322> \{［desire］}
+<0322> \{[Nozomi]}
 <0323> "Now... I am at peace."
-<0324> \{［伶］}
+<0324> \{[Rei]}
 <0325> "......"
 <0326> No matter how hard Rei listens, she can't hear
 <0327> It seems that the voices of the little ones are reaching Nozomi.
 <0328> I watched Nozomi standing there in silence for a while,
 <0329> When Nozomi opened her eyes with a satisfied expression,
 <0330> Rei spoke in a quiet voice.
-<0331> \{［伶］}
+<0331> \{[Rei]}
 <0332> "--Let's go. The branches are blocking the view of the sky here.
 <0333> \ Let's find a place with a better view."
-<0334> \{［desire］}
+<0334> \{[Nozomi]}
 <0335> "Ah... yes."
 <0336> For a while, the two stood side by side in silence.
 <0337> I stroll through the garden illuminated by pure white moonlight pouring down from the sky.
-<0338> \{［伶］}
+<0338> \{[Rei]}
 <0339> "Ah... I think you can see the stars well around here.
 <0340> \ Nozomi, is it okay to observe from here?
-<0341> \{［desire］}
+<0341> \{[Nozomi]}
 <0342> "Yes..."
-<0343> \{［伶］}
+<0343> \{[Rei]}
 <0344> "Come on, you too. It's hard to look up at the stars,
 <0345> \ Let's take a position that allows for comfortable observation.
-<0346> \{［desire］}
+<0346> \{[Nozomi]}
 <0347> "......"
-<0348> \{［伶］}
+<0348> \{[Rei]}
 <0349> "Come on, Nozomi."
-<0350> \{［desire］}
+<0350> \{[Nozomi]}
 <0351> "Ah...!"
 <0352> Rei said forcefully,
 <0353> He pulled Nozomi's arm, who hesitated.
-<0354> \{［伶］}
+<0354> \{[Rei]}
 <0355> "Look, look. It's the starry sky you said you wanted to see."
 <0356> I gently patted Nozomi's shoulder, who was blushing and nervous.
 <0357> I direct my gaze upwards.
 <0358> Still soft and pale in colour,
 <0359> We stood together on the grass that had just begun to sprout,
 <0360> I look up at the starry sky that seems to be falling.
-<0361> \{［desire］}
+<0361> \{[Nozomi]}
 <0362> "Wow...!"
 <0363> Filling the celestial sphere with overwhelming quantities,
 <0364> It threatens to overwhelm those who live on earth,
@@ -381,37 +381,37 @@
 <0374> The ordinary light that can still be found,
 <0375> Tonight, like a precious being I've never seen before,
 <0376> Why does it appear to sparkle so dazzlingly?
-<0377> \{［伶］}
+<0377> \{[Rei]}
 <0378> "......"
-<0379> \{［Hope］}
+<0379> \{[Hope]}
 <0380> "White...light"
-<0381> \{［伶］}
+<0381> \{[Rei]}
 <0382> "Ah, that star is Spica.
 <0383> \ Also known as "Pearl Star",
 <0384> \ It's the first-magnitude star in Virgo.
-<0385> \{［Hope］}
+<0385> \{[Hope]}
 <0386> "Spica..."
-<0387> \{［伶］}
+<0387> \{[Rei]}
 <0388> "The southern zenith is lit up with exceptional brightness,
 <0389> That's Arcturus. ...the brightest star in the constellation Bootes.
-<0390> \{［Hope］}
+<0390> \{[Hope]}
 <0391> "Uh... what about that star...?"
-<0392> \{［伶］}
+<0392> \{[Rei]}
 <0393> "That's Regulus of Leo."
-<0394> \{［Hope］}
+<0394> \{[Hope]}
 <0395> "Um, so what's that...?"
-<0396> \{［伶］}
+<0396> \{[Rei]}
 <0397> "Is that it? I'm sure that's--"
 <0398> Nozomi timidly points to the name of the star,
 <0399> Rei answered each question with a detailed explanation.
 <0400> At first it was small,
 <0401> Nozomi's voice sounded somewhat like she was trying to get at Rei.
 <0402> With each answer, I feel lighter and lighter.
-<0403> \{［Hope］}
+<0403> \{[Hope]}
 <0404> "...! Now, the stars!"
-<0405> \{［伶］}
+<0405> \{[Rei]}
 <0406> "Oh, what a magnificent meteor."
-<0407> \{［Hope］}
+<0407> \{[Hope]}
 <0408> "Ah...! Again!"
 <0409> Nozomi's eyes sparkle with more vitality than usual,
 <0410> Express your joy honestly with your whole body,
@@ -422,17 +422,17 @@
 <0415> Rei can't take her eyes off Nozomi.
 <0416> The eyes of hope, filled with strong longing,
 <0417> I gaze up at the sky purely and earnestly, like in prayer.
-<0418> \{［desire］}
+<0418> \{[Nozomi]}
 <0419> "Ah..."
-<0420> \{［伶］}
+<0420> \{[Rei]}
 <0421> "What's wrong? Did you see anything unusual?"
-<0422> \{［desire］}
+<0422> \{[Nozomi]}
 <0423> "The...light of the stars"
-<0424> \{［伶］}
+<0424> \{[Rei]}
 <0425> "A light?"
-<0426> \{［desire］}
+<0426> \{[Nozomi]}
 <0427> "I thought it looked like a light from a window in the distance."
-<0428> \{［伶］}
+<0428> \{[Rei]}
 <0429> "The light in the window..."
 <0430> I was slightly surprised by Nozomi's words and narrowed my eyes.
 <0431> Rei had been thinking something similar just now.
@@ -441,38 +441,38 @@
 <0434> This night, this moment,
 <0435> Knowing that Nozomi felt the same way as Rei,
 <0436> I couldn't help but burst out laughing.
-<0437> \{［Hope］}
+<0437> \{[Hope]}
 <0438> "Um, um...?"
-<0439> \{［伶］}
+<0439> \{[Rei]}
 <0440> "No, sorry. I wasn't laughing at you.
 <0441> \ I wonder if I was thinking the same thing as you,
 <0442> \ Suddenly something strange happened.
-<0443> \{［Hope］}
+<0443> \{[Hope]}
 <0444> "You too?"
-<0445> \{［伶］}
+<0445> \{[Rei]}
 <0446> "Yes. Look at that star,
 <0447> \ I thought the same thing as you.
-<0448> \{［desire］}
+<0448> \{[Nozomi]}
 <0449> "...same..."
-<0450> \{［伶］}
+<0450> \{[Rei]}
 <0451> "What's wrong, Nozomi? Staring at people's faces again.
 <0452> Is there anything else you want to say to me?"
-<0453> \{［Hope］}
+<0453> \{[Hope]}
 <0454> "--! No, it's nothing!"
-<0455> \{［伶］}
+<0455> \{[Rei]}
 <0456> "--? What a strange kid."
 <0457> He shook his head from side to side and cried out in a hoarse voice.
 <0458> Nozomi's flustered expression was funny,
 <0459> Rei couldn't help but smile wryly.
 <0460> To hide her flushed cheeks from Rei's gaze,
 <0461> His eyes, wavering with some kind of thought, turned to the sky.
-<0462> \{［伶］}
+<0462> \{[Rei]}
 <0463> "--It's getting quite late into the night.
 <0464> \ My body seems to be getting a little cold,
 <0465> \ I think it's about time to go back to my room, is that okay?
-<0466> \{［desire］}
+<0466> \{[Nozomi]}
 <0467> "Ah, yes!"
-<0468> \{［伶］}
+<0468> \{[Rei]}
 <0469> "Let's go back to the mansion."
 <0470> When hope is aroused,
 <0471> Rei begins to walk slowly towards the lights of the mansion.
@@ -480,38 +480,38 @@
 <0473> Listening to the sound of light footsteps behind me,
 <0474> Rei jogged along, out of breath.
 <0475> I allowed myself to slow down just a little.
-<0476> \{［伶］}
+<0476> \{[Rei]}
 <0477> "I'll be heading back to my room tonight.
 <0478> \ Well, good night. Nozomi.
-<0479> \{［Hope］}
+<0479> \{[Hope]}
 <0480> "Um, um...!"
-<0481> \{［伶］}
+<0481> \{[Rei]}
 <0482> "...What?"
-<0483> \{［Hope］}
+<0483> \{[Hope]}
 <0484> "Thank you very much..."
-<0485> \{［Hope］}
+<0485> \{[Hope]}
 <0486> "This is the first time I've ever experienced something like this.
 <0487> \ It was so much fun...!
-<0488> \{［伶］}
+<0488> \{[Rei]}
 <0489> "Yes. I'm glad it made you happy.
 <0490> \ It was worth inviting me too."
-<0491> \{［Hope］}
+<0491> \{[Hope]}
 <0492> "...Ah..."
-<0493> \{［伶］}
+<0493> \{[Rei]}
 <0494> "Well, it's getting late tonight. Time to get some rest.
 <0495> \ I'm going back to my room too."
-<0496> \{［desire］}
+<0496> \{[Nozomi]}
 <0497> "Y-yes. Um..."
-<0498> \{［伶］}
+<0498> \{[Rei]}
 <0499> "--? What's the matter? Is there anything else you'd like to say?"
-<0500> \{［desire］}
+<0500> \{[Nozomi]}
 <0501> "No...um."
-<0502> \{［desire］}
+<0502> \{[Nozomi]}
 <0503> "......"
-<0504> \{［desire］}
+<0504> \{[Nozomi]}
 <0505> "...Oh, good night.
 <0506> …………Rei-san…………!”
-<0507> \{［伶］}
+<0507> \{[Rei]}
 <0508> "Eh...?"
 <0509> Surprised by what I heard, I turned around without thinking.
 <0510> Nozomi pressed her hands against her cheeks, which were as red as they could be.
@@ -521,13 +521,13 @@
 <0514> The door closes with a loud bang.
 <0515> --There's no chance to stop it.
 <0516> It all happened in the blink of an eye.
-<0517> \{［伶］}
+<0517> \{[Rei]}
 <0518> "......"
 <0519> Rei was left alone in the hallway.
 <0520> An unexpected comment,
 <0521> I stared at the closed door with wide eyes.
 <0522> He muttered quietly as if to confirm something.
-<0523> \{［伶］}
+<0523> \{[Rei]}
 <0524> "...It's the first time she's called my name."
 <0525> If I didn't mishear what you just said,
 <0526> It was definitely "Rei" -- Nozomi called out to him.
@@ -540,7 +540,7 @@
 <0533> A tumultuous, rippling feelingーan indescribable emotion,
 <0534> Like warm water,
 <0535> It gently filled Rei's heart and swayed.
-<0536> \{［伶］}
+<0536> \{[Rei]}
 <0537> "......"
 <0538> But now I have no words to express my hope,
 <0539> Rei kept her mouth shut.
@@ -554,24 +554,24 @@
 <0547> Go to bed without staying up too late.
 <0548> I turn off the soft light in the room and close my eyes,
 <0549> Soon I was in a deep sleep.
-<0550> \{［伶］}
+<0550> \{[Rei]}
 <0551> "That's right... I guess I should go and check on Nozomi.
 <0552> \ I'll go to Nozomi's room."
-<0553> \{［伶］}
+<0553> \{[Rei]}
 <0554> "Nozomi, I'm coming in."
 <0555> Rei called out softly as she stepped into the room.
 <0556> Sitting on the bed, looking down,
 <0557> Nozomi looks different, as if she is somehow troubled.
 <0558> I instinctively stopped my approach.
-<0559> \{［伶］}
+<0559> \{[Rei]}
 <0560> “--Nozomi?”
 <0561> Nozomi has clearly cried her eyes out.
 <0562> He looked down with his red, swollen eyes.
 <0563> He doesn't even look at Rei when she enters the room.
-<0564> \{［伶］}
+<0564> \{[Rei]}
 <0565> "What's wrong? ...Something's wrong.
 <0566> \ Is something wrong?
-<0567> \{［desire］}
+<0567> \{[Nozomi]}
 <0568> "......"
 <0569> Feeling suspicious, I called out to him carefully,
 <0570> Sitting on the edge of the bed, her small body stiff,
@@ -582,16 +582,16 @@
 <0575> If you look closely, you can see that the fists are tightly clenched on the knees.
 <0576> Because I gripped it too tightly,
 <0577> He is pale and trembling.
-<0578> \{［伶］}
+<0578> \{[Rei]}
 <0579> "...What happened?"
-<0580> \{［desire］}
+<0580> \{[Nozomi]}
 <0581> "......"
-<0582> \{［伶］}
+<0582> \{[Rei]}
 <0583> “Nozomi”
 <0584> I called out a little harder and finally got a response.
 <0585> I startled and shook my shoulders at the sound of Rei's voice,
 <0586> Nozomi looked up, looking extremely tired, and saw Rei.
-<0587> \{［伶］}
+<0587> \{[Rei]}
 <0588> "...!"
 <0589> A pitch-black despair that is hard to put into words,
 <0590> It spreads out in the moist gaze that stares back at the void.
@@ -599,9 +599,9 @@
 <0592> The boy's eyes, irreparably damaged.
 <0593> But the eye, though sorely wounded,
 <0594> It was painfully clear.
-<0595> \{［伶］}
+<0595> \{[Rei]}
 <0596> "...What exactly happened to you? Nozomi..."
-<0597> \{［Hope］}
+<0597> \{[Hope]}
 <0598> "......"
 <0599> Without answering Rei's question,
 <0600> Nozomi lowers her face again.

@@ -1,8 +1,8 @@
 // Resources for SEEN0301.TXT
 
-#character '［Marie］'
+#character '[Marie]'
 #character '[Rei]'
-#character '［desire］'
+#character '[Nozomi]'
 
 <0000> May 5th Nozomi Route
 <0001> From afar,
@@ -33,12 +33,12 @@
 <0026> A voice asks if you've woken up,
 <0027> Gently, like a gentle breeze hitting the surface,
 <0028> He gently calls out to Rei.
-<0029> \{［伶］}
+<0029> \{[Rei]}
 <0030> "…………Is that you?"
 <0031> \{[Mari]}
 <0032> "Oh, are you awake?
 <0033> \ Good morning, Rei-sama.
-<0034> \{［伶］}
+<0034> \{[Rei]}
 <0035> "Ah... Good morning."
 <0036> \{[Mari]}
 <0037> "Um, Rei-sama, are you okay?
@@ -47,11 +47,11 @@
 <0040> "Rei-sama, there was what happened yesterday,
 <0041> \ If you are not feeling well,
 <0042> \ Why don't you just take a break for today?
-<0043> \{［伶］}
+<0043> \{[Rei]}
 <0044> "No, nothing's wrong. I'll wake up."
 <0045> \{[Mari]}
 <0046> "Please don't push yourself too hard..."
-<0047> \{［伶］}
+<0047> \{[Rei]}
 <0048> "Oh, I'll keep that in mind.
 <0049> \ More importantly, the fact that you came to wake me up means
 <0050> \ Breakfast is ready in the dining room."
@@ -60,52 +60,52 @@
 <0053> \{[Mari]}
 <0054> "If you don't mind, this morning I was with Nozomi-san,
 <0055> \ Why don't you join us for breakfast?
-<0056> \{［伶］}
+<0056> \{[Rei]}
 <0057> "I'm going to have breakfast with Nozomi?"
 <0058> \{[Mari]}
 <0059> "Yes. Nozomi-san, your meal is just about to begin, so
 <0060> \ It's better to have a meal together with everyone.
 <0061> \ I thought it would be fun and lively to have a conversation..."
-<0062> \{［伶］}
+<0062> \{[Rei]}
 <0063> "...That's true. It's not bad to do something like that once in a while."
 <0064> \{[Mari]}
 <0065> "Great...! Now, let's hurry to the dining room.
 <0066> \ We'll prepare a seat for you, Nozomi.
 <0067> \ Please come to the dining room, Rei-sama, in a little while."
-<0068> \{［伶］}
+<0068> \{[Rei]}
 <0069> "Oh, I understand."
 <0070> I slowly changed my clothes, got ready, and arrived at the dining room.
 <0071> Nozomi was already waiting for Rei at the prepared seat.
 <0072> I stand up hastily.
-<0073> \{［伶］}
+<0073> \{[Rei]}
 <0074> "Oh, there's no need to stand up, just sit there.
 <0075> \ --Good morning, Nozomi. Did you sleep well last night?
-<0076> \{［Hope］}
+<0076> \{[Hope]}
 <0077> "...Good morning..."
-<0078> \{［伶］}
+<0078> \{[Rei]}
 <0079> "...? What's wrong? You look really strange.
 <0080> \ Did I do something to offend you?"
-<0081> \{［Hope］}
+<0081> \{[Hope]}
 <0082> "No, no, that's not true...!
 <0083> \ ...Um..."
-<0084> \{［Hope］}
+<0084> \{[Hope]}
 <0085> "Saying morning greetings to people other than Marie-san...
 <0086> \ I thought it was my first time...
-<0087> \{［Hope］}
+<0087> \{[Hope]}
 <0088> "So..."
-<0089> \{［伶］}
+<0089> \{[Rei]}
 <0090> "...You feel a bit embarrassed?"
-<0091> \{［Hope］}
+<0091> \{[Hope]}
 <0092> "...Yes."
 <0093> \{[Mari]}
 <0094> "Nozomi, your face is bright red...!"
-<0095> \{［Hope］}
+<0095> \{[Hope]}
 <0096> "...!"
 <0097> \{[Mari]}
 <0098> "But it was good.
 <0099> \ There is someone nearby to exchange greetings with,
 <0100> \ It's comforting to the heart..."
-<0101> \{［desire］}
+<0101> \{[Nozomi]}
 <0102> "Yes..."
 <0103> \{[Mari]}
 <0104> "Now, Rei-sama, please take a seat.
@@ -118,20 +118,20 @@
 <0111> "Nozomi, which one would you like to eat?
 <0112> \ This dish of burdock and parsley dressed with mustard,
 <0113> \ It has a great taste and I highly recommend it!
-<0114> \{［Hope］}
+<0114> \{[Hope]}
 <0115> "Yes... Yes. Thank you..."
 <0116> \{[Mari]}
 <0117> "For the porridge, use this bowl.
 <0118> \ Please choose your favorite toppings and enjoy.
 <0119> \ Rei-sama, how about some mitsuba?
-<0120> \{［伶］}
+<0120> \{[Rei]}
 <0121> "Yes, I'll have some. Please keep the condiments."
 <0122> \{[Mari]}
 <0123> "Yes, I'm back!"
 <0124> \{[Mari]}
 <0125> "Nozomi-san, how do you like the yuba rolls?
 <0126> \ Did you enjoy it?
-<0127> \{［Hope］}
+<0127> \{[Hope]}
 <0128> "Yes. It's very delicious..."
 <0129> \{[Mari]}
 <0130> "I see, that's good!
@@ -156,18 +156,18 @@
 <0149> "Umm... actually, I,
 <0150> \ There is something I need to tell you, Nozomi-san.
 <0151> \ There was only one.
-<0152> \{［Hope］}
+<0152> \{[Hope]}
 <0153> "To me...?"
 <0154> \{[Mari]}
 <0155> "Nozomi-san has been worried about you for a long time,
 <0156> \ It's about a lost puppy."
-<0157> \{［Hope］}
+<0157> \{[Hope]}
 <0158> "Did something happen to the puppy...?!"
 <0159> \{[Mari]}
 <0160> "No, don't worry.
 <0161> \ As for what happened to that puppy,
 <0162> \ He is said to be doing well at the ranch where he was taken in.
-<0163> \{［Hope］}
+<0163> \{[Hope]}
 <0164> "...!"
 <0165> \{[Mari]}
 <0166> "The couple also said of their mischievous and cute puppy,
@@ -177,54 +177,54 @@
 <0170> "Thank you to Nozomi-san for introducing me to the puppy.
 <0171> \ Please tell them "Thank you very much."
 <0172> \ I have a message for you from the couple.
-<0173> \{［Hope］}
+<0173> \{[Hope]}
 <0174> "No way... I'm the one who's grateful..."
 <0175> \{[Mari]}
 <0176> "That's good for you, Nozomi.
 <0177> \ I'm sure the puppy will live happily with you and your wife."
-<0178> \{［Hope］}
+<0178> \{[Hope]}
 <0179> "Yes...!"
-<0180> \{［伶］}
+<0180> \{[Rei]}
 <0181> "Now that I think about it, how long have you been
 <0182> So - did you have the power to hear "voices"?"
-<0183> \{［Hope］}
+<0183> \{[Hope]}
 <0184> "Well, probably ever since I was born..."
-<0185> \{［Hope］}
+<0185> \{[Hope]}
 <0186> "Talking to birds and animals...
 <0187> \ It wasn't difficult for me..."
-<0188> \{［伶］}
+<0188> \{[Rei]}
 <0189> "I see..."
-<0190> \{［伶］}
+<0190> \{[Rei]}
 <0191> "So what about humans?
 <0192> \ So, are they more tiring to deal with than other living creatures?
-<0193> \{［Hope］}
+<0193> \{[Hope]}
 <0194> "......"
-<0195> \{［Hope］}
+<0195> \{[Hope]}
 <0196> "People are... difficult..."
-<0197> \{［Hope］}
+<0197> \{[Hope]}
 <0198> "But..."
-<0199> \{［Hope］}
+<0199> \{[Hope]}
 <0200> "You're different from other people.
 <0201> \ ...That's what I think."
-<0202> \{［伶］}
+<0202> \{[Rei]}
 <0203> "......"
-<0204> \{［伶］}
+<0204> \{[Rei]}
 <0205> "...When you say it like that,
 <0206> \ I think you've overestimated me,
 <0207> \ That's troubling."
-<0208> \{［伶］}
+<0208> \{[Rei]}
 <0209> "I'm not as good as you think,
 <0210> \ I don't think he's a kind or gentle person."
-<0211> \{［Hope］}
+<0211> \{[Hope]}
 <0212> "......"
-<0213> \{［伶］}
+<0213> \{[Rei]}
 <0214> "...Somehow, something's off.
 <0215> \ Oh well. Marie, I'd like some dessert now.
 <0216> After that, Marie continued to provide topics of conversation,
 <0217> The pleasant meal scene continued with Rei and Nozomi nodding along.
 <0218> However, suddenly, Rei,
 <0219> I noticed that something was a bit off about Nozomi.
-<0220> \{［伶］}
+<0220> \{[Rei]}
 <0221> "......?"
 <0222> If you observe Nozomi carefully,
 <0223> Something was wrong.
@@ -234,29 +234,29 @@
 <0227> Looking around, it seems like he's not eating very well with his chopsticks.
 <0228> At first, Nozomi seemed fine,
 <0229> As time went on, I noticed something was going wrong.
-<0230> \{［伶］}
+<0230> \{[Rei]}
 <0231> (...Maybe Nozomi isn't feeling well?)
 <0232> I can't leave it alone
 <0233> Ignore
-<0234> \{［伶］}
+<0234> \{[Rei]}
 <0235> "...Nozomi. Perhaps you are...
 <0236> \ Haven't you been feeling unwell for a while now?
-<0237> \{［Hope］}
+<0237> \{[Hope]}
 <0238> "Eh! Ah, well... that's not true.
 <0239> \ I'm fine!
-<0240> \{［伶］}
+<0240> \{[Rei]}
 <0241> "...You don't look very calm.
 <0242> \ Come here, Nozomi.
-<0243> \{［Hope］}
+<0243> \{[Hope]}
 <0244> "Eh... Ah, um...!?"
 <0245> He didn't seem to understand what was happening to him.
 <0246> He didn't seem to mind Nozomi's confused and flustered attitude.
 <0247> I press my palm against his forehead.
-<0248> \{［desire］}
+<0248> \{[Nozomi]}
 <0249> "Rei...san...?"
-<0250> \{［伶］}
+<0250> \{[Rei]}
 <0251> "...You feel a little hot. I think I have a slight fever."
-<0252> \{［Hope］}
+<0252> \{[Hope]}
 <0253> “Fever…?”
 <0254> The warmth transmitted from the palm of your hand,
 <0255> When Nozomi's body temperature is slightly higher than that of a normal human,
@@ -264,67 +264,67 @@
 <0257> \{[Mari]}
 <0258> "I'm tired from yesterday's commotion,
 <0259> \ Because I forced you to come..."
-<0260> \{［desire］}
+<0260> \{[Nozomi]}
 <0261> "No, it's my fault!
 <0262> \ I was the one who wanted to join you..."
-<0263> \{［伶］}
+<0263> \{[Rei]}
 <0264> "No... I, your master, have asked for
 <0265> \ There's no way you can say \ruby{No}={ No }.
 <0266> \ I should have been more concerned about your health."
-<0267> \{［伶］}
+<0267> \{[Rei]}
 <0268> "Anyway, you should get some rest in your room.
 <0269> \ I'll walk you to your room, Nozomi.
-<0270> \{［Hope］}
+<0270> \{[Hope]}
 <0271> "No, I'm fine! I'm fine on my own!"
-<0272> \{［伶］}
+<0272> \{[Rei]}
 <0273> "...Do you not like being sent by me?"
-<0274> \{［desire］}
+<0274> \{[Nozomi]}
 <0275> "No! It's not that!
 <0276> \ Umm... it's not that,
 <0277> \ I'm sorry to interrupt your meal."
-<0278> \{［伶］}
+<0278> \{[Rei]}
 <0279> "Oh, so that's the reason.
 <0280> \ Then I will send you away by force."
-<0281> \{［Hope］}
+<0281> \{[Hope]}
 <0282> "Huh... Huh!?
 <0283> \ Rei-san, what on earth are you doing...Whaaaaaaat?
 <0284> He grabbed the panicked Nozomi by the collar,
 <0285> I pulled him close so he couldn't escape,
 <0286> Rei then picked up the small body in her arms.
-<0287> \{［Hope］}
+<0287> \{[Hope]}
 <0288> "Hyaaa...!?"
 <0289> I was lifted up in Rei's arms, facing up,
 <0290> Perhaps they were surprised by how close their faces were to each other,
 <0291> Nozomi's face gets even redder.
-<0292> \{［伶］}
+<0292> \{[Rei]}
 <0293> "Oh no. It looks like your fever has risen again.
 <0294> \ Your face is very red."
-<0295> \{［Hope］}
+<0295> \{[Hope]}
 <0296> "No, um, this isn't because of the fever...!"
-<0297> \{［伶］}
+<0297> \{[Rei]}
 <0298> "Is that so? Anyway,
 <0299> \ I'll take you to your room now."
-<0300> \{［Hope］}
+<0300> \{[Hope]}
 <0301> "What?! T-That's not true."
 <0302> \{[Mari]}
 <0303> "Well then, Rei-sama,
 <0304> \ Please take Nozomi to her room.
 <0305> \ I'll send a doctor right away."
-<0306> \{［伶］}
+<0306> \{[Rei]}
 <0307> "Yes, I'll be counting on you."
-<0308> \{［伶］}
+<0308> \{[Rei]}
 <0309> "Even so, you're quite light-hearted.
 <0310> \ I'm not a very strong person, but
 <0311> \ This way it can be carried easily.
-<0312> \{［Hope］}
+<0312> \{[Hope]}
 <0313> "Ah...! S-sorry!
 <0314> \ It's really okay to take it down!
 <0315> \ I can walk by myself...!
-<0316> \{［伶］}
+<0316> \{[Rei]}
 <0317> "No, I'll just take you to your room.
 <0318> \ If I accidentally swallow your words whole,
 <0319> \ He's always being reserved, and I don't know what kind of unreasonableness he'll try."
-<0320> \{［Hope］}
+<0320> \{[Hope]}
 <0321> "Th-that's not true..."
 <0322> The boy's blushing and panicked face made me laugh,
 <0323> The whole time I was carrying Nozomi to her room,
@@ -340,12 +340,12 @@
 <0333> After all, if it bothers you that much,
 <0334> I think it would be better to just go and see it for yourself.
 <0335> I decided to visit Nozomi's room.
-<0336> \{［伶］}
+<0336> \{[Rei]}
 <0337> "...Nozomi, I'm coming in."
 <0338> Nozomi had a fever and was in bed.
 <0339> If they are asleep, we must not disturb them, so we refrain from knocking.
 <0340> Rei opens the door in a considerate voice.
-<0341> \{［伶］}
+<0341> \{[Rei]}
 <0342> “Nozomi…?”
 <0343> I called out softly, but there was no response.
 <0344> I thought you were asleep after all.
@@ -359,7 +359,7 @@
 <0352> Worried about his condition, I leaned in close,
 <0353> My breathing was a little faster and shallower than usual.
 <0354> A small gasp can be heard leaking from her cherry-colored lips.
-<0355> \{［伶］}
+<0355> \{[Rei]}
 <0356> (...The fever still hasn't gone down.)
 <0357> I hesitated for a moment, thinking I might wake him up,
 <0358> I was really worried about the fever.
@@ -378,13 +378,13 @@
 <0371> Gently stimulate Rei's nasal passages.
 <0372> Like the feeling of sitting in the pleasant spring sunshine,
 <0373> A soft scent that evokes heartwarming nostalgia.
-<0374> \{［伶］}
+<0374> \{[Rei]}
 <0375> (Is this the smell of baby powder...?)
 <0376> Perhaps after wiping the sweat off him,
 <0377> With the intention of making you feel a little better,
 <0378> It must have been done by Marie.
 <0379> The smell of baby powder wafts from Nozomi's body.
-<0380> \{［伶］}
+<0380> \{[Rei]}
 <0381> (Nozomi smells like baby powder.
 <0382> \ Somehow... it's a combination that just fits too well.)
 <0383> The smell of warm powder,
@@ -393,401 +393,401 @@
 <0386> For some reason, it made Rei feel a little ticklish.
 <0387> I couldn't help but chuckle,
 <0388> Nozomi's eyelids tremble at the sound of this.
-<0389> \{［Hope］}
+<0389> \{[Hope]}
 <0390> "...Who...?"
-<0391> \{［伶］}
+<0391> \{[Rei]}
 <0392> "Sorry, I woke you up."
-<0393> \{［Hope］}
+<0393> \{[Hope]}
 <0394> "Rei-san...?"
-<0395> \{［伶］}
+<0395> \{[Rei]}
 <0396> "Oh, it's okay if you don't wake up.
 <0397> \ Just leave it as it is."
-<0398> \{［Hope］}
+<0398> \{[Hope]}
 <0399> "...What's wrong?
 <0400> \ Is there something I can help you with...?
-<0401> \{［伶］}
+<0401> \{[Rei]}
 <0402> "No... there's nothing special I need to do.
 <0403> \ I just came to see your face."
-<0404> \{［Hope］}
+<0404> \{[Hope]}
 <0405> "My...?"
-<0406> \{［伶］}
+<0406> \{[Rei]}
 <0407> "I heard from Marie that your fever hasn't gone down yet,
 <0408> \ I just wanted to see how you were doing..."
-<0409> \{［伶］}
+<0409> \{[Rei]}
 <0410> "What's the matter, Nozomi? Are you feeling unwell?"
-<0411> \{［desire］}
+<0411> \{[Nozomi]}
 <0412> "...I'm happy."
-<0413> \{［伶］}
+<0413> \{[Rei]}
 <0414> "Happy? What?"
-<0415> \{［desire］}
+<0415> \{[Nozomi]}
 <0416> "Like this, with a fever...even when I wake up,
 <0417> \ There's usually no one here..."
-<0418> \{［desire］}
+<0418> \{[Nozomi]}
 <0419> "But... today, you were there...
 <0420> \ I'm very happy about that..."
-<0421> \{［伶］}
+<0421> \{[Rei]}
 <0422> "Ah, when I am sick and weak,
 <0423> \ That seems to be the case.
 <0424> \ I'm not that way, but I hear some people feel lonely.
-<0425> \{［desire］}
+<0425> \{[Nozomi]}
 <0426> "...Rei-san, at a time like this,
 <0427> \ Don't you feel lonely even when you're alone...?
-<0428> \{［伶］}
+<0428> \{[Rei]}
 <0429> "Me? That's right - ever since I was young,
 <0430> \ I was alone when I had a fever and had to stay in bed,
 <0431> \ I don't think I've ever thought about it that way."
-<0432> \{［伶］}
+<0432> \{[Rei]}
 <0433> "I've always been alone since I was old enough to understand,
 <0434> \ I thought that was normal.
 <0435> \ So I've never felt particularly lonely.
-<0436> \{［desire］}
+<0436> \{[Nozomi]}
 <0437> "Have you been alone this whole time?"
-<0438> \{［伶］}
+<0438> \{[Rei]}
 <0439> "That's true...
 <0440> \ My relationship with my mother has never been good.
 <0441> \ My father was indifferent to me from the beginning.
-<0442> \{［伶］}
+<0442> \{[Rei]}
 <0443> "Now that I think about it, I have fond memories of spending time together with them.
 <0444> \ I don't have it..."
-<0445> \{［Hope］}
+<0445> \{[Hope]}
 <0446> "Um... I'm sorry.
 <0447> \ I'm sorry for making you talk like that..."
-<0448> \{［伶］}
+<0448> \{[Rei]}
 <0449> "No, you don't need to apologize.
 <0450> \ I don't mind at all,
 <0451> \ It was us who started this in the first place."
-<0452> \{［伶］}
+<0452> \{[Rei]}
 <0453> "I've been living separately from my parents for many years now.
 <0454> \ We're both indifferent and carefree."
-<0455> \{［伶］}
+<0455> \{[Rei]}
 <0456> "But, well, these old stories from other people,
 <0457> \ It's boring to listen to. Let's stop now.
-<0458> \{［desire］}
+<0458> \{[Nozomi]}
 <0459> "...If you don't mind, Rei-san,
 <0460> \ I want to know more about you."
-<0461> \{［伶］}
+<0461> \{[Rei]}
 <0462> "...Even if you listen to my story,
 <0463> \ I don't think it's particularly interesting though.
-<0464> \{［desire］}
+<0464> \{[Nozomi]}
 <0465> "I want to hear it..."
-<0466> \{［伶］}
+<0466> \{[Rei]}
 <0467> "......"
-<0468> \{［伶］}
+<0468> \{[Rei]}
 <0469> "That's right... there are things I want to tell people,
 <0470> \ I feel like there wasn't much between them and me.
 <0471> \ If I had to give it a name, it would be a boring story.
-<0472> \{［伶］}
+<0472> \{[Rei]}
 <0473> "...When my parents and I realized it,
 <0474> \ They were a cold family with no contact with each other.
-<0475> \{［伶］}
+<0475> \{[Rei]}
 <0476> "When I say "without contact," I mean it literally.
 <0477> \ My mother was extremely afraid to touch me.
-<0478> \{［伶］}
+<0478> \{[Rei]}
 <0479> "My mother was deeply afraid of the heretical powers I possessed.
 <0480> \ When I touch her, she goes crazy."
-<0481> \{［desire］}
+<0481> \{[Nozomi]}
 <0482> "......!"
-<0483> \{［伶］}
+<0483> \{[Rei]}
 <0484> "My parents separated when I was just twelve years old.
 <0485> \ I'm the reason we broke up.
 <0486> \ My mother ended up becoming mentally ill because of me--"
-<0487> \{［伶］}
+<0487> \{[Rei]}
 <0488> "I'm leaving for a sanatorium to focus on my mother's treatment.
 <0489> \ Leaving my parents,
 <0490> \ I was entrusted to the Kujo family, who are distant relatives.
-<0491> \{［伶］}
+<0491> \{[Rei]}
 <0492> "Then I lived with Takami until I was eighteen,
 <0493> \ After I got accepted into university, I left the Kujo household and started living alone.
-<0494> \{［Hope］}
+<0494> \{[Hope]}
 <0495> "Umm... Mom and Dad,
 <0496> \ What are you doing now...?
-<0497> \{［伶］}
+<0497> \{[Rei]}
 <0498> "Ahh... I haven't seen my parents since.
 <0499> \ Shortly after we broke up, we both died in an accident."
-<0500> \{［desire］}
+<0500> \{[Nozomi]}
 <0501> "What?! Is that possible...?
 <0502> \ Um, I... I'm really sorry...!"
-<0503> \{［伶］}
+<0503> \{[Rei]}
 <0504> "I told you it was a long time ago.
 <0505> \ So don't worry about it.
 <0506> \ I didn't even cry at my parents' funeral."
-<0507> \{［伶］}
+<0507> \{[Rei]}
 <0508> "My father has never really acted like a parent.
 <0509> \ I was originally a more distant person than others,
 <0510> \ Even after my father passed away, I didn't really feel it.
-<0511> \{［伶］}
+<0511> \{[Rei]}
 <0512> "My mother was finally freed from the fear that was me,
 <0513> \ I might have been happier.
-<0514> \{［伶］}
+<0514> \{[Rei]}
 <0515> "When I think about it like that, I realize that I can't mourn my mother's death.
 <0516> \ I felt like it would be rude to my mother..."
-<0517> \{［伶］}
+<0517> \{[Rei]}
 <0518> "In the end, I didn't shed a tear until the very end."
-<0519> \{［Hope］}
+<0519> \{[Hope]}
 <0520> "...Rei-san..."
-<0521> \{［Hope］}
+<0521> \{[Hope]}
 <0522> "......"
-<0523> \{［伶］}
+<0523> \{[Rei]}
 <0524> "...Nozomi, why are you crying?"
-<0525> \{［desire］}
+<0525> \{[Nozomi]}
 <0526> "I... I don't know."
-<0527> \{［Hope］}
+<0527> \{[Hope]}
 <0528> "When I heard you say, 'I didn't cry,'
 <0529> \ Something about it is so... sad.
 <0530> \ I felt a sense of distress..."
-<0531> \{［Hope］}
+<0531> \{[Hope]}
 <0532> "Rei-san, your mother--
 <0533> \ I felt like he had very strong feelings.
-<0534> \{［Hope］}
+<0534> \{[Hope]}
 <0535> "When I think about it,
 <0536> \ Suddenly... my chest felt tight and painful..."
-<0537> \{［伶］}
+<0537> \{[Rei]}
 <0538> “…Nozomi…”
 <0539> At that time, in place of Rei, who was unable to shed tears for her mother,
 <0540> Nozomi quietly sheds beautiful tears.
 <0541> Those tears made Rei feel an indescribable, strange emotion.
-<0542> \{［desire］}
+<0542> \{[Nozomi]}
 <0543> "Rei-san... when you say something like this,
 <0544> \ This may seem strange, but..."
-<0545> \{［desire］}
+<0545> \{[Nozomi]}
 <0546> "Before, I used to hear the sounds of animals and plants.
 <0547> \ Do you remember what you said?
-<0548> \{［伶］}
+<0548> \{[Rei]}
 <0549> "...Ah."
-<0550> \{［desire］}
+<0550> \{[Nozomi]}
 <0551> "Umm... actually, I have a vague feeling.
 <0552> \ I can hear a gentle voice coming from inside Rei-san..."
-<0553> \{［Hope］}
+<0553> \{[Hope]}
 <0554> "It can be felt by any living thing,
 <0555> \ I can hear it from deep within that person,
 <0556> \ It sounds like music..."
-<0557> \{［desire］}
+<0557> \{[Nozomi]}
 <0558> "Because you have such a gentle voice,
 <0559> \ So, Rei's mother,
 <0560> \ I'm sure he was a kind person."
-<0561> \{［desire］}
+<0561> \{[Nozomi]}
 <0562> "That's how I felt..."
-<0563> \{［desire］}
+<0563> \{[Nozomi]}
 <0564> "Um... I'm sorry I couldn't explain it well..."
-<0565> \{［伶］}
+<0565> \{[Rei]}
 <0566> "......"
-<0567> \{［伶］}
+<0567> \{[Rei]}
 <0568> "You're a really interesting kid."
-<0569> \{［伶］}
+<0569> \{[Rei]}
 <0570> "You have that kind of power too.
 <0571> \ Moreover... it seems similar to my ability, but it's different."
-<0572> \{［伶］}
+<0572> \{[Rei]}
 <0573> "...Well, whatever. Anyway,
 <0574> \ I kind of understand what you're trying to say."
-<0575> \{［伶］}
+<0575> \{[Rei]}
 <0576> "You said that about my mother,
 <0577> \ You're the first.
-<0578> \{［伶］}
+<0578> \{[Rei]}
 <0579> "You don't know anything about it..."
-<0580> \{［伶］}
+<0580> \{[Rei]}
 <0581> "As you say, my mother was a kind person.
 <0582> However, my mother's sensitivity,
 <0583> \ They couldn't withstand the strange abilities I possess."
-<0584> \{［伶］}
+<0584> \{[Rei]}
 <0585> "My mother was not able to accept the existence of a heretic like me.
 <0586> \ It wasn't strong..."
-<0587> \{［desire］}
+<0587> \{[Nozomi]}
 <0588> "......"
-<0589> \{［Hope］}
+<0589> \{[Hope]}
 <0590> "Even if you seek strength of mind...
 <0591> \ It's not easy to get..."
-<0592> \{［desire］}
+<0592> \{[Nozomi]}
 <0593> "I also want to become stronger,
 <0594> \ I want a heart that won't be hurt no matter what anyone says to me.
 <0595> \ I always hope--"
-<0596> \{［Hope］}
+<0596> \{[Hope]}
 <0597> "That's not easy to achieve.
 <0598> \ Every day is really... difficult."
-<0599> \{［Hope］}
+<0599> \{[Hope]}
 <0600> "I have Rei's mother,
 <0601> \ I don't know what kind of person he was. But..."
-<0602> \{［desire］}
+<0602> \{[Nozomi]}
 <0603> "The heart is troubled,
 <0604> \ I think it's because I want to be with someone..."
-<0605> \{［desire］}
+<0605> \{[Nozomi]}
 <0606> "If I'm okay being alone, my heart won't be in pain.
 <0607> \ So..."
-<0608> \{［Hope］}
+<0608> \{[Hope]}
 <0609> "Rei's mother said about Rei,
 <0610> \ Very... very,
 <0611> \ I think he must have loved me."
-<0612> \{［伶］}
+<0612> \{[Rei]}
 <0613> "......"
-<0614> \{［desire］}
+<0614> \{[Nozomi]}
 <0615> "Um... sorry. I talked too much."
-<0616> \{［伶］}
+<0616> \{[Rei]}
 <0617> "No..."
-<0618> \{［伶］}
+<0618> \{[Rei]}
 <0619> "I never thought you'd say something like that.
 <0620> \ I never thought of that.
-<0621> \{［伶］}
+<0621> \{[Rei]}
 <0622> "I hate it when other people say things like that.
 <0623> \ I don't really like it, but..."
-<0624> \{［伶］}
+<0624> \{[Rei]}
 <0625> "If you think carefully about it in your own words,
 <0626> \ I was happy because I could understand what you were saying.
-<0627> \{［伶］}
+<0627> \{[Rei]}
 <0628> "Thank you, Nozomi."
-<0629> \{［Hope］}
+<0629> \{[Hope]}
 <0630> "No, not at all..."
-<0631> \{［desire］}
+<0631> \{[Nozomi]}
 <0632> "I'm the one who was able to hear Rei's story,
 <0633> \ I was so happy...!
-<0634> \{［伶］}
+<0634> \{[Rei]}
 <0635> "Right... so now,
 <0636> \ I'd like to hear your story."
-<0637> \{［伶］}
+<0637> \{[Rei]}
 <0638> "Your other family, besides your adoptive parents who aren't very kind,
 <0639> \ Didn't you have anyone close to you?
-<0640> \{［desire］}
+<0640> \{[Nozomi]}
 <0641> "Yes..."
-<0642> \{［desire］}
+<0642> \{[Nozomi]}
 <0643> "No one was there."
-<0644> \{［伶］}
+<0644> \{[Rei]}
 <0645> "By the way, did you go to school?
 <0646> \ Living a normal life interacting with people of the same age is
 <0647> \ Never happened before?
-<0648> \{［desire］}
+<0648> \{[Nozomi]}
 <0649> "I... was in a forest where no one lived except for my adoptive parents.
 <0650> \ I've been living there forever..."
-<0651> \{［desire］}
+<0651> \{[Nozomi]}
 <0652> "I didn't go to school.
 <0653> \ A teacher who came to my school supervised my studies.
-<0654> \{［desire］}
+<0654> \{[Nozomi]}
 <0655> "But life in the forest was wonderful!"
-<0656> \{［desire］}
+<0656> \{[Nozomi]}
 <0657> "Birds, animals, and plants live in the forest,
 <0658> \ Wind, greenery, water, and light... so many good things,
 <0659> \ I was always wrapped up.
-<0660> \{［desire］}
+<0660> \{[Nozomi]}
 <0661> "I didn't have any human friends,
 <0662> \ But I managed to get through it somehow.
 <0663> \ It's all thanks to that forest."
-<0664> \{［desire］}
+<0664> \{[Nozomi]}
 <0665> "I love that forest..."
-<0666> \{［伶］}
+<0666> \{[Rei]}
 <0667> "......"
-<0668> \{［伶］}
+<0668> \{[Rei]}
 <0669> "If this is the place you speak so much about,
 <0670> \ It must be a very beautiful place."
-<0671> \{［伶］}
+<0671> \{[Rei]}
 <0672> "...Even in that place,
 <0673> \ Were you listening to "Voice"?
-<0674> \{［Hope］}
+<0674> \{[Hope]}
 <0675> "Yes. The forest air is clear,
 <0676> \ I could hear the sounds of many different creatures.
-<0677> \{［Hope］}
+<0677> \{[Hope]}
 <0678> "I listened to the sounds of the forest every day.
 <0679> The sound that resonates especially at dawn is very beautiful...!
-<0680> \{［Hope］}
+<0680> \{[Hope]}
 <0681> "I can't really explain it,
 <0682> \ Like a chorus of songs resonating,
 <0683> \ Beautiful voice."
-<0684> \{［desire］}
+<0684> \{[Nozomi]}
 <0685> "Just as the pale purple of the sky at dawn is different every day,
 <0686> \ The voice is different every day. I never get tired of hearing it.
-<0687> \{［伶］}
+<0687> \{[Rei]}
 <0688> "Can you hear such beautiful sounds in this mansion too?"
-<0689> \{［Hope］}
+<0689> \{[Hope]}
 <0690> "I can't hear very well here.
 <0691> \ Looks like I have to go outside after all..."
-<0692> \{［desire］}
+<0692> \{[Nozomi]}
 <0693> "And... where you can hear it,
 <0694> \ It seems there are places where I can't hear anything.
-<0695> \{［desire］}
+<0695> \{[Nozomi]}
 <0696> "The deeper the forest, the more ancient the trees,
 <0697> \ I feel like I can hear it well."
-<0698> \{［desire］}
+<0698> \{[Nozomi]}
 <0699> "This place... is closer to town than the forest where I was,
 <0700> \ I think it's hard to hear."
-<0701> \{［伶］}
+<0701> \{[Rei]}
 <0702> "I see..."
-<0703> \{［伶］}
+<0703> \{[Rei]}
 <0704> "...A place where such beautiful sounds resonate,
 <0705> \ I'm sure there are many more besides your forest.
 <0706> \ The world is big, after all--"
-<0707> \{［伶］}
+<0707> \{[Rei]}
 <0708> "That's right, next time,
 <0709> \ Would you like to take a look at a photo book of World Heritage Sites?
-<0710> \{［伶］}
+<0710> \{[Rei]}
 <0711> "In places that have been called sacred places since ancient times,
 <0712> \ Such beautiful forests still remain today.
-<0713> \{［伶］}
+<0713> \{[Rei]}
 <0714> "Maybe it depends on the location.
 <0715> \ I think the sounds you hear are different too.
-<0716> \{［Hope］}
+<0716> \{[Hope]}
 <0717> "Um, do you believe me?
 <0718> \ Just now... about me..."
-<0719> \{［伶］}
+<0719> \{[Rei]}
 <0720> "Yeah. Because you're not the type to lie,
 <0721> \ Even if you don't touch him, you can tell by looking at his face.
-<0722> \{［Hope］}
+<0722> \{[Hope]}
 <0723> "Ah...!"
-<0724> \{［Hope］}
+<0724> \{[Hope]}
 <0725> "Until now, no one has ever said anything like that to me.
 <0726> \ He wasn't anywhere to be found..."
-<0727> \{［Hope］}
+<0727> \{[Hope]}
 <0728> "I'm so... happy...!"
-<0729> \{［伶］}
+<0729> \{[Rei]}
 <0730> "I see..."
-<0731> \{［伶］}
+<0731> \{[Rei]}
 <0732> "...Oh, Nozomi, are you tired?
 <0733> \ You have very sleepy eyes."
-<0734> \{［Hope］}
+<0734> \{[Hope]}
 <0735> "Sorry... It seems the medicine is starting to work.
 <0736> \ I'm getting a little sleepy..."
-<0737> \{［伶］}
+<0737> \{[Rei]}
 <0738> "I'm sorry too. I'm still not feeling well.
 <0739> \ Sorry for disturbing you while you were resting.
 <0740> \ Well then, I'm about to go..."
-<0741> \{［Hope］}
+<0741> \{[Hope]}
 <0742> "Ah..."
-<0743> \{［伶］}
+<0743> \{[Rei]}
 <0744> "...What's wrong? If you have something to say,
 <0745> \ Tell me."
-<0746> \{［desire］}
+<0746> \{[Nozomi]}
 <0747> "Um, um..."
-<0748> \{［伶］}
+<0748> \{[Rei]}
 <0749> "If you have a request, don't hesitate.
 <0750> \ I told you I wanted you to rely on me anytime, right?
 <0751> \ Come onーtell me.”
-<0752> \{［desire］}
+<0752> \{[Nozomi]}
 <0753> "Y-Yes. ...Umm,
 <0754> \ Just a little longer would be fine..."
-<0755> \{［Hope］}
+<0755> \{[Hope]}
 <0756> "Would you mind staying here?"
-<0757> \{［伶］}
+<0757> \{[Rei]}
 <0758> "......"
-<0759> \{［Hope］}
+<0759> \{[Hope]}
 <0760> "I'm sorry, I was selfish..."
-<0761> \{［伶］}
+<0761> \{[Rei]}
 <0762> "--Is that all? You hesitated quite timidly,
 <0763> \ Is that all you're asking for?"
-<0764> \{［desire］}
+<0764> \{[Nozomi]}
 <0765> "Yes... that's right..."
-<0766> \{［伶］}
+<0766> \{[Rei]}
 <0767> "...You really are a selfless child.
 <0768> But I like that about you."
-<0769> \{［desire］}
+<0769> \{[Nozomi]}
 <0770> "...Ah..."
-<0771> \{［伶］}
+<0771> \{[Rei]}
 <0772> "I'll stay here tonight until you fall asleep,
 <0773> \ Rest in peace."
-<0774> \{［Hope］}
+<0774> \{[Hope]}
 <0775> "...Yes."
-<0776> \{［伶］}
+<0776> \{[Rei]}
 <0777> "Good night, Nozomi. Sweet dreams--"
-<0778> \{［Hope］}
+<0778> \{[Hope]}
 <0779> "Good night, Rei-san..."
 <0780> After that, Nozomi, who had completely relaxed,
 <0781> Until the baby begins breathing regularly and calmly,
 <0782> Rei continued to watch over Nozomi quietly.
-<0783> \{［伶］}
+<0783> \{[Rei]}
 <0784> (--Things that the person himself won't say,
 <0785> \ There's no need to bother asking.)
 <0786> Ignoring the fact that Nozomi was acting strangely,
@@ -797,30 +797,30 @@
 <0790> \{[Mari]}
 <0791> "Oh? Nozomi-san, your face looks a little pale.
 <0792> \ What happened?"
-<0793> \{［Hope］}
+<0793> \{[Hope]}
 <0794> "Eh... Oh, is that so...?"
 <0795> \{[Mari]}
 <0796> "Oh...? Nozomi-san, could it be that...
 <0797> \ Haven't you had a fever since a while ago?
-<0798> \{［Hope］}
+<0798> \{[Hope]}
 <0799> "...Um, is that so..."
 <0800> \{[Mari]}
 <0801> "--Ah, I thought so, I have a fever!
 <0802> \ I'm sorry, Nozomi-san, I didn't notice until now..."
-<0803> \{［Hope］}
+<0803> \{[Hope]}
 <0804> "No, it's my fault for not saying anything.
 <0805> \ I'm sorry...!
-<0806> \{［伶］}
+<0806> \{[Rei]}
 <0807> "...If you're not feeling well, just say so from the beginning."
-<0808> \{［伶］}
+<0808> \{[Rei]}
 <0809> "Why didn't you say that in the first place?"
-<0810> \{［desire］}
+<0810> \{[Nozomi]}
 <0811> "Y-yes... I'm really sorry..."
-<0812> \{［伶］}
+<0812> \{[Rei]}
 <0813> "...That's enough. Hurry and return to your room."
-<0814> \{［Hope］}
+<0814> \{[Hope]}
 <0815> "Um... sorry..."
-<0816> \{［伶］}
+<0816> \{[Rei]}
 <0817> "......"
 <0818> Accompanied by Marie, who was concerned about Nozomi's health,
 <0819> With his shoulders slumped, Nozomi returned to his room.

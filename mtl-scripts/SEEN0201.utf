@@ -1,8 +1,8 @@
 // Resources for SEEN0201.TXT
 
 #character '[Rei]'
-#character '［Marie］'
-#character '［Takami］'
+#character '[Marie]'
+#character '[Takami]'
 
 <0000> That morning, Rei felt uneasy for some reason.
 <0001> I woke up just before dawn.
@@ -12,7 +12,7 @@
 <0005> Suddenly, everything I'd experienced during my days at the mansion seemed faded.
 <0006> I never found any interest in Nozomi,
 <0007> I was reluctant to exchange any more words with Takami.
-<0008> \{［伶］}
+<0008> \{[Rei]}
 <0009> (...Let's go home. This concludes my time-killing at the mansion.)
 <0010> Just as Rei made up her mind, as if to break her thoughts,
 <0011> A soft knock echoed in the room.
@@ -30,18 +30,18 @@
 <0023> \ You could at least say something!
 <0024> Takami's loud voice of criticism came from the other end of the phone.
 <0025> Rei looks annoyed and turns her ears away.
-<0026> \{［伶］}
+<0026> \{[Rei]}
 <0027> "Oh, sorry. I'm kind of bored of being in the mansion.
 <0028> \ By the time I felt like going back, I had already left the mansion.
 <0029> \{[Takami]}
 <0030> “Seriously… you’re still as fickle as ever.
 <0031> I can't forgive your sexual inclinations.
-<0032> \{［伶］}
+<0032> \{[Rei]}
 <0033> "You knew that too, right?
 <0034> \ ...I guess I'll just have to give up."
 <0035> \{[Takami]}
 <0036> "You...!"
-<0037> \{［伶］}
+<0037> \{[Rei]}
 <0038> "Well, that's it. See you later, Takami."
 <0039> \{[Takami]}
 <0040> "Hey, Rei, wait a minute! I still have something to say..."

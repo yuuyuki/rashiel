@@ -1,8 +1,8 @@
 // Resources for SEEN0101.TXT
 
 #character '[Rei]'
-#character '［Takami］'
-#character '［desire］'
+#character '[Takami]'
+#character '[Nozomi]'
 
 <0000> April 30th
 <0001> On the morning of the appointed day, the busy sound of the doorbell lured me in.
@@ -23,7 +23,7 @@
 <0016> On a beautifully landscaped green hill,
 <0017> It gives you a sense of the atmosphere of the era in which it was built.
 <0018> \ruby{Stylish}={Shousha} A view of an old-fashioned Western-style building.
-<0019> \{［伶］}
+<0019> \{[Rei]}
 <0020> (Is this the mansion where the children lived that Takami was talking about?)
 <0021> I got out of the car with only one light piece of luggage,
 <0022> It has a nice texture,
@@ -32,14 +32,14 @@
 <0025> Rei passed through the door of the mansion.
 <0026> \{[Takami]}
 <0027> "Welcome, Rei."
-<0028> \{［伶］}
+<0028> \{[Rei]}
 <0029> "Yeah, it's a shame they even prepared someone to pick us up.
 <0030> \ I thought it would be childish to run away.
 <0031> \ I'll go along with your enthusiasm for today."
 <0032> \{[Takami]}
 <0033> "...Hmm, well, never mind.
 <0034> \ By the way, how is it, Rei? Doesn't it bring back memories?
-<0035> \{［伶］}
+<0035> \{[Rei]}
 <0036> "Does it feel nostalgic?"
 <0037> \{[Takami]}
 <0038> "Fifteen years ago, we invited people related to the Kujo family,
@@ -47,7 +47,7 @@
 <0040> \ You and your children have also visited this mansion.
 <0041> \{[Takami]}
 <0042> "At that time, I was seven years old, and you were five."
-<0043> \{［伶］}
+<0043> \{[Rei]}
 <0044> "...I'm in this mansion...?"
 <0045> \{[Takami]}
 <0046> "So you don't remember after all? Oh well."
@@ -62,7 +62,7 @@
 <0055> \{[Takami]}
 <0056> "Well, the fact that you came means that
 <0057> \ Is it okay to have high expectations?
-<0058> \{［伶］}
+<0058> \{[Rei]}
 <0059> "There's something waiting for me that won't bore me,
 <0060> \ It was recommended so much that I wanted to check it out.
 <0061> \{[Takami]}
@@ -77,7 +77,7 @@
 <0070> The one who turned around in fear was,
 <0071> Her slender figure and youthful features,
 <0072> A small boy who retains the softness of a Hinadori.
-<0073> \{［伶］}
+<0073> \{[Rei]}
 <0074> (...You seem pretty young for the age I was listening to.)
 <0075> He stopped moving, as if he had forgotten to blink or even breathe.
 <0076> I looked up at Rei's face in bewilderment.
@@ -91,9 +91,9 @@
 <0084> Rei felt uneasy for some reason.
 <0085> And the discomfort that didn't seem to be there,
 <0086> I'm amazed at what I've learned.
-<0087> \{［伶］}
+<0087> \{[Rei]}
 <0088> "...What's on my face, staring at me like that?"
-<0089> \{［Hope］}
+<0089> \{[Hope]}
 <0090> "...!"
 <0091> He seemed to come to his senses when someone called out to him.
 <0092> The boy's eyes blink repeatedly.
@@ -101,7 +101,7 @@
 <0094> The boy's cheeks flushed red.
 <0095> Asking for a handshake
 <0096> Further gaze
-<0097> \{［伶］}
+<0097> \{[Rei]}
 <0098> "Nice to meet you. My name is \ruby{Saiga}={Saiga}\ruby{Rei}={Rei}"
 <0099> Introducing himself,
 <0100> Rei holds out her right hand towards the boy.
@@ -111,7 +111,7 @@
 <0104> The boy holds out his hand timidly and hesitantly.
 <0105> --The moment our fingertips touched,
 <0106> A strange sensation filled Rei's body like a wave.
-<0107> \{［伶］}
+<0107> \{[Rei]}
 <0108> (This is――)
 <0109> Until now, Rei had never remembered anything.
 <0110> A strange feeling wells up in my chest.
@@ -125,9 +125,9 @@
 <0118> A partner who gives me a strange feeling I've never felt before,
 <0119> Rei decided to inspect it again,
 <0120> I saw a boy standing frozen in front of me, looking shocked.
-<0121> \{［伶］}
+<0121> \{[Rei]}
 <0122> "...How did you feel just now?"
-<0123> \{［Hope］}
+<0123> \{[Hope]}
 <0124> "...!"
 <0125> For some reason, it seemed as if he was repeating Rei's words.
 <0126> The boy shook his head with a frightened expression,
@@ -146,7 +146,7 @@
 <0139> This light is the only light that colors the world of Rei,
 <0140> It was shining.
 <0141> However――
-<0142> \{［伶］}
+<0142> \{[Rei]}
 <0143> (…………Can't you see me?!)
 <0144> Until now, no matter who the opponent was,
 <0145> Even if it is only a small fragment, I have come into contact with some kind of consciousness,
@@ -154,16 +154,16 @@
 <0147> But on this day,
 <0148> Even if you touch its consciousness, you cannot decipher its will.
 <0149> This was my first time encountering this case.
-<0150> \{［伶］}
+<0150> \{[Rei]}
 <0151> (--I'm surprised. This is the first time I've seen something like this.
 <0152> \ It's getting more and more interesting...
-<0153> \{［伶］}
+<0153> \{[Rei]}
 <0154> (However, this child's light has a strange shape.
 <0155> \ Humans - or rather...)
-<0156> \{［伶］}
+<0156> \{[Rei]}
 <0157> (Yes... like dogs and cats,
 <0158> \ It's similar to the light that animals have.
-<0159> \{［伶］}
+<0159> \{[Rei]}
 <0160> (Because of that, I was able to control this child's consciousness.
 <0161> \ Maybe it couldn't be read as usual...?
 <0162> I can't read his intentions clearly,
@@ -171,14 +171,14 @@
 <0164> I can feel it faintly through my fingertips.
 <0165> A warm, nostalgic feeling, similar to affection.
 <0166> Is this... a feeling of longing?
-<0167> \{［伶］}
+<0167> \{[Rei]}
 <0168> (……?)
 <0169> Why did Nozomi, meeting Rei for the first time,
 <0170> Nostalgia and longing,
 <0171> Did he feel a faint feeling of affection?
 <0172> As usual, Rei is unable to decipher the fragments of his heart.
 <0173> In the end, it remained invisible.
-<0174> \{［伶］}
+<0174> \{[Rei]}
 <0175> (...A boy of Angelic blood...?)
 <0176> The interest I felt in the boy,
 <0177> However, Rei uses her power against the boy,
@@ -189,21 +189,21 @@
 <0182> He stares some more.
 <0183> Then, completely taken aback by the stares he received,
 <0184> Nozomi's cheeks turned even redder.
-<0185> \{［伶］}
+<0185> \{[Rei]}
 <0186> "...Your face is interesting.
 <0187> \ It's as red as a ground cherries.
 <0188> \ It looks like it would pop if you touched it."
 <0189> Rei was impressed by Nozomi's beautifully dyed complexion,
 <0190> I flicked her cheek, which was ripe and colored, with my fingertips.
-<0191> \{［Hope］}
+<0191> \{[Hope]}
 <0192> "...!"
 <0193> Rei's sudden action,
 <0194> Nozomi looked extremely confused and clutched her cheek.
 <0195> He looks at me with frightened eyes.
-<0196> \{［伶］}
+<0196> \{[Rei]}
 <0197> "Oh, it seems fine.
 <0198> \ Good thing you didn't pop like a nightshade.
-<0199> \{［Hope］}
+<0199> \{[Hope]}
 <0200> "......"
 <0201> Nozomi, realizing that she had been teased,
 <0202> He remains silent with an indescribable expression on his face.
@@ -216,7 +216,7 @@
 <0209> \{[Takami]}
 <0210> "Well, that's true,
 <0211> \ If you "accept" this role."
-<0212> \{［伶］}
+<0212> \{[Rei]}
 <0213> "--I understand. Then I'll accept your offer."
 <0214> \{[Takami]}
 <0215> "...! I see, so that's what you're thinking?"
@@ -227,7 +227,7 @@
 <0220> "But even so, you're so quick to say,
 <0221> \ I never thought you'd join my plan.
 <0222> \ I guess there was something about it that really struck me."
-<0223> \{［伶］}
+<0223> \{[Rei]}
 <0224> "...What do you mean?"
 <0225> \{[Takami]}
 <0226> "I know I'm introducing you to someone, but
@@ -236,7 +236,7 @@
 <0229> "If you like it, that's great -- Right, Rei.
 <0230> \ Why did you suddenly feel like doing that?
 <0231> \ What is it about this child that interests you?
-<0232> \{［伶］}
+<0232> \{[Rei]}
 <0233> "I have to tell you that,
 <0234> \ I don't think there's any obligation?
 <0235> \ If it's too much trouble, I'll get off.
@@ -246,17 +246,17 @@
 <0239> \{[Takami]}
 <0240> "What's wrong? To the person who will be your master from today,
 <0241> \ Are you not even going to say hello?
-<0242> \{［desire］}
+<0242> \{[Nozomi]}
 <0243> "......"
-<0244> \{［Hope］}
+<0244> \{[Hope]}
 <0245> "Nice to meet you. I'm \ruby{Asaba}={Asaba }\ruby{Nozomi}={Nozomi}..."
 <0246> \{[Takami]}
 <0247> "Nozomi, don't forget to call Rei "master."
 <0248> \ For a while,
 <0249> \ Because it is the master you will serve.
-<0250> \{［desire］}
+<0250> \{[Nozomi]}
 <0251> "...Yes."
-<0252> \{［伶］}
+<0252> \{[Rei]}
 <0253> "Master--?"
 <0254> \{[Takami]}
 <0255> "Do you dislike being called that?
@@ -264,53 +264,53 @@
 <0257> \ Call your servants according to their roles.
 <0258> Call me Master
 <0259> ...that's ridiculous
-<0260> \{［伶］}
+<0260> \{[Rei]}
 <0261> "...Indeed, as you say,
 <0262> \ In order to draw a line between the master and servant positions in the relationship between two people,
 <0263> I think we need to draw a line like that."
-<0264> \{［伶］}
+<0264> \{[Rei]}
 <0265> "To make them aware of their position of submission,
 <0266> \ The quickest way is to get them to call you "Master."
-<0267> \{［伶］}
+<0267> \{[Rei]}
 <0268> "Nozomi, from today onwards I'm your master. ...Isn't that great?"
-<0269> \{［Hope］}
+<0269> \{[Hope]}
 <0270> "......"
-<0271> \{［伶］}
+<0271> \{[Rei]}
 <0272> "--What's your answer?"
-<0273> \{［Hope］}
+<0273> \{[Hope]}
 <0274> "...Yes."
-<0275> \{［伶］}
+<0275> \{[Rei]}
 <0276> "That's fine. I'm your master.
 <0277> \ You should be very aware of this.
-<0278> \{［Hope］}
+<0278> \{[Hope]}
 <0279> "......"
-<0280> \{［伶］}
+<0280> \{[Rei]}
 <0281> "...that's ridiculous.
 <0282> \ Making me call you "master"
 <0283> \ I don't have any bad taste to take pleasure in."
-<0284> \{［伶］}
+<0284> \{[Rei]}
 <0285> "Takami, I believe you said,
 <0286> \ I can do as I please in this mansion."
 <0287> \{[Takami]}
 <0288> "Yes, that's right."
-<0289> \{［伶］}
+<0289> \{[Rei]}
 <0290> "If that's the case, I'll go out of my way to
 <0291> \ So I don't have to follow the rules you set."
 <0292> \{[Takami]}
 <0293> "...Do as you like. You are the master of this mansion.
 <0294> \ It's not my place to intervene."
-<0295> \{［伶］}
+<0295> \{[Rei]}
 <0296> "Then I'll do as I please.
 <0297> \ ...Did you hear?
 <0298> \ You don't need to call me "master"
-<0299> \{［Hope］}
+<0299> \{[Hope]}
 <0300> "...?"
-<0301> \{［伶］}
+<0301> \{[Rei]}
 <0302> "It's fine if it's more normal.
 <0303> \ That's right -- you can call me "Rei"
-<0304> \{［伶］}
+<0304> \{[Rei]}
 <0305> "Nice to meet you, Nozomi."
-<0306> \{［Hope］}
+<0306> \{[Hope]}
 <0307> "...Yes..."
 <0308> \{[Takami]}
 <0309> "Well, this should be a good place to meet."
@@ -326,13 +326,13 @@
 <0319> "There's just one thing to say.
 <0320> \ It is strictly forbidden to take Nozomi off the mansion grounds.
 <0321> \ If you value Nozomi's life, then absolutely.
-<0322> \{［伶］}
+<0322> \{[Rei]}
 <0323> "What do you mean?"
 <0324> \{[Takami]}
 <0325> "Look at what you have around Nozomi's neck.
 <0326> \ It's not just a tasteless decoration.
 <0327> \ It is a tool that forces absolute servitude.
-<0328> \{［伶］}
+<0328> \{[Rei]}
 <0329> "This collar...?"
 <0330> \{[Takami]}
 <0331> "'\ruby{Asaba}={Asaba }\ruby{Nozomi}={Nozomi}' was prepared by the Kujo family at great expense,
@@ -361,13 +361,13 @@
 <0354> "Without the special unlock key,
 <0355> \ Cannot be safely removed.
 <0356> \ Even if you try to remove it by another method, the fuse will still activate.
-<0357> \{［伶］}
+<0357> \{[Rei]}
 <0358> "...What a disgusting device.
 <0359> \ So the collar is the lock that protects your secret door?
 <0360> \ And that too is a dangerous trap.
 <0361> \{[Takami]}
 <0362> "It's the best way to protect trade secrets."
-<0363> \{［伶］}
+<0363> \{[Rei]}
 <0364> "You swore you wouldn't run away.
 <0365> \ Certainly, being tied to such thick and sturdy chains,
 <0366> \ You will lose the will to escape."
@@ -375,7 +375,7 @@
 <0368> "Nozomi wouldn't run away even without the collar.
 <0369> \ He knows there's nowhere to run.
 <0370> \ ――That's right, Nozomi.
-<0371> \{［Hope］}
+<0371> \{[Hope]}
 <0372> "......"
 <0373> \{[Takami]}
 <0374> "I cannot live without the protection of the Kujo family.
@@ -385,7 +385,7 @@
 <0378> "I'll keep the collar release key in my possession.
 <0379> When Nozomi takes off her collar,
 <0380> \ As the person in charge of product management, I'll decide.
-<0381> \{［伶］}
+<0381> \{[Rei]}
 <0382> "I have no objections. I want to know the rules of the game you started.
 <0383> \ I have no intention of overturning it.
 <0384> \ ...for now."
@@ -413,7 +413,7 @@
 <0406> \{[Takami]}
 <0407> "Just because I'm not here,
 <0408> \ I'm sure you won't cause any problems."
-<0409> \{［伶］}
+<0409> \{[Rei]}
 <0410> "No one? You're not staying at the mansion?"
 <0411> \{[Takami]}
 <0412> "Due to work reasons,
@@ -423,7 +423,7 @@
 <0416> "If you need anything, feel free to come visit.
 <0417> \ Well, being out and about in town is better,
 <0418> \ I think there are a lot of them.
-<0419> \{［伶］}
+<0419> \{[Rei]}
 <0420> "Okay. I'll come visit you when I feel like it.
 <0421> \ However, I'm not sure if I'll be interested in that.
 <0422> \ I think it's a pretty suspicious place."
@@ -435,7 +435,7 @@
 <0428> \ Would it be better to leave you and Nozomi alone?
 <0429> That's right.
 <0430> Separately
-<0431> \{［伶］}
+<0431> \{[Rei]}
 <0432> "That's right. I'd like to talk to you alone for a bit."
 <0433> \{[Takami]}
 <0434> "Nozomi, from today onwards, the master you will be taking care of is
@@ -456,11 +456,11 @@
 <0449> \{[Takami]}
 <0450> "You are free to use the key whenever and for whatever purpose.
 <0451> \ Do as you like."
-<0452> \{［伶］}
+<0452> \{[Rei]}
 <0453> "......"
 <0454> \{[Takami]}
 <0455> "Oh, by the way, do you have a cell phone?"
-<0456> \{［伶］}
+<0456> \{[Rei]}
 <0457> "No. I don't like it so I don't have it. What?"
 <0458> \{[Takami]}
 <0459> "I don't think that's a problem,
@@ -476,50 +476,50 @@
 <0469> \{[Takami]}
 <0470> "Well, while you're here,
 <0471> \ Please assume that you will have almost no contact with the outside world.
-<0472> \{［伶］}
+<0472> \{[Rei]}
 <0473> "I understand. It won't cause any problems, so I don't mind."
 <0474> \{[Takami]}
 <0475> "Well then, I'll wait here and have some tea,
 <0476> \ You remember the location of Nozomi's room,
 <0477> \ I suggest you take a little stroll around the mansion.
-<0478> \{［Hope］}
+<0478> \{[Hope]}
 <0479> "Um... this way."
-<0480> \{［伶］}
+<0480> \{[Rei]}
 <0481> "I'm so good that I could be entrusted with guiding guests.
 <0482> \ It seems to lead to the mansion.
 <0483> \ Have you been living here long?
-<0484> \{［Hope］}
+<0484> \{[Hope]}
 <0485> "...Yes..."
-<0486> \{［伶］}
+<0486> \{[Rei]}
 <0487> "How long have you been here?"
-<0488> \{［desire］}
+<0488> \{[Nozomi]}
 <0489> "...about six months."
-<0490> \{［伶］}
+<0490> \{[Rei]}
 <0491> "Takami lets you walk freely on your own.
 <0492> \ That was a bit surprising."
-<0493> \{［desire］}
+<0493> \{[Nozomi]}
 <0494> "...?"
-<0495> \{［伶］}
+<0495> \{[Rei]}
 <0496> "They were saying you were 'special',
 <0497> \ Under strict surveillance, where they are not even allowed to walk alone,
 <0498> \ I thought they were treating me like I was tying me up."
-<0499> \{［Hope］}
+<0499> \{[Hope]}
 <0500> "......"
-<0501> \{［伶］}
+<0501> \{[Rei]}
 <0502> "Have you ever thought about running away?"
-<0503> \{［Hope］}
+<0503> \{[Hope]}
 <0504> "...Ah..."
-<0505> \{［伶］}
+<0505> \{[Rei]}
 <0506> "Don't be afraid, I don't blame you.
 <0507> \ I have no intention of reporting this to Takami.
 <0508> \ I just wanted to ask, so please answer.
-<0509> \{［伶］}
+<0509> \{[Rei]}
 <0510> "Have you ever thought about leaving here?"
-<0511> \{［Hope］}
+<0511> \{[Hope]}
 <0512> "...No."
-<0513> \{［伶］}
+<0513> \{[Rei]}
 <0514> "Never?"
-<0515> \{［Hope］}
+<0515> \{[Hope]}
 <0516> "There's nowhere to go."
 <0517> He is quiet and modest,
 <0518> Walking beside Rei with his head slightly bowed,
@@ -541,15 +541,15 @@
 <0534> The boy, his small body stiff with tension,
 <0535> The special thing that makes you think of strangeness and heresy is
 <0536> I can't find it anywhere.
-<0537> \{［伶］}
+<0537> \{[Rei]}
 <0538> (By all appearances, this is a normal child.
 <0539> \ Where on this body,
 <0540> \ Is there evidence of non-human creatures?
-<0541> \{［伶］}
+<0541> \{[Rei]}
 <0542> (A child with the blood of an angel - Asaba Nozomi.
 <0543> \ Well, what exactly is an angel?
 <0544> \ What kind of being is it, and how is it different from humans...?)
-<0545> \{［desire］}
+<0545> \{[Nozomi]}
 <0546> "Here it is."
 <0547> Rei was guided to
 <0548> There are hardly any personal belongings to be found.
@@ -575,7 +575,7 @@
 <0568> Impulsively, Rei's body moves.
 <0569> The fingertips that should be avoiding contact with others,
 <0570> I touch Nozomi's white cheek, which gives me the feeling of its soft texture.
-<0571> \{［desire］}
+<0571> \{[Nozomi]}
 <0572> "...!"
 <0573> It was a small gesture,
 <0574> To surprise Nozomi, who is tense with tension,
@@ -584,7 +584,7 @@
 <0577> I flinched and took half a step back.
 <0578> Nozomi's sensitive reaction,
 <0579> Rei's outstretched hand has nowhere to go and wanders through the air.
-<0580> \{［desire］}
+<0580> \{[Nozomi]}
 <0581> "...Ah..."
 <0582> I was unconsciously taking action.
 <0583> Nozomi looked up at Rei with an expression that showed she was surprised even by herself.
@@ -599,44 +599,44 @@
 <0592> A dry sound shakes the quiet air in the room.
 <0593> The round eyes that looked up in amazement,
 <0594> Rei stares at him intently, not wanting him to escape, and holds him captive with her gaze.
-<0595> \{［Hope］}
+<0595> \{[Hope]}
 <0596> "Ah..."
-<0597> \{［伶］}
+<0597> \{[Rei]}
 <0598> "You will not be allowed to look away without my permission.
 <0599> \ Look this way, Nozomi.
-<0600> \{［desire］}
+<0600> \{[Nozomi]}
 <0601> "Y-yes...!"
-<0602> \{［伶］}
+<0602> \{[Rei]}
 <0603> "...that I am your master,
 <0604> \ You should understand.
 <0605> \ Do you know why you were hit?
-<0606> \{［desire］}
+<0606> \{[Nozomi]}
 <0607> "...Yes."
-<0608> \{［伶］}
+<0608> \{[Rei]}
 <0609> "From now on, be careful not to do anything that might displease me.
 <0610> \ Especially if you want to be treated kindly."
-<0611> \{［desire］}
+<0611> \{[Nozomi]}
 <0612> "I'm sorry..."
 <0613> With a tearful face and straining her voice,
 <0614> Seeing Nozomi finally put that into words,
 <0615> The satisfaction of having them obey your wishes,
 <0616> I feel uneasy, as if I've misunderstood something.
-<0617> \{［伶］}
+<0617> \{[Rei]}
 <0618> "...Takami is waiting. I'll be back now."
-<0619> \{［desire］}
+<0619> \{[Nozomi]}
 <0620> "Yes..."
 <0621> Looking down sadly, Nozomi answered softly,
 <0622> Rei left the room.
 <0623> I didn't mean to scare you.
 <0624> But to the surprise of a nervous child,
 <0625> It may have been a careless act.
-<0626> \{［伶］}
+<0626> \{[Rei]}
 <0627> (...I should have been a little more considerate.)
 <0628> Now that the urge had passed, I hesitated to touch it,
 <0629> Trying to calm the boy who was tensed up,
 <0630> Rei stretched out her hand towards Nozomi,
 <0631> I placed it on the small head in front of me and stroked it lightly.
-<0632> \{［Hope］}
+<0632> \{[Hope]}
 <0633> "Ah..."
 <0634> It feels just as soft and warm as it looks.
 <0635> For well-groomed, shiny hair,
@@ -646,19 +646,19 @@
 <0639> Enjoy the smooth feel,
 <0640> Because of her small stature, Nozomi's hair is quite low.
 <0641> Gently comb your hair with your fingertips.
-<0642> \{［desire］}
+<0642> \{[Nozomi]}
 <0643> "...!"
 <0644> The boy's eyes widened and his body stiffened,
 <0645> Look, her face turns red with embarrassment.
 <0646> The boy's face changed colour vividly, and it was fascinating.
 <0647> Rei couldn't help but stare at the changes.
-<0648> \{［desire］}
+<0648> \{[Nozomi]}
 <0649> "...Uh, um..."
-<0650> \{［伶］}
+<0650> \{[Rei]}
 <0651> "What's wrong?"
-<0652> \{［desire］}
+<0652> \{[Nozomi]}
 <0653> "Please let go of my hand..."
-<0654> \{［伶］}
+<0654> \{[Rei]}
 <0655> "Yeah... That's right."
 <0656> It seemed as if he could no longer bear the tension.
 <0657> Nozomi squeezed out a weak voice,
@@ -666,38 +666,38 @@
 <0659> It took me a surprisingly long time to hear it.
 <0660> And so it seems he was touching Nozomi.
 <0661> Rei shook her head slightly, as if to break away from her thoughts.
-<0662> \{［伶］}
+<0662> \{[Rei]}
 <0663> "...Takami is waiting.
 <0664> \ If you make them wait too long, it will be noisy later,
 <0665> \ I'll be back now."
-<0666> \{［desire］}
+<0666> \{[Nozomi]}
 <0667> "Ah... yes!"
 <0668> He raised his face, still blushing,
 <0669> Leaving behind Nozomi, who answered in a panicked voice,
 <0670> Rei left the room.
 <0671> So as not to frighten the boy any further,
 <0672> Rei silently withdrew from Nozomi's side.
-<0673> \{［伶］}
+<0673> \{[Rei]}
 <0674> "...Takami is waiting. I'll be back soon."
-<0675> \{［desire］}
+<0675> \{[Nozomi]}
 <0676> "Ah... yes."
 <0677> Nozomi looked up in a panic and answered,
 <0678> Rei left the room.
-<0679> \{［伶］}
+<0679> \{[Rei]}
 <0680> "Nothing special. We'll be spending time together from tomorrow whether we like it or not.
 <0681> \ This will be fine for today."
 <0682> \{[Takami]}
 <0683> "I see. Nozomi, you go back to your room."
-<0684> \{［desire］}
+<0684> \{[Nozomi]}
 <0685> "Yes..."
 <0686> Takami ordered Nozomi to
 <0687> I bowed my head slightly to Rei,
 <0688> Quietly left the room.
-<0689> \{［伶］}
+<0689> \{[Rei]}
 <0690> "...obedient."
 <0691> \{[Takami]}
 <0692> "Know your place."
-<0693> \{［伶］}
+<0693> \{[Rei]}
 <0694> "Was it okay to let him go alone?
 <0695> \ It must be an important product.
 <0696> \{[Takami]}
@@ -710,9 +710,9 @@
 <0703> \ A bird with clipped wings cannot fly.
 <0704> \{[Takami]}
 <0705> "Now, I forget I can even fly."
-<0706> \{［伶］}
+<0706> \{[Rei]}
 <0707> "......"
-<0708> \{［伶］}
+<0708> \{[Rei]}
 <0709> "Is that girl what you call an 'angel'?
 <0710> \ At first glance,
 <0711> \ I don't see any signs that it's not human."
@@ -720,25 +720,25 @@
 <0713> "But there's still something that interests me,
 <0714> \ Because I felt there was hope,
 <0715> \ You accepted this offer, right?
-<0716> \{［伶］}
+<0716> \{[Rei]}
 <0717> "Well, I wonder. The repetition of the same old days,
 <0718> \ Maybe he was just tired of it."
-<0719> \{［伶］}
+<0719> \{[Rei]}
 <0720> "If I can get through this boredom,
 <0721> \ Whatever trivial games you bring to the table,
 <0722> \ I was so interested in going out with you...
-<0723> \{［伶］}
+<0723> \{[Rei]}
 <0724> "But maybe that's all there is to it."
 <0725> \{[Takami]}
 <0726> "...He's still as useless as ever.
 <0727> \ If I were to be honest and say that I was interested in Nozomi,
 <0728> \ Something cute."
-<0729> \{［伶］}
+<0729> \{[Rei]}
 <0730> "I don't want you to like me.
 <0731> \ I have no intention of responding obediently."
 <0732> \{[Takami]}
 <0733> "...You...!"
-<0734> \{［伶］}
+<0734> \{[Rei]}
 <0735> "Oh. What's wrong, Takami?
 <0736> \ You look pale."
 <0737> \{[Takami]}
@@ -761,7 +761,7 @@
 <0754> Takami pushes it into Rei's hand with a flirtatious smile.
 <0755> \{[Takami]}
 <0756> "Oh, by the way, do you have a cell phone?"
-<0757> \{［伶］}
+<0757> \{[Rei]}
 <0758> "No. I don't like it so I don't have it. What?"
 <0759> \{[Takami]}
 <0760> "I don't think that's a problem,
@@ -777,7 +777,7 @@
 <0770> \{[Takami]}
 <0771> "Well, while you're here,
 <0772> \ Please assume that you will have almost no contact with the outside world.
-<0773> \{［伶］}
+<0773> \{[Rei]}
 <0774> "I understand. It won't cause any problems, so I don't mind."
 <0775> \{[Takami]}
 <0776> "What I need to tell you is,
@@ -795,7 +795,7 @@
 <0788> "Well then, I'll leave the rest to you.
 <0789> \ I have work to do so I can't come to the mansion tomorrow,
 <0790> \ Please feel free to spend your time here without worrying.
-<0791> \{［伶］}
+<0791> \{[Rei]}
 <0792> "I will do so without being told.
 <0793> However, if you get bored of living in the mansion,
 <0794> \ I'll leave without any hesitation, so be prepared for that.
@@ -810,7 +810,7 @@
 <0803> A representative of the servants working at the mansion.
 <0804> In response to the greeting from a slightly older man,
 <0805> Rei responds coldly, giving him an uninterested look.
-<0806> \{［伶］}
+<0806> \{[Rei]}
 <0807> "I'll be in your care for a while.
 <0808> \ Thank you in advance.
 <0809> Hearing Rei's words, the servants gathered there,
@@ -830,7 +830,7 @@
 <0823> It seems to be mainly about legends, folklore and myths from around the world.
 <0824> And, after a quick look at the library,
 <0825> It also contained many books that spoke about "angels."
-<0826> \{［伶］}
+<0826> \{[Rei]}
 <0827> "I'll give you a hint.
 <0828> \ So now it's up to you to figure out the answer yourself.
 <0829> \ ...I guess that's what it means."
@@ -843,7 +843,7 @@
 <0836> Rei thinks about the days that will begin tomorrow.
 <0837> He lives hidden in a mansion in the mountains, far from civilization.
 <0838> A boy who is said to be of angelic blood.
-<0839> And then, treat that <Angel> however you like,
+<0839> And then, treat that \<Angel\> however you like,
 <0840> Rei, who was invited to be the master of the mansion, was given a strange role.
 <0841> It's different from the days I've spent up until now.
 <0842> A vague premonition that a long-awaited change is about to come,
@@ -855,7 +855,7 @@
 <0848> I think about the days that will begin tomorrow.
 <0849> He lives hidden in a mansion in the mountains, far from civilization.
 <0850> A boy who is said to be of angelic blood.
-<0851> And then, treat that <Angel> however you like,
+<0851> And then, treat that \<Angel\> however you like,
 <0852> Rei, who was invited to be the master of the mansion, was given a strange role.
 <0853> It's different from the days I've spent up until now.
 <0854> A vague premonition that a long-awaited change is about to come,

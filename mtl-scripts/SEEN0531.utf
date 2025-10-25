@@ -2,7 +2,7 @@
 
 #character '[? ? ]'
 #character '[Rei]'
-#character '［Marie］'
+#character '[Marie]'
 
 <0000> The dazzling sunlight,
 <0001> The refreshing morning view of the unfamiliar ceiling painted white,
@@ -24,7 +24,7 @@
 <0017> Kindly and cheerfully,
 <0018> The girl called out Rei's name and smiled,
 <0019> I don't remember.
-<0020> \{［伶］}
+<0020> \{[Rei]}
 <0021> "...Who are you?"
 <0022> \{[Mari]}
 <0023> "Oh, sorry for the late greeting!
@@ -34,7 +34,7 @@
 <0027> "I was told to take care of Rei-sama,
 <0028> \ That's what I'm saying.
 <0029> \ Please let me know if you need anything.
-<0030> \{［伶］}
+<0030> \{[Rei]}
 <0031> "My personal maid... you'll take care of me."
 <0032> \{[Mari]}
 <0033> "Yes, I will serve Lady Rei!
@@ -48,11 +48,11 @@
 <0041> "...Welcome to the mansion, Rei-sama.
 <0042> \ We have been looking forward to your visit, Rei-sama.
 <0043> \ We warmly welcome you.
-<0044> \{［伶］}
+<0044> \{[Rei]}
 <0045> "Mari..."
 <0046> \{[Mari]}
 <0047> "Yes, Rei-sama, what is it?"
-<0048> \{［伶］}
+<0048> \{[Rei]}
 <0049> "The jacket you've been stepping on under your shoes for a while now,
 <0050> \ Could you please get it for me?
 <0051> \{[Mari]}
@@ -65,7 +65,7 @@
 <0058> Marie, who had been stepping on it without realizing it,
 <0059> In response to Rei's quiet words of criticism,
 <0060> He appears panicked and jumps away.
-<0061> \{［伶］}
+<0061> \{[Rei]}
 <0062> "Oh, if you rush like that you'll fall."
 <0063> \{[Mari]}
 <0064> "Hyaaaahh?!"
@@ -84,11 +84,11 @@
 <0077> I can't bear to abandon you like this.
 <0078> Rei got up from the bed,
 <0079> He offers his hand to Marie to help her stand up.
-<0080> \{［伶］}
+<0080> \{[Rei]}
 <0081> "That was quite a spectacular fall. Are you okay?"
 <0082> \{[Mari]}
 <0083> "Th...Thank you!"
-<0084> \{［伶］}
+<0084> \{[Rei]}
 <0085> "You shouldn't rush to get up. You'll fall again.
 <0086> \ Come on, give me your hand."
 <0087> \{[Mari]}

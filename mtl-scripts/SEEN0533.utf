@@ -1,16 +1,16 @@
 // Resources for SEEN0533.TXT
 
 #character '[Rei]'
-#character '［Marie］'
+#character '[Marie]'
 
 <0000> That night, lured by the gentle and pleasant night breeze,
 <0001> Rei invites Marie,
 <0002> I decided to go outside and watch the stars again.
-<0003> \{［伶］}
+<0003> \{[Rei]}
 <0004> "Mari, why are you sitting so far away?"
 <0005> \{[Mari]}
 <0006> "Um, well, that's... well"
-<0007> \{［伶］}
+<0007> \{[Rei]}
 <0008> "Come closer"
 <0009> \{[Mari]}
 <0010> "Ah... yes!"
@@ -18,7 +18,7 @@
 <0012> Rei almost forcefully made Marie sit next to her.
 <0013> \{[Mari]}
 <0014> "...The starry sky is beautiful again tonight."
-<0015> \{［伶］}
+<0015> \{[Rei]}
 <0016> "The air must be clear.
 <0017> \ The night sky seems higher than before.
 <0018> \{[Mari]}
@@ -32,15 +32,15 @@
 <0026> \ It feels so clear..."
 <0027> \{[Mari]}
 <0028> "That seems to be the case..."
-<0029> \{［伶］}
+<0029> \{[Rei]}
 <0030> "......"
-<0031> \{［伶］}
+<0031> \{[Rei]}
 <0032> "That's true..."
-<0033> \{［伶］}
+<0033> \{[Rei]}
 <0034> "...Mari-e"
 <0035> \{[Mari]}
 <0036> "Yes..."
-<0037> \{［伶］}
+<0037> \{[Rei]}
 <0038> "The night breeze is refreshing and I feel great.
 <0039> \ I'd like to talk to you for a little while longer, is that okay?
 <0040> \{[Mari]}
@@ -49,51 +49,51 @@
 <0043> "Ah, but... I'll
 <0044> \ I would like to request what we should talk about.
 <0045> \ Is that okay?
-<0046> \{［伶］}
+<0046> \{[Rei]}
 <0047> "...? Sure. What is it?"
 <0048> \{[Mari]}
 <0049> "Rei-sama, please tell me about your past."
-<0050> \{［伶］}
+<0050> \{[Rei]}
 <0051> "...About me?"
 <0052> \{[Mari]}
 <0053> "Yes. I really want to know.
 <0054> \ I wonder what kind of days Rei-sama has been living up until now.
-<0055> \{［伶］}
+<0055> \{[Rei]}
 <0056> "Are you talking about me...?"
 <0057> \{[Mari]}
 <0058> "Anything is fine. About your friends,
 <0059> \ About the people around me..."
-<0060> \{［伶］}
+<0060> \{[Rei]}
 <0061> "Well... that's not much to talk about."
 <0062> \{[Mari]}
 <0063> "...?"
-<0064> \{［伶］}
+<0064> \{[Rei]}
 <0065> "I've lived my life avoiding contact with people.
 <0066> \ I don't have any friends I can trust.
-<0067> \{［伶］}
+<0067> \{[Rei]}
 <0068> "...To be honest, it's exhausting.
 <0069> \ The reason why many people only think about themselves is
 <0070> \ Because I know..."
-<0071> \{［伶］}
+<0071> \{[Rei]}
 <0072> "Judge things according to your own convenience,
 <0073> \ I have no doubt that this is the most accurate measure.
 <0074> \{[Mari]}
 <0075> "......"
-<0076> \{［伶］}
+<0076> \{[Rei]}
 <0077> "Everyone approaches me only because of my appearance, and gets carried away.
 <0078> \ And yet, inside me,
 <0079> \ When we recognize something different from ourselves, we distance ourselves from it.
-<0080> \{［伶］}
+<0080> \{[Rei]}
 <0081> "That's so selfish."
 <0082> \{[Mari]}
 <0083> "...It was the people around Rei-sama,
 <0084> \ Are you talking about women?
-<0085> \{［伶］}
+<0085> \{[Rei]}
 <0086> "Oh... mainly, I guess."
 <0087> \{[Mari]}
 <0088> "...I, those people's feelings,
 <0089> \ I think I understand a little bit now.
-<0090> \{［伶］}
+<0090> \{[Rei]}
 <0091> "......?"
 <0092> \{[Mari]}
 <0093> "I had a mother.
@@ -136,7 +136,7 @@
 <0130> Marie's words melt into the darkness,
 <0131> It resonates deeply in Rei's heart and sinks in.
 <0132> It sounded like a mysterious song.
-<0133> \{［伶］}
+<0133> \{[Rei]}
 <0134> "You're an optimist."
 <0135> \{[Mari]}
 <0136> "Yes! I'm not the smartest,
@@ -149,7 +149,7 @@
 <0143> "So I'm going to take it easy,
 <0144> \ I'll think about it.
 <0145> That way you can feel warmer every day."
-<0146> \{［伶］}
+<0146> \{[Rei]}
 <0147> "......"
 <0148> \{[Mari]}
 <0149> "Humans are creatures that tend to look at things too closely.
@@ -182,14 +182,14 @@
 <0176> \{[Mari]}
 <0177> "I'm sure that I understand Rei-sama's heart.
 <0178> \ I think it will make things easier for you."
-<0179> \{［伶］}
+<0179> \{[Rei]}
 <0180> "......"
-<0181> \{［伶］}
+<0181> \{[Rei]}
 <0182> "...You say some very strange things."
-<0183> \{［伶］}
+<0183> \{[Rei]}
 <0184> "You,
 <0185> \ I never thought you'd say something like that."
-<0186> \{［伶］}
+<0186> \{[Rei]}
 <0187> "...But your words aren't unpleasant.
 <0188> \ I felt like I wanted to listen to his advice.
 <0189> \{[Mari]}
@@ -198,9 +198,9 @@
 <0192> \{[Mari]}
 <0193> "... Otherwise,
 <0194> \ I won't be able to rest in peace either."
-<0195> \{［伶］}
+<0195> \{[Rei]}
 <0196> "......?"
-<0197> \{［伶］}
+<0197> \{[Rei]}
 <0198> "I can't rest in peace...
 <0199> \ You speak as if you were a dead man."
 <0200> \{[Mari]}
@@ -211,7 +211,7 @@
 <0205> \{[Mari]}
 <0206> "Please, Rei-sama,
 <0207> \ I hope you will be happy.
-<0208> \{［伶］}
+<0208> \{[Rei]}
 <0209> "......"
 <0210> Looking at Marie's praying face,
 <0211> Rei felt a strangely solemn feeling.

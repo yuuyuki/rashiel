@@ -1,10 +1,10 @@
 // Resources for SEEN0100.TXT
 
-#character '[woman]'
+#character '[Woman]'
 #character '[Rei]'
-#character '[male]'
+#character '[Man]'
 #character '[? ? ]'
-#character '［Takami］'
+#character '[Takami]'
 
 <0000> Prologue
 <0001> View the prologue
@@ -21,38 +21,38 @@
 <0012> The woman who conceived him, gave birth to him, and stayed by his side until he reached this age,
 <0013> Slowly, his body is consumed by the madness that eats away at him.
 <0014> That day, I finally let out all my overflowing feelings.
-<0015> \{[Female]}
+<0015> \{[Woman]}
 <0016> "Those abominable eyes...!"
-<0017> \{[Female]}
+<0017> \{[Woman]}
 <0018> "With those eyes that see through everything,
 <0019> \ You're trying to expose my heart...!
 <0020> The woman, like one who finds something frightening in the dark,
 <0021> His pale lips trembled slightly.
 <0022> He steps back unsteadily on his shaky legs,
 <0023> I try to get as far away from my child as possible.
-<0024> \{[Female]}
+<0024> \{[Woman]}
 <0025> "Cursed child, you're not normal...!"
-<0026> \{[Female]}
+<0026> \{[Woman]}
 <0027> "Oh... why should I...
 <0028> \ Did you know you would give birth to something so horrible?
-<0029> \{[Female]}
+<0029> \{[Woman]}
 <0030> "I don't know what the main family wants. Enough already!
 <0031> I didn't want to give birth to a child like this..."
-<0032> \{[Female]}
+<0032> \{[Woman]}
 <0033> "But, Rei, you're just too different.
 <0034> \ They're so different from us..."
-<0035> \{[Female]}
+<0035> \{[Woman]}
 <0036> "That's not normal... That's not normal..."
-<0037> \{［伶］}
+<0037> \{[Rei]}
 <0038> "......"
 <0039> For a young child to be thrown by his own mother,
 <0040> Such cruel words.
 <0041> However, Rei is not shaken by her mother's words.
 <0042> Because, as you probably already know,
 <0043> Because Rei had already realized that fact.
-<0044> \{［伶］}
+<0044> \{[Rei]}
 <0045> (I'm not...)
-<0046> \{［伶］}
+<0046> \{[Rei]}
 <0047> (With those people - my mother, my father, and everyone around me,
 <0048> Something's "different"...
 <0049> There was no need for my mother to tell me.
@@ -63,9 +63,9 @@
 <0054> Because of Rei's innate unorthodox talent,
 <0055> With wisdom beyond his years,
 <0056> A small hand reaches out to calm her distraught mother.
-<0057> \{[Female]}
+<0057> \{[Woman]}
 <0058> "Stop it! Stay away!"
-<0059> \{[Female]}
+<0059> \{[Woman]}
 <0060> "Rei, please don't touch me.
 <0061> \ Don't touch it with those hands...!"
 <0062> With a sharp \ruby{sound of hitting}={sound of hitting}, the outstretched hand was slapped away.
@@ -79,9 +79,9 @@
 <0070> So, to my mother, who was closer to me than anyone else,
 <0071> He saw through it more accurately than anyone else.
 <0072> That Rei has a power far beyond that of other humans.
-<0073> \{[Female]}
+<0073> \{[Woman]}
 <0074> "Don't touch me with those hands, don't look at me with those eyes!"
-<0075> \{[Female]}
+<0075> \{[Woman]}
 <0076> "Don't expose my heart, Rei...!"
 <0077> Rei's hands float to the surface of the consciousness of the person who touches her fingertips.
 <0078> You can pick up fragments of strong thoughts.
@@ -125,7 +125,7 @@
 <0116> Normally, it reflects the character of the people who live there,
 <0117> The silence in the room
 <0118> A loud, disturbing male voice.
-<0119> \{［Male］}
+<0119> \{[Man]}
 <0120> "Hey, are you listening?
 <0121> \ Stop reading the book and answer the question.
 <0122> He entered the room without the permission of his master, Rei,
@@ -133,118 +133,118 @@
 <0124> The voice was rude and introduced itself as the teacher in charge of the class.
 <0125> I sighed and put down the book I was reading,
 <0126> Rei casts a cold gaze at the man standing in front of her.
-<0127> \{［伶］}
+<0127> \{[Rei]}
 <0128> "...You're also a persistent person.
 <0129> \ Can you stop this already?
 <0130> The coldness of Rei's gaze,
 <0131> For a moment, the man appears frightened.
 <0132> He tightened his expression again and began questioning Rei.
 <0133> The man leans forward.
-<0134> \{［Male］}
+<0134> \{[Man]}
 <0135> "Until you told me why you were absent from college for so long,
 <0136> \ I won't back down!
-<0137> \{［Male］}
+<0137> \{[Man]}
 <0138> "Are you really not going to go back to college?
 <0139> \ What on earth could have happened to cause such a thing..."
-<0140> \{［伶］}
+<0140> \{[Rei]}
 <0141> "...none of your business."
-<0142> \{［Male］}
+<0142> \{[Man]}
 <0143> "What do you mean it's not my business, Saiga?
 <0144> \ I am the person entrusted with guiding you students!
-<0145> \{［伶］}
+<0145> \{[Rei]}
 <0146> "......"
 <0147> As if the matter was over, he looked at me with a disinterested expression.
 <0148> Rei's attitude of dropping it to the book again,
 <0149> The man shouted, letting out an explosion of pent-up rage.
-<0150> \{［Male］}
+<0150> \{[Man]}
 <0151> "What are you complaining about? The professor thinks of you,
 <0152> \ I rate it higher than anyone else,
 <0153> \ Everyone has high expectations of you!
-<0154> \{［Male］}
+<0154> \{[Man]}
 <0155> "Saiga, I don't want you to quit college.
 <0156> \ I want you to stay like this!
-<0157> \{［Male］}
+<0157> \{[Man]}
 <0158> "In such a large and splendid house,
 <0159> \ Since you live alone,
 <0160> \ Surely there are no financial problems?
-<0161> \{［Male］}
+<0161> \{[Man]}
 <0162> "Then come back immediately.
 <0163> \ Even when I think about the future,
 <0164> \ A college degree would be beneficial to your career."
-<0165> \{［伶］}
+<0165> \{[Rei]}
 <0166> "......"
-<0167> \{［Male］}
-<0168> "Saig!"
+<0167> \{[Man]}
+<0168> "Saiga!"
 <0169> Are you trying to get Rei's attention by force?
 <0170> The man grabbed Rei's wrist, who was holding the book.
 <0171> He grabbed me tightly with the strength of his rage.
 <0172> Rei frowns at the discomfort of the hands touching her unwillingly.
-<0173> \{［伶］}
+<0173> \{[Rei]}
 <0174> "...Can you let go of my hand?"
-<0175> \{［Male］}
+<0175> \{[Man]}
 <0176> "No! Until you say you'll come back,
 <0177> \ I won't let go of this hand.
-<0178> \{［Male］}
+<0178> \{[Man]}
 <0179> "I'm the one who's trying so hard to stop you.
 <0180> \ I won't allow you to quit!"
-<0181> \{［伶］}
+<0181> \{[Rei]}
 <0182> "......"
-<0183> \{［伶］}
+<0183> \{[Rei]}
 <0184> “I came to a place called university,
 <0185> \ I went there in search of knowledge and learning.
-<0186> \{［伶］}
+<0186> \{[Rei]}
 <0187> "Now that our purpose has been achieved,
 <0188> \ I no longer have any reason to stay there.
-<0189> \{［Male］}
+<0189> \{[Man]}
 <0190> "What a stupid thing to do.
 <0191> \ You've only been here for about two years.
 <0192> \ There's still so much you need to learn..."
-<0193> \{［伶］}
+<0193> \{[Rei]}
 <0194> "Two years was plenty of time to gain the knowledge I sought.
 <0195> \ I have no intention of returning.
-<0196> \{［伶］}
+<0196> \{[Rei]}
 <0197> "This is where I say goodbye to you. Now, go home."
-<0198> \{［Male］}
+<0198> \{[Man]}
 <0199> "I'm giving you advice for your own good!
 <0200> \ Worried about your future,
 <0201> \ I'm trying to persuade you to stay at university...!"
-<0202> \{［伶］}
+<0202> \{[Rei]}
 <0203> "......"
-<0204> \{［伶］}
+<0204> \{[Rei]}
 <0205> "You're the one who's holding me back
 <0206> \ It's not about my future."
-<0207> \{［伶］}
+<0207> \{[Rei]}
 <0208> "You have made a great contribution to the area of your influence.
 <0209> \ By holding me back,
 <0210> \ He wants to have me under his control."
-<0211> \{［伶］}
+<0211> \{[Rei]}
 <0212> "That report I submitted."
-<0213> \{［Male］}
+<0213> \{[Man]}
 <0214> "!"
-<0215> \{［伶］}
+<0215> \{[Rei]}
 <0216> "I... already "know".
 <0217> \ Your contribution to that report,
 <0218> \ A very deep and strong emotion - an attachment."
-<0219> \{［Male］}
+<0219> \{[Man]}
 <0220> "Wh... what are you talking about?"
-<0221> \{［伶］}
+<0221> \{[Rei]}
 <0222> "You used that report as your own paper.
 <0223> \ I hope to make an announcement.
 <0224> \ That's why he doesn't want to let me go."
-<0225> \{［伶］}
+<0225> \{[Rei]}
 <0226> "...Is that wrong?"
 <0227> She caught the man's gaze and never let go.
 <0228> Rei asks calmly.
 <0229> Perhaps he was shaken by the truth he wanted to hide.
 <0230> The man's face turns pale in an instant.
-<0231> \{［Male］}
+<0231> \{[Man]}
 <0232> "S-Stop it!"
-<0233> \{［Male］}
+<0233> \{[Man]}
 <0234> "What are you talking about?
 <0235> \ Stop making fun of people!
-<0236> \{［Male］}
+<0236> \{[Man]}
 <0237> "I'm doing this for your own good..."
-<0238> \{［伶］}
+<0238> \{[Rei]}
 <0239> "......"
 <0240> "Thinking of you"
 <0241> It means that every action you take against someone
@@ -253,10 +253,10 @@
 <0244> For this reason, the words are often
 <0245> It is used as an excuse to hide one's true, selfish feelings.
 <0246> Yes, that's why--
-<0247> \{［伶］}
+<0247> \{[Rei]}
 <0248> (...This is also not something I'm serious about.
 <0249> \ Even if you try to hide your true feelings, you can tell by looking at your eyes.)
-<0250> \{［伶］}
+<0250> \{[Rei]}
 <0251> (No "special powers" are necessary.
 <0252> \ If you have the eyes to see through it,
 <0253> \ Anyone can guess what the other person is thinking.)
@@ -274,7 +274,7 @@
 <0265> Should I try to find out what he really means?
 <0266> Touching a man's heart
 <0267> There's no need to check
-<0268> \{［伶］}
+<0268> \{[Rei]}
 <0269> (Check whether the words tell the truth)
 <0270> Rei focused her attention on the spot where the man had grabbed her tightly,
 <0271> In the image I have in my mind,
@@ -319,7 +319,7 @@
 <0310> Jealous
 <0311> I want it, I'm jealous, I want it
 <0312> Jealous
-<0313> \{［伶］}
+<0313> \{[Rei]}
 <0314> (...Shut up)
 <0315> In the thoughts of a self-righteous and greedy man,
 <0316> Even though it was just a small fragment, touching it made me feel sick.
@@ -327,7 +327,7 @@
 <0318> It is also possible that they will be exposed.
 <0319> However, coupled with the headaches that hit me every time I used my power,
 <0320> This "poison" made Rei feel extremely irritated.
-<0321> \{［伶］}
+<0321> \{[Rei]}
 <0322> (--That's enough. It's not worth mentioning any further.)
 <0323> In addition to the "light" emitted by human thoughts,
 <0324> The concept of color disappears from all things visible to the eye,
@@ -341,26 +341,26 @@
 <0332> As usual, Rei feels dizzy.
 <0333> When the "light" disappears and vision returns to normal,
 <0334> Rei told the man coldly.
-<0335> \{［伶］}
+<0335> \{[Rei]}
 <0336> "--It seems that the me you don't want isn't me."
-<0337> \{［伶］}
+<0337> \{[Rei]}
 <0338> "But I'm not yours.
 <0339> \ It's annoying to have your values forced upon me.
 <0340> \ I have no intention of complying."
-<0341> \{［伶］}
+<0341> \{[Rei]}
 <0342> "You refuse to accept any values other than your own,
 <0343> \ For someone like you,
 <0344> \ I don't want people to say anything about how I live my life."
-<0345> \{［Male］}
+<0345> \{[Man]}
 <0346> "Huh..."
-<0347> \{［伶］}
+<0347> \{[Rei]}
 <0348> "I hate boredom.
 <0349> \ With someone who only brings you boring times,
 <0350> \ And the same goes for pointless conversations."
-<0351> \{［伶］}
+<0351> \{[Rei]}
 <0352> "Your words bore me.
 <0353> \ --Go home."
-<0354> \{［Male］}
+<0354> \{[Man]}
 <0355> "...!"
 <0356> Rei's cold, cutting words
 <0357> The man's face changes color.
@@ -378,25 +378,25 @@
 <0369> There is no need to re-interpret it.
 <0370> Words without soul will never resonate in Rei's heart.
 <0371> The man's voice passes vainly over Rei.
-<0372> \{［伶］}
+<0372> \{[Rei]}
 <0373> "...I'm sorry, but I can't interfere any further.
 <0374> \ That's enough."
-<0375> \{［Male］}
-<0376> "Saigo! Why did you do that...?"
-<0377> \{［伶］}
+<0375> \{[Man]}
+<0376> "Saiga! Why did you do that...?"
+<0377> \{[Rei]}
 <0378> "You refuse to accept any values other than your own,
 <0379> \ For someone like you,
 <0380> \ I don't want people to say anything about how I live my life."
-<0381> \{［Male］}
+<0381> \{[Man]}
 <0382> "What...?!"
-<0383> \{［伶］}
+<0383> \{[Rei]}
 <0384> "I hate boredom.
 <0385> \ With someone who only brings you boring times,
 <0386> \ And the same goes for pointless conversations."
-<0387> \{［伶］}
+<0387> \{[Rei]}
 <0388> "Your words bore me.
 <0389> \ --Go home."
-<0390> \{[Male]}
+<0390> \{[Man]}
 <0391> "...!"
 <0392> In response to Rei's unpleasant words,
 <0393> I see the man's face change color.
@@ -414,7 +414,7 @@
 <0405> A grumpy voice that was all too familiar to Rei's ears.
 <0406> Who is this voice?
 <0407> Rei knew without even having to turn around to check.
-<0408> \{［伶］}
+<0408> \{[Rei]}
 <0409> "\ruby{Takami}={Takami}...?"
 <0410> \{[Takami]}
 <0411> "It's been a while, Rei.
@@ -437,15 +437,15 @@
 <0428> It's not as intimate as the length of the relationship.
 <0429> From affection,
 <0430> Rather--
-<0431> \{［伶］}
+<0431> \{[Rei]}
 <0432> "Oh, I knew you were there.
 <0433> \ There was no need to be cautious.
 <0434> \{[Takami]}
 <0435> "...What does that mean?"
-<0436> \{［伶］}
+<0436> \{[Rei]}
 <0437> "Even if I don't do anything,
 <0438> \ I thought if anything happened to me, you'd take care of it."
-<0439> \{［伶］}
+<0439> \{[Rei]}
 <0440> "The results are as you can see.
 <0441> \ You've worked hard, Takami. ...for me."
 <0442> \{[Takami]}
@@ -454,15 +454,15 @@
 <0445> "I didn't stop for you!
 <0446> \ I don't care what happens to you!
 <0447> \ I just..."
-<0448> \{［伶］}
+<0448> \{[Rei]}
 <0449> "I don't think you 'helped' me.
 <0450> \ I would like to avoid being hit by someone other than you.
 <0451> \ I just assumed you wouldn't overlook it."
-<0452> \{［伶］}
+<0452> \{[Rei]}
 <0453> "You have given me the opportunity to hurt you,
 <0454> \ I cannot bear to leave it in the hands of others,
 <0455> \ You hate me--"
-<0456> \{［伶］}
+<0456> \{[Rei]}
 <0457> "Right? Takami."
 <0458> \{[Takami]}
 <0459> "...Yeah, that's right. I didn't help you."
@@ -470,7 +470,7 @@
 <0461> "I'd love to see you get beaten up,
 <0462> \ It would be better to pretend to be grateful to you and then see your regretful face,
 <0463> \ I just thought it would be more interesting."
-<0464> \{［伶］}
+<0464> \{[Rei]}
 <0465> "Unfortunately for you, I have no intention of thanking you.
 <0466> \ It was your own doing."
 <0467> \{[Takami]}
@@ -482,7 +482,7 @@
 <0473> \{[Takami]}
 <0474> "Hey, you. How long do you intend to stay here?
 <0475> \ Outsiders, get out now."
-<0476> \{［Male］}
+<0476> \{[Man]}
 <0477> "I, I'm a professor at Saiga University..."
 <0478> \{[Takami]}
 <0479> "Why don't you just figure it out already?
@@ -499,11 +499,11 @@
 <0490> "But even so, being followed around like that,
 <0491> \ Is this a common occurrence?
 <0492> \ Stop letting strangers into your home indiscriminately."
-<0493> \{［伶］}
+<0493> \{[Rei]}
 <0494> "It's not like I invited you.
 <0495> \ They just come of their own accord.
 <0496> \ ...Speaking of uninvited guests, you are one too."
-<0497> \{［伶］}
+<0497> \{[Rei]}
 <0498> "It's rude to walk into someone's house without saying a word.
 <0499> \ Even if you are the son of my guardian,
 <0500> \ Don't you think that's rude, Takami?
@@ -511,35 +511,35 @@
 <0502> "...Until you're eighteen,
 <0503> \ We're friends who lived in the same \ruby{mansion}={house}.
 <0504> \ Don't be so noisy now.
-<0505> \{［伶］}
+<0505> \{[Rei]}
 <0506> "That's the Kujo family residence. It's within your territory.
 <0507> \ I will follow the rules you two have set."
-<0508> \{［伶］}
+<0508> \{[Rei]}
 <0509> "However, I am the master of this house.
 <0510> \ You must follow my rules in this house.
 <0511> \ You are no exception."
 <0512> \{[Takami]}
 <0513> "Rules? That sounds very impersonal."
-<0514> \{［伶］}
+<0514> \{[Rei]}
 <0515> "Yeah, because I don't trust you.
 <0516> \ It's for my own safety.
 <0517> \ I want you to follow the rules.
 <0518> \{[Takami]}
 <0519> "You don't trust me?"
-<0520> \{［伶］}
+<0520> \{[Rei]}
 <0521> "Isn't that natural?
 <0522> \ You almost killed me once."
-<0523> \{［伶］}
+<0523> \{[Rei]}
 <0524> "You remember, Takami?"
 <0525> \{[Takami]}
 <0526> "Oh, that's...!"
 <0527> \{[Takami]}
 <0528> "...the actions of a child, without any sense of reason."
-<0529> \{［伶］}
+<0529> \{[Rei]}
 <0530> "I think this went beyond childish pranks."
 <0531> \{[Takami]}
 <0532> "I was just trying..."
-<0533> \{［伶］}
+<0533> \{[Rei]}
 <0534> "Try? What?"
 <0535> \{[Takami]}
 <0536> "......"
@@ -557,17 +557,17 @@
 <0548> "Just be careful, Rei.
 <0549> \ If it were me now, I wouldn't do something so half-hearted.
 <0550> \ --I'll see it through."
-<0551> \{［伶］}
+<0551> \{[Rei]}
 <0552> "Yes. But I've already...
 <0553> \ Just like when I was young,
 <0554> \ I will not sit idly by and wait for disaster to pass.
-<0555> \{［伶］}
+<0555> \{[Rei]}
 <0556> "You're the one who needs to be careful."
 <0557> \{[Takami]}
 <0558> "......"
-<0559> \{［伶］}
+<0559> \{[Rei]}
 <0560> "......"
-<0561> \{［伶］}
+<0561> \{[Rei]}
 <0562> "What business did you have with me, Takami?
 <0563> \ I don't think they came to check on your mood.
 <0564> \ Tell me your business."
@@ -576,7 +576,7 @@
 <0567> \ I came to invite you.
 <0568> \{[Takami]}
 <0569> "Hey, Rei, why don't you do something to kill time?"
-<0570> \{［伶］}
+<0570> \{[Rei]}
 <0571> "Have you come up with another unusual game?
 <0572> \ The story you bring to me,
 <0573> \ I've never had anything worthwhile.
@@ -585,7 +585,7 @@
 <0576> \ But I think this story will interest you."
 <0577> \{[Takami]}
 <0578> "Rei, are you interested in Angels?"
-<0579> \{［伶］}
+<0579> \{[Rei]}
 <0580> "...Angels?"
 <0581> \{[Takami]}
 <0582> "Yes. An angel."
@@ -598,12 +598,12 @@
 <0589> \{[Takami]}
 <0590> "If I said I'd let you meet an Angel,
 <0591> \ What will you do?
-<0592> \{［伶］}
+<0592> \{[Rei]}
 <0593> "...I don't understand what you're trying to say."
 <0594> \{[Takami]}
 <0595> "I mean it literally. To a human of Angelic descent,
 <0596> \ Don't you want to meet him?
-<0597> \{［伶］}
+<0597> \{[Rei]}
 <0598> "......"
 <0599> \{[Takami]}
 <0600> "Hey, this makes me question people's sanity.
@@ -612,7 +612,7 @@
 <0603> \{[Takami]}
 <0604> "Speaking of the products handled by the Kujo family,
 <0605> \ Does that make sense to you?
-<0606> \{［伶］}
+<0606> \{[Rei]}
 <0607> "...〈product〉..."
 <0608> \{[Takami]}
 <0609> "...It seems that look got through to you."
@@ -620,7 +620,7 @@
 <0611> "My father has been involved in this for a long time,
 <0612> \ The secret business of the Kujo family,
 <0613> \ You noticed it when you were living in the mansion, right?
-<0614> \{［伶］}
+<0614> \{[Rei]}
 <0615> "......"
 <0616> \{[Takami]}
 <0617> "Your father, who was upset that you knew,
@@ -636,7 +636,7 @@
 <0627> \{[Takami]}
 <0628> "And by making things convenient for them, I gained their favor,
 <0629> \ The Kujo family has grown to this extent.
-<0630> \{［伶］}
+<0630> \{[Rei]}
 <0631> "...If you just take that part, it sounds like a typical business success story,
 <0632> \ It sounds the same as always."
 <0633> \{[Takami]}
@@ -646,7 +646,7 @@
 <0637> \{[Takami]}
 <0638> "What I can't say out loud is that the products we offer are
 <0639> \ It's not a thing, it's a human being."
-<0640> \{［伶］}
+<0640> \{[Rei]}
 <0641> "To put it mildly, it makes a big difference."
 <0642> \{[Takami]}
 <0643> "From an ethical and moral standpoint, yes.
@@ -655,18 +655,18 @@
 <0646> "He made his fortune through a business that was not in line with human morality,
 <0647> \ My father, who had supported the Kujo family up to this point,
 <0648> \ Would you accuse me of being evil?
-<0649> \{［伶］}
+<0649> \{[Rei]}
 <0650> "Nothing. As long as it doesn't involve me,
 <0651> \ You, the Kujo family, are going to commit an act that is against humanity,
 <0652> \ I'm not interested."
-<0653> \{［伶］}
+<0653> \{[Rei]}
 <0654> "I'm no saint.
 <0655> \ I have no intention of condemning or stopping it.
 <0656> \ Do as you please."
 <0657> \{[Takami]}
 <0658> "...That's the kind of guy you are.
 <0659> \ He is terribly cold towards things that do not interest him.
-<0660> \{［伶］}
+<0660> \{[Rei]}
 <0661> "......"
 <0662> \{[Takami]}
 <0663> "A year ago, after my father passed away,
@@ -683,7 +683,7 @@
 <0674> \{[Takami]}
 <0675> "Just waiting to be shipped,
 <0676> \ The carefully kept "goods"--"
-<0677> \{［伶］}
+<0677> \{[Rei]}
 <0678> "...Takami, I can't believe that,
 <0679> \ You asked me earlier if I wanted to meet you..."
 <0680> \{[Takami]}
@@ -694,7 +694,7 @@
 <0685> A special product. A child said to be of angelic blood.
 <0686> \{[Takami]}
 <0687> "My father apparently raised an Angel."
-<0688> \{［伶］}
+<0688> \{[Rei]}
 <0689> "...I'm surprised.
 <0690> \ That person, who is even more of a realist than you,
 <0691> \ Such a dreamlike thing."
@@ -713,16 +713,16 @@
 <0704> \{[Takami]}
 <0705> "My father declared him to be a descendant of angels,
 <0706> \ I had a special eye on him.
-<0707> \{［伶］}
+<0707> \{[Rei]}
 <0708> "An angel, huh?"
-<0709> \{［伶］}
+<0709> \{[Rei]}
 <0710> "What meaning does that person have in that name?
 <0711> \ They named it "Angel" or something like that.
 <0712> \ What do you mean by a child of Angelic blood?
 <0713> \{[Takami]}
 <0714> "Are you interested? Here's a suggestion.
 <0715> \ Would you like to meet a child of Angelic blood?
-<0716> \{［伶］}
+<0716> \{[Rei]}
 <0717> "...Why me?"
 <0718> \{[Takami]}
 <0719> "To relieve your boredom,
@@ -750,14 +750,14 @@
 <0741> \{[Takami]}
 <0742> "Oh, yes, if you're up for it,
 <0743> \ I don't mind embracing an Angel.
-<0744> \{［伶］}
+<0744> \{[Rei]}
 <0745> "!"
 <0746> \{[Takami]}
 <0747> "However, I must say in advance that the Angel is a man."
 <0748> \{[Takami]}
 <0749> "Well, you're used to playing around,
 <0750> \ I don't really care about the gender of the other person.
-<0751> \{［伶］}
+<0751> \{[Rei]}
 <0752> "...I'm shocked.
 <0753> \ What's the point in encouraging me to get my hands on this important product?
 <0754> \ You're unfit to be an administrator.
@@ -768,24 +768,24 @@
 <0759> "As long as there is no damage that will diminish its value,
 <0760> \ I don't mind a little bit.
 <0761> \ I'd be grateful if you could train me."
-<0762> \{［伶］}
+<0762> \{[Rei]}
 <0763> "What are you planning?
 <0764> \ What exactly do you want me to do?"
 <0765> \{[Takami]}
 <0766> "Plotting is a strong word.
 <0767> \ I'm not plotting anything or anything.
 <0768> \ I'm just inviting you to play a game to relieve your boredom."
-<0769> \{［伶］}
+<0769> \{[Rei]}
 <0770> "...Takami"
 <0771> \{[Takami]}
 <0772> "Well, it's not like I don't have any intentions at all.
 <0773> \ By entrusting the Angel to you,
 <0774> \ I want to leave it to you because it benefits me as well."
-<0775> \{［伶］}
+<0775> \{[Rei]}
 <0776> "So what's your gain?"
 <0777> \{[Takami]}
 <0778> "...information, right?"
-<0779> \{［伶］}
+<0779> \{[Rei]}
 <0780> "Information...?"
 <0781> \{[Takami]}
 <0782> "I want to know the true value of that child,
@@ -793,33 +793,33 @@
 <0784> \{[Takami]}
 <0785> "That's why I want to save the Angel my father left behind,
 <0786> \ I thought I'd leave it in your hands."
-<0787> \{［伶］}
+<0787> \{[Rei]}
 <0788> "...What does that mean?"
 <0789> \{[Takami]}
-<0790> "Is that <Angel> real or not?
+<0790> "Is that \<Angel\> real or not?
 <0791> \ I would like to entrust you with the role of appraiser to determine its authenticity.
 <0792> \ I want you to confirm this.
 <0793> \{[Takami]}
 <0794> "The qualities of the angel that my father saw in you,
 <0795> \ Is that really what that child has?
 <0796> \ The truth is, I've never been able to figure it out."
-<0797> \{［伶］}
+<0797> \{[Rei]}
 <0798> "Qualities...? What is that?"
 <0799> \{[Takami]}
 <0800> "A dream that only non-humans can have,
 <0801> \ Special powers, unique constitutions.
-<0802> It is a "\ruby{sign}={mark}" that proves that the person is an <Angel>."
-<0803> \{［伶］}
+<0802> It is a "\ruby{sign}={mark}" that proves that the person is an \<Angel\>."
+<0803> \{[Rei]}
 <0804> "The qualities of an angel..."
 <0805> \ A "\ruby{sign}={mark}" that proves you are a special being..."
-<0806> \{［伶］}
+<0806> \{[Rei]}
 <0807> "So, for the children you mentioned,
 <0808> \ Is there such a thing as a "\ruby{sign}={sign}"?"
 <0809> \{[Takami]}
 <0810> "That's... not entirely clear.
 <0811> \ My father said that regarding the "sign" that the angel's child possessed,
 <0812> \ He left no detailed records.
-<0813> \{［伶］}
+<0813> \{[Rei]}
 <0814> "What? That's pretty vague."
 <0815> \{[Takami]}
 <0816> "But that's what my father, a realist, believed.
@@ -827,21 +827,21 @@
 <0818> \ There must have been some reason for my father to be so sure."
 <0819> \{[Takami]}
 <0820> "So... I want you to figure that out for yourself."
-<0821> \{［伶］}
+<0821> \{[Rei]}
 <0822> "--To me?"
 <0823> \{[Takami]}
 <0824> "There's no need to think too hard about it.
-<0825> \ Using that <Angel>,
+<0825> \ Using that \<Angel\>,
 <0826> \ You just have to "play"
 <0827> \{[Takami]}
-<0828> "However, you used your <Angel> to
+<0828> "However, you used your \<Angel\> to
 <0829> \ The results of "play" are all
 <0830> I want you to report back to me. That's the only condition.
 <0831> \{[Takami]}
 <0832> "For unbiased judgment,
 <0833> \ I will not give you any information about the Angels.
 <0834> \ I want you to tell me exactly how you feel."
-<0835> \{［伶］}
+<0835> \{[Rei]}
 <0836> "Wait a moment, Takami.
 <0837> \ Without providing any basis for judgment or even the bare minimum of information about the subject,
 <0838> \ What exactly do you want me to appraise?"
@@ -849,22 +849,22 @@
 <0840> "The information I have about Angels,
 <0841> \ It's really nothing special.
 <0842> \ It's something that can be judged objectively if you don't ask."
-<0843> \{［伶］}
+<0843> \{[Rei]}
 <0844> "...It seems you have no intention of talking."
 <0845> \{[Takami]}
 <0846> "Not yet, yes.
 <0847> \ Also, it's better to keep it a bit mysterious like this,
 <0848> \ Don't you think it might interest you?
-<0849> \{［伶］}
+<0849> \{[Rei]}
 <0850> "...What an astonishing attitude."
-<0851> \{［伶］}
+<0851> \{[Rei]}
 <0852> "Takami, you have an important role to play.
 <0853> \ Why are you leaving it to me, an outsider?
 <0854> \ I'd like to know the reason.
 <0855> \{[Takami]}
 <0856> "Discerning the essence of things,
 <0857> I simply believe in the sharpness and accuracy of your "eyes."
-<0858> \{［伶］}
+<0858> \{[Rei]}
 <0859> "You trust me, so you leave it to me? You, me?
 <0860> \ I'm honored, but it's hard to believe.
 <0861> \ No matter how I think about it, I can't help but think there's something shady going on."
@@ -872,11 +872,11 @@
 <0863> "Then let's make finding out part of the game.
 <0864> \ With that brilliant brain of yours,
 <0865> \ Read this hidden agenda thing."
-<0866> \{［伶］}
+<0866> \{[Rei]}
 <0867> "...The main target of the game, the Angel,
 <0868> \ If you're a boring person who doesn't interest me,
 <0869> \ That's the end of the story."
-<0870> \{［伶］}
+<0870> \{[Rei]}
 <0871> "Will that child really be...
 <0872> \ Is there anyone who could interest me?
 <0873> \{[Takami]}
@@ -884,7 +884,7 @@
 <0875> \ You're interested in that kid."
 <0876> \{[Takami]}
 <0877> "--That's bound to happen."
-<0878> \{［伶］}
+<0878> \{[Rei]}
 <0879> "That's a very suggestive statement.
 <0880> \ The basis for your assertion is,
 <0881> \ Is it in the child's "qualities"?
@@ -900,14 +900,14 @@
 <0891> "Whether you participate in the game is up to you.
 <0892> \ But when we meet, you will accept this offer.
 <0893> \ ...I'm sure."
-<0894> \{［伶］}
+<0894> \{[Rei]}
 <0895> "......"
 <0896> \{[Takami]}
 <0897> "Then I'll come and pick you up in three days.
 <0898> \ --Come on, Rei."
 <0899> Just to say what I want to say,
 <0900> Takami quickly left the room, trying to avoid Rei's answer.
-<0901> \{［伶］}
+<0901> \{[Rei]}
 <0902> (...I became just a little curious,
 <0903> \ I missed the chance to refuse...)
 <0904> While watching Takami's car leave from the window,
