@@ -44,9 +44,9 @@ Change `intF[0] = select_s[0] (#res<0001>, #res<0002>)` to `intF[0] = select_s (
 - Warning (SEEN0101.utf line 858): duplicate resource string key `<angel>` hides
   earlier definition at SEEN0101.utf line 846.
 
-Probably some issue with using <> within text e.g. `<Angel>`
+Probably some issue with using <> within text e.g. `<Angel>.` If there is <>, it identifies as a resource tag, and since `<Angel>` resource tag is not called, the text after that will be lost.
 
-=> Ignored for now
+=> Replaced `<Angel>` with `\<Angel\>`
 
 - Error (SEEN0101.utf line 218): expected expression, found undeclared
   identifier `I'.
