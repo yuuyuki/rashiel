@@ -480,11 +480,11 @@
 <0471> I opened the door without even hearing a knock,
 <0472> Nozomi's face suddenly lit up,
 <0473> As if he had been waiting impatiently, he rushes over to Rei's side.
-<0474> \{[Hope]}
+<0474> \{[Nozomi]}
 <0475> "I'm glad you're safe...!"
 <0476> \{[Rei]}
 <0477> "I'm sorry for worrying you."
-<0478> \{[Hope]}
+<0478> \{[Nozomi]}
 <0479> "No! If Rei-san is safe,
 <0480> \ That's fine."
 <0481> \{[Nozomi]}
@@ -500,7 +500,7 @@
 <0491> \{[Rei]}
 <0492> "...for me, and for you,
 <0493> \ It's not a very pleasant story."
-<0494> \{[Hope]}
+<0494> \{[Nozomi]}
 <0495> "But still... I want to know.
 <0496> \ Rei-san, please tell me...!
 <0497> \{[Rei]}
@@ -529,7 +529,7 @@
 <0520> Rei sat down next to Nozomi, who was watching with bated breath,
 <0521> I begin to carefully read through the contents of my notebook.
 <0522> Hypnosis Experiments
-<0523> Description of <Angels>
+<0523> Description of \<Angels\>
 <0524> About Hope
 <0525> Enough already
 <0526> Notes on hypnosis experiments by Kujo Takahisa.
@@ -759,7 +759,7 @@
 <0750> \ Who is the person who is after the power of the Angels?
 <0751> \{[Rei]}
 <0752> "Everything is left vague..."
-<0753> \{[Hope]}
+<0753> \{[Nozomi]}
 <0754> "......"
 <0755> Nozomi looked depressed and at a loss for words.
 <0756> I smiled kindly to try and ease their anxiety as much as possible,
@@ -771,12 +771,12 @@
 <0762> \{[Rei]}
 <0763> "Oh... perhaps you,
 <0764> \ I bet you were so nervous you couldn't even eat your breakfast.
-<0765> \{[Hope]}
+<0765> \{[Nozomi]}
 <0766> "Um, that's right..."
 <0767> \{[Rei]}
 <0768> "That's not good.
 <0769> \ You won't make it through tomorrow at that rate, you know?
-<0770> \{[Hope]}
+<0770> \{[Nozomi]}
 <0771> "Y-yes, sorry...!"
 <0772> \{[Rei]}
 <0773> "Well then, let's have dinner together.
@@ -787,7 +787,7 @@
 <0778> \ I'm looking forward to the dessert after the meal."
 <0779> \{[Rei]}
 <0780> "Come on, let's go together, Nozomi."
-<0781> \{[Hope]}
+<0781> \{[Nozomi]}
 <0782> "...Yes!"
 <0783> I stood up and held out my hand,
 <0784> Nozomi looked up at Rei's face and finally returned the smile.
@@ -873,15 +873,15 @@
 <0864> As Rei sat down in the seat prepared for her,
 <0865> From the other side of the beautifully decorated table with plates of food lined up
 <0866> Nozomi speaks softly.
-<0867> \{[Hope]}
+<0867> \{[Nozomi]}
 <0868> "Um...Rei-san."
-<0869> \{[Hope]}
+<0869> \{[Nozomi]}
 <0870> "There is something I would like to discuss with you, Rei-san.
 <0871> \ Could you come to my room tonight...?
 <0872> \{[Rei]}
 <0873> "I understand. ...I think it will be a little late, but
 <0874> \ I'll head to your room later."
-<0875> \{[Hope]}
+<0875> \{[Nozomi]}
 <0876> "Yes! I'll be waiting...!"
 <0877> \{[Mari]}
 <0878> "Well, I've really shown my skills tonight,
@@ -1120,12 +1120,12 @@
 <1111> \ You don't need to worry about it."
 <1112> \{[Nozomi]}
 <1113> "I'm fine."
-<1114> \{[hope]}
+<1114> \{[Nozomi]}
 <1115> "Whatever the reason, I'm glad I met you.
 <1116> \ I truly believe that...!"
 <1117> \{[Rei]}
 <1118> “Nozomi…”
-<1119> \{[hope]}
+<1119> \{[Nozomi]}
 <1120> "So... ever since then,
 <1121> \ I was thinking..."
 <1122> \{[Nozomi]}
@@ -1143,7 +1143,7 @@
 <1134> \ There is a high possibility that it will awaken dormant powers.
 <1135> “So, there is a possibility that this could be the catalyst for Rei’s awakening.
 <1136> \ I propose to create another tool using Angel blood as a base.
-<1137> \{[hope]}
+<1137> \{[Nozomi]}
 <1138> "What is the true power of an Angel?
 <1139> \ I don't know..."
 <1140> \{[Nozomi]}
@@ -1157,7 +1157,7 @@
 <1148> \{[Nozomi]}
 <1149> "I... like Rei-san.
 <1150> \ I want to protect Rei-san more than anyone else..."
-<1151> \{[hope]}
+<1151> \{[Nozomi]}
 <1152> "If I can be of any help to you,
 <1153> \ I'll do anything...!
 <1154> \{[Nozomi]}
@@ -1184,7 +1184,7 @@
 <1175> Rei's thoughts are gently conveyed to his ears.
 <1176> \{[Rei]}
 <1177> "I love you too."
-<1178> \{[hope]}
+<1178> \{[Nozomi]}
 <1179> "......!"
 <1180> With a strength that rivals the feelings Nozomi has for Rei,
 <1181> The words Rei conveyed with all her heart were,

@@ -41,7 +41,7 @@
 <0033> "To pick up Nozomi? That's pretty early.
 <0034> \ The promised date is still a long way off, isn't it?
 <0035> \{[Takami]}
-<0036> "When I put the desired data on the <product> list,
+<0036> "When I put the desired data on the \<product\> list,
 <0037> \ There was a customer who "really wanted what he wanted."
 <0038> \ I'm much earlier than expected, but I've come to pick it up."
 <0039> \{[Rei]}
@@ -73,7 +73,7 @@
 <0065> He refused to make eye contact with Rei.
 <0066> \{[Takami]}
 <0067> "Come on, let's go, Nozomi."
-<0068> \{[Hope]}
+<0068> \{[Nozomi]}
 <0069> "...Yes."
 <0070> \{[Takami]}
 <0071> "Well then, sorry for interrupting, Rei.

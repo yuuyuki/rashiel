@@ -41,14 +41,14 @@
 <0034> "Nozomi...wake up."
 <0035> Gently shaking the unconscious Nozomi's body,
 <0036> Encourages a gentle awakening.
-<0037> \{[Hope]}
+<0037> \{[Nozomi]}
 <0038> "...? Rei...san...?"
 <0039> Nozomi blinked absentmindedly,
 <0040> Rei smiles and whispers.
 <0041> \{[Rei]}
 <0042> "Good morning, Nozomi.
 <0043> \ Look, what a beautiful dawn sky you can see."
-<0044> \{[Hope]}
+<0044> \{[Nozomi]}
 <0045> "Ah..."
 <0046> \{[Nozomi]}
 <0047> "You're right... the sky is so beautiful..."
@@ -57,23 +57,23 @@
 <0050> Suddenly, I come to my senses and get up.
 <0051> \{[Nozomi]}
 <0052> "Rei-san...!?"
-<0053> \{[Hope]}
+<0053> \{[Nozomi]}
 <0054> "Has that person gone...?"
 <0055> \{[Rei]}
 <0056> "Yes. He has left this world."
-<0057> \{[Hope]}
+<0057> \{[Nozomi]}
 <0058> "I see..."
-<0059> \{[Hope]}
+<0059> \{[Nozomi]}
 <0060> "...the voice of that person that resonated at the end,
 <0061> \ It was so quiet and beautiful..."
 <0062> \{[Rei]}
 <0063> "Did you hear that too?"
 <0064> \{[Nozomi]}
 <0065> "Yes...!"
-<0066> \{[Hope]}
+<0066> \{[Nozomi]}
 <0067> "Such a beautiful sound,
 <0068> \ He was a person who resonated with people..."
-<0069> \{[Hope]}
+<0069> \{[Nozomi]}
 <0070> "It's scary, but... it's a harsh, beautiful sound..."
 <0071> \{[Rei]}
 <0072> "--Ah, that's right."
@@ -158,17 +158,17 @@
 <0151> “…freedom…”
 <0152> \{[Rei]}
 <0153> "How are you feeling, Nozomi?"
-<0154> \{[Hope]}
+<0154> \{[Nozomi]}
 <0155> "The wind has blown up here,
 <0156> \ It feels so good..."
 <0157> \{[Rei]}
 <0158> "Nozomi, where do you want to go now?"
-<0159> \{[Hope]}
+<0159> \{[Nozomi]}
 <0160> "Um... Is Rei here with us...?"
 <0161> \{[Rei]}
 <0162> "Of course. As long as you don't mind, I'll go anywhere with you.
 <0163> \ Now, Nozomi--where are you going?"
-<0164> \{[Hope]}
+<0164> \{[Nozomi]}
 <0165> "As long as Rei-san is with me, I'll go anywhere...!"
 <0166> Rei stretched out her hand straight towards Nozomi,
 <0167> She clenches her little fingers together.

@@ -34,7 +34,7 @@
 <0027> He doesn't even look at Rei when she enters the room.
 <0028> \{[Rei]}
 <0029> "What's wrong? ...Something's wrong."
-<0030> \{[Hope]}
+<0030> \{[Nozomi]}
 <0031> "......"
 <0032> I tried to speak carefully,
 <0033> Sitting on the edge of the bed, her small body stiff,
@@ -47,7 +47,7 @@
 <0040> He is pale and trembling.
 <0041> \{[Rei]}
 <0042> "...What happened?"
-<0043> \{[Hope]}
+<0043> \{[Nozomi]}
 <0044> "......"
 <0045> \{[Rei]}
 <0046> “Nozomi”
@@ -116,12 +116,12 @@
 <0109> "Ah..."
 <0110> \{[Rei]}
 <0111> "Were you looking outside again?"
-<0112> \{[Hope]}
+<0112> \{[Nozomi]}
 <0113> "Y-Yes!"
 <0114> \{[Rei]}
 <0115> "What you were looking at from the window earlier was
 <0116> \ It was that puppy."
-<0117> \{[Hope]}
+<0117> \{[Nozomi]}
 <0118> "...My daily pleasure is,
 <0119> \ Looking out the window..."
 <0120> \{[Nozomi]}
@@ -131,15 +131,15 @@
 <0124> \{[Rei]}
 <0125> "--So, when the puppy disappears,
 <0126> \ You'll be lonely too."
-<0127> \{[Hope]}
+<0127> \{[Nozomi]}
 <0128> "But the puppy left here,
 <0129> \ I was able to live in a safe place with kind people,
 <0130> \ I think it was really good."
-<0131> \{[Hope]}
+<0131> \{[Nozomi]}
 <0132> "Somewhere other than here,
 <0133> \ When I think of my puppy living happily,
 <0134> \ It makes me feel happy..."
-<0135> \{[Hope]}
+<0135> \{[Nozomi]}
 <0136> "So, I'm okay with not seeing you again."
 <0137> As if to confirm the truth of those words,
 <0138> Nozomi smiles shyly.
@@ -147,26 +147,26 @@
 <0140> "...Right. That's the best thing."
 <0141> \{[Rei]}
 <0142> "By the way, what else have you seen?"
-<0143> \{[Hope]}
+<0143> \{[Nozomi]}
 <0144> "Um... during the day, there are clouds floating high in the sky,
 <0145> \ A bird singing on a branch,
 <0146> \ The greenery swaying in the wind, the sunlight..."
 <0147> \{[Rei]}
 <0148> "...What about at night?"
-<0149> \{[Hope]}
+<0149> \{[Nozomi]}
 <0150> "At night... I like to look at the stars."
-<0151> \{[Hope]}
+<0151> \{[Nozomi]}
 <0152> "You can't see much through the window glass,
 <0153> \ The starlight twinkling in the atmosphere is so beautiful...
 <0154> \ I never get bored of watching it."
-<0155> \{[Hope]}
+<0155> \{[Nozomi]}
 <0156> "When I look at the stars, I feel like my heart is suddenly opened.
 <0157> \ It makes me feel lighter..."
 <0158> \{[Rei]}
 <0159> "......"
 <0160> \{[Rei]}
 <0161> "...Stars?"
-<0162> \{[Hope]}
+<0162> \{[Nozomi]}
 <0163> "......"
 <0164> Unlike this tiny sky cut out in the rectangle of the window,
 <0165> A view of the stars, high and vast,
@@ -187,7 +187,7 @@
 <0180> \{[Rei]}
 <0181> "...I understand. Then I will give you special permission,
 <0182> \ Let's go out into the garden tonight and look at the stars."
-<0183> \{[Hope]}
+<0183> \{[Nozomi]}
 <0184> "Eh..."
 <0185> \{[Rei]}
 <0186> "Are you unhappy that I'm here with you?
@@ -197,21 +197,21 @@
 <0190> "So, I'm sorry to say this to you,
 <0191> \ I'll join you in looking at the stars.
 <0192> \ ……Sorry.”
-<0193> \{[Hope]}
+<0193> \{[Nozomi]}
 <0194> "No! That's not true...!"
 <0195> \{[Rei]}
 <0196> "...Do you mind if I stay by your side?"
-<0197> \{[Hope]}
+<0197> \{[Nozomi]}
 <0198> "Yes...! Um, thank you very much!
 <0199> \ ...Ah..."
 <0200> \{[Rei]}
 <0201> "What's wrong?"
-<0202> \{[Hope]}
+<0202> \{[Nozomi]}
 <0203> "Thank you very much."
 <0204> \{[Rei]}
 <0205> "...It's not something worth thanking you for.
 <0206> \ I'll be heading back to my room soon."
-<0207> \{[Hope]}
+<0207> \{[Nozomi]}
 <0208> "Ah... yes."
 <0209> Leaving behind Nozomi, who hastily bowed his head,
 <0210> Rei left the room.
@@ -238,14 +238,14 @@
 <0231> He looks extremely surprised and stares back at Rei with a blank look on his face.
 <0232> \{[Rei]}
 <0233> "What's wrong? You look so surprised."
-<0234> \{[Hope]}
+<0234> \{[Nozomi]}
 <0235> "Ah..."
 <0236> \{[Rei]}
 <0237> "...I see, perhaps you are...
 <0238> \ Are you surprised that you didn't think I'd actually keep my promise?
-<0239> \{[Hope]}
+<0239> \{[Nozomi]}
 <0240> "...!"
-<0241> \{[Hope]}
+<0241> \{[Nozomi]}
 <0242> "Um, that's not right...!
 <0243> \ It feels like a dream to be able to go outside,
 <0244> \ It just didn't feel real, so..."
@@ -257,7 +257,7 @@
 <0250> It made Rei, who was watching, feel a little smile on her face.
 <0251> \{[Rei]}
 <0252> "If you're ready, let's go."
-<0253> \{[Hope]}
+<0253> \{[Nozomi]}
 <0254> "Y-Yes."
 <0255> Seeing Nozomi's limbs stiff with tension and jerky movements,
 <0256> Rei left the room with a smile.
@@ -275,7 +275,7 @@
 <0268> Rei nodded back with a wry smile.
 <0269> \{[Rei]}
 <0270> "...You can just go out into the garden."
-<0271> \{[Hope]}
+<0271> \{[Nozomi]}
 <0272> "Yes...!"
 <0273> At those words, her face suddenly brightened,
 <0274> Nozomi did not hesitate even a moment,
@@ -285,7 +285,7 @@
 <0278> With the building of the mansion behind her, she could see the stars clearly.
 <0279> In search of a distant, open place
 <0280> I keep pace with Nozomi and stroll slowly through the dimly lit garden.
-<0281> \{[Hope]}
+<0281> \{[Nozomi]}
 <0282> "...the sound of insects."
 <0283> \{[Rei]}
 <0284> "Yeah... I can hear you."
@@ -299,7 +299,7 @@
 <0292> If you listen carefully, you can hear the presence of things that live in the night,
 <0293> You can feel it everywhere.
 <0294> The garden was filled with the activity of creatures that were still asleep.
-<0295> \{[Hope]}
+<0295> \{[Nozomi]}
 <0296> "...It smells sweet..."
 <0297> \{[Rei]}
 <0298> "This is... the scent of roses...
@@ -318,12 +318,12 @@
 <0311> I stand still, listening intently to the whispers in the air.
 <0312> \{[Rei]}
 <0313> "Can you hear anything?"
-<0314> \{[Hope]}
+<0314> \{[Nozomi]}
 <0315> "…………
 <0316> \ I can hear your voice.
 <0317> \{[Rei]}
 <0318> "A voice?"
-<0319> \{[Hope]}
+<0319> \{[Nozomi]}
 <0320> "Living in this garden and forest,
 <0321> \ The voices of birds and animals..."
 <0322> \{[Nozomi]}
@@ -383,22 +383,22 @@
 <0376> Why does it appear to sparkle so dazzlingly?
 <0377> \{[Rei]}
 <0378> "......"
-<0379> \{[Hope]}
+<0379> \{[Nozomi]}
 <0380> "White...light"
 <0381> \{[Rei]}
 <0382> "Ah, that star is Spica.
 <0383> \ Also known as "Pearl Star",
 <0384> \ It's the first-magnitude star in Virgo.
-<0385> \{[Hope]}
+<0385> \{[Nozomi]}
 <0386> "Spica..."
 <0387> \{[Rei]}
 <0388> "The southern zenith is lit up with exceptional brightness,
 <0389> That's Arcturus. ...the brightest star in the constellation Bootes.
-<0390> \{[Hope]}
+<0390> \{[Nozomi]}
 <0391> "Uh... what about that star...?"
 <0392> \{[Rei]}
 <0393> "That's Regulus of Leo."
-<0394> \{[Hope]}
+<0394> \{[Nozomi]}
 <0395> "Um, so what's that...?"
 <0396> \{[Rei]}
 <0397> "Is that it? I'm sure that's--"
@@ -407,11 +407,11 @@
 <0400> At first it was small,
 <0401> Nozomi's voice sounded somewhat like she was trying to get at Rei.
 <0402> With each answer, I feel lighter and lighter.
-<0403> \{[Hope]}
+<0403> \{[Nozomi]}
 <0404> "...! Now, the stars!"
 <0405> \{[Rei]}
 <0406> "Oh, what a magnificent meteor."
-<0407> \{[Hope]}
+<0407> \{[Nozomi]}
 <0408> "Ah...! Again!"
 <0409> Nozomi's eyes sparkle with more vitality than usual,
 <0410> Express your joy honestly with your whole body,
@@ -441,13 +441,13 @@
 <0434> This night, this moment,
 <0435> Knowing that Nozomi felt the same way as Rei,
 <0436> I couldn't help but burst out laughing.
-<0437> \{[Hope]}
+<0437> \{[Nozomi]}
 <0438> "Um, um...?"
 <0439> \{[Rei]}
 <0440> "No, sorry. I wasn't laughing at you.
 <0441> \ I wonder if I was thinking the same thing as you,
 <0442> \ Suddenly something strange happened.
-<0443> \{[Hope]}
+<0443> \{[Nozomi]}
 <0444> "You too?"
 <0445> \{[Rei]}
 <0446> "Yes. Look at that star,
@@ -457,7 +457,7 @@
 <0450> \{[Rei]}
 <0451> "What's wrong, Nozomi? Staring at people's faces again.
 <0452> Is there anything else you want to say to me?"
-<0453> \{[Hope]}
+<0453> \{[Nozomi]}
 <0454> "--! No, it's nothing!"
 <0455> \{[Rei]}
 <0456> "--? What a strange kid."
@@ -483,19 +483,19 @@
 <0476> \{[Rei]}
 <0477> "I'll be heading back to my room tonight.
 <0478> \ Well, good night. Nozomi.
-<0479> \{[Hope]}
+<0479> \{[Nozomi]}
 <0480> "Um, um...!"
 <0481> \{[Rei]}
 <0482> "...What?"
-<0483> \{[Hope]}
+<0483> \{[Nozomi]}
 <0484> "Thank you very much..."
-<0485> \{[Hope]}
+<0485> \{[Nozomi]}
 <0486> "This is the first time I've ever experienced something like this.
 <0487> \ It was so much fun...!
 <0488> \{[Rei]}
 <0489> "Yes. I'm glad it made you happy.
 <0490> \ It was worth inviting me too."
-<0491> \{[Hope]}
+<0491> \{[Nozomi]}
 <0492> "...Ah..."
 <0493> \{[Rei]}
 <0494> "Well, it's getting late tonight. Time to get some rest.
@@ -601,7 +601,7 @@
 <0594> It was painfully clear.
 <0595> \{[Rei]}
 <0596> "...What exactly happened to you? Nozomi..."
-<0597> \{[Hope]}
+<0597> \{[Nozomi]}
 <0598> "......"
 <0599> Without answering Rei's question,
 <0600> Nozomi lowers her face again.

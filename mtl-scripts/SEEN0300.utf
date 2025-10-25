@@ -500,9 +500,9 @@
 <0490> I have to hurry up, I have to hurry up, I have to hurry up
 <0491> It's too late. It's too late.
 <0492> Only 10 minutes left. Hurry, hurry, hurry.
-<0493> <Product> Capture and escape. Your friends are waiting for you.
+<0493> \<Product\> Capture and escape. Your friends are waiting for you.
 <0494> 10 minutes left, we have to hurry or we won't make it
-<0495> <Product> room. Don't rush to join your friends.
+<0495> \<Product\> room. Don't rush to join your friends.
 <0496> \{[Rei]}
 <0497> (This...can't be!?)
 <0498> Rei touched the man and read his thoughts.
@@ -510,7 +510,7 @@
 <0500> It seemed to be part of a kidnapping plan.
 <0501> Alarm Disabled
 <0502> We'll meet up with our friends soon. If we don't hurry, we only have 10 minutes.
-<0503> Friends waiting in the room <Product> 10 minutes left until escape
+<0503> Friends waiting in the room \<Product\> 10 minutes left until escape
 <0504> The signal is to knock.
 <0505> Hurry up, I can't make it to the room for the product.
 <0506> \{[Rei]}
@@ -834,7 +834,7 @@
 <0824> \{[Rei]}
 <0825> "I know. I'll obediently follow you.
 <0826> \ Don't lay a hand on that child."
-<0827> \{[Hope]}
+<0827> \{[Nozomi]}
 <0828> "Rei... S...!"
 <0829> The man called Rei over and said,
 <0830> He tightens his grip around Nozomi's neck, preventing her from even moving.
@@ -966,7 +966,7 @@
 <0956> Taking advantage of the moment when his bonds were loosened, he bit the man's arm with all his might.
 <0957> \{[Man]}
 <0958> "Whoa! You brat...!!"
-<0959> \{[Hope]}
+<0959> \{[Nozomi]}
 <0960> "Rei-san, please run away now...!"
 <0961> Desperately clinging to the man's arm,
 <0962> Nozomi's face as she tries to attack again with all her might.
@@ -979,7 +979,7 @@
 <0969> It falls to the floor and slides into the corner of the room.
 <0970> \{[Rei]}
 <0971> "Nozomi, get away from there..."
-<0972> \{[Hope]}
+<0972> \{[Nozomi]}
 <0973> "...Ahh!"
 <0974> Nozomi's small body was crushed by the man's furious arm.
 <0975> I get thrown into the corner of the room.
@@ -1121,7 +1121,7 @@
 <1111> (I'm sure... Nozomi will also reject it...)
 <1112> However, the scene that Rei saw was,
 <1113> It was as if my expectations were betrayed.
-<1114> \{[hope]}
+<1114> \{[Nozomi]}
 <1115> "Rei-san...!!"
 <1116> Without showing even the slightest hesitation,
 <1117> Nozomi ran straight up to Rei,
@@ -1239,7 +1239,7 @@
 <1229> He blushed and let go.
 <1230> I watched as the hand that conveyed the warmth of Nozomi's skin left me.
 <1231> I feel just a little disappointed.
-<1232> \{[hope]}
+<1232> \{[Nozomi]}
 <1233> "Um, how are you feeling?"
 <1234> \{[Rei]}
 <1235> "It's okay. I collapsed,

@@ -71,7 +71,7 @@
 <0063> \ It's a pretty early arrival.
 <0064> \ --That's not what we said.
 <0065> \{[Takami]}
-<0066> "When I put the desired data on the <Product> list,
+<0066> "When I put the desired data on the \<Product\> list,
 <0067> \ There was a customer who "really wanted what he wanted."
 <0068> \ I'm a little earlier than expected, but I've come to pick it up."
 <0069> \{[Rei]}
@@ -83,7 +83,7 @@
 <0075> I am the owner of this product. I decide when to sell it.
 <0076> \{[Takami]}
 <0077> "I don't support myself through charity.
-<0078> \ If it is in a state where it can be shipped at any time as a normal <product>,
+<0078> \ If it is in a state where it can be shipped at any time as a normal \<product\>,
 <0079> \ Surely you should take advantage of the business opportunity and put it on sale?
 <0080> \{[Rei]}
 <0081> "What a ridiculous guy..."
@@ -133,7 +133,7 @@
 <0125> Is there anything you want to say?
 <0126> \{[Nozomi]}
 <0127> "......"
-<0128> \{[Hope]}
+<0128> \{[Nozomi]}
 <0129> "There's nothing to talk about."
 <0130> \{[Takami]}
 <0131> "Rei, what about you?"

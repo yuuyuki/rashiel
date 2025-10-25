@@ -321,7 +321,7 @@
 <0309> For the purpose of probing the key,
 <0310> Rei asked Takami a question.
 <0311> \{[Rei]}
-<0312> "...Then, you will go to the <Customer>,
+<0312> "...Then, you will go to the \<Customer\>,
 <0313> \ When do you plan to take Nozomi with you?
 <0314> \ Surely that won't happen right now?
 <0315> \{[Rei]}
@@ -433,13 +433,13 @@
 <0421> "...Rei-san, thank you for everything."
 <0422> Hope never bows his head,
 <0423> He looked up at Rei firmly, and thenーsmiled.
-<0424> \{[Hope]}
+<0424> \{[Nozomi]}
 <0425> "...You have been so kind to me in this mansion,
 <0426> \ Although it was a short time, I was happy..."
-<0427> \{[Hope]}
+<0427> \{[Nozomi]}
 <0428> "That day, when we left the forest and decided to live in the mansion,
 <0429> \ A lot of different things happened..."
-<0430> \{[Hope]}
+<0430> \{[Nozomi]}
 <0431> "But..."
 <0432> \{[Nozomi]}
 <0433> "Because I met Rei here,
@@ -453,13 +453,13 @@
 <0441> "This is where we say goodbye,
 <0442> \ I hope you are well.
 <0443> \ I will always pray for your happiness..."
-<0444> \{[Hope]}
+<0444> \{[Nozomi]}
 <0445> "Ah... What!?"
-<0446> \{[Hope]}
+<0446> \{[Nozomi]}
 <0447> "I'm, I'm sorry...!
 <0448> \ Um, I wasn't planning on crying!
 <0449> \ It's true...!
-<0450> \{[Hope]}
+<0450> \{[Nozomi]}
 <0451> "Um... sorry..."
 <0452> The truth isーwere you terrified?
 <0453> But, even though I continued to act tough to keep Rei from realizing this,
@@ -483,9 +483,9 @@
 <0471> \ I will protect you.
 <0472> \{[Rei]}
 <0473> "...Trust me."
-<0474> \{[Hope]}
+<0474> \{[Nozomi]}
 <0475> "Ah..."
-<0476> \{[Hope]}
+<0476> \{[Nozomi]}
 <0477> "But if I do that...
 <0478> \ Rei-san... you're in danger..."
 <0479> \{[Rei]}
@@ -494,7 +494,7 @@
 <0482> "Rei......"
 <0483> \{[Rei]}
 <0484> "I will protect you"
-<0485> \{[Hope]}
+<0485> \{[Nozomi]}
 <0486> "...Ah...!"
 <0487> \{[Nozomi]}
 <0488> "Rei-san...!"
@@ -681,7 +681,7 @@
 <0669> "......"
 <0670> \{[Nozomi]}
 <0671> "I was alone and thought about it a lot."
-<0672> \{[Hope]}
+<0672> \{[Nozomi]}
 <0673> "So... to you,
 <0674> \ There's something I need to apologize for..."
 <0675> \{[Nozomi]}
@@ -689,7 +689,7 @@
 <0677> \ There's something I've been keeping quiet about from you...!
 <0678> \{[Rei]}
 <0679> "...?"
-<0680> \{[Hope]}
+<0680> \{[Nozomi]}
 <0681> "...Rei-san! Please, please, right now,
 <0682> \ Please get out of here...!
 <0683> \{[Nozomi]}
@@ -711,27 +711,27 @@
 <0699> "...that's..."
 <0700> \{[Rei]}
 <0701> "What is that?"
-<0702> \{[Hope]}
+<0702> \{[Nozomi]}
 <0703> "...Because you..."
 <0704> \{[Rei]}
 <0705> "What? I can't hear you, Nozomi."
-<0706> \{[Hope]}
+<0706> \{[Nozomi]}
 <0707> "The \<Angel\> that you all have been seeking...
 <0708> \ It's not me..."
 <0709> \{[Rei]}
 <0710> "What are you doing..."
-<0711> \{[Hope]}
+<0711> \{[Nozomi]}
 <0712> "I'm not worthy of your help.
 <0713> \ I... actually..."
-<0714> \{[Hope]}
+<0714> \{[Nozomi]}
 <0715> "I'm not really an angel...!"
 <0716> \{[Rei]}
 <0717> "...!?"
 <0718> \{[Rei]}
 <0719> "Nozomi, what exactly is that...?"
-<0720> \{[Hope]}
+<0720> \{[Nozomi]}
 <0721> "I'm just a replaceable, artificial being..."
-<0722> \{[Hope]}
+<0722> \{[Nozomi]}
 <0723> "The true Angel that you all sought...
 <0724> \ ...It's you!
 <0725> \{[Rei]}
@@ -753,17 +753,17 @@
 <0741> "Yes. ...You are the Angel."
 <0742> \{[Rei]}
 <0743> "Could it beーsome kind of mistake?"
-<0744> \{[Hope]}
+<0744> \{[Nozomi]}
 <0745> "No, it's not a mistake.
 <0746> \ It's not me, it's you... who is the true Angel.
 <0747> \{[Rei]}
 <0748> "How on earth did you know that?
 <0749> \ Did someone tell you that?
-<0750> \{[Hope]}
+<0750> \{[Nozomi]}
 <0751> "...Ah..."
 <0752> \{[Rei]}
 <0753> "Did Takami tell you that?"
-<0754> \{[Hope]}
+<0754> \{[Nozomi]}
 <0755> "No... it's not Takami-san..."
 <0756> \{[Rei]}
 <0757> "So, through whom did you get this information?
@@ -772,23 +772,23 @@
 <0760> \{[Nozomi]}
 <0761> "Um, there's no evidence.
 <0762> \ Everything... remains only in my memory..."
-<0763> \{[Hope]}
+<0763> \{[Nozomi]}
 <0764> "But it's not a lie!
 <0765> \ I... I overheard it...!"
 <0766> \{[Rei]}
 <0767> "--What? What did you hear?"
-<0768> \{[Hope]}
+<0768> \{[Nozomi]}
 <0769> "...Exactly one month ago,
 <0770> \ It happened when I had a regular checkup at the mansion.
-<0771> \{[Hope]}
+<0771> \{[Nozomi]}
 <0772> "I was put to sleep with drugs to undergo a medical examination.
 <0773> \ Then... I overheard a strange conversation."
-<0774> \{[Hope]}
+<0774> \{[Nozomi]}
 <0775> "Two men were talking..."
-<0776> \{[Hope]}
+<0776> \{[Nozomi]}
 <0777> "One is a medical examiner, and the other isーI don't know,
 <0778> \ It was the voice of an adult man..."
-<0779> \{[Hope]}
+<0779> \{[Nozomi]}
 <0780> "They thought I was fast asleep from the drugs,
 <0781> \ We were talking about a certain plan.
 <0782> \{[Rei]}
@@ -798,17 +798,17 @@
 <0786> \ Could you please touch my heart...?
 <0787> \{[Rei]}
 <0788> "――――!"
-<0789> \{[Hope]}
+<0789> \{[Nozomi]}
 <0790> "I want to be able to convince Rei-san,
 <0791> \ I don't have any solid evidence.
 <0792> \ Everything... exists only in my memory..."
-<0793> \{[Hope]}
+<0793> \{[Nozomi]}
 <0794> "To make you believe me, you must know that my heart is not a lie.
 <0795> \ I'll just have to ask you to check..."
-<0796> \{[Hope]}
+<0796> \{[Nozomi]}
 <0797> "And... what I heard,
 <0798> \ I'm not sure I can explain it to you well..."
-<0799> \{[Hope]}
+<0799> \{[Nozomi]}
 <0800> "So, so that I can't lie,
 <0801> \ Please use your power to touch my heart...!"
 <0802> \{[Rei]}
@@ -817,7 +817,7 @@
 <0805> \{[Rei]}
 <0806> "But, no matter what,
 <0807> \ I couldn't read your mind..."
-<0808> \{[Hope]}
+<0808> \{[Nozomi]}
 <0809> "Is that so..."
 <0810> \{[Nozomi]}
 <0811> "...Um!
@@ -827,18 +827,18 @@
 <0815> \ I really want you to know..."
 <0816> \{[Rei]}
 <0817> “Nozomi…”
-<0818> \{[Hope]}
+<0818> \{[Nozomi]}
 <0819> "Please, Rei-san...!"
 <0820> \{[Rei]}
 <0821> "...I've never tried it."
-<0822> \{[Hope]}
+<0822> \{[Nozomi]}
 <0823> "Then please touch my heart."
-<0824> \{[Hope]}
+<0824> \{[Nozomi]}
 <0825> "My words are not lies,
 <0826> \ I really want you to know..."
 <0827> \{[Rei]}
 <0828> “Nozomi…”
-<0829> \{[Hope]}
+<0829> \{[Nozomi]}
 <0830> "Please, Rei-san...!"
 <0831> \{[Rei]}
 <0832> "...I said that to the intruder back then,
@@ -993,7 +993,7 @@
 <0981> The sound echoed heavily and darkly, like poison being poured out.
 <0982> And so, Nozomi's consciousness became vague and hazy.
 <0983> The memory of the conversation between the two men also ends there.
-<0984> \{[Hope]}
+<0984> \{[Nozomi]}
 <0985> "Did you see my heart...?"
 <0986> When he opened his eyes, he looked up at Rei with a worried look in his eyes.
 <0987> Nozomi's face jumps into view.
@@ -1004,11 +1004,11 @@
 <0992> \{[Rei]}
 <0993> "I've never been able to touch someone's memory so vividly.
 <0994> \ This is the first time..."
-<0995> \{[Hope]}
+<0995> \{[Nozomi]}
 <0996> "Did you hear what those people said?"
 <0997> \{[Rei]}
 <0998> "...I heard."
-<0999> \{[Hope]}
+<0999> \{[Nozomi]}
 <1000> "I woke up... and the angel they spoke of,
 <1001> \ What on earth is it?
 <1002> \ I was so scared..."
@@ -1018,7 +1018,7 @@
 <1006> \{[Nozomi]}
 <1007> "When I heard that such a person would become my master,
 <1008> \ I was so scared..."
-<1009> \{[hope]}
+<1009> \{[Nozomi]}
 <1010> "But what I heard,
 <1011> \ I can't even talk to anyone about it..."
 <1012> \{[Nozomi]}
@@ -1084,7 +1084,7 @@
 <1072> \{[Nozomi]}
 <1073> "Thank you very much for everything.
 <1074> \ Please... you must escape."
-<1075> \{[hope]}
+<1075> \{[Nozomi]}
 <1076> "I pray for your safety..."
 <1077> \{[Rei]}
 <1078> "...I'm sorry, Nozomi."
@@ -1122,9 +1122,9 @@
 <1110> \{[Rei]}
 <1111> "But even so, my resolve remains unchanged.
 <1112> \ Whenever I leave the mansion, you are always with me."
-<1113> \{[Hope]}
+<1113> \{[Nozomi]}
 <1114> "Rei...san..."
-<1115> \{[hope]}
+<1115> \{[Nozomi]}
 <1116> "But I don't deserve your kindness...
 <1117> \ I don't have it..."
 <1118> \{[Nozomi]}
@@ -1194,9 +1194,9 @@
 <1182> \{[Rei]}
 <1183> "There's no doubt that the person you met
 <1184> \ Kujo Takahisa - Takami's father, the previous head of the Kujo family.
-<1185> \{[hope]}
+<1185> \{[Nozomi]}
 <1186> "The previous head of the family...?"
-<1187> \{[hope]}
+<1187> \{[Nozomi]}
 <1188> "If that's what someone like that says,
 <1189> \ That... wasn't a lie."
 <1190> \{[Nozomi]}
@@ -1206,13 +1206,13 @@
 <1194> "But I was brought to this mansion,
 <1195> \ They say I'm a commodity with angelic blood,
 <1196> \ Rei-san appeared in front of me..."
-<1197> \{[Hope]}
+<1197> \{[Nozomi]}
 <1198> "Only then did I understand the true meaning of those words.
 <1199> \ I finally... understand."
 <1200> \{[Nozomi]}
 <1201> "I, in order to awaken you - the Angel,
 <1202> \ I was brought to this mansion..."
-<1203> \{[hope]}
+<1203> \{[Nozomi]}
 <1204> "So... so please,
 <1205> \ You need to get out of here right now...!"
 <1206> \{[Rei]}
@@ -1292,7 +1292,7 @@
 <1280> "Brute force methods...?"
 <1281> \{[Rei]}
 <1282> "Sneak directly into Takami's room and look for clues."
-<1283> \{[Hope]}
+<1283> \{[Nozomi]}
 <1284> "No way...! It's dangerous...!"
 <1285> \{[Rei]}
 <1286> "I was considering this before I heard your story.
@@ -1339,7 +1339,7 @@
 <1327> \ So there's no need to worry so much about me."
 <1328> \{[Nozomi]}
 <1329> "...Yes!"
-<1330> \{[hope]}
+<1330> \{[Nozomi]}
 <1331> "Umm...Rei-san, for your sake,
 <1332> \ Is there anything I can do...?
 <1333> \{[Rei]}

@@ -37,12 +37,12 @@
 <0022> \{[Takami]}
 <0023> "Nozomi, how about you? Thank you to the master who took care of me.
 <0024> Is there anything you want to say?
-<0025> \{[Hope]}
+<0025> \{[Nozomi]}
 <0026> "Umm... Thank you for your help, Rei-san..."
-<0027> \{[Hope]}
+<0027> \{[Nozomi]}
 <0028> "Until today... you have been kind to me,
 <0029> \ Thank you so much..."
-<0030> \{[Hope]}
+<0030> \{[Nozomi]}
 <0031> "Thank you for your kindness,
 <0032> \ I will never... forget it.
 <0033> \{[Takami]}
@@ -189,47 +189,47 @@
 <0174> Rei called out to Nozomi.
 <0175> \{[Rei]}
 <0176> "...What are you doing, Nozomi?"
-<0177> \{[Hope]}
+<0177> \{[Nozomi]}
 <0178> "What...?
 <0179> \ Rei-san, are you awake?
 <0180> \{[Rei]}
 <0181> "Just now.
 <0182> \ By the way, what were you doing?
-<0183> \{[Hope]}
+<0183> \{[Nozomi]}
 <0184> "Um, well! That's..."
 <0185> I looked at Nozomi's face as she flinched and pulled away.
 <0186> Her cheeks quickly turned red.
-<0187> \{[Hope]}
+<0187> \{[Nozomi]}
 <0188> "Um... it's the first time I've seen Rei-san's sleeping face,
 <0189> \ I feel so happy..."
-<0190> \{[Hope]}
+<0190> \{[Nozomi]}
 <0191> "So... I've been watching."
 <0192> \{[Rei]}
 <0193> "You weren't just watching, were you...?"
-<0194> \{[Hope]}
+<0194> \{[Nozomi]}
 <0195> "Ah..."
-<0196> \{[Hope]}
+<0196> \{[Nozomi]}
 <0197> "...It's the first time I've had Rei's head this close to me.
 <0198> I wanted to try touching it...
-<0199> \{[Hope]}
+<0199> \{[Nozomi]}
 <0200> "I'm sorry...!"
 <0201> \{[Rei]}
 <0202> "There's nothing to apologize for.
 <0203> \ Because it felt so... good."
 <0204> \{[Rei]}
 <0205> "Could you do that again...?"
-<0206> \{[Hope]}
+<0206> \{[Nozomi]}
 <0207> "Y-yes!"
-<0208> \{[Hope]}
+<0208> \{[Nozomi]}
 <0209> "Ah...!"
 <0210> \{[Rei]}
 <0211> "...What's wrong?"
-<0212> \{[Hope]}
+<0212> \{[Nozomi]}
 <0213> "Seeing Rei without her glasses,
 <0214> \ This is my first time...!
 <0215> \{[Rei]}
 <0216> "Do you find such small things enjoyable?"
-<0217> \{[Hope]}
+<0217> \{[Nozomi]}
 <0218> "Yes, very much...!"
 <0219> \{[Rei]}
 <0220> "I see - that's good."
@@ -265,7 +265,7 @@
 <0250> \{[Rei]}
 <0251> "It's okay, Nozomi... I'm here with you.
 <0252> \ Be brave.
-<0253> \{[Hope]}
+<0253> \{[Nozomi]}
 <0254> "Yes..."
 <0255> \{[Rei]}
 <0256> "Mari. As we agreed last night,
@@ -293,7 +293,7 @@
 <0278> \{[Rei]}
 <0279> "It's okay, Nozomi... I'm here with you.
 <0280> \ Be brave.
-<0281> \{[Hope]}
+<0281> \{[Nozomi]}
 <0282> "Yes..."
 <0283> To put the finishing touches on escaping the mansion,
 <0284> Takami was kept in his room.
@@ -405,23 +405,23 @@
 <0390> With weak fingers, he pulled Rei's sleeve as if clinging to it,
 <0391> The voice was filled with deep fear.
 <0392> He whispers in a very desperate and unusual tone.
-<0393> \{[Hope]}
+<0393> \{[Nozomi]}
 <0394> "Rei-san, something's strange...!
 <0395> \ There's something very... strange about this...!"
 <0396> \{[Rei]}
 <0397> "Something strange? What on earth is that?"
-<0398> \{[Hope]}
+<0398> \{[Nozomi]}
 <0399> "I don't know. I've never heard that before..."
 <0400> \{[Nozomi]}
 <0401> "Somehow... it feels close,
 <0402> \ No, or it seems like it's much, much farther away--"
-<0403> \{[Hope]}
+<0403> \{[Nozomi]}
 <0404> "It's a strange... sound."
 <0405> \{[Rei]}
 <0406> "...?"
 <0407> The vague expression of hope,
 <0408> Rei is confused and tilts her head.
-<0409> \{[Hope]}
+<0409> \{[Nozomi]}
 <0410> "...Scary..."
 <0411> \{[Rei]}
 <0412> “Nozomi…”
@@ -507,7 +507,7 @@
 <0492> \{[Rei]}
 <0493> "Nozomi, I'll look for the key that Takami has.
 <0494> \ Please bring out the handcuffs and rope you prepared. Hurry!
-<0495> \{[Hope]}
+<0495> \{[Nozomi]}
 <0496> "Y-yes."
 <0497> I managed to get my eyes used to the darkness, and by the faint light,
 <0498> I grope around Takami's clothes for the key I'm looking for.
@@ -686,7 +686,7 @@
 <0671> Nozomi concentrated intently on Rei's question,
 <0672> I listened to the sounds around me,
 <0673> He suddenly trembled in fear and said.
-<0674> \{[Hope]}
+<0674> \{[Nozomi]}
 <0675> "...I'm feeling very scared from this side,
 <0676> \ I sense something unpleasant..."
 <0677> \{[Rei]}
@@ -766,7 +766,7 @@
 <0751> “…Who…?”
 <0752> However, as my vision rapidly sank into darkness,
 <0753> I can't see his face.
-<0754> \{[Hope]}
+<0754> \{[Nozomi]}
 <0755> "Rei-san...!"
 <0756> \{[Rei]}
 <0757> "Nozomi... Run... from here..."
@@ -906,7 +906,7 @@
 <0891> \{[Rei]}
 <0892> "Leaving the impression that someone had been there just a few minutes ago,
 <0893> Only the people on board the Marie Celeste have disappeared.
-<0894> \{[Hope]}
+<0894> \{[Nozomi]}
 <0895> "Ah..."
 <0896> He was told about a past disappearance case that was very similar to the situation he was in.
 <0897> Nozomi's face turns pale, as if she is frightened.
@@ -920,7 +920,7 @@
 <0905> \{[Rei]}
 <0906> "One of the strange phenomena that actually occurred on ships is
 <0907> \ This is a story that is still told today..."
-<0908> \{[Hope]}
+<0908> \{[Nozomi]}
 <0909> “…mysterious phenomenon…”
 <0910> \{[Takami]}
 <0911> "Hey! What kind of story are you telling me at a time like this?
@@ -1021,7 +1021,7 @@
 <1006> The shock of what I saw was overwhelming.
 <1007> Next to Rei, who was frozen in place,
 <1008> Nozomi, who also gasped in surprise, muttered in a faint, trembling voice.
-<1009> \{[hope]}
+<1009> \{[Nozomi]}
 <1010> "...Ah...that person's face."
 <1011> \{[Nozomi]}
 <1012> "Rei-san... she looks just like him...!"
@@ -1128,12 +1128,12 @@
 <1113> \{[Nue]}
 <1114> "Yes - I am an Angel.
 <1115> \ Just like you... right?"
-<1116> \{[hope]}
+<1116> \{[Nozomi]}
 <1117> "Is she also... an Angel?"
 <1118> \{[Nozomi]}
 <1119> "But...!
 <1120> \ That person is so scary...!
-<1121> \{[hope]}
+<1121> \{[Nozomi]}
 <1122> "Just like Rei-san... I can't believe you're an Angel!"
 <1123> \{[Nue]}
 <1124> "Hmm... Even if you're half-baked, you're still a member of the Angels.
@@ -1969,7 +1969,7 @@
 <1954> \{[Rei]}
 <1955> "Only five minutes have passed since then,
 <1956> \ This leaves no time to come up with a countermeasure..."
-<1957> \{[Hope]}
+<1957> \{[Nozomi]}
 <1958> "--Ah! That person has come...!"
 <1959> When I turned around after hearing Nozomi's words, I sensed a young man approaching in the distance.
 <1960> \{[Takami]}
@@ -2071,7 +2071,7 @@
 <2056> "Ugh..."
 <2057> Hanging from the young man's arms, he was squeezed to the point of suffocation.
 <2058> Rei's vision becomes dark.
-<2059> \{[Hope]}
+<2059> \{[Nozomi]}
 <2060> "Please let go of Rei...!"
 <2061> In the corner of my blurred vision,
 <2062> Clinging to the arms of the young man who was lifting Rei, she cried out,
@@ -2105,7 +2105,7 @@
 <2090> Slowlyーa pitch black shadow emerges.
 <2091> The power of the Wings of Ruin that erases existence,
 <2092> Attacks Nozomi.
-<2093> \{[Hope]}
+<2093> \{[Nozomi]}
 <2094> "Sound...!"
 <2095> \{[Rei]}
 <2096> “Nozomi…!”
@@ -2117,7 +2117,7 @@
 <2102> When the existence of hope becomes the focus of power,
 <2103> That existence was meant to be unwound into light.
 <2104> But――
-<2105> \{[hope]}
+<2105> \{[Nozomi]}
 <2106> "Uh... me...?"
 <2107> \{[Rei]}
 <2108> "It won't go away...?"
@@ -2187,7 +2187,7 @@
 <2172> "--It's an eyesore."
 <2173> With a cold word and a careless stab,
 <2174> The slender blade sinks deep into Nozomi's back.
-<2175> \{[Hope]}
+<2175> \{[Nozomi]}
 <2176> "Ah..."
 <2177> With a sigh that seemed to be forced from his chest,
 <2178> Her weak, delicate body slowly collapses to the floor.
@@ -2715,7 +2715,7 @@
 <2700> \{[Rei]}
 <2701> "Then... there's something I'd like to ask for your help with.
 <2702> \ Can I ask you for a favor?
-<2703> \{[Hope]}
+<2703> \{[Nozomi]}
 <2704> "Yes! Anything I can do!"
 <2705> I took Nozomi to the other side of the mansion and went down the stairs.
 <2706> Rei reached the entrance hall once again.
@@ -2806,7 +2806,7 @@
 <2791> "...Rei-san"
 <2792> \{[Rei]}
 <2793> "What's wrong? Are you in pain...?"
-<2794> \{[Hope]}
+<2794> \{[Nozomi]}
 <2795> "I sense the power of an angel within you..."
 <2796> \{[Nozomi]}
 <2797> "It's a very strong and beautiful force, and it wants to come out..."
@@ -2818,7 +2818,7 @@
 <2803> "......"
 <2804> \{[Nozomi]}
 <2805> "I promise I'll always be by your side..."
-<2806> \{[hope]}
+<2806> \{[Nozomi]}
 <2807> "I couldn't protect you... I'm sorry..."
 <2808> \{[Rei]}
 <2809> "......!"
@@ -2957,7 +2957,7 @@
 <2942> Nozomi, who was holding her breath and watching the situation unfold,
 <2943> Realizing Rei's intention in inviting the young man to that place,
 <2944> Pleading towards Takami.
-<2945> \{[Hope]}
+<2945> \{[Nozomi]}
 <2946> "...Takami-san! Please,
 <2947> \ Please, drop that!
 <2948> Takami's eyes widen in surprise as he looks in the direction Nozomi is pointing.

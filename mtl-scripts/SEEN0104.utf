@@ -126,45 +126,45 @@
 <0118> It stopped working.
 <0119> I looked at Nozomi, who was watching over me, and saw that
 <0120> Nozomi has her eyes closed and seems to be listening intently to something.
-<0121> \{[Hope]}
+<0121> \{[Nozomi]}
 <0122> "......"
 <0123> \{[Rei]}
 <0124> "......"
-<0125> \{[Hope]}
+<0125> \{[Nozomi]}
 <0126> "......"
 <0127> \{[Rei]}
 <0128> “……Nozomi?”
-<0129> \{[Hope]}
+<0129> \{[Nozomi]}
 <0130> "......Hya!?"
 <0131> \{[Rei]}
 <0132> "......"
-<0133> \{[Hope]}
+<0133> \{[Nozomi]}
 <0134> "Oh, I'm... sorry...!
 <0135> I didn't notice your footsteps...!"
 <0136> \{[Rei]}
 <0137> "No... I don't really mind.
 <0138> \ What were you looking at so intently?
-<0139> \{[Hope]}
+<0139> \{[Nozomi]}
 <0140> "...Ah..."
 <0141> \{[Rei]}
 <0142> "......"
-<0143> \{[Hope]}
+<0143> \{[Nozomi]}
 <0144> "......"
 <0145> \{[Rei]}
 <0146> "...If you don't want to say it, that's fine,
 <0147> \ Then, from now on,
 <0148> \ Just be careful not to get caught by me."
-<0149> \{[Hope]}
+<0149> \{[Nozomi]}
 <0150> "......"
 <0151> \{[Rei]}
 <0152> "Well, I came here today because I wanted to talk to you,
 <0153> \ Is that okay?
-<0154> \{[Hope]}
+<0154> \{[Nozomi]}
 <0155> "...Yes."
 <0156> \{[Rei]}
 <0157> "Oh, there's no need to be so nervous.
 <0158> \ It's not a big deal."
-<0159> \{[Hope]}
+<0159> \{[Nozomi]}
 <0160> "...Yes..."
 <0161> \{[Rei]}
 <0162> "--That's right, before I lived in this mansion,
@@ -172,52 +172,52 @@
 <0164> \{[Rei]}
 <0165> "It's okay to talk about it as long as you feel comfortable doing so.
 <0166> \ I want you to tell me about yourself."
-<0167> \{[Hope]}
+<0167> \{[Nozomi]}
 <0168> "...Yes."
 <0169> \{[Rei]}
 <0170> "So, when did you first come to the Kujo family?
 <0171> \ This may seem like a cruel question, but
 <0172> \ Did your parents sell you to the Kujo family?
-<0173> \{[Hope]}
+<0173> \{[Nozomi]}
 <0174> "......"
-<0175> \{[Hope]}
+<0175> \{[Nozomi]}
 <0176> "...I don't know."
 <0177> \{[Rei]}
 <0178> "I don't knowーthat is,
 <0179> \ So you don't know when you were adopted?
 <0180> \ Or do you know who sold you out?
-<0181> \{[Hope]}
+<0181> \{[Nozomi]}
 <0182> "...Both."
 <0183> \{[Rei]}
 <0184> "In other words, by the time you were old enough to understand,
 <0185> \ So you were under the care of the Kujo family.
-<0186> \{[Hope]}
+<0186> \{[Nozomi]}
 <0187> "Yes..."
 <0188> \{[Rei]}
 <0189> "Maybe you don't even know what your parents look like?"
-<0190> \{[Hope]}
+<0190> \{[Nozomi]}
 <0191> "...I don't know."
 <0192> \{[Rei]}
 <0193> "Right. Since Takami won't talk,
 <0194> \ From where you were born and raised, to finding out your background,
 <0195> \ It seems a lot harder than I thought.
-<0196> \{[Hope]}
+<0196> \{[Nozomi]}
 <0197> "......"
 <0198> \{[Rei]}
 <0199> "You said you've been staying at this mansion for six months.
 <0200> \ Yeah... I have nowhere to go."
 <0201> \{[Rei]}
 <0202> "What made you think there was nowhere to go?"
-<0203> \{[Hope]}
+<0203> \{[Nozomi]}
 <0204> "......"
 <0205> \{[Rei]}
 <0206> "You started living in this mansion when
 <0207> \ When was that?
-<0208> \{[Hope]}
+<0208> \{[Nozomi]}
 <0209> "...about six months ago..."
 <0210> \{[Rei]}
 <0211> "Have you ever thought about running away?"
-<0212> \{[Hope]}
+<0212> \{[Nozomi]}
 <0213> "...Ah..."
 <0214> \{[Rei]}
 <0215> "Don't be afraid, I don't blame you.
@@ -229,21 +229,21 @@
 <0221> "...No."
 <0222> \{[Rei]}
 <0223> "Never?"
-<0224> \{[Hope]}
+<0224> \{[Nozomi]}
 <0225> "I have nowhere to go."
 <0226> \{[Rei]}
 <0227> "Nowhere to go...?
 <0228> \ Why do you think that way?
-<0229> \{[Hope]}
+<0229> \{[Nozomi]}
 <0230> "......"
 <0231> \{[Rei]}
 <0232> "Would you like to tell me, Nozomi?"
-<0233> \{[Hope]}
+<0233> \{[Nozomi]}
 <0234> "......"
 <0235> \{[Nozomi]}
 <0236> "We lived together forever - my uncle and aunt,
 <0237> \ I can never go back to that forest..."
-<0238> \{[Hope]}
+<0238> \{[Nozomi]}
 <0239> "And so you left me in this mansion..."
 <0240> \{[Nozomi]}
 <0241> "...I..."
@@ -254,17 +254,17 @@
 <0246> "You have been raised by adoptive parents until now.
 <0247> \ Six months ago, he was sent to this mansion by his adoptive parents.
 <0248> \ --Is that correct?
-<0249> \{[Hope]}
+<0249> \{[Nozomi]}
 <0250> "...Yes."
 <0251> \{[Rei]}
 <0252> "Are these adoptive parents your blood relatives?"
-<0253> \{[Hope]}
+<0253> \{[Nozomi]}
 <0254> "...I heard they're not related by blood."
 <0255> \{[Rei]}
 <0256> "So that means your adoptive parents,
 <0257> \ The Kujo family prepared
 <0258> \ So originally he was a stranger with no connection to you...?
-<0259> \{[Hope]}
+<0259> \{[Nozomi]}
 <0260> "...Yes."
 <0261> \{[Rei]}
 <0262> "...That's quite deep-rooted.
@@ -274,7 +274,7 @@
 <0266> "--That's right, so you are,
 <0267> \ I was taught by my adoptive parents that I was a commodity,
 <0268> \ You've grown up like that."
-<0269> \{[Hope]}
+<0269> \{[Nozomi]}
 <0270> "I found out about it six months ago.
 <0271> \ For the first time, I realized that I was a "product" of the Kujo family..."
 <0272> \{[Rei]}
@@ -286,7 +286,7 @@
 <0278> \{[Rei]}
 <0279> "If that's true,
 <0280> \ It seems you were truly given "special" treatment."
-<0281> \{[Hope]}
+<0281> \{[Nozomi]}
 <0282> "......"
 <0283> \{[Rei]}
 <0284> (Special――?)
@@ -356,7 +356,7 @@
 <0348> It seemed certain.
 <0349> \{[Rei]}
 <0350> "You like books, don't you?"
-<0351> \{[Hope]}
+<0351> \{[Nozomi]}
 <0352> "Huh? Ah, well... yes."
 <0353> I like books too
 <0354> I don't really like books.
@@ -364,7 +364,7 @@
 <0356> "I like books too.
 <0357> \ The values we hold are not everything.
 <0358> \ The book will tell you."
-<0359> \{[Hope]}
+<0359> \{[Nozomi]}
 <0360> "......"
 <0361> \{[Rei]}
 <0362> "What about this book? When I saw it yesterday,
@@ -376,7 +376,7 @@
 <0368> \{[Rei]}
 <0369> "Mari? So this is Mari's hobby?
 <0370> \ I see... I understand."
-<0371> \{[Hope]}
+<0371> \{[Nozomi]}
 <0372> "...?"
 <0373> \{[Rei]}
 <0374> "There's nothing strange about loving fairy tales and picture books,
@@ -395,10 +395,10 @@
 <0387> "Now that I think about it, I can't find it in this room.
 <0388> \ From where I lived before,
 <0389> \ Are there any books you brought into the library?
-<0390> \{[Hope]}
+<0390> \{[Nozomi]}
 <0391> "I was told that I could keep just one copy.
 <0392> \ But other than that..."
-<0393> \{[Hope]}
+<0393> \{[Nozomi]}
 <0394> "I don't need it anymore, so leave it behind...
 <0395> \ It's getting in the way..."
 <0396> \{[Rei]}
@@ -439,7 +439,7 @@
 <0431> \{[Rei]}
 <0432> "With or without books,
 <0433> \ The daily boredom remains the same..."
-<0434> \{[Hope]}
+<0434> \{[Nozomi]}
 <0435> "......"
 <0436> I glanced out the window and saw the sun rising high in the sky.
 <0437> Before I knew it, the time had passed.
@@ -450,11 +450,11 @@
 <0442> "Thank you for sharing your story.
 <0443> \ Well, I'll be heading back to my room soon.
 <0444> \ --See you soon, Nozomi.
-<0445> \{[Hope]}
+<0445> \{[Nozomi]}
 <0446> "...Yes."
 <0447> \{[Rei]}
 <0448> "Hey, Nozomi. I came here to have a chat with you."
-<0449> \{[Hope]}
+<0449> \{[Nozomi]}
 <0450> "......"
 <0451> \{[Rei]}
 <0452> "Ah, there's no need to be so cautious.
@@ -465,7 +465,7 @@
 <0457> \{[Rei]}
 <0458> "As your master, I came to the mansion.
 <0459> \ I know because Takami told me about it.
-<0460> \{[Hope]}
+<0460> \{[Nozomi]}
 <0461> "...Yes."
 <0462> \{[Rei]}
 <0463> "To what extent do you expect me to follow your master's orders?
@@ -482,15 +482,15 @@
 <0474> \{[Rei]}
 <0475> "Anythingーright? So, you responded to Takami's words,
 <0476> \ Are you going to just keep quiet and obey?
-<0477> \{[Hope]}
+<0477> \{[Nozomi]}
 <0478> "......"
 <0479> \{[Rei]}
 <0480> "An order from my master,
 <0481> \ "Offer your body and serve me,"
 <0482> \ Are you going to just keep quiet and obey?"
-<0483> \{[Hope]}
+<0483> \{[Nozomi]}
 <0484> "...!"
-<0485> \{[Hope]}
+<0485> \{[Nozomi]}
 <0486> "......"
 <0487> \{[Rei]}
 <0488> "I don't want to, but I have no choice but to obey---
@@ -506,7 +506,7 @@
 <0498> \{[Rei]}
 <0499> "...Please don't pretend not to know anything now.
 <0500> \ I mean sexual intercourse."
-<0501> \{[Hope]}
+<0501> \{[Nozomi]}
 <0502> "--! No way!
 <0503> I'm not used to it at all...!"
 <0504> \{[Rei]}
@@ -519,7 +519,7 @@
 <0511> "If you have been treated as a commodity up until now,
 <0512> \ Even if you don't like it or refuse it,
 <0513> \ They should have received the necessary education..."
-<0514> \{[Hope]}
+<0514> \{[Nozomi]}
 <0515> "I... don't know...!"
 <0516> \{[Rei]}
 <0517> "--I don't think so,
@@ -534,7 +534,7 @@
 <0526> \ \{[Rei]}
 <0527> "When Takami said, 'You're still a child who doesn't know anything,'
 <0528> \ I never thought you meant it literally..."
-<0529> \{[Hope]}
+<0529> \{[Nozomi]}
 <0530> "......"
 <0531> \{[Rei]}
 <0532> "--Nozomi. I was told about you by Takami.
@@ -583,13 +583,13 @@
 <0575> \{[Rei]}
 <0576> "So, could you please show me?
 <0577> \ I want to see you in your natural state, without any clothes on."
-<0578> \{[Hope]}
+<0578> \{[Nozomi]}
 <0579> "...!"
 <0580> \{[Nozomi]}
 <0581> "...Is that...an order?"
 <0582> \{[Rei]}
 <0583> "First, I want to hear your true feelings."
-<0584> \{[Hope]}
+<0584> \{[Nozomi]}
 <0585> "......"
 <0586> \{[Nozomi]}
 <0587> "...I don't want to.
@@ -604,7 +604,7 @@
 <0596> \ Looks like a lot of fun."
 <0597> \{[Rei]}
 <0598> "I order you... Take off your clothes, Nozomi."
-<0599> \{[Hope]}
+<0599> \{[Nozomi]}
 <0600> "...!"
 <0601> \{[Rei]}
 <0602> "Didn't you hear?"
@@ -642,7 +642,7 @@
 <0634> In an attempt to at least shield her defenseless lower body from view,
 <0635> Nozomi's hands are covering her front,
 <0636> Rei ruthlessly orders them to leave.
-<0637> \{[Hope]}
+<0637> \{[Nozomi]}
 <0638> "Ah...!"
 <0639> Nozomi's eyes welled up with tears at Rei's cruel command.
 <0640> I move my trembling palms.
@@ -707,46 +707,46 @@
 <0699> "So, when were you taken in by the Kujo family?
 <0700> \ This may seem like a cruel question, but
 <0701> \ Did your parents sell you to the Kujo family?"
-<0702> \{[Hope]}
+<0702> \{[Nozomi]}
 <0703> "......"
-<0704> \{[Hope]}
+<0704> \{[Nozomi]}
 <0705> "...I don't know."
 <0706> \{[Rei]}
 <0707> "I don't knowーthat is,
 <0708> \ So you don't know when you were adopted?
 <0709> \ Or do you know who sold you out?
-<0710> \{[Hope]}
+<0710> \{[Nozomi]}
 <0711> "...Both."
 <0712> \{[Rei]}
 <0713> "In other words, by the time you were old enough to understand,
 <0714> \ So you were under the care of the Kujo family.
-<0715> \{[Hope]}
+<0715> \{[Nozomi]}
 <0716> "Yes..."
 <0717> \{[Rei]}
 <0718> "Maybe you don't even know what your parents look like?"
-<0719> \{[Hope]}
+<0719> \{[Nozomi]}
 <0720> "...I don't know."
 <0721> \{[Rei]}
 <0722> "Right. Since Takami won't talk,
 <0723> \ From where you were born and raised, to finding out your background,
 <0724> \ It seems a lot harder than I thought.
-<0725> \{[Hope]}
+<0725> \{[Nozomi]}
 <0726> "......"
 <0727> \{[Rei]}
 <0728> "You said you've been staying at this mansion for six months.
 <0729> \ Yeah... I have nowhere to go."
 <0730> \{[Rei]}
 <0731> "What makes you think there's nowhere to go?"
-<0732> \{[Hope]}
+<0732> \{[Nozomi]}
 <0733> "......"
 <0734> \{[Rei]}
 <0735> "You started living in this mansion when
 <0736> \ When was that?
-<0737> \{[Hope]}
+<0737> \{[Nozomi]}
 <0738> "...about six months ago..."
 <0739> \{[Rei]}
 <0740> "Have you ever thought about running away?"
-<0741> \{[Hope]}
+<0741> \{[Nozomi]}
 <0742> "...Ah..."
 <0743> \{[Rei]}
 <0744> "Don't be afraid, I don't blame you.
@@ -754,11 +754,11 @@
 <0746> \ I just wanted to ask, so please answer.
 <0747> \{[Rei]}
 <0748> "Have you ever thought about leaving?"
-<0749> \{[Hope]}
+<0749> \{[Nozomi]}
 <0750> "...No."
 <0751> \{[Rei]}
 <0752> "Never?"
-<0753> \{[Hope]}
+<0753> \{[Nozomi]}
 <0754> "There's nowhere to go."
 <0755> \{[Rei]}
 <0756> "Nowhere to go...?
@@ -767,12 +767,12 @@
 <0759> "......"
 <0760> \{[Rei]}
 <0761> "Would you like to tell me, Nozomi?"
-<0762> \{[Hope]}
+<0762> \{[Nozomi]}
 <0763> "......"
 <0764> \{[Nozomi]}
 <0765> "We've lived together forever - my uncle and aunt,
 <0766> \ I can never go back to that forest..."
-<0767> \{[Hope]}
+<0767> \{[Nozomi]}
 <0768> "And so you left me in this mansion..."
 <0769> \{[Nozomi]}
 <0770> "...I..."
@@ -783,17 +783,17 @@
 <0775> "You have been raised by adoptive parents until now.
 <0776> \ Six months ago, he was sent to this mansion by his adoptive parents.
 <0777> \ --Is that correct?
-<0778> \{[Hope]}
+<0778> \{[Nozomi]}
 <0779> "...Yes."
 <0780> \{[Rei]}
 <0781> "Are these adoptive parents your blood relatives?"
-<0782> \{[Hope]}
+<0782> \{[Nozomi]}
 <0783> "...I heard they're not related by blood."
 <0784> \{[Rei]}
 <0785> "So that means your adoptive parents,
 <0786> Prepared by the Kujo family,
 <0787> So originally he was a stranger with no connection to you...?
-<0788> \{[Hope]}
+<0788> \{[Nozomi]}
 <0789> "...Yes."
 <0790> \{[Rei]}
 <0791> "...That's quite deep-rooted.
@@ -803,14 +803,14 @@
 <0795> "--That's right, so you are,
 <0796> \ I was taught by my adoptive parents that I was a commodity,
 <0797> \ You've grown up like that."
-<0798> \{[Hope]}
+<0798> \{[Nozomi]}
 <0799> "I found out about it six months ago.
 <0800> \ This is the first time I've realized that I'm a "product" of the Kujo family..."
 <0801> \{[Rei]}
 <0802> "...! So that means--you really are,
 <0803> \ Until I was brought to the mansion,
 <0804> \ Did you grow up not knowing that you were a commodity?
-<0805> \{[Hope]}
+<0805> \{[Nozomi]}
 <0806> "...Yes."
 <0807> \{[Rei]}
 <0808> "If that's true,
@@ -843,7 +843,7 @@
 <0835> "......"
 <0836> \{[Rei]}
 <0837> "...Do you not want to talk about this any further?"
-<0838> \{[Hope]}
+<0838> \{[Nozomi]}
 <0839> "...Yes."
 <0840> \{[Rei]}
 <0841> "Oh dear, this is tough.
@@ -863,7 +863,7 @@
 <0855> "Thank you for sharing your story.
 <0856> \ Well, I'll be heading back to my room soon.
 <0857> \ --See you soon, Nozomi.
-<0858> \{[Hope]}
+<0858> \{[Nozomi]}
 <0859> "...Yes."
 <0860> \{[Rei]}
 <0861> "...I'll take a walk around the mansion."

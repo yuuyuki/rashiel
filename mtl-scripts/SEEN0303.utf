@@ -39,7 +39,7 @@
 <0031> The boy jumped into the hut without any hesitation.
 <0032> As always,
 <0033> I spotted the person I was looking for in the hideout and called out.
-<0034> \{[Hope]}
+<0034> \{[Nozomi]}
 <0035> "Uncle, I'm sorry...!
 <0036> \ I've been found..."
 <0037> The boy's voice sounded extremely desperate.
@@ -48,7 +48,7 @@
 <0040> He turns around with a look of surprise on his face.
 <0041> \{[Man]}
 <0042> "...What do you mean?"
-<0043> \{[Hope]}
+<0043> \{[Nozomi]}
 <0044> "If you hide your uncle's food,
 <0045> \ Auntie found it, and then..."
 <0046> An abandoned mountain hut that was once used as a charcoal burner.
@@ -84,7 +84,7 @@
 <0076> \{[Man]}
 <0077> "So, the fact that I'm hiding here...
 <0078> \ Your guardian found out, didn't he?
-<0079> \{[Hope]}
+<0079> \{[Nozomi]}
 <0080> "No. I haven't heard about you yet.
 <0081> \ But... they're going to call someone tomorrow to investigate the forest..."
 <0082> \{[Man]}
@@ -93,16 +93,16 @@
 <0085> "Well then, I guess it's time for me to leave.
 <0086> \ It would be troublesome if the police came to your attention as an unauthorized trespasser.
 <0087> \ ...Thank you for taking care of me, boy."
-<0088> \{[Hope]}
+<0088> \{[Nozomi]}
 <0089> "Uncle... are you leaving...?"
 <0090> \{[Man]}
 <0091> "Yeah, there's no other way. If we stay here,
 <0092> \ I'll be made a criminal."
-<0093> \{[Hope]}
+<0093> \{[Nozomi]}
 <0094> "...Uncle..."
 <0095> \{[Man]}
 <0096> "Here's a parting gift."
-<0097> \{[Hope]}
+<0097> \{[Nozomi]}
 <0098> "Senbetsu...?"
 <0099> \{[Man]}
 <0100> "It's a gift given as a token of farewell.
@@ -128,12 +128,12 @@
 <0120> I nodded vigorously in response.
 <0121> \{[Man]}
 <0122> "Okay, I'll leave it to you...!"
-<0123> \{[Hope]}
+<0123> \{[Nozomi]}
 <0124> "...Yes...!"
 <0125> \{[Man]}
 <0126> "Well, it's time to go.
 <0127> \ It's not good to be too stubborn."
-<0128> \{[Hope]}
+<0128> \{[Nozomi]}
 <0129> "...Uncle, we'll meet again, right...?"
 <0130> \{[Man]}
 <0131> "Well... to be honest, I don't know.
@@ -142,7 +142,7 @@
 <0134> \{[Man]}
 <0135> "Even when dealing with children -- no, especially when dealing with children,
 <0136> \ I don't want to make any promises.
-<0137> \{[Hope]}
+<0137> \{[Nozomi]}
 <0138> "...I see..."
 <0139> \{[Man]}
 <0140> "Hey, hey, don't look so dejected.
@@ -156,7 +156,7 @@
 <0148> \{[Man]}
 <0149> "You said you wanted to meet an angel.
 <0150> \ Have your feelings changed?
-<0151> \{[Hope]}
+<0151> \{[Nozomi]}
 <0152> "Yes...!"
 <0153> \{[Man]}
 <0154> "Angels appear before those who believe in their existence."
@@ -168,7 +168,7 @@
 <0160> "This world changes according to the strength of one's wish.
 <0161> \ They always respond to your call.
 <0162> \ --That much is certain."
-<0163> \{[Hope]}
+<0163> \{[Nozomi]}
 <0164> "...Can I...meet an angel...?"
 <0165> \{[Man]}
 <0166> "Yes. If you keep believing, it definitely will."
@@ -176,14 +176,14 @@
 <0168> "It's so easy to doubt and deny.
 <0169> \ It is many times more difficult to continue believing.
 <0170> \ But... that's exactly why it's so rewarding."
-<0171> \{[Hope]}
+<0171> \{[Nozomi]}
 <0172> "......"
 <0173> \{[Man]}
 <0174> "Now, it's time to set off on our journey.
 <0175> \ Wipe away your tears and see me off with your best smile."
-<0176> \{[Hope]}
+<0176> \{[Nozomi]}
 <0177> "Yes. ...You see, uncle."
-<0178> \{[Hope]}
+<0178> \{[Nozomi]}
 <0179> "I hope you can meet an angel too...
 <0180> \ I'll pray..."
 <0181> \{[Man]}
@@ -295,15 +295,15 @@
 <0287> Rei immediately headed to Nozomi's room,
 <0288> There's also a knock to let you know someone's coming,
 <0289> After a brief greeting to Nozomi, the door opened.
-<0290> \{[Hope]}
+<0290> \{[Nozomi]}
 <0291> "Ah...! Rei-san...!!"
 <0292> When Nozomi saw Rei's face, her expression suddenly brightened,
 <0293> Footsteps pattered as he approached Rei.
-<0294> \{[Hope]}
+<0294> \{[Nozomi]}
 <0295> "Did you come to see me?"
 <0296> \{[Rei]}
 <0297> "I heard your appointment was over, so I came to check on you."
-<0298> \{[Hope]}
+<0298> \{[Nozomi]}
 <0299> "I'm so happy...!"
 <0300> A puppy-like gaze filled with trust looked up at Rei,
 <0301> When a smile like a flower blooms,
@@ -311,7 +311,7 @@
 <0303> It makes me feel ticklish.
 <0304> \{[Rei]}
 <0305> "How are you feeling?"
-<0306> \{[Hope]}
+<0306> \{[Nozomi]}
 <0307> "I'm feeling much better now!
 <0308> \ \ruby{Doctor}={Teacher} also told me that it's fine to go about my daily life as normal."
 <0309> \{[Rei]}
@@ -323,7 +323,7 @@
 <0315> It seems that Rei was quite worried.
 <0316> With the sadness in my heart cleared,
 <0317> The smile that naturally appears on your face will become brighter.
-<0318> \{[Hope]}
+<0318> \{[Nozomi]}
 <0319> "......!!"
 <0320> With a pleasant smile on her face, Rei suddenly said,
 <0321> I looked over at Nozomi, who had suddenly gone silent.
@@ -331,17 +331,17 @@
 <0323> \{[Rei]}
 <0324> "...? What's wrong, Nozomi?
 <0325> \ You're looking at me like that. Is there something bothering you?"
-<0326> \{[Hope]}
+<0326> \{[Nozomi]}
 <0327> "Um, uh, no, that's not it!"
 <0328> \{[Rei]}
 <0329> "So, what's the matter? Is there something you want to say to me?"
-<0330> \{[Hope]}
+<0330> \{[Nozomi]}
 <0331> "......No!
 <0332> \ Nothing………… nothing.”
 <0333> \{[Rei]}
 <0334> "--Oh? Nozomi, your face is quite red.
 <0335> \ Don't tell me... you have a fever again?
-<0336> \{[Hope]}
+<0336> \{[Nozomi]}
 <0337> "Eh...! No, this is, um,
 <0338> \ …………It's fine!」
 <0339> \{[Rei]}
@@ -354,7 +354,7 @@
 <0346> I hold him tightly in my arms so he can't escape.
 <0347> Rei leaned her forehead close to Nozomi's flustered face,
 <0348> Then we pressed our foreheads together.
-<0349> \{[Hope]}
+<0349> \{[Nozomi]}
 <0350> "Hya...!"
 <0351> He held Nozomi's stiff, small body in his arms,
 <0352> They stay like that for a while, their foreheads touching.
@@ -367,22 +367,22 @@
 <0359> A naive reaction that makes her blush even more.
 <0360> Rei's mischievous side is stimulated,
 <0361> I felt like I wanted to cause trouble for Nozomi.
-<0362> \{[Hope]}
+<0362> \{[Nozomi]}
 <0363> "Re...Rei-san,
 <0364> \ Um, can I move away for a bit...?
 <0365> \{[Rei]}
 <0366> "Oh, why?"
-<0367> \{[Hope]}
+<0367> \{[Nozomi]}
 <0368> "With your face so close...
 <0369> \ I'm nervous..."
 <0370> \{[Rei]}
 <0371> "...I'm upsetting you so much.
 <0372> \ Do I look strange?
-<0373> \{[Hope]}
+<0373> \{[Nozomi]}
 <0374> "That's not true, quite the opposite...!"
 <0375> \{[Rei]}
 <0376> "The other way around--?"
-<0377> \{[Hope]}
+<0377> \{[Nozomi]}
 <0378> "Your eyes are so... beautiful,
 <0379> \ Looking at it up close, it's embarrassing..."
 <0380> \{[Rei]}
@@ -394,13 +394,13 @@
 <0386> \{[Rei]}
 <0387> "I'm in trouble. I wonder if you're trying to woo me.
 <0388> \ Is that an invitation?
-<0389> \{[Hope]}
+<0389> \{[Nozomi]}
 <0390> "I-I'm not inviting you...!"
 <0391> \{[Rei]}
 <0392> "That's troubling. When you make that face,
 <0393> \ It's starting to look more and more like she's inviting me.
 <0394> \ ...Nozomi, may I touch you?
-<0395> \{[Hope]}
+<0395> \{[Nozomi]}
 <0396> "Um...um..."
 <0397> \{[Rei]}
 <0398> "I won't do anything. Anything you don't like.
@@ -409,7 +409,7 @@
 <0401> "That's not true...!"
 <0402> \{[Rei]}
 <0403> "So it's okay if I touch it?"
-<0404> \{[Hope]}
+<0404> \{[Nozomi]}
 <0405> "Eh? Ah, um, Rei...
 <0406> \ Huh, what?!
 <0407> Stealing Nozomi's lips
@@ -422,14 +422,14 @@
 <0414> The way she ties her hair tightly is so cute.
 <0415> \{[Nozomi]}
 <0416> "...Ah... Mmm... Hmm..."
-<0417> \{[Hope]}
+<0417> \{[Nozomi]}
 <0418> "Y-yes... Rei-sa..."
-<0419> \{[Hope]}
+<0419> \{[Nozomi]}
 <0420> "Hmm... hmm... huh... ha..."
 <0421> I lightly sucked her soft lips,
 <0422> Try layering them a little deeper to open them up a little,
 <0423> They press their lips together again and again, enjoying the feeling of kissing.
-<0424> \{[Hope]}
+<0424> \{[Nozomi]}
 <0425> "Mmmm...yeah...mmm!"
 <0426> Is this your first kiss?
 <0427> The way he responded to every movement of Rei was extremely clumsy.
@@ -439,7 +439,7 @@
 <0431> It shook violently.
 <0432> From a light touch like a bird pecking at the lips,
 <0433> The layering movement gradually changes to something deeper.
-<0434> \{[Hope]}
+<0434> \{[Nozomi]}
 <0435> "Ahhh... mmm..."
 <0436> \{[Nozomi]}
 <0437> "...Hafu..."
@@ -449,22 +449,22 @@
 <0441> A pair of blurry, moist eyes appears before my eyes.
 <0442> \{[Rei]}
 <0443> "Nozomiーopen your mouth. Just say something lightly."
-<0444> \{[Hope]}
+<0444> \{[Nozomi]}
 <0445> "...Huh...?"
 <0446> Perhaps the heat of our first kiss was intoxicating,
 <0447> Nozomi's eyes were watery and she wavered absentmindedly.
 <0448> As requested, I open my mouth slightly, not understanding what it means.
-<0449> \{[Hope]}
+<0449> \{[Nozomi]}
 <0450> "Rei...sa...? Hmm, hmm...!"
 <0451> Nozomi's lips were slightly parted,
 <0452> This time, Rei pressed her lips against his, deeply and violently, as if biting him.
-<0453> \{[Hope]}
+<0453> \{[Nozomi]}
 <0454> "...Ah...Ahhh!
 <0455> \ Ugh... hmm... mmm..."
 <0456> Insert your tongue into the gaping mouth,
 <0457> Rei's tongue entangled the small tongue that was startled and tried to escape,
 <0458> Provides skillful stimulation.
-<0459> \{[Hope]}
+<0459> \{[Nozomi]}
 <0460> "Hmm... hmm... haha... ha..."
 <0461> \{[Nozomi]}
 <0462> "...Hmm...Huh..."
@@ -479,9 +479,9 @@
 <0471> "Oh... no way... mmm...!"
 <0472> Rei once again forcefully seized the trembling Nozomi's lips,
 <0473> Deeply - deeply entangle your tongue.
-<0474> \{[Hope]}
+<0474> \{[Nozomi]}
 <0475> "Hmm... Hmm...!"
-<0476> \{[Hope]}
+<0476> \{[Nozomi]}
 <0477> "Hmm... hmm... hah... hah..."
 <0478> It seems this is the first time Nozomi has even kissed anyone.
 <0479> He never takes the initiative to respond to Rei's movements.
@@ -490,7 +490,7 @@
 <0482> However, Nozomi genuinely dislikes this behavior,
 <0483> Being afraid of Rei and refusing to
 <0484> Finally - never again until the very end.
-<0485> \{[Hope]}
+<0485> \{[Nozomi]}
 <0486> "Hmm... ha... ah..."
 <0487> After enjoying the childish reaction for a while, this time it was really
 <0488> Release Nozomi from the passionate kiss.
@@ -499,7 +499,7 @@
 <0491> He leans exhausted into Rei's arms and takes shallow breaths.
 <0492> \{[Rei]}
 <0493> "Nozomi... are you okay?"
-<0494> \{[Hope]}
+<0494> \{[Nozomi]}
 <0495> "Rei...san...?"
 <0496> A vague, unfocused gaze,
 <0497> He looks up at Rei in response to the call.
@@ -512,12 +512,12 @@
 <0504> \{[Rei]}
 <0505> "Ah, the things you dislike, you know.
 <0506> \--Did you dislike it?
-<0507> \{[Hope]}
+<0507> \{[Nozomi]}
 <0508> "Ah..."
 <0509> \{[Rei]}
 <0510> "If you really don't want to do it, I won't do it again.
 <0511> \ --So, did you really hate it?"
-<0512> \{[Hope]}
+<0512> \{[Nozomi]}
 <0513> "Um, Rei-san!"
 <0514> \{[Rei]}
 <0515> "Yes."
@@ -532,15 +532,15 @@
 <0524> I stared at it in silence.
 <0525> \{[Rei]}
 <0526> "......"
-<0527> \{[Hope]}
+<0527> \{[Nozomi]}
 <0528> "………………
 <0529> \ …………
 <0530> \ ……」
 <0531> \{[Rei]}
 <0532> "No one will know if you keep quiet, Nozomi."
-<0533> \{[Hope]}
+<0533> \{[Nozomi]}
 <0534> "......!"
-<0535> \{[Hope]}
+<0535> \{[Nozomi]}
 <0536> "...That's...unfair..."
 <0537> \{[Rei]}
 <0538> "Haha. But I wanted you to say it first.

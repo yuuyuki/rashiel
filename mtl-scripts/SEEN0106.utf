@@ -84,7 +84,7 @@
 <0074> "I'm so sorry.
 <0075> \ This product attempted to escape from the building,
 <0076> \ I was just about to arrest him..."
-<0077> \{[Hope]}
+<0077> \{[Nozomi]}
 <0078> "Let go...!!
 <0079> \ Please, I won't run away...!"
 <0080> \{[Man]}
@@ -95,17 +95,17 @@
 <0085> I don't remember giving you permission to do whatever you want."
 <0086> \{[Man]}
 <0087> "But, this guy tried to escape from the mansion..."
-<0088> \{[Hope]}
+<0088> \{[Nozomi]}
 <0089> "No, that's not it...!"
 <0090> \{[Man]}
 <0091> "How can you trust a word like that?
 <0092> \ You tried to cross the garden boundary!
-<0093> \{[Hope]}
+<0093> \{[Nozomi]}
 <0094> "No...!
 <0095> \ I won't run away... Let me go."
-<0096> \{[Hope]}
+<0096> \{[Nozomi]}
 <0097> "I can... hear... a voice..."
-<0098> \{[Hope]}
+<0098> \{[Nozomi]}
 <0099> "If this continues, that child will...!"
 <0100> He looked very worried, unlike usual.
 <0101> As Nozomi desperately tries to escape,
@@ -118,13 +118,13 @@
 <0108> "Listen carefully to what I have to say, Nozomi.
 <0109> \ If this continues, you will
 <0110> \ You'll lose a lot more freedom than you have now."
-<0111> \{[Hope]}
+<0111> \{[Nozomi]}
 <0112> "......"
 <0113> \{[Rei]}
 <0114> "I'll tell you the details in my room,
 <0115> \ For now, be quiet.
 <0116> \ ...Did you understand?
-<0117> \{[Hope]}
+<0117> \{[Nozomi]}
 <0118> "...Yes..."
 <0119> Upon hearing Rei's words, Nozomi relaxed her body as if giving up.
 <0120> He slumped his shoulders and looked down sadly,
@@ -147,15 +147,15 @@
 <0137> Nozomi looked up as if she had been bounced off something,
 <0138> He clung to Rei's chest with such intensity that it felt like he was about to collide with her.
 <0139> Summoning his trembling voice, he pleaded desperately.
-<0140> \{[Hope]}
+<0140> \{[Nozomi]}
 <0141> "Please... help me...!"
 <0142> \{[Rei]}
 <0143> "Help me?"
-<0144> \{[Hope]}
+<0144> \{[Nozomi]}
 <0145> "Please stop that Himei..."
 <0146> \{[Rei]}
 <0147> "...screams?"
-<0148> \{[Hope]}
+<0148> \{[Nozomi]}
 <0149> "It hurts, and he's crying.
 <0150> \ Please help that child...!
 <0151> Surprised, I strained my ears,
@@ -163,10 +163,10 @@
 <0153> I can't even hear a whisper.
 <0154> \{[Rei]}
 <0155> "--I can't hear anything."
-<0156> \{[Hope]}
+<0156> \{[Nozomi]}
 <0157> "I'm not lying!
 <0158> \ ...Please...!"
-<0159> \{[Hope]}
+<0159> \{[Nozomi]}
 <0160> "...Someone...help that child..."
 <0161> Finally, he couldn't bear it any longer,
 <0162> Nozomi had her ears pressed tightly into her palms,
@@ -189,12 +189,12 @@
 <0179> \{[Rei]}
 <0180> "...I understand. If you say so,
 <0181> \ I'll believe your words too."
-<0182> \{[Hope]}
+<0182> \{[Nozomi]}
 <0183> "Eh..."
 <0184> \{[Rei]}
 <0185> "So, where should I go?
 <0186> \ If you don't have time, hurry up.
-<0187> \{[Hope]}
+<0187> \{[Nozomi]}
 <0188> "Y-yes...!"
 <0189> \{[Rei]}
 <0190> "Mari. You're trying to calm Nozomi down.
@@ -352,7 +352,7 @@
 <0342> "Yes, I understand.
 <0343> \ It's not that far to walk,
 <0344> \ I'll leave in the afternoon."
-<0345> \{[Hope]}
+<0345> \{[Nozomi]}
 <0346> "...Ah..."
 <0347> \{[Mari]}
 <0348> "Nozomi-san..."
@@ -365,7 +365,7 @@
 <0355> \ Therefore――」
 <0356> \{[Nozomi]}
 <0357> "...I'll leave it to you..."
-<0358> \{[Hope]}
+<0358> \{[Nozomi]}
 <0359> "Rather than staying here,
 <0360> \ I'm sure... that would be better..."
 <0361> \{[Nozomi]}
@@ -379,7 +379,7 @@
 <0369> He licks back Nozomi's white cheek with his small tongue.
 <0370> It's as if she's laughing innocently,
 <0371> A happy puppy's face.
-<0372> \{[Hope]}
+<0372> \{[Nozomi]}
 <0373> "...Goodbye..."
 <0374> I let go of his cheek,
 <0375> Nozomi takes a leap of faith and hands the puppy over to Marie.
@@ -388,7 +388,7 @@
 <0378> Surprised at being separated from Nozomi,
 <0379> Yawn yawn,
 <0380> The puppy cries, making a sad, shrieking noise.
-<0381> \{[Hope]}
+<0381> \{[Nozomi]}
 <0382> "......"
 <0383> Beyond the door, it gradually recedes into the distance,
 <0384> The puppy's heartbreaking cry for Nozomi,
@@ -397,7 +397,7 @@
 <0387> Nozomi suddenly let out a sigh of tension.
 <0388> \{[Rei]}
 <0389> "...Was it okay if we didn't stop that noise?"
-<0390> \{[Hope]}
+<0390> \{[Nozomi]}
 <0391> "That's... not a painful voice..."
 <0392> \{[Rei]}
 <0393> "I see..."
@@ -411,7 +411,7 @@
 <0401> \ Can't you feel it?
 <0402> \{[Nozomi]}
 <0403> "...!"
-<0404> \{[Hope]}
+<0404> \{[Nozomi]}
 <0405> "No... that's not true...!"
 <0406> \{[Rei]}
 <0407> "No, that's not true. You can't see it,
@@ -423,7 +423,7 @@
 <0413> "But what you took there,
 <0414> \ The reason for that mysterious behavior,
 <0415> \ The results derived from this cannot be explained.
-<0416> \{[Hope]}
+<0416> \{[Nozomi]}
 <0417> "...Ah..."
 <0418> \{[Rei]}
 <0419> "You've always done that,
@@ -431,7 +431,7 @@
 <0421> \ The "power" you possess--"
 <0422> \{[Nozomi]}
 <0423> "......"
-<0424> \{[Hope]}
+<0424> \{[Nozomi]}
 <0425> "No one believes me..."
 <0426> \{[Rei]}
 <0427> "...Right. That's true."
@@ -440,13 +440,13 @@
 <0430> \{[Rei]}
 <0431> "Youーyour power,
 <0432> \ Can you even read people's thoughts?
-<0433> \{[Hope]}
+<0433> \{[Nozomi]}
 <0434> "No. ... I can't hear what people are thinking."
 <0435> \{[Rei]}
 <0436> "...I see."
-<0437> \{[Hope]}
+<0437> \{[Nozomi]}
 <0438> "...Um..."
-<0439> \{[Hope]}
+<0439> \{[Nozomi]}
 <0440> "You believed my words.
 <0441> \ Why?
 <0442> \{[Rei]}
@@ -481,10 +481,10 @@
 <0471> \{[Rei]}
 <0472> "But you still have something
 <0473> \ You look like you haven't said enough yet, right?
-<0474> \{[Hope]}
+<0474> \{[Nozomi]}
 <0475> "Um... well, I'm glad you believed my words earlier.
 <0476> \ Thank you so much...!
-<0477> \{[Hope]}
+<0477> \{[Nozomi]}
 <0478> "Thanks to your faith in me,
 <0479> \ The puppy was saved."
 <0480> \{[Nozomi]}
@@ -506,29 +506,29 @@
 <0496> \{[Nozomi]}
 <0497> "...You didn't believe a word I said.
 <0498> \ She's a creepy kid who always says strange things..."
-<0499> \{[Hope]}
+<0499> \{[Nozomi]}
 <0500> "The one who believed in me was
 <0501> \ You and... just one other person."
 <0502> \{[Rei]}
 <0503> "Me andーone other person?
 <0504> \ Are you related to the Kujo family, who raised you as your adoptive parents?
-<0505> \{[Hope]}
+<0505> \{[Nozomi]}
 <0506> "No... that's not it."
 <0507> \{[Rei]}
 <0508> "So, are you from the mansion?"
-<0509> \{[Hope]}
+<0509> \{[Nozomi]}
 <0510> "...No."
 <0511> \{[Rei]}
 <0512> "If he's not related to the Kujo family or from the mansion,
 <0513> \ Who the hell are you and where are you from?
-<0514> \{[Hope]}
+<0514> \{[Nozomi]}
 <0515> "......"
 <0516> \{[Rei]}
 <0517> "...It seems like you don't want to talk."
 <0518> \{[Rei]}
 <0519> "In that case, I won't pry into anything now.
 <0520> \ If you ever feel like talking, please let me know."
-<0521> \{[Hope]}
+<0521> \{[Nozomi]}
 <0522> "...I'm sorry..."
 <0523> \{[Rei]}
 <0524> "I don't mind."
@@ -536,12 +536,12 @@
 <0526> "...But even so,
 <0527> \ The power to understand the minds of birds and animals that do not have words...
 <0528> \ It's a very angelic power."
-<0529> \{[Hope]}
+<0529> \{[Nozomi]}
 <0530> "......!"
 <0531> \{[Rei]}
 <0532> "...? What's wrong, Nozomi?
 <0533> \ Your face is pretty red though."
-<0534> \{[Hope]}
+<0534> \{[Nozomi]}
 <0535> "Oh, well, it's nothing!"
 <0536> \{[Rei]}
 <0537> "--?"
@@ -579,7 +579,7 @@
 <0569> "--I can't do what you ask.
 <0570> \ There is a possibility that you are planning to escape,
 <0571> \ It can't be said to be zero."
-<0572> \{[Hope]}
+<0572> \{[Nozomi]}
 <0573> "...Uh..."
 <0574> Nozomi's shoulders trembled at Rei's words.
 <0575> Tears pattering down,
