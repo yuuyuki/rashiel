@@ -32,3 +32,30 @@ set RLDEV=C:\Users\UserX\Downloads\rldev
 for %a in (rashiel\mtl-scripts\*.ke) do rlc -v -e utf-8 -i GAMEEXE.INI %a
 ```
 
+#### Errors when patching the script in 
+
+- Error (SEEN0101.ke line 240): select window specifiers are not valid in
+  `select_s' calls.
+
+Change `intF[0] = select_s[0] (#res<0001>, #res<0002>)` to `intF[0] = select_s (#res<0001>, #res<0002>)`
+
+=> Replaced all select_s[0] with seelct_s
+
+- Warning (SEEN0101.utf line 858): duplicate resource string key `<angel>` hides
+  earlier definition at SEEN0101.utf line 846.
+
+Probably some issue with using <> within text e.g. `<Angel>`
+
+=> Ignored for now
+
+- Error (SEEN0101.utf line 218): expected expression, found undeclared
+  identifier `I'.
+
+When backslash followed by an english letter or word. Need a space between backslash and the next word.
+
+=> Replaced all `\word` with `\ word` using
+  find: `\\(?!ruby\b)(\w+)`  
+  replace: `\ $1`
+
+
+
