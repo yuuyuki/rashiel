@@ -1,0 +1,29 @@
+@echo off
+setlocal enabledelayedexpansion
+
+set /p RLDEV="Enter the path to RLDev: "
+
+if "!RLDEV!"=="" (
+    for %%a in ("%~dp0..\..") do set "grandparent=%%~fa"
+    set RLDEV=!grandparent!
+    echo [*] Using default RLDev path: !RLDEV!
+)
+
+for %%a in (mtl-scripts\*.ke) do (
+    set /a count=!count!+1
+    echo [!count!] Processing file: %%a
+    ..\rlc -v -e utf-8 -i ..\GAMEEXE.INI %%a
+
+    set "exitcode=!errorlevel!"
+
+    if !exitcode! neq 0 (
+        echo [!] Error processing %%a exit code !exitcode!
+        rem Stop on first error:
+        exit /b !exitcode!
+    ) else (
+        echo [*] Successfully processed %%a
+    )
+)
+
+endlocal
+pause
