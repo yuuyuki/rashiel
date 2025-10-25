@@ -68,7 +68,7 @@ par
 #res<0023>
 par
 #res<0024>
-intF[0] = select_s[0] (#res<0025>, #res<0026>)
+intF[0] = select_s (#res<0025>, #res<0026>)
 goto_case intF[0] { 0: @1; 1: @2; _: @3 }
 
   @1
@@ -196,7 +196,7 @@ koePlay (10400185, 2)
 #res<0069>
 par
 #res<0070>
-intF[0] = select_s[0] (#res<0071>, #res<0072>, #res<0073>)
+intF[0] = select_s (#res<0071>, #res<0072>, #res<0073>)
 goto_case intF[0] { 0: @7; 1: @8; 2: @9; _: @10 }
 
   @7
@@ -869,7 +869,7 @@ koePlay (10400662, 5)
 #res<0351>
 par
 #res<0352>
-intF[0] = select_s[0] (#res<0353>, #res<0354>)
+intF[0] = select_s (#res<0353>, #res<0354>)
 goto_case intF[0] { 0: @22; 1: @23; _: @24 }
 
   @22
@@ -1440,7 +1440,7 @@ pause
 #res<0589>
 par
 #res<0590>
-intF[0] = select_s[0] (#res<0591>, #res<0592>)
+intF[0] = select_s (#res<0591>, #res<0592>)
 goto_case intF[0] { 0: @29; 1: @30; _: @31 }
 
   @29
@@ -2103,7 +2103,7 @@ par
 #res<0866>
 par
 #res<0867>
-intF[0] = select_s[0] (#res<0868>, #res<0869>)
+intF[0] = select_s (#res<0868>, #res<0869>)
 goto_case intF[0] { 0: @41; 1: @42; _: @43 }
 
   @41
@@ -2177,7 +2177,7 @@ par
 #res<0892>
 par
 #res<0893>
-intF[0] = select_s[0] (#res<0894>, #res<0895>)
+intF[0] = select_s (#res<0894>, #res<0895>)
 goto_case intF[0] { 0: @45; 1: @46; _: @47 }
 
   @45

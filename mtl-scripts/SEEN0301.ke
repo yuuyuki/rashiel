@@ -557,7 +557,7 @@ pause
 #res<0230>
 par
 #res<0231>
-intF[0] = select_s[0] (#res<0232>, #res<0233>)
+intF[0] = select_s (#res<0232>, #res<0233>)
 goto_case intF[0] { 0: @1; 1: @2; _: @3 }
 
   @1

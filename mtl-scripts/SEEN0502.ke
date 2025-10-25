@@ -415,7 +415,7 @@ pause
 par
 #res<0174>
 pause
-intF[0] = select_s[0] (#res<0175>, #res<0176>)
+intF[0] = select_s (#res<0175>, #res<0176>)
 goto_case intF[0] { 0: @1; 1: @2; _: @3 }
 
   @1

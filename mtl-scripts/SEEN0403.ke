@@ -675,7 +675,7 @@ par
 farcall (800)
 
   @1
-intF[0] = select_s[0] (
+intF[0] = select_s (
     blank if intF[100] == 1: #res<0301>,
     blank if intF[101] == 1: #res<0302>,
     blank if intF[102] == 1: #res<0303>,

@@ -180,7 +180,7 @@ par
 #res<0072>
 par
 #res<0073>
-intF[0] = select_s[0] (#res<0074>, #res<0075>)
+intF[0] = select_s (#res<0074>, #res<0075>)
 goto_case intF[0] { 0: @1; 1: @2; _: @3 }
 
   @1

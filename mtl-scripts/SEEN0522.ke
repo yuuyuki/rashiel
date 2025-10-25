@@ -336,7 +336,7 @@ koePlay (10602628, 4)
 #res<0141>
 par
 #res<0142>
-intF[0] = select_s[0] (#res<0143>, #res<0144>)
+intF[0] = select_s (#res<0143>, #res<0144>)
 goto_case intF[0] { 0: @1; 1: @2; _: @3 }
 
   @1

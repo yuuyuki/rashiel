@@ -680,7 +680,7 @@ par
 #res<0291>
 par
 #res<0292>
-intF[0] = select_s[0] (#res<0293>, #res<0294>)
+intF[0] = select_s (#res<0293>, #res<0294>)
 goto_case intF[0] { 0: @1; 1: @2; _: @3 }
 
   @1

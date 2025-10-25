@@ -1728,7 +1728,7 @@ pause
 par
 #res<0725>
 pause
-intF[0] = select_s[0] (#res<0726>, #res<0727>)
+intF[0] = select_s (#res<0726>, #res<0727>)
 goto_case intF[0] { 0: @9; 1: @10; _: @11 }
 
   @9
@@ -7386,7 +7386,7 @@ pause
 #res<3121>
 par
 #res<3122>
-intF[0] = select_s[0] (#res<3123>, #res<3124>)
+intF[0] = select_s (#res<3123>, #res<3124>)
 goto_case intF[0] { 0: @19; 1: @20; _: @21 }
 
   @19

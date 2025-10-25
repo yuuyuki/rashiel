@@ -14,7 +14,7 @@ goto @2
 
   @2
 grpOpenBg ('RBG_KURO', 0)
-intF = select_s (#res<0001>, #res<0002>)
+intF[0] = select_s (#res<0001>, #res<0002>)
 goto_case intF[0] { 0: @3; 1: @4; _: @5 }
 
   @3

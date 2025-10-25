@@ -80,7 +80,7 @@ par
 #res<0030>
 par
 #res<0031>
-intF[0] = select_s[0] (#res<0032>, #res<0033>, #res<0034>, #res<0035>)
+intF[0] = select_s (#res<0032>, #res<0033>, #res<0034>, #res<0035>)
 goto_case intF[0] { 0: @1; 1: @2; 2: @3; 3: @4; _: @5 }
 
   @1
@@ -165,7 +165,7 @@ pause
 #res<0061>
 par
 #res<0062>
-intF[0] = select_s[0] (#res<0063>, #res<0064>)
+intF[0] = select_s (#res<0063>, #res<0064>)
 goto_case intF[0] { 0: @7; 1: @8; _: @9 }
 
   @7
@@ -205,7 +205,7 @@ grpOpenBg ('RBG_41', 1)
 #res<0074>
 par
 #res<0075>
-intF[0] = select_s[0] (#res<0076>, #res<0077>)
+intF[0] = select_s (#res<0076>, #res<0077>)
 goto_case intF[0] { 0: @11; 1: @12; _: @13 }
 
   @11
@@ -354,7 +354,7 @@ par
 par
 #res<0135>
 pause
-intF[0] = select_s[0] (#res<0136>, #res<0137>)
+intF[0] = select_s (#res<0136>, #res<0137>)
 goto_case intF[0] { 0: @15; 1: @16; _: @17 }
 
   @15
@@ -983,7 +983,7 @@ grpMulti ('RBG_04', 0, copy('RBS4_1O', 100))
 #res<0385>
 par
 #res<0386>
-intF[0] = select_s[0] (#res<0387>, #res<0388>)
+intF[0] = select_s (#res<0387>, #res<0388>)
 goto_case intF[0] { 0: @24; 1: @25; _: @26 }
 
   @24
@@ -1552,7 +1552,7 @@ par
 par
 #res<0603>
 pause
-intF[0] = select_s[0] (#res<0604>, #res<0605>)
+intF[0] = select_s (#res<0604>, #res<0605>)
 goto_case intF[0] { 0: @34; 1: @35; _: @36 }
 
   @34
@@ -1597,7 +1597,7 @@ pause
 #res<0619>
 par
 #res<0620>
-intF[0] = select_s[0] (#res<0621>, #res<0622>)
+intF[0] = select_s (#res<0621>, #res<0622>)
 goto_case intF[0] { 0: @38; 1: @39; _: @40 }
 
   @38

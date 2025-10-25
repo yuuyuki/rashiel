@@ -744,7 +744,7 @@ pause
 farcall (800)
 
   @4
-intF[0] = select_s[0] (
+intF[0] = select_s (
     blank if intF[100] == 1: #res<0355>,
     blank if intF[101] == 1: #res<0356>,
     #res<0357>
@@ -1136,7 +1136,7 @@ pause
 farcall (800)
 
   @14
-intF[0] = select_s[0] (
+intF[0] = select_s (
     blank if intF[100] == 1: #res<0522>,
     blank if intF[101] == 1: #res<0523>,
     blank if intF[102] == 1: #res<0524>,
@@ -1845,7 +1845,7 @@ pause
 #res<0847>
 par
 #res<0848>
-intF[0] = select_s[0] (#res<0849>, #res<0850>)
+intF[0] = select_s (#res<0849>, #res<0850>)
 goto_case intF[0] { 0: @24; 1: @25; _: @26 }
 
   @24
@@ -2035,7 +2035,7 @@ koePlay (30501402, 2)
 #res<0922>
 par
 #res<0923>
-intF[0] = select_s[0] (#res<0924>, #res<0925>)
+intF[0] = select_s (#res<0924>, #res<0925>)
 goto_case intF[0] { 0: @28; 1: @29; _: @30 }
 
   @28
@@ -2767,7 +2767,7 @@ pause
 #res<1237>
 par
 #res<1238>
-intF[0] = select_s[0] (#res<1239>, #res<1240>)
+intF[0] = select_s (#res<1239>, #res<1240>)
 goto_case intF[0] { 0: @33; 1: @34; _: @35 }
 
   @33

@@ -1117,7 +1117,7 @@ par
 #res<0466>
 par
 #res<0467>
-intF[0] = select_s[0] (#res<0468>, #res<0469>)
+intF[0] = select_s (#res<0468>, #res<0469>)
 goto_case intF[0] { 0: @12; 1: @13; _: @14 }
 
   @12
@@ -1553,7 +1553,7 @@ pause
 #res<0661>
 par
 #res<0662>
-intF[0] = select_s[0] (#res<0663>, #res<0664>, #res<0665>)
+intF[0] = select_s (#res<0663>, #res<0664>, #res<0665>)
 goto_case intF[0] { 0: @17; 1: @18; 2: @19; _: @20 }
 
   @17
@@ -1652,7 +1652,7 @@ grpMulti ('RBG_02M', 0, copy('RBS4_1Q', 100))
 #res<0693>
 par
 #res<0694>
-intF[0] = select_s[0] (#res<0695>, #res<0696>)
+intF[0] = select_s (#res<0695>, #res<0696>)
 goto_case intF[0] { 0: @25; 1: @26; _: @27 }
 
   @25
@@ -1946,7 +1946,7 @@ par
 farcall (800)
 
   @30
-intF[0] = select_s[0] (
+intF[0] = select_s (
     blank if intF[100] == 1: #res<0824>,
     blank if intF[101] == 1: #res<0825>,
     #res<0826>

@@ -272,7 +272,7 @@ par
 #res<0114>
 par
 #res<0115>
-intF[0] = select_s[0] (#res<0116>, #res<0117>)
+intF[0] = select_s (#res<0116>, #res<0117>)
 goto_case intF[0] { 0: @1; 1: @2; _: @3 }
 
   @1
@@ -675,7 +675,7 @@ koePlay (10200287, 2)
 #res<0281>
 par
 #res<0282>
-intF[0] = select_s[0] (#res<0283>, #res<0284>, #res<0285>)
+intF[0] = select_s (#res<0283>, #res<0284>, #res<0285>)
 goto_case intF[0] { 0: @7; 1: @8; 2: @9; _: @10 }
 
   @7
@@ -1088,7 +1088,7 @@ pause
 #res<0450>
 par
 #res<0451>
-intF[0] = select_s[0] (#res<0452>, #res<0453>, #res<0454>)
+intF[0] = select_s (#res<0452>, #res<0453>, #res<0454>)
 goto_case intF[0] { 0: @15; 1: @16; 2: @17; _: @18 }
 
   @15
@@ -1177,7 +1177,7 @@ par
 farcall (800)
 
   @20
-intF[0] = select_s[0] (
+intF[0] = select_s (
     blank if intF[100] == 1: #res<0486>,
     blank if intF[101] == 1: #res<0487>,
     blank if intF[102] == 1: #res<0488>,
@@ -1320,7 +1320,7 @@ pause
 #res<0546>
 par
 #res<0547>
-intF[0] = select_s[0] (#res<0548>, #res<0549>)
+intF[0] = select_s (#res<0548>, #res<0549>)
 goto_case intF[0] { 0: @27; 1: @28; _: @29 }
 
   @27
@@ -1490,7 +1490,7 @@ par
 #res<0619>
 par
 #res<0620>
-intF[0] = select_s[0] (#res<0621>, #res<0622>)
+intF[0] = select_s (#res<0621>, #res<0622>)
 goto_case intF[0] { 0: @34; 1: @35; _: @36 }
 
   @34
@@ -1576,7 +1576,7 @@ pause
 #res<0653>
 par
 #res<0654>
-intF[0] = select_s[0] (#res<0655>, #res<0656>)
+intF[0] = select_s (#res<0655>, #res<0656>)
 goto_case intF[0] { 0: @38; 1: @39; _: @40 }
 
   @38
@@ -1791,7 +1791,7 @@ grpOpenBg ('RBG_05', 1)
 #res<0732>
 par
 #res<0733>
-intF[0] = select_s[0] (#res<0734>, #res<0735>)
+intF[0] = select_s (#res<0734>, #res<0735>)
 goto_case intF[0] { 0: @46; 1: @47; _: @48 }
 
   @46
@@ -2006,7 +2006,7 @@ koePlay (10201319, 4)
 #res<0822>
 par
 #res<0823>
-intF[0] = select_s[0] (#res<0824>, #res<0825>)
+intF[0] = select_s (#res<0824>, #res<0825>)
 goto_case intF[0] { 0: @50; 1: @51; _: @52 }
 
   @50
@@ -2093,7 +2093,7 @@ pause
 #res<0852>
 par
 #res<0853>
-intF[0] = select_s[0] (#res<0854>, #res<0855>)
+intF[0] = select_s (#res<0854>, #res<0855>)
 goto_case intF[0] { 0: @56; 1: @57; _: @58 }
 
   @56

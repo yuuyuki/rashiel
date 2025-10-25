@@ -237,7 +237,7 @@ par
 intF[100] = 0
 
   @1
-intF[0] = select_s[0] (
+intF[0] = select_s (
     #res<0095>,
     blank if intF[100] == 1: #res<0096>
 )
@@ -325,7 +325,7 @@ par
 #res<0129>
 par
 #res<0130>
-intF[0] = select_s[0] (#res<0131>, #res<0132>)
+intF[0] = select_s (#res<0131>, #res<0132>)
 goto_case intF[0] { 0: @6; 1: @7; _: @8 }
 
   @6
@@ -640,7 +640,7 @@ par
 #res<0256>
 par
 #res<0257>
-intF[0] = select_s[0] (#res<0258>, #res<0259>)
+intF[0] = select_s (#res<0258>, #res<0259>)
 goto_case intF[0] { 0: @13; 1: @14; _: @15 }
 
   @13
@@ -1037,7 +1037,7 @@ par
 #res<0427>
 par
 #res<0428>
-intF[0] = select_s[0] (#res<0429>, #res<0430>)
+intF[0] = select_s (#res<0429>, #res<0430>)
 goto_case intF[0] { 0: @19; 1: @20; _: @21 }
 
   @19
@@ -1391,7 +1391,7 @@ pause
 #res<0582>
 par
 #res<0583>
-intF[0] = select_s[0] (#res<0584>, #res<0585>, #res<0586>)
+intF[0] = select_s (#res<0584>, #res<0585>, #res<0586>)
 goto_case intF[0] { 0: @23; 1: @24; 2: @25; _: @26 }
 
   @23
@@ -1974,7 +1974,7 @@ par
 #res<0817>
 par
 #res<0818>
-intF[0] = select_s[0] (#res<0819>, #res<0820>)
+intF[0] = select_s (#res<0819>, #res<0820>)
 goto_case intF[0] { 0: @32; 1: @33; _: @34 }
 
   @32
