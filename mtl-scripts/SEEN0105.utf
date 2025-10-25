@@ -1,0 +1,674 @@
+// Resources for SEEN0105.TXT
+
+#character '[Rei]'
+#character '［Marie］'
+#character '［Takami］'
+#character '[Student]'
+#character '[Servant]'
+
+<0000> May 2nd
+<0001> Marie came to my room to call me, and when I arrived at the dining room,
+<0002> There, a feast is being held for Rei alone,
+<0003> A table was prepared for dinner.
+<0004> \{［伶］}
+<0005> "...For someone like me who doesn't need much food,
+<0006> \ Such an elaborate dish,
+<0007> \ You don't have to prepare it every time."
+<0008> \{[Mari]}
+<0009> "To give Rei-sama even a little bit of enjoyment,
+<0010> \ We will provide as many items as possible,
+<0011> \ I thought it would be best if you could choose from the options.
+<0012> \{[Mari]}
+<0013> "The reason for the increase in the number of items is
+<0014> \ This is for the time I helped out in the kitchen.
+<0015> \ So, don't worry about it.
+<0016> \{[Mari]}
+<0017> "I hope that my body can be of use to someone.
+<0018> \ It's such a happy thing--"
+<0019> \{［伶］}
+<0020> "...You've changed.
+<0021> \ It seems like you really mean it."
+<0022> \{[Mari]}
+<0023> "Now, Rei-sama, please tell us what you like.
+<0024> \ I'll serve it on a plate.
+<0025> Encouraged by Marie, who was serving happily,
+<0026> I finish my lunch, having eaten a little more than usual.
+<0027> As she poured hot coffee into Rei's cup,
+<0028> Marie asked, tilting her head.
+<0029> \{[Mari]}
+<0030> "Well then, Rei-sama. This afternoon,
+<0031> \ How do you plan to spend your time...?
+<0032> Go to Nozomi's room
+<0033> Take a walk around the mansion grounds
+<0034> Go see Takami
+<0035> Return to room
+<0036> \{［伶］}
+<0037> "That's right... I'll go see Nozomi."
+<0038> \{[Mari]}
+<0039> "Yes, I understand."
+<0040> \{[Mari]}
+<0041> "...Ah! Please wait!
+<0042> \ Speaking of which, today was Nozomi's regular checkup day.
+<0043> \ Sorry, I forgot to tell you."
+<0044> \{［伶］}
+<0045> "Regular check-up? Nozomi felt something somewhere in her body.
+<0046> \ Is there something wrong with it?"
+<0047> \{[Mari]}
+<0048> "No. I don't eat much, so
+<0049> \ I'm worried about your thin body.
+<0050> \ Nozomi-san does not have any chronic illnesses.
+<0051> \{[Mari]}
+<0052> "For the purpose of preventing disease and maintaining health,
+<0053> \ Apparently, checkups are scheduled to be conducted twice a week.
+<0054> \ Nozomi-san's body is perfectly healthy."
+<0055> \{[Mari]}
+<0056> "Nozomi's afternoon schedule is,
+<0057> \ I was assigned to a routine checkup.
+<0058> \ I'm sorry..."
+<0059> \{［伶］}
+<0060> "Yeah...that's unfortunate."
+<0061> \{［伶］}
+<0062> "So, what should we do now...?"
+<0063> Take a walk around the mansion grounds
+<0064> Return to room
+<0065> \{［伶］}
+<0066> "That's right... the weather is nice today,
+<0067> \ Let's take a walk around the mansion grounds."
+<0068> \{[Mari]}
+<0069> "I see. Well then, please enjoy your stay."
+<0070> On a warm, sunny afternoon,
+<0071> Rei took a leisurely stroll around the mansion grounds.
+<0072> The gardens are well-maintained wherever you look,
+<0073> The vivid green soothes Rei's eyes.
+<0074> When Rei returned from her walk and stepped onto the terrace,
+<0075> Marie comes into view arranging flowers in a vase.
+<0076> Call out
+<0077> Don't call out
+<0078> \{［伶］}
+<0079> "...You're very enthusiastic, Marie."
+<0080> \{[Mari]}
+<0081> "Ah, this is Rei-sama."
+<0082> I looked and saw Marie in a big vase.
+<0083> Colorful seasonal flowers are arranged.
+<0084> Cut to an appropriate length with gardening shears,
+<0085> From the flowers spread on the table,
+<0086> A gentle fragrance is in the air.
+<0087> \{［伶］}
+<0088> "...You're quite skilled.
+<0089> \ Perhaps the flowers in the vase in my room,
+<0090> \ Is this something you prepared?"
+<0091> \{[Mari]}
+<0092> "Yes, that's right!
+<0093> \ Choose from the flowers grown on the museum grounds,
+<0094> \ I am the one who lives it.
+<0095> \{[Mari]}
+<0096> "When I told the head maid that I liked flowers,
+<0097> \ I've been entrusted with this job."
+<0098> Marie arranges the flowers with careful movements.
+<0099> The elegantly arranged flowers,
+<0100> Even after being placed in a vase, the flowers retain their freshness.
+<0101> They are blooming beautifully.
+<0102> \{［伶］}
+<0103> "...The flowers in my room are like that,
+<0104> \ For some reason, your flower arrangements look so lively.
+<0105> \ Is there any trick to it?
+<0106> \{[Mari]}
+<0107> "Well... there are a lot of things,
+<0108> \ What I am particularly careful about is,
+<0109> \ Putting delicious water in a vase."
+<0110> \{［伶］}
+<0111> “…Water?”
+<0112> \{[Mari]}
+<0113> "Yes. It's the same with cooking,
+<0114> \ Just by changing the water you use into delicious spring water,
+<0115> \ It's quite different."
+<0116> \{[Mari]}
+<0117> "Tap water is not good,
+<0118> \ I go to a nearby spring to draw water,
+<0119> \ The taste is really mellow and delicious!
+<0120> \{[Mari]}
+<0121> "It seems that the flowers are happy when the water tastes good.
+<0122> \ For a long time, it was truly lively,
+<0123> \ It is a feast for our eyes."
+<0124> \{［伶］}
+<0125> "I see."
+<0126> Looking at the scene before me,
+<0127> Marie's words were strangely persuasive.
+<0128> \{[Mari]}
+<0129> "Flowers are nice."
+<0130> \{[Mari]}
+<0131> "Each one has their own personality and their own opinions,
+<0132> \ Looking at it somehow makes me feel energized."
+<0133> \{[Mari]}
+<0134> "Um... sorry!
+<0135> \ Isn't this kind of story boring?
+<0136> Boring
+<0137> It's not boring
+<0138> \{［伶］}
+<0139> "It's not exactly boring...
+<0140> \ I'll be heading back to my room soon."
+<0141> \{[Mari]}
+<0142> "Yes, I understand.
+<0143> \ I have fun talking with Rei-sama,
+<0144> \ I end up talking too much..."
+<0145> \{[Mari]}
+<0146> "At dinner time again,
+<0147> \ I'll take care of you."
+<0148> With Marie seeing her off, Rei left the terrace.
+<0149> \{［伶］}
+<0150> "I don't particularly find it boring.
+<0151> \ Your story is surprisingly interesting.
+<0152> \{[Mari]}
+<0153> "I have fun talking with Rei-sama,
+<0154> \ I tend to talk too much..."
+<0155> \{[Mari]}
+<0156> "I'm glad to hear you say that, Rei-sama.
+<0157> \ I'm so happy...!
+<0158> \{[Mari]}
+<0159> "Rei-sama, do you like flowers?"
+<0160> \{［伶］}
+<0161> "I wouldn't say I like it,
+<0162> \ I don't hate it either.
+<0163> \{[Mari]}
+<0164> "I see... Actually, I too,
+<0165> \ I didn't like it much back then."
+<0166> \{[Mari]}
+<0167> "In the past, I wasn't very healthy,
+<0168> \ There was a period when I was bedridden for a long time..."
+<0169> \{[Mari]}
+<0170> "One day, I sent some wild flowers as a sympathy gift.
+<0171> \ I once had someone pick them for me."
+<0172> \{[Mari]}
+<0173> "The flowers are wild,
+<0174> \ They are irregular in shape and size,
+<0175> \ It didn't look very good, but..."
+<0176> \{[Mari]}
+<0177> "Just having that flower by my pillow,
+<0178> \ I felt strangely encouraged.
+<0179> \{[Mari]}
+<0180> "Since then... I've come to love flowers."
+<0181> \{［伶］}
+<0182> "......"
+<0183> \{[Mari]}
+<0184> "Looking at flowers gives me a mysterious feeling."
+<0185> \{[Mari]}
+<0186> "...flowers don't think about unnecessary things,
+<0187> \ It simply blooms in full glory as it is alive, and then scatters away.
+<0188> \{[Mari]}
+<0189> "Such a noble thing that goes beyond human consideration,
+<0190> \ I might be attracted to it."
+<0191> \{［伶］}
+<0192> "......"
+<0193> \{［伶］}
+<0194> "That's quite surprising. The reason you say you like flowers is...
+<0195> \ "Because there's nothing extraneous"
+<0196> \{［伶］}
+<0197> "But that's a pretty interesting opinion."
+<0198> \{[Mari]}
+<0199> "I see! I'm glad to hear you say that.
+<0200> \ I'm so happy...!
+<0201> \{[Mari]}
+<0202> "Flowers are not only beautiful, but also very powerful.
+<0203> \ So as not to kill the words of such flowers,
+<0204> \ I hope to arrange them with care."
+<0205> \{［伶］}
+<0206> "I see..."
+<0207> \{［伶］}
+<0208> "...Ah, I'll be heading back to my room soon."
+<0209> \{[Mari]}
+<0210> "Yes, I understand."
+<0211> \{[Mari]}
+<0212> "It was fun talking to you, Rei-sama!"
+<0213> \{[Mari]}
+<0214> "At dinner time again,
+<0215> \ I'll take care of you."
+<0216> With Marie seeing her off, Rei left the terrace.
+<0217> I didn't feel like talking to Marie,
+<0218> Rei left the place in silence.
+<0219> \{［伶］}
+<0220> "Yes, I'd like to check on Takami's mood,
+<0221> \ I guess I'll go..."
+<0222> As I continued walking along the road leading from the mansion without hurrying,
+<0223> Eventually, the annex building we were looking for came into view.
+<0224> I rang the doorbell and introduced myself to the person who answered.
+<0225> A servant appeared at the gate to greet the guests,
+<0226> Rei is led into a room.
+<0227> The room I was led into was already quite messy,
+<0228> Now it was even messier than before.
+<0229> \{［伶］}
+<0230> "This is... quite a mess."
+<0231> \{[Takami]}
+<0232> "...I was looking for something for a bit."
+<0233> \{［伶］}
+<0234> "...Oh? What a surprise.
+<0235> \ There are some very nostalgic photos here.
+<0236> \ This is a commemorative photo from my entrance ceremony.
+<0237> My eyes landed on a photograph placed on top of a pile of books.
+<0238> Rei picks it up and looks at it.
+<0239> The photo was taken on the day Rei entered high school.
+<0240> Rei, wearing a uniform that was a little too big for her,
+<0241> Standing next to Takami, who was wearing the same uniform as his senior,
+<0242> He was photographed standing in front of the dormitory with a straight face.
+<0243> A person from the mansion who accompanied me to the entrance ceremony,
+<0244> Since I had the chance, I forced the two of them to stand side by side and took a photo.
+<0245> The two of them stood side by side, looking much younger and more innocent than they are now.
+<0246> The photo somehow made me feel itchy.
+<0247> \{［伶］}
+<0248> "Why is this here...?"
+<0249> \{[Takami]}
+<0250> "...It's not mine.
+<0251> \ The portion I received is kept at Kujo's residence.
+<0252> \ This belongs to my father."
+<0253> \{［伶］}
+<0254> "That person's..."
+<0255> \{[Takami]}
+<0256> "...there are some later photos from when I was in boarding school."
+<0257> \{［伶］}
+<0258> "During boarding school, huh--"
+<0259> Ever since I started living in the Kujo family mansion,
+<0260> Rei and Takami were set to attend the same junior high school.
+<0261> The junior high school that Takami and Rei attended was a private coeducational school.
+<0262> Takami and I left the Kujo family mansion.
+<0263> I continued to commute to school from home, being picked up and dropped off by car.
+<0264> The year Rei graduated from junior high school,
+<0265> Long before I started seriously thinking about going to college,
+<0266> Takami's father and Rei's guardian,
+<0267> The head of the Kujo family, Kujo Takahisa, had decided Rei's future path.
+<0268> Rei has no freedom of choice.
+<0269> A person who was abandoned by his parents and taken in by the mansion,
+<0270> There is no way I can go against my guardian's wishes,
+<0271> Also, since there is no reason to dare to disobey, I silently obey.
+<0272> And so, as Takahisa ordered,
+<0273> A little earlier, at the private boarding school for boys that Takami attends,
+<0274> Rei was also pushed in late.
+<0275> Takami and Rei were enrolled in
+<0276> It is famous for being frequented by many sons of wealthy families.
+<0277> A comprehensive education system from junior high to high school was loudly proclaimed.
+<0278> A prestigious private boys' school with a promotion system.
+<0279> Both Takami and Rei were transfer students from high school,
+<0280> Takami Kujo, who had previously established himself as one of the top students on campus,
+<0281> Rei entered the school as a very close friend,
+<0282> From the beginning, Rei faced a lot of criticism.
+<0283> I left the Kujo family and entered a boarding school.
+<0284> Having finally escaped Takahisa's intimidating surveillance,
+<0285> Rei was able to enjoy her freedom to her heart's content.
+<0286> Rigid rules and penalties, the hassle of group life, etc.
+<0287> There were some troublesome things,
+<0288> Even so, I felt like I was being kept under Takahisa's control.
+<0289> It was much more freeing than life at the mansion.
+<0290> \{［伶］}
+<0291> "That was a very fun place for me.
+<0292> Now, when I think of memories related to that place,
+<0293> \ All I have left are happy memories.
+<0294> \{[Takami]}
+<0295> "Oh dear... How carefree.
+<0296> \ From students who are jealous of your talent,
+<0297> \ I've been harassed a few times."
+<0298> \{［伶］}
+<0299> "I guess that happened.
+<0300> \ Apparently I was a prominent student back then.
+<0301> \ I wasn't really aware of it, but..."
+<0302> \{[Takami]}
+<0303> "You look like that,
+<0304> \ That alone made me stand out from the crowd."
+<0305> \{[Takami]}
+<0306> "At first glance, I look like a foreigner with pale skin,
+<0307> \ I was often mistaken for an international student."
+<0308> \{[Takami]}
+<0309> "But, Rei, the reason you stood out from the others was because
+<0310> \ That's by no means the only reason.
+<0311> \ There were a lot of problems with your actions!
+<0312> \{[Takami]}
+<0313> "You sometimes do things that willingly incur other people's wrath,
+<0314> \ He did some stupid things,
+<0315> \ Can't you even remember that now?
+<0316> \{［伶］}
+<0317> "...?"
+<0318> \{[Takami]}
+<0319> "...You're being so cold,
+<0320> \ I once witnessed you reject a student who had a crush on you.
+<0321> \ That's what caused the argument with you."
+<0322> \{［伶］}
+<0323> "...I wonder if that happened."
+<0324> \{[Takami]}
+<0325> "At that time, the person who was clinging to you out of admiration,
+<0326> \ He cut me off in some pretty ruthless words.
+<0327> \ Even though it wasn't my own problem, it was painful to watch--"
+<0328> \{[Student]}
+<0329> "--I don't want you to pester me anymore,
+<0330> \ Why are you saying such cold things?
+<0331> Takami's words made me think of someone whose face I can no longer remember.
+<0332> Hysterical shrieks and
+<0333> The feeling of the fingers digging their nails into Rei's arm,
+<0334> It came back to me as a tiny fragment in the corner of my memory.
+<0335> \{［伶］}
+<0336> "Can you stop pretending to be a tragic heroine?
+<0337> \ We're both not serious, right?
+<0338> \{[Student]}
+<0339> "I'm not serious,
+<0340> \ How can you say such a thing!
+<0341> \{［伶］}
+<0342> "You can show it off to others and be proud of it.
+<0343> \ Maybe you just wanted a pretty doll?
+<0344> \--I know."
+<0345> \{[Student]}
+<0346> "Eh..."
+<0347> \{［伶］}
+<0348> "I'm beginning to get annoyed with your arrogance.
+<0349> \ Don't ever come near me again.
+<0350> \ ...Goodbye."
+<0351> \{[Student]}
+<0352> "Wait...!"
+<0353> Now that you mention it, that was certainly the case.
+<0354> But for Rei,
+<0355> After that, he changed partners and repeated the same thing many times.
+<0356> It's just one of those scenes of lamentation.
+<0357> \{[Takami]}
+<0358> "I told you back then,
+<0359> \ Isn't that a bit harsh?
+<0360> \{［伶］}
+<0361> "...Why do you care about that?
+<0362> \ No matter who I shake off or how I shake off them,
+<0363> \ This has nothing to do with you."
+<0364> \{[Takami]}
+<0365> "--!"
+<0366> \{［伶］}
+<0367> "To someone I don't even know, just because of my good looks,
+<0368> \ I'm amazed that you can get so excited,
+<0369> \ I was always impressed by the people who confessed to me."
+<0370> \{［伶］}
+<0371> "They don't really like me.
+<0372> \ Because I understand that very well,
+<0373> \ I have no intention of returning any decent feelings to them either."
+<0374> \{[Takami]}
+<0375> "But—you just didn't notice,
+<0376> \ Among those who were coldly rejected, were there any who were serious about them?
+<0377> \ It would be rude to lump everything together."
+<0378> \{[Takami]}
+<0379> "If you were rejected so coldly from the start,
+<0380> \ No one can get close to you."
+<0381> \{[Takami]}
+<0382> "In reaction to being brutally rejected,
+<0383> \ The number of people who hate you and want to hurt you has increased,
+<0384> \ Why don't you change your attitude a little!
+<0385> \{［伶］}
+<0386> "Takami..."
+<0387> I don't want to hear a sermon
+<0388> You're still the same caring person
+<0389> \{［伶］}
+<0390> "...You're still as nagging as ever.
+<0391> \ I don't want to hear a lecture. It's unpleasant, I'm going home.
+<0392> \{[Takami]}
+<0393> "Hey, Rei...!?"
+<0394> He stood up, clearly displeased, and ignored the voices calling out to him.
+<0395> I left Takami's room straight away.
+<0396> After returning to the mansion, Rei spent the time until night fell.
+<0397> I spent the time engrossed in breaking down the books in my room.
+<0398> \{［伶］}
+<0399> "You're still as caring as ever, Takami.
+<0400> \ When I heard it for the first time in a while,
+<0401> \ It feels somehow nostalgic, and your sermon is fresh."
+<0402> \{［伶］}
+<0403> "And you're so strict,
+<0404> \ You haven't changed a bit since you were the dorm leader."
+<0405> \{[Takami]}
+<0406> "It's not that I'm strict,
+<0407> \ You're so careless...!
+<0408> \{[Takami]}
+<0409> "One incident after another,
+<0410> \ Ever since you entered the school,
+<0411> \ My troubles only increased!
+<0412> \{［伶］}
+<0413> "Now that I think about it, whenever there's some kind of trouble involving me,
+<0414> \ You came running over with a pale face..."
+<0415> \{［伶］}
+<0416> "Even though you're the dorm leader, it must have been tough for you too.
+<0417> \ I will try my best to fulfill the duties I have assumed.
+<0418> \ I take my hat off to your sense of responsibility back then."
+<0419> \{[Takami]}
+<0420> "You've caused unnecessary trouble!
+<0421> \ Try to cooperate a little, or feel sorry and repent,
+<0422> \ Wouldn't it have been better to show a noble attitude?
+<0423> \{［伶］}
+<0424> "...any fuss, I thought,
+<0425> \ I didn't cause this."
+<0426> \{［伶］}
+<0427> "I want to spend my time quietly,
+<0428> \ They get all worked up and start messing around with each other.
+<0429> \{[Takami]}
+<0430> "...There are certainly aspects like that, but
+<0431> \ As I thought, there are too many problems with your attitude.
+<0432> \ Be a little more careful!
+<0433> \{［伶］}
+<0434> "I'll try to do that as much as I can."
+<0435> \{[Takami]}
+<0436> "...Since long ago, you have been in a relationship with people regardless of their gender.
+<0437> \ He was popular with both men and women.
+<0438> \ I'm sure that won't change even after you leave the mansion."
+<0439> \{［伶］}
+<0440> "Well, that's pretty much it.
+<0441> \ I don't know if it's a good thing or not,
+<0442> \ Even now, many people are attracted to my appearance.
+<0443> \{[Takami]}
+<0444> "...I'm going to make everyone hate me here and there,
+<0445> \ If you're still doing it, stop it now.
+<0446> \{[Takami]}
+<0447> "I don't think there's a dorm leader who can protect you like back then.
+<0448> \ Because you're not around..."
+<0449> \{［伶］}
+<0450> "...That's right. That's advice from the hard-working dorm director.
+<0451> \ I'll just accept this quietly."
+<0452> \{[Takami]}
+<0453> "...Please do so."
+<0454> \{［伶］}
+<0455> "Ah... sorry. I stayed a little too long.
+<0456> \ I somehow feel nostalgic for old stories,
+<0457> \ I just missed the opportunity to wrap it up.
+<0458> \{［伶］}
+<0459> "I hope I'm not interfering with your work."
+<0460> \{[Takami]}
+<0461> "No, I don't mind.
+<0462> Me too... it felt kind of nostalgic..."
+<0463> \{[Takami]}
+<0464> "...I thought I was too old to reminisce about the past,
+<0465> \ I look back and say, "It brings back memories."
+<0466> \ We've come a long way from those days--"
+<0467> \{［伶］}
+<0468> "That's true..."
+<0469> \{[Takami]}
+<0470> "......"
+<0471> \{［伶］}
+<0472> "......"
+<0473> \{［伶］}
+<0474> "It would be bad to stay any longer.
+<0475> \ I'll be heading home soon."
+<0476> \{[Takami]}
+<0477> "...Ah, that's right..."
+<0478> \{[Takami]}
+<0479> "Hey, Rei!"
+<0480> \{[Takami]}
+<0481> "Well, if you're bored at the mansion,
+<0482> \ You can come and talk here again..."
+<0483> \{［伶］}
+<0484> "!"
+<0485> \{［伶］}
+<0486> "Yeah, I'll think about it.
+<0487> \ ……Thank you.”
+<0488> \{[Takami]}
+<0489> "--! That's not something worth thanking me for!
+<0490> \ I said it on a whim!
+<0491> \{［伶］}
+<0492> "Okay, Headmaster. See you later."
+<0493> \{[Takami]}
+<0494> "Hey, hey, Rei--!"
+<0495> Before Takami could blush and scream in panic,
+<0496> Rei chuckled,
+<0497> I quickly left Takami's room.
+<0498> Continuing to walk along the gentle, green road,
+<0499> After about fifteen minutes,
+<0500> Rei had finally arrived in front of the annex she was aiming for.
+<0501> I rang the old-fashioned doorbell attached to the gate,
+<0502> Soon, a female servant's voice appears in response.
+<0503> \{［伶］}
+<0504> "Is Takami inside?"
+<0505> \{[Servant]}
+<0506> "Your master has gone out for a meeting with his coworkers.
+<0507> \ He will be coming home late.
+<0508> \{［伶］}
+<0509> "...I see."
+<0510> It was a worthwhile visit, but it ended in failure.
+<0511> I didn't feel like exploring the surrounding area.
+<0512> Rei decided to just go back to the mansion.
+<0513> Rei left the annex and returned straight to the mansion.
+<0514> For most of the time since noon,
+<0515> I spent the time engrossed in reading the books piled up in my room.
+<0516> \{［伶］}
+<0517> "That's right... I think I'll head back to my room for today."
+<0518> That day, Rei spent most of the time between lunch and dinner,
+<0519> I spent the time engrossed in reading books.
+<0520> While Rei was reading a book in her room,
+<0521> Marie came in to tell us that dinner was ready.
+<0522> \{[Mari]}
+<0523> "Rei-sama, excuse me.
+<0524> \ Dinner is ready in the dining room,
+<0525> Would you like to have dinner?
+<0526> \{［伶］}
+<0527> "Okay. I'll have dinner."
+<0528> I wondered when it had become that time.
+<0529> Feeling a little surprised,
+<0530> Rei puts the book she was reading face down on the desk and heads to the dining room.
+<0531> \{[Mari]}
+<0532> "Rei-sama, please take this seat!"
+<0533> \{［伶］}
+<0534> "Ahh..."
+<0535> \{[Mari]}
+<0536> "I heard that you get very tired after your regular checkup,
+<0537> \ Tonight, with Nozomi-san,
+<0538> \ I don't think we'll be able to have dinner together."
+<0539> \{［伶］}
+<0540> "I don't really mind that.
+<0541> \ Anyway, could you pour me some soup?
+<0542> \{[Mari]}
+<0543> "Yes, I'm back! The chef has put his all into cooking this dish.
+<0544> \ Please enjoy tonight to your heart's content."
+<0545> \{［伶］}
+<0546> "Which dish did you make?"
+<0547> \{[Mari]}
+<0548> "I made these meat pies and fish dishes,
+<0549> \ The same goes for salad dressing.
+<0550> \{［伶］}
+<0551> "Then please serve me the rest of the food."
+<0552> \{[Mari]}
+<0553> "Rei-sama..."
+<0554> \{［伶］}
+<0555> "I was just kidding. Put some meat pie on your plate."
+<0556> \{[Mari]}
+<0557> "Yes!"
+<0558> Thanks to Marie's enthusiastic recommendation,
+<0559> It's true that we can't get much out of it, but
+<0560> Even more so than when I was living alone,
+<0561> I was eating much more.
+<0562> I don't have much of a passion for food, so
+<0563> Although it is somewhat \ruby{frustrating}={annoying},
+<0564> With an insatiable curiosity, he searches for Rei's favorite seasonings and ingredients.
+<0565> I'm impressed by Marie's hard work.
+<0566> Thanks to this, Rei felt something she hadn't felt much before.
+<0567> I feel like I have discovered a part of the joy of food.
+<0568> \{［伶］}
+<0569> (...I will leave this mansion someday,
+<0570> \ If you continue to learn the joy of eating,
+<0571> \ I don't think that's a good idea though...)
+<0572> At that moment, a thought entered Rei's mind.
+<0573> Marie scolded Rei with a serious expression.
+<0574> The scene is resurrected.
+<0575> \{[Mari]}
+<0576> "I think Rei-sama should gain a bit more weight.
+<0577> \ If you're this thin, your resistance to disease will be weakened!
+<0578> \ Please, learn more about the joy of eating..."
+<0579> It is clear that he truly cares about Rei.
+<0580> Thinking back to that sincere gaze, a bitter smile escapes my face.
+<0581> \{［伶］}
+<0582> (Is that what it means to be a dedicated person?
+<0583> \ To my temporary master,
+<0584> \ I'm amazed that you can be so considerate...)
+<0585> Even though everyone was annoyed,
+<0586> Speaking words of genuine concern for the Master's physical condition and health is
+<0587> Is this within the scope of a full-time maid's duties?
+<0588> I can't judge whether Marie is particularly good as a maid,
+<0589> For the work given,
+<0590> Rei can tell that Marie is always serious.
+<0591> \{［伶］}
+<0592> (Either way, he was being considerate of my health.
+<0593> \ It's not so bad...
+<0594> \{［伶］}
+<0595> (Well, never mind--)
+<0596> I wondered if there was anything that would change my mood.
+<0597> Rei looked around the room.
+<0598> There are almost no personal belongings that Rei brought into the mansion,
+<0599> What's in this room?
+<0600> It's like a collection of books packed into the shelves of a bookshelf.
+<0601> At that moment, Rei suddenly mentioned that she liked reading, and Nozomi replied,
+<0602> From the books lined up on these shelves,
+<0603> I remembered that I had been planning to choose a book to take with me.
+<0604> Finding a book for Nozomi
+<0605> I wouldn't do that
+<0606> Rei has always avoided contact with people,
+<0607> Now, for someone's joy,
+<0608> I never thought the day would come when I would think about doing something on my own.
+<0609> I never expected that.
+<0610> But that's not so bad.
+<0611> What kind of book should I choose for Nozomi?
+<0612> Rei looks at the spines of the books lined up on the shelf and thinks deeply.
+<0613> Research books and literature that are too specialized,
+<0614> There are many difficult sentences in which technical terms are quoted without explanation.
+<0615> For those who are not interested in that field,
+<0616> Not only is it unenjoyable, it's even difficult to decipher.
+<0617> When I think about books with easy content that anyone can understand,
+<0618> The books on this shelf are quite limited.
+<0619> I glanced over the shelves,
+<0620> Those two books were the first things that caught my eye.
+<0621> "Dictionary of Angels of the World"
+<0622> "Angelic Traditions of the World with Illustrated Explanations"
+<0623> \{［伶］}
+<0624> "...Shall I go with this?"
+<0625> After thinking about it for a while,
+<0626> A book entitled "Dictionary of Angels of the World"
+<0627> Rei took it from the bookshelf.
+<0628> \{［伶］}
+<0629> (Oh, it was a book full of text.
+<0630> \ Now then... is this really okay?
+<0631> I placed the book I had chosen on the desk,
+<0632> I change my clothes and get into bed.
+<0633> Soon a deep, dreamless sleep will come,
+<0634> He lured Rei into the darkness.
+<0635> \{［伶］}
+<0636> "...Shall I go with this?"
+<0637> After thinking about it for a while,
+<0638> A book titled "Illustrated and Commentary on Angelic Traditions of the World"
+<0639> Rei took it from the bookshelf.
+<0640> \{［伶］}
+<0641> (This book has lots of beautiful pictures,
+<0642> Nozomi seems happy...)
+<0643> I placed the book I had chosen on the desk,
+<0644> I change my clothes and get into bed.
+<0645> Soon a deep, dreamless sleep will come,
+<0646> He lured Rei into the darkness.
+<0647> Until now, Rei has lived her life avoiding contact with people.
+<0648> Now, for someone else's joy,
+<0649> The idea of taking the initiative to do something is
+<0650> I felt terribly foolish.
+<0651> \{［伶］}
+<0652> "...that's ridiculous."
+<0653> Originally, it was just a whimsical idea.
+<0654> It wasn't a verbal promise, and there's no obligation to do so.
+<0655> Rei convinced herself like that,
+<0656> I looked away from the bookshelf, trying to forget about it.
+<0657> I changed my clothes and got into bed,
+<0658> Soon a deep, dreamless sleep will come,
+<0659> He lured Rei into the darkness.
+<0660> I thought about reading a book,
+<0661> For some reason, I just can't find the energy to read tonight.
+<0662> Rei looked away from the bookshelf,
+<0663> I quickly changed my clothes and got into bed.
+<0664> Soon a deep, dreamless sleep will come,
+<0665> He lured Rei into the darkness.

@@ -1,0 +1,1032 @@
+// Resources for SEEN0104.TXT
+
+#character '［Marie］'
+#character '[Rei]'
+#character '［desire］'
+#character '［Takami］'
+
+<0000> May 2nd
+<0001> \{[Mari]}
+<0002> "Good morning, Rei-sama.
+<0003> \Look, take a look!
+<0004> \ The sky is clear this morning and the weather is very nice.
+<0005> \{[Mari]}
+<0006> "If you hang out your futon under a blue sky like this,
+<0007> \ It really feels nice and fluffy!
+<0008> \ I'll bring Lady Rei's futon as well."
+<0009> \{[Mari]}
+<0010> "...Oh? Rei-sama,
+<0011> \ Perhaps you haven't woken up yet?
+<0012> \{[Mari]}
+<0013> "Oh! Did you go to bed late last night?
+<0014> \ In that case, would you like to stay here until lunchtime?
+<0015> \{［伶］}
+<0016> "...No, it's okay. It's okay, I'll wake up soon.
+<0017> \ Good morning, Marie
+<0018> \{[Mari]}
+<0019> "I... I did it again..."
+<0020> \{［伶］}
+<0021> "...?"
+<0022> Suddenly I lost my energy,
+<0023> Seeing Marie's shoulders slumping,
+<0024> Rei becomes suspicious.
+<0025> Asking what's wrong
+<0026> Ignore
+<0027> \{［伶］}
+<0028> "Mari? Why do you look so dejected?
+<0029> \ ...Ah, perhaps,
+<0030> Are you upset about waking me up?
+<0031> \{[Mari]}
+<0032> "Y-yes..."
+<0033> \{［伶］}
+<0034> "Then there's nothing to worry about.
+<0035> \ The reason I have trouble waking up in the morning is not because I didn't get enough sleep.
+<0036> \ It's the price I pay for living alone and leading an irregular life."
+<0037> \{［伶］}
+<0038> "While you're here,
+<0039> \ It's not a bad idea to develop healthy habits.
+<0040> \ I would appreciate it if you could wake me up.
+<0041> \{［伶］}
+<0042> "So, I'll be counting on you tomorrow morning, Marie."
+<0043> \{[Mari]}
+<0044> "Y-yes!"
+<0045> \{［伶］}
+<0046> "By the way, the fact that you came to wake me up means
+<0047> \ Breakfast is already ready."
+<0048> \{[Mari]}
+<0049> "Ah, yes. We have a seat ready for you.
+<0050> \ When you're ready,
+<0051> \ Please come to the dining hall. We'll be waiting for you.
+<0052> \{［伶］}
+<0053> "Okay. I'll head over as soon as I've changed."
+<0054> \{[Mari]}
+<0055> "Yes!"
+<0056> \{［伶］}
+<0057> "By the way, the fact that you came to wake me up means that
+<0058> \ Breakfast is already ready."
+<0059> \{[Mari]}
+<0060> "Ah, yes. We have a seat ready for you.
+<0061> \ When you're ready,
+<0062> \ Please come to the dining room. We'll be waiting for you.
+<0063> \{［伶］}
+<0064> "Okay. I'll head over as soon as I've finished changing."
+<0065> \{[Mari]}
+<0066> "Yes!"
+<0067> After finishing breakfast, Rei takes a break with a teacup in hand.
+<0068> Marie asked respectfully.
+<0069> \{[Mari]}
+<0070> "Rei-sama, what are your plans for today?"
+<0071> Go to Nozomi's room
+<0072> Exit the mansion
+<0073> Return to room
+<0074> \{［伶］}
+<0075> "That's right... I'll meet Nozomi.
+<0076> Is Nozomi in the room?
+<0077> \{[Mari]}
+<0078> "Yes! Nozomi-san just finished her meal,
+<0079> \ You should be resting in your room."
+<0080> \{[Mari]}
+<0081> "To Nozomi's room,
+<0082> \ Shall I bring some tea and snacks...?
+<0083> \{［伶］}
+<0084> "No, I don't need it. I want to talk alone for a while.
+<0085> \ Please send everyone away until I call.
+<0086> \{[Mari]}
+<0087> "Understood.
+<0088> \ Then please call me anytime if you need anything.
+<0089> Leaving Marie there, who bowed politely,
+<0090> Rei left the dining room.
+<0091> After leaving the dining room, Rei heads straight to Nozomi's room.
+<0092> Soon we arrived at the door of the room,
+<0093> Rei knocks lightly a few times before calling out.
+<0094> \{［伶］}
+<0095> "Nozomi, it's me. I'm coming in."
+<0096> \ruby{Response}={ I didn't expect a response,
+<0097> Rei opened the door without waiting for a reply.
+<0098> \{［伶］}
+<0099> “--Nozomi?”
+<0100> I glanced around the room, wondering where he was,
+<0101> Nozomi was standing next to a window where sunlight was streaming in.
+<0102> Without noticing the knock,
+<0103> He appears to be looking intently at something.
+<0104> \{［伶］}
+<0105> (... What are you staring at so intently, Nozomi?)
+<0106> Curious, Rei approaches Nozomi from behind, standing by the window.
+<0107> Looking down from the second-floor window, Nozomi saw
+<0108> Carefully trimmed by the gardener, it spreads out in a graceful form.
+<0109> He seems to be intently looking at the bushes in the shrubbery.
+<0110> Then, right before my eyes, the bush...
+<0111> There was a rustle.
+<0112> --It seems there's something there.
+<0113> For a moment, I saw something that looked like a brown tail,
+<0114> It quickly disappeared from sight.
+<0115> \{［伶］}
+<0116> (...An animal? Did it sneak onto the mansion grounds?)
+<0117> Soon the bush, whose branches had been swaying gently,
+<0118> It stopped working.
+<0119> I looked at Nozomi, who was watching over me, and saw that
+<0120> Nozomi has her eyes closed and seems to be listening intently to something.
+<0121> \{［Hope］}
+<0122> "......"
+<0123> \{［伶］}
+<0124> "......"
+<0125> \{［Hope］}
+<0126> "......"
+<0127> \{［伶］}
+<0128> “……Nozomi?”
+<0129> \{［Hope］}
+<0130> "......Hya!?"
+<0131> \{［伶］}
+<0132> "......"
+<0133> \{［Hope］}
+<0134> "Oh, I'm... sorry...!
+<0135> I didn't notice your footsteps...!"
+<0136> \{［伶］}
+<0137> "No... I don't really mind.
+<0138> \ What were you looking at so intently?
+<0139> \{［Hope］}
+<0140> "...Ah..."
+<0141> \{［伶］}
+<0142> "......"
+<0143> \{［Hope］}
+<0144> "......"
+<0145> \{［伶］}
+<0146> "...If you don't want to say it, that's fine,
+<0147> \ Then, from now on,
+<0148> \ Just be careful not to get caught by me."
+<0149> \{［Hope］}
+<0150> "......"
+<0151> \{［伶］}
+<0152> "Well, I came here today because I wanted to talk to you,
+<0153> \Is that okay?
+<0154> \{［Hope］}
+<0155> "...Yes."
+<0156> \{［伶］}
+<0157> "Oh, there's no need to be so nervous.
+<0158> \ It's not a big deal."
+<0159> \{［Hope］}
+<0160> "...Yes..."
+<0161> \{［伶］}
+<0162> "--That's right, before I lived in this mansion,
+<0163> \ I want to hear your story."
+<0164> \{［伶］}
+<0165> "It's okay to talk about it as long as you feel comfortable doing so.
+<0166> \ I want you to tell me about yourself."
+<0167> \{［Hope］}
+<0168> "...Yes."
+<0169> \{［伶］}
+<0170> "So, when did you first come to the Kujo family?
+<0171> \ This may seem like a cruel question, but
+<0172> \ Did your parents sell you to the Kujo family?
+<0173> \{［Hope］}
+<0174> "......"
+<0175> \{［Hope］}
+<0176> "...I don't know."
+<0177> \{［伶］}
+<0178> "I don't know—that is,
+<0179> \ So you don't know when you were adopted?
+<0180> \ Or do you know who sold you out?
+<0181> \{［Hope］}
+<0182> "...Both."
+<0183> \{［伶］}
+<0184> "In other words, by the time you were old enough to understand,
+<0185> \ So you were under the care of the Kujo family.
+<0186> \{［Hope］}
+<0187> "Yes..."
+<0188> \{［伶］}
+<0189> "Maybe you don't even know what your parents look like?"
+<0190> \{［Hope］}
+<0191> "...I don't know."
+<0192> \{［伶］}
+<0193> "Right. Since Takami won't talk,
+<0194> \ From where you were born and raised, to finding out your background,
+<0195> \ It seems a lot harder than I thought.
+<0196> \{［Hope］}
+<0197> "......"
+<0198> \{［伶］}
+<0199> "You said you've been staying at this mansion for six months.
+<0200> \ Yeah... I have nowhere to go."
+<0201> \{［伶］}
+<0202> "What made you think there was nowhere to go?"
+<0203> \{［Hope］}
+<0204> "......"
+<0205> \{［伶］}
+<0206> "You started living in this mansion when
+<0207> \ When was that?
+<0208> \{［Hope］}
+<0209> "...about six months ago..."
+<0210> \{［伶］}
+<0211> "Have you ever thought about running away?"
+<0212> \{［Hope］}
+<0213> "...Ah..."
+<0214> \{［伶］}
+<0215> "Don't be afraid, I don't blame you.
+<0216> \ I have no intention of reporting this to Takami.
+<0217> \ I just wanted to ask, so please answer.
+<0218> \{［伶］}
+<0219> "Have you ever thought about leaving?"
+<0220> \{［desire］}
+<0221> "...No."
+<0222> \{［伶］}
+<0223> "Never?"
+<0224> \{［Hope］}
+<0225> "I have nowhere to go."
+<0226> \{［伶］}
+<0227> "Nowhere to go...?
+<0228> \ Why do you think that way?
+<0229> \{［Hope］}
+<0230> "......"
+<0231> \{［伶］}
+<0232> "Would you like to tell me, Nozomi?"
+<0233> \{［Hope］}
+<0234> "......"
+<0235> \{［desire］}
+<0236> "We lived together forever - my uncle and aunt,
+<0237> \ I can never go back to that forest..."
+<0238> \{［Hope］}
+<0239> "And so you left me in this mansion..."
+<0240> \{［desire］}
+<0241> "...I..."
+<0242> \{［伶］}
+<0243> "...So to summarise what you said,
+<0244> \ Is that what you mean?
+<0245> \{［伶］}
+<0246> "You have been raised by adoptive parents until now.
+<0247> \ Six months ago, he was sent to this mansion by his adoptive parents.
+<0248> \ --Is that correct?
+<0249> \{［Hope］}
+<0250> "...Yes."
+<0251> \{［伶］}
+<0252> "Are these adoptive parents your blood relatives?"
+<0253> \{［Hope］}
+<0254> "...I heard they're not related by blood."
+<0255> \{［伶］}
+<0256> "So that means your adoptive parents,
+<0257> \ The Kujo family prepared
+<0258> \ So originally he was a stranger with no connection to you...?
+<0259> \{［Hope］}
+<0260> "...Yes."
+<0261> \{［伶］}
+<0262> "...That's quite deep-rooted.
+<0263> \ He was adopted at a young age, so young he could no longer remember his parents' faces.
+<0264> \ He even arranged for adoptive parents to raise him..."
+<0265> \{［伶］}
+<0266> "--That's right, so you are,
+<0267> \ I was taught by my adoptive parents that I was a commodity,
+<0268> \ You've grown up like that."
+<0269> \{［Hope］}
+<0270> "I found out about it six months ago.
+<0271> \ For the first time, I realized that I was a "product" of the Kujo family..."
+<0272> \{［伶］}
+<0273> "...! So that means-- you really are,
+<0274> \ Until I was brought to the mansion,
+<0275> \ Did you grow up not knowing that you were a commodity?
+<0276> \{［desire］}
+<0277> "...Yes."
+<0278> \{［伶］}
+<0279> "If that's true,
+<0280> \ It seems you were truly given "special" treatment."
+<0281> \{［Hope］}
+<0282> "......"
+<0283> \{［伶］}
+<0284> (Special――?)
+<0285> \{［伶］}
+<0286> (That person—Takami's father, Kujo Takahisa—to this <Angel>,
+<0287> \ What on earth was he looking for?)
+<0288> \{［伶］}
+<0289> (Takami spoke of Nozomi as a "goods" left by his father,
+<0290> \ Was that really the case――?
+<0291> \{［伶］}
+<0292> (Without letting you know that you are a commodity,
+<0293> \ Without allowing them to receive the education necessary for the product,
+<0294> \ (Until this age)
+<0295> \{［伶］}
+<0296> (That person was seriously planning to turn Nozomi into a product,
+<0297> \ I wonder if he was raising it.
+<0298> \ I don't think so at all--)
+<0299> \{［伶］}
+<0300> (Or perhaps, to raise Nozomi in a completely innocent manner,
+<0301> \ Was there some special meaning?
+<0302> \{［伶］}
+<0303> (The reason why I raised him in such a special way was
+<0304> Because Nozomi was a child of Angelic blood?
+<0305> \{［desire］}
+<0306> "......"
+<0307> \{［伶］}
+<0308> "...It seems like we can't go any further.
+<0309> \ Are you tired?
+<0310> \{［desire］}
+<0311> "...Yes, a little..."
+<0312> \{［伶］}
+<0313> (I'm in trouble. This is all you've told me,
+<0314> \ I don't feel like I know anything about Nozomi.)
+<0315> \{［伶］}
+<0316> (I'd like to explore a bit more,
+<0317> \ It's hard to even ask questions when you're this nervous...
+<0318> I was wondering if there was anything I could use to start a conversation.
+<0319> Thoughtfully, Rei looks around the room, observing the surroundings.
+<0320> \{［伶］}
+<0321> (――? That is……)
+<0322> Rei shifted her gaze from Nozomi, who was shrinking, to the bed,
+<0323> I notice an unnatural disturbance in the position of the pillow and scrutinize it.
+<0324> And just as a bird hides the treasure it brings home in its nest,
+<0325> I found evidence that Nozomi had tried to hide something under her pillow.
+<0326> If you tried to hide it, that was a very bad idea.
+<0327> Perhaps because I pushed it in too quickly,
+<0328> The hidden item is sticking out from under the pillow, making it useless as a concealment.
+<0329> Beneath the tilted, awkwardly bulging pillow,
+<0330> I saw a book hidden there.
+<0331> The familiar cover made Rei think of the book.
+<0332> \{［伶］}
+<0333> (That's the book Nozomi was reading yesterday.
+<0334> \ Yes - the book that Nozomi tried to protect even at the risk of his own life.
+<0335> \{［伶］}
+<0336> (Even when Nozomi is asleep,
+<0337> \ He held that book so dearly and protected it.
+<0338> \ It seems like it's something you have a lot of feelings for...)
+<0339> \{［伶］}
+<0340> (Does this child like books?
+<0341> Or was that book just special?
+<0342> If you pay close attention and look around again,
+<0343> Signs that Nozomi likes books:
+<0344> You can find them all over this room.
+<0345> It seems certain that the book is special to Nozomi,
+<0346> Nozomi, who rarely expresses his own opinions,
+<0347> Those who are particularly interested in "reading books" are:
+<0348> It seemed certain.
+<0349> \{［伶］}
+<0350> "You like books, don't you?"
+<0351> \{［Hope］}
+<0352> "Huh? Ah, well... yes."
+<0353> I like books too
+<0354> I don't really like books.
+<0355> \{［伶］}
+<0356> "I like books too.
+<0357> \ The values we hold are not everything.
+<0358> \ The book will tell you."
+<0359> \{［Hope］}
+<0360> "......"
+<0361> \{［伶］}
+<0362> "What about this book? When I saw it yesterday,
+<0363> \ I don't think it's been placed in the room yet..."
+<0364> Pointing to several books piled up next to the bed,
+<0365> Rei asked Nozomi.
+<0366> \{［desire］}
+<0367> "That was... Marie-san lent it to me..."
+<0368> \{［伶］}
+<0369> "Mari? So this is Mari's hobby?
+<0370> \ I see... I understand."
+<0371> \{［Hope］}
+<0372> "...?"
+<0373> \{［伶］}
+<0374> "There's nothing strange about loving fairy tales and picture books,
+<0375> \ Many of the themes are somewhat girl-oriented.
+<0376> \ I thought it was unusual for a boy, so I was a little surprised.
+<0377> \{［伶］}
+<0378> "Well, people have all kinds of tastes and preferences,
+<0379> \ It's hard to generalize, though.
+<0380> \{［desire］}
+<0381> "...Um, I've got a book with beautiful pictures in it,
+<0382> \ Because I said I like watching it...
+<0383> \ Marie-san picked it out and brought it to me."
+<0384> \{［伶］}
+<0385> "I see. So it's a picture book."
+<0386> \{［伶］}
+<0387> "Now that I think about it, I can't find it in this room.
+<0388> \ From where I lived before,
+<0389> \ Are there any books you brought into the library?
+<0390> \{［Hope］}
+<0391> "I was told that I could keep just one copy.
+<0392> \ But other than that..."
+<0393> \{［Hope］}
+<0394> "I don't need it anymore, so leave it behind...
+<0395> \ It's getting in the way..."
+<0396> \{［伶］}
+<0397> "Oh dear... For someone who doesn't enjoy reading,
+<0398> \ That's what I would say."
+<0399> \{［伶］}
+<0400> “…Nozomi?”
+<0401> \{［desire］}
+<0402> "...They've probably all been disposed of by now..."
+<0403> \{［伶］}
+<0404> "--Sorry, that was a bad question.
+<0405> \ I didn't mean to make you cry, but..."
+<0406> Feeling a bit confused, Rei comforted the crying Nozomi's back,
+<0407> I waited for my excited feelings to calm down.
+<0408> I mourn the loss of my books,
+<0409> Watching over Nozomi's crying face, Rei said,
+<0410> I think of my own room, which is filled with books, unlike this one.
+<0411> \{［伶］}
+<0412> (Ahh - that's right,
+<0413> \ Next time, from the collection of books in my room,
+<0414> \ I'll pick out a book and bring it to Nozomi.)
+<0415> \{［伶］}
+<0416> (This child might be happy...)
+<0417> I glanced out the window and saw the sun rising high in the sky.
+<0418> Before I knew it, the time had passed.
+<0419> Lunchtime was fast approaching.
+<0420> Rei decides it's time to pull out.
+<0421> I decided not to continue the conversation with Nozomi any further.
+<0422> \{［伶］}
+<0423> "Thank you for sharing your story.
+<0424> \ Well, I'll be heading back to my room soon.
+<0425> \ --See you soon, Nozomi.
+<0426> \{［desire］}
+<0427> "...Yes."
+<0428> \{［伶］}
+<0429> "I tend to read a lot of books,
+<0430> \ To tell you the truth, I don't really like books."
+<0431> \{［伶］}
+<0432> "With or without books,
+<0433> \ The daily boredom remains the same..."
+<0434> \{［Hope］}
+<0435> "......"
+<0436> I glanced out the window and saw the sun rising high in the sky.
+<0437> Before I knew it, the time had passed.
+<0438> Lunchtime was fast approaching.
+<0439> Rei decided it was time to withdraw.
+<0440> I decided not to continue the conversation with Nozomi any further.
+<0441> \{［伶］}
+<0442> "Thank you for sharing your story.
+<0443> \ Well, I'll be heading back to my room soon.
+<0444> \ --See you soon, Nozomi.
+<0445> \{［Hope］}
+<0446> "...Yes."
+<0447> \{［伶］}
+<0448> "Hey, Nozomi. I came here to have a chat with you."
+<0449> \{［Hope］}
+<0450> "......"
+<0451> \{［伶］}
+<0452> "Ah, there's no need to be so cautious.
+<0453> \ For now, I have
+<0454> \ Because you have no intention of doing anything.
+<0455> \{［desire］}
+<0456> "...Yes..."
+<0457> \{［伶］}
+<0458> "As your master, I came to the mansion.
+<0459> \ I know because Takami told me about it.
+<0460> \{［Hope］}
+<0461> "...Yes."
+<0462> \{［伶］}
+<0463> "To what extent do you expect me to follow your master's orders?
+<0464> \ Was it handed down to Takami?"
+<0465> \{［desire］}
+<0466> "......"
+<0467> \{［desire］}
+<0468> "...Anything."
+<0469> \{［伶］}
+<0470> "Anything...?"
+<0471> \{［desire］}
+<0472> "...Yes. I was commanded to
+<0473> \ To obey everything..."
+<0474> \{［伶］}
+<0475> "Anything—right? So, you responded to Takami's words,
+<0476> \ Are you going to just keep quiet and obey?
+<0477> \{［Hope］}
+<0478> "......"
+<0479> \{［伶］}
+<0480> "An order from my master,
+<0481> \ "Offer your body and serve me,"
+<0482> \ Are you going to just keep quiet and obey?"
+<0483> \{［Hope］}
+<0484> "...!"
+<0485> \{［Hope］}
+<0486> "......"
+<0487> \{［伶］}
+<0488> "I don't want to, but I have no choice but to obey---
+<0489> \ That's what you're trying to say."
+<0490> \{［desire］}
+<0491> "......"
+<0492> \{［伶］}
+<0493> "If you have followed me thus far,
+<0494> \ You seem innocent, but you'll sleep with anyone if I tell you to.
+<0495> \ You've gotten used to it."
+<0496> \{［desire］}
+<0497> "Sleep...?"
+<0498> \{［伶］}
+<0499> "...Please don't pretend not to know anything now.
+<0500> \ I mean sexual intercourse."
+<0501> \{［Hope］}
+<0502> "--! No way!
+<0503> I'm not used to it at all...!"
+<0504> \{［伶］}
+<0505> "Not used to it -- that's strange."
+<0506> \{［伶］}
+<0507> "The products offered by the Kujo family are,
+<0508> \ Upper class customers who are tired of ordinary "play"
+<0509> \ I hear it will be prepared to satisfy you.
+<0510> \{［伶］}
+<0511> "If you have been treated as a commodity up until now,
+<0512> \ Even if you don't like it or refuse it,
+<0513> \ They should have received the necessary education..."
+<0514> \{［Hope］}
+<0515> "I... don't know...!"
+<0516> \{［伶］}
+<0517> "--I don't think so,
+<0518> \ You have never had a relationship with someone before,
+<0519> \ Do you think it's a clean body?
+<0520> \{［desire］}
+<0521> "...That's right."
+<0522> \{［伶］}
+<0523> "...I'm surprised. You really are 'special'.
+<0524> \ The product to please the customer is
+<0525> \ And so they don't receive the necessary discipline and education."
+<0526> \ \{［伶］}
+<0527> "When Takami said, 'You're still a child who doesn't know anything,'
+<0528> \ I never thought you meant it literally..."
+<0529> \{［Hope］}
+<0530> "......"
+<0531> \{［伶］}
+<0532> "--Nozomi. I was told about you by Takami.
+<0533> \ I haven't been given any details."
+<0534> \{［伶］}
+<0535> "Your background, your upbringing,
+<0536> \ Your family, past, career, profile,
+<0537> \ Physical data..."
+<0538> \{［伶］}
+<0539> "Of course, all the details
+<0540> \ What is necessary to know you,
+<0541> \ We haven't even been given basic information."
+<0542> \{［伶］}
+<0543> "So, from now on I'll get to know you.
+<0544> \ Living in this mansion,
+<0545> \ By going out with you..."
+<0546> \{［desire］}
+<0547> "......!"
+<0548> \{［伶］}
+<0549> "No matter what my relationship with you will be,
+<0550> \ Your cooperation is essential for me to get to know you.
+<0551> \ ...I'll ask for your cooperation, Nozomi.
+<0552> \{［desire］}
+<0553> "......"
+<0554> \{［desire］}
+<0555> "...Yes."
+<0556> \{［伶］}
+<0557> "So, to move our relationship forward,
+<0558> \ Let's start with the basics.
+<0559> \{［伶］}
+<0560> "First off... let's have you take off your clothes."
+<0561> \{［desire］}
+<0562> "...Eh...!"
+<0563> \{［伶］}
+<0564> "Takami said about your body,
+<0565> \ In appearance, there is nothing different from an ordinary person,
+<0566> \ That's what he explained to me."
+<0567> \{［伶］}
+<0568> "But just how far?
+<0569> \ Is there any difference in the structure of your body from that of a human?
+<0570> \ I want to see it with my own eyes."
+<0571> \{［伶］}
+<0572> "You are truly a species different from humans,
+<0573> \ If you are a being of a different bloodline called an "Angel,"
+<0574> \ Shouldn't there be some difference?
+<0575> \{［伶］}
+<0576> "So, could you please show me?
+<0577> \ I want to see you in your natural state, without any clothes on."
+<0578> \{［Hope］}
+<0579> "...!"
+<0580> \{［desire］}
+<0581> "...Is that...an order?"
+<0582> \{［伶］}
+<0583> "First, I want to hear your true feelings."
+<0584> \{［Hope］}
+<0585> "......"
+<0586> \{［desire］}
+<0587> "...I don't want to.
+<0588> \ I don't want to do that...!"
+<0589> \{［伶］}
+<0590> "Right--"
+<0591> Order to undress
+<0592> You don't have to follow me if you don't want to.
+<0593> \{［伶］}
+<0594> "But, it's precisely because you're like that,
+<0595> \ Forcing me to obey you even though you know you don't want to
+<0596> \ Looks like a lot of fun."
+<0597> \{［伶］}
+<0598> "I order you... Take off your clothes, Nozomi."
+<0599> \{［Hope］}
+<0600> "...!"
+<0601> \{［伶］}
+<0602> "Didn't you hear?"
+<0603> \{［伶］}
+<0604> "Take off your clothes."
+<0605> \{［desire］}
+<0606> "......"
+<0607> The boy stood there, confused and at a loss,
+<0608> I gave him a rather strong command, and he seemed frightened,
+<0609> Nozomi clenched her fingers tightly and shrugged her small shoulders.
+<0610> \{［伶］}
+<0611> "Now -- Nozomi"
+<0612> \{［desire］}
+<0613> "...Ah..."
+<0614> I gave her a strong command once more, and her cheeks flushed with shame.
+<0615> Nozomi timidly put his hands to the buttons on his shirt.
+<0616> I awkwardly unbuttoned my shirt with trembling fingers, nervous and embarrassed.
+<0617> There was a faint rustling of clothes,
+<0618> Nozomi hesitantly opens the front of her shirt.
+<0619> \{［desire］}
+<0620> "......"
+<0621> In addition to shirts made of thin, smooth fabric,
+<0622> This body is not allowed to wear anything,
+<0623> Just by gently opening the front, everything was revealed.
+<0624> It was exposed under Rei's gaze.
+<0625> \{［desire］}
+<0626> "...Ugh...Ugh"
+<0627> \{［伶］}
+<0628> "...Look up, Nozomi.
+<0629> \ Don't look away.
+<0630> Unable to bear the embarrassment, Nozomi tries to hide her face.
+<0631> Rei coldly states.
+<0632> \{［伶］}
+<0633> "Don't cover your front either. Put your hands down."
+<0634> In an attempt to at least shield her defenseless lower body from view,
+<0635> Nozomi's hands are covering her front,
+<0636> Rei ruthlessly orders them to leave.
+<0637> \{［Hope］}
+<0638> "Ah...!"
+<0639> Nozomi's eyes welled up with tears at Rei's cruel command.
+<0640> I move my trembling palms.
+<0641> Under the gaze of the observer, Rei's childish face, enduring the shame,
+<0642> A delicate neck with a collar on it,
+<0643> I gazed at the peaks adorning her supple bare chest,
+<0644> He slowly licks, his gaze continuing downwards.
+<0645> \{［desire］}
+<0646> "......"
+<0647> To check if they have any characteristics different from humans,
+<0648> I touched her bare, smooth back,
+<0649> Nozomi's body shook with a start.
+<0650> The texture of the skin, the position and shape of the bones, etc.
+<0651> Is there anything that seems strange?
+<0652> To make sure of this,
+<0653> Rei repeatedly changes the speed and touches Nozomi's skin persistently.
+<0654> Every time he touches her, Nozomi's body reacts with a flinch and trembles.
+<0655> Feeling the comfortable sensation of her sensitive reaction,
+<0656> Rei runs her fingers over the smooth skin that feels great to the touch.
+<0657> \{［伶］}
+<0658> (As expected, nothing in particular has changed...)
+<0659> After doing this for a while, I finally gave up and let go,
+<0660> Nozomi seemed completely exhausted from the long period of tension.
+<0661> I breathed a sigh of relief.
+<0662> \{［伶］}
+<0663> "Yeah... I don't mind putting clothes on now."
+<0664> \{［desire］}
+<0665> "...Yes..."
+<0666> I glanced out the window and saw the sun rising high in the sky.
+<0667> Before I knew it, the time had passed.
+<0668> Lunchtime was fast approaching.
+<0669> Rei decides it's time to pull out.
+<0670> I decided not to continue the conversation with Nozomi any further.
+<0671> \{［伶］}
+<0672> "I'll be heading back to my room soon. See you later, Nozomi."
+<0673> \{［desire］}
+<0674> "......"
+<0675> I guess I've run out of energy to reply.
+<0676> Nozomi just hung her head dejectedly,
+<0677> He remained blankly silent even after hearing Rei's words.
+<0678> \{［伶］}
+<0679> "I understand. If you really don't want to,
+<0680> \ You don't have to follow this order."
+<0681> \{［desire］}
+<0682> "Eh..."
+<0683> \{［伶］}
+<0684> "...I wish you wouldn't look so surprised.
+<0685> \ Were you so surprised that I didn't force you?
+<0686> \{［desire］}
+<0687> "Um... is it okay...?"
+<0688> \{［伶］}
+<0689> "I'm not going to force you into this.
+<0690> \ Instead - yes,
+<0691> \ I want to hear about your life before you lived in this mansion."
+<0692> \{［伶］}
+<0693> "It's okay to talk about it as long as you feel comfortable doing so.
+<0694> \ Tell me about yourself.
+<0695> \ ...Is that okay then?
+<0696> \{［desire］}
+<0697> "...Yes..."
+<0698> \{［伶］}
+<0699> "So, when were you taken in by the Kujo family?
+<0700> \ This may seem like a cruel question, but
+<0701> \ Did your parents sell you to the Kujo family?"
+<0702> \{［Hope］}
+<0703> "......"
+<0704> \{［Hope］}
+<0705> "...I don't know."
+<0706> \{［伶］}
+<0707> "I don't know—that is,
+<0708> \ So you don't know when you were adopted?
+<0709> \ Or do you know who sold you out?
+<0710> \{［Hope］}
+<0711> "...Both."
+<0712> \{［伶］}
+<0713> "In other words, by the time you were old enough to understand,
+<0714> \ So you were under the care of the Kujo family.
+<0715> \{［Hope］}
+<0716> "Yes..."
+<0717> \{［伶］}
+<0718> "Maybe you don't even know what your parents look like?"
+<0719> \{［Hope］}
+<0720> "...I don't know."
+<0721> \{［伶］}
+<0722> "Right. Since Takami won't talk,
+<0723> \ From where you were born and raised, to finding out your background,
+<0724> \ It seems a lot harder than I thought.
+<0725> \{［Hope］}
+<0726> "......"
+<0727> \{［伶］}
+<0728> "You said you've been staying at this mansion for six months.
+<0729> \ Yeah... I have nowhere to go."
+<0730> \{［伶］}
+<0731> "What makes you think there's nowhere to go?"
+<0732> \{［Hope］}
+<0733> "......"
+<0734> \{［伶］}
+<0735> "You started living in this mansion when
+<0736> \ When was that?
+<0737> \{［Hope］}
+<0738> "...about six months ago..."
+<0739> \{［伶］}
+<0740> "Have you ever thought about running away?"
+<0741> \{［Hope］}
+<0742> "...Ah..."
+<0743> \{［伶］}
+<0744> "Don't be afraid, I don't blame you.
+<0745> \ I have no intention of reporting this to Takami.
+<0746> \ I just wanted to ask, so please answer.
+<0747> \{［伶］}
+<0748> "Have you ever thought about leaving?"
+<0749> \{［Hope］}
+<0750> "...No."
+<0751> \{［伶］}
+<0752> "Never?"
+<0753> \{［Hope］}
+<0754> "There's nowhere to go."
+<0755> \{［伶］}
+<0756> "Nowhere to go...?
+<0757> \ Why do you think that way?
+<0758> \{［desire］}
+<0759> "......"
+<0760> \{［伶］}
+<0761> "Would you like to tell me, Nozomi?"
+<0762> \{［Hope］}
+<0763> "......"
+<0764> \{［desire］}
+<0765> "We've lived together forever - my uncle and aunt,
+<0766> \ I can never go back to that forest..."
+<0767> \{［Hope］}
+<0768> "And so you left me in this mansion..."
+<0769> \{［desire］}
+<0770> "...I..."
+<0771> \{［伶］}
+<0772> "...So, to summarise what you said,
+<0773> \ Is that what you mean?
+<0774> \{［伶］}
+<0775> "You have been raised by adoptive parents until now.
+<0776> \ Six months ago, he was sent to this mansion by his adoptive parents.
+<0777> \ --Is that correct?
+<0778> \{［Hope］}
+<0779> "...Yes."
+<0780> \{［伶］}
+<0781> "Are these adoptive parents your blood relatives?"
+<0782> \{［Hope］}
+<0783> "...I heard they're not related by blood."
+<0784> \{［伶］}
+<0785> "So that means your adoptive parents,
+<0786> Prepared by the Kujo family,
+<0787> So originally he was a stranger with no connection to you...?
+<0788> \{［Hope］}
+<0789> "...Yes."
+<0790> \{［伶］}
+<0791> "...That's quite deep-rooted.
+<0792> \ He was adopted at a young age, so young he could no longer remember his parents' faces.
+<0793> \ He even arranged for adoptive parents to raise him..."
+<0794> \{［伶］}
+<0795> "--That's right, so you are,
+<0796> \ I was taught by my adoptive parents that I was a commodity,
+<0797> \ You've grown up like that."
+<0798> \{［Hope］}
+<0799> "I found out about it six months ago.
+<0800> \ This is the first time I've realized that I'm a "product" of the Kujo family..."
+<0801> \{［伶］}
+<0802> "...! So that means--you really are,
+<0803> \ Until I was brought to the mansion,
+<0804> \ Did you grow up not knowing that you were a commodity?
+<0805> \{［Hope］}
+<0806> "...Yes."
+<0807> \{［伶］}
+<0808> "If that's true,
+<0809> \ It seems you were truly given "special" treatment."
+<0810> \{［desire］}
+<0811> "......"
+<0812> \{［伶］}
+<0813> (Special――?)
+<0814> \{［伶］}
+<0815> (That person - Takami's father, Kujo Takahisa - told this <Angel>,
+<0816> \ What on earth was he looking for?)
+<0817> \{［伶］}
+<0818> (Takami spoke of Nozomi as a "goods" left by his father,
+<0819> Was that really the case――?
+<0820> \{［伶］}
+<0821> (Without letting them know that they are a commodity,
+<0822> \ Without allowing the necessary education for the commodity,
+<0823> \ Leaving me with an innocent body that knows nothing until this age)
+<0824> \{［伶］}
+<0825> (That person was seriously planning to turn Nozomi into a product,
+<0826> \ I wonder if he was raising it.
+<0827> \ I don't think so at all--)
+<0828> \{［伶］}
+<0829> (Or perhaps, to raise Nozomi in a completely innocent manner,
+<0830> \ Was there some special meaning behind it?
+<0831> \{［伶］}
+<0832> (The reason why I raised him in such a special way was
+<0833> Because Nozomi was a child of Angelic blood?
+<0834> \{［desire］}
+<0835> "......"
+<0836> \{［伶］}
+<0837> "...Do you not want to talk about this any further?"
+<0838> \{［Hope］}
+<0839> "...Yes."
+<0840> \{［伶］}
+<0841> "Oh dear, this is tough.
+<0842> \ With just what you've told me,
+<0843> \ I don't feel like I know you."
+<0844> \{［desire］}
+<0845> "......"
+<0846> \{［伶］}
+<0847> (I'd like to explore a bit more,
+<0848> \ With people being so cautious, there's no point in talking to them...)
+<0849> I glanced out the window and saw the sun rising high in the sky.
+<0850> Before I knew it, the time had passed.
+<0851> Lunchtime was fast approaching.
+<0852> Rei decides it's time to withdraw.
+<0853> I decided not to continue the conversation with Nozomi any further.
+<0854> \{［伶］}
+<0855> "Thank you for sharing your story.
+<0856> \ Well, I'll be heading back to my room soon.
+<0857> \ --See you soon, Nozomi.
+<0858> \{［Hope］}
+<0859> "...Yes."
+<0860> \{［伶］}
+<0861> "...I'll take a walk around the mansion."
+<0862> Rei, refusing to be seen off by Marie, leaves the mansion.
+<0863> I breathed in the morning air, which wasn't very hot yet.
+<0864> I squint my eyes in the gentle morning light.
+<0865> At that moment, once again, a thought entered Rei's mind.
+<0866> I was thinking about visiting the annex where Takami was staying.
+<0867> A whimsical idea occurred to me.
+<0868> Go see Takami
+<0869> Return to room
+<0870> As I walked along the gentle slope,
+<0871> Soon, the white annex building came into view among the green trees.
+<0872> Rei rang the doorbell and introduced herself,
+<0873> A servant came to greet me and led me to Takami's room.
+<0874> \{[Takami]}
+<0875> "You... you've come again, Rei.
+<0876> \ What on earth have you come here for this time?"
+<0877> \{［伶］}
+<0878> "Nothing in particular. I don't have anything in particular to do. However,
+<0879> \ I just wanted to talk to you a little longer."
+<0880> \{[Takami]}
+<0881> "No matter how many times I visit here, you have no intention of talking about Nozomi."
+<0882> \{［伶］}
+<0883> "I didn't come here to look for anything.
+<0884> \ I just wanted to talk to you."
+<0885> \{[Takami]}
+<0886> "...What am I supposed to talk to you about now?"
+<0887> \{[Takami]}
+<0888> "Is it okay to leisurely kill time in a place like this?
+<0889> \ The two-week deadline I gave you is,
+<0890> \ It might be too short to seriously investigate anything.
+<0891> \{[Takami]}
+<0892> "Rather than talking to me, you should have chosen the opportunity to talk to Nozomi.
+<0893> \ Isn't it extremely meaningful?
+<0894> That's true.
+<0895> The opportunity to talk to you is also important.
+<0896> \{［伶］}
+<0897> "That's true. You're right.
+<0898> \ There doesn't seem to be much to be gained by spending time here."
+<0899> \{［伶］}
+<0900> "I'm sorry to disturb you while you're working. I'll leave now.
+<0901> \ My apologies, Takami.
+<0902> \{[Takami]}
+<0903> "...Ah."
+<0904> Even though I was the one who brought it up,
+<0905> Takami watches Rei leave with a sullen expression on his face.
+<0906> Rei gave a wry smile and left the room.
+<0907> \{［伶］}
+<0908> "Yeah, I'll do that if I feel like it.
+<0909> \ But even when I spend time with you like this,
+<0910> \ It's a meaningful time for me."
+<0911> \{［伶］}
+<0912> "The opportunity to talk to you is also important to me.
+<0913> \ That's why I came here."
+<0914> \{[Takami]}
+<0915> “Rei…”
+<0916> \{［伶］}
+<0917> "I had the pleasure of talking to you yesterday,
+<0918> \ Is there anything you would like to ask me?"
+<0919> \{[Takami]}
+<0920> "Now that I think about it, I've been asking you for a while now,
+<0921> \ There's one thing I wanted to ask you..."
+<0922> \{[Takami]}
+<0923> "Rei, why did you choose to go to school after graduation?
+<0924> \ Didn't you choose a university abroad?
+<0925> \ With your abilities, that was an option, right?
+<0926> \{［伶］}
+<0927> "...Your father wouldn't let me do that.
+<0928> \ I'm leaving Japan -- or rather,
+<0929> \ To go to a place where you can completely leave the protection of the Kujo family."
+<0930> \{[Takami]}
+<0931> "My dad? I've never heard of that before."
+<0932> \{［伶］}
+<0933> "I don't really know, but sometimes that person...
+<0934> \ There were times when she showed an almost obsessive attachment to me.
+<0935> \{［伶］}
+<0936> "Yes, the one who showed the most intense reaction was,
+<0937> \ The desire to leave that person and become independent,
+<0938> \ It was when I made it clear..."
+<0939> \{［伶］}
+<0940> "At that time, that person didn't raise his voice and yell,
+<0941> \ He showed a terrible anger.
+<0942> \{［伶］}
+<0943> "For a while after that,
+<0944> \ I was not allowed to leave the mansion,
+<0945> \ I ended up having to miss school."
+<0946> \{[Takami]}
+<0947> "Hey! Is that by any chance,
+<0948> \ Suddenly you shut yourself up in your mansion and took two weeks off school.
+<0949> \ Are you talking about when you entered high school?
+<0950> \{［伶］}
+<0951> "Ah, that's right."
+<0952> \{[Takami]}
+<0953> "...I was sure that, too,
+<0954> \ I always thought it was just your whim..."
+<0955> \{［伶］}
+<0956> "In the end, I wonder what that person was thinking when he took me in.
+<0957> \ I never got a chance to find out why.
+<0958> \{［伶］}
+<0959> "Relatives - though they are quite distant relatives.
+<0960> \ To take in a child and guarantee their livelihood,
+<0961> \ I think that's a very weak connection.
+<0962> \{[Takami]}
+<0963> "Didn't your father... tell you the reason?"
+<0964> \{［伶］}
+<0965> "You didn't explain a word to me.
+<0966> \ Regarding the circumstances surrounding your father's adoption of a distant relative's child,
+<0967> \ Have you heard anything, son?
+<0968> \{[Takami]}
+<0969> "...No. I've never heard my father say anything about that either.
+<0970> \ I have never received a detailed explanation.
+<0971> \ Even then, I was simply informed that I would be taking care of the child.
+<0972> \{［伶］}
+<0973> "I see--"
+<0974> \{[Takami]}
+<0975> "...Does that bother you?"
+<0976> \{［伶］}
+<0977> "It's natural to be curious, isn't it?
+<0978> \ ...But the opportunity to find out has been lost."
+<0979> \{［伶］}
+<0980> "...For that person, taking me in was
+<0981> \ I feel like it was some kind of compensation."
+<0982> \{[Takami]}
+<0983> "Why do you think so?"
+<0984> \{［伶］}
+<0985> "Those eyes—I don't think they were looking at me.
+<0986> \ It was as if he was looking at something different from me through me.
+<0987> \ ...I think so."
+<0988> \{[Takami]}
+<0989> "......"
+<0990> \{［伶］}
+<0991> "...Oh? It's already lunchtime.
+<0992> \ Looks like I've stayed too long.
+<0993> \ I think it's about time to head back to the mansion."
+<0994> \{[Takami]}
+<0995> "Ahh..."
+<0996> When I visited Takami,
+<0997> He questioned my actions in suspicious words,
+<0998> The worst that can happen is that you end up in a tense situation.
+<0999> I have no intention of meeting Takami now,
+<1000> I turned around and...
+<1001> Rei headed towards the mansion and returned to the room that had been given to him.
+<1002> Rei walked slowly along the paths around the mansion for a while,
+<1003> Waiting for summer, the green color deepens.
+<1004> The view of the lush vegetation was a delight to the eyes.
+<1005> After enjoying the quiet forest scenery to my heart's content,
+<1006> When the air begins to heat up,
+<1007> Rei ended her solitary stroll and returned to the mansion.
+<1008> \{［伶］}
+<1009> "Yeah... I think I'll go back to my room."
+<1010> \{[Mari]}
+<1011> "...Um, um, Rei-sama."
+<1012> \{[Mari]}
+<1013> "Is that okay...?
+<1014> \ Even if you can't go see Nozomi..."
+<1015> \{［伶］}
+<1016> "--Not really. There's no obligation to do so.
+<1017> \ I told Takami, "I'll spend my time however I like."
+<1018> \ I'll do as I please."
+<1019> \{[Mari]}
+<1020> "Is that so...?"
+<1021> \{［伶］}
+<1022> "Well, I'll be off then."
+<1023> In the end, Rei spent the time until lunchtime,
+<1024> I spent the time holed up in the room I was given reading books.
