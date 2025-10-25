@@ -72,7 +72,7 @@
 <0058> "......"
 <0059> \{[Takami]}
 <0060> "...What's wrong? You have a strange look on your face.
-<0061> \Did something happen while I was away?
+<0061> \ Did something happen while I was away?
 <0062> \{［伶］}
 <0063> "......"
 <0064> \{[Takami]}
@@ -595,7 +595,7 @@
 <0581> \ I would like to ask for your cooperation as an angel.
 <0582> \{［伶］}
 <0583> "...cooperation means, to me,
-<0584> \Am I to be a guinea pig for your experiments?"
+<0584> \ Am I to be a guinea pig for your experiments?"
 <0585> \{[Katagiri]}
 <0586> "Guinea pigs, that's impossible..."
 <0587> \{[Katagiri]}
@@ -714,7 +714,7 @@
 <0700> "...It seems the power has been turned off."
 <0701> \{[Takami]}
 <0702> "Ah... it seems that's the case.
-<0703> \If this is Katagiri's doing,
+<0703> \ If this is Katagiri's doing,
 <0704> \ The backup power supply must also be disabled.
 <0705> \{[Takami]}
 <0706> "Damn, now the security system is...
@@ -900,7 +900,7 @@
 <0886> \ Unless you're an expert, it can't be deactivated.
 <0887> \{［伶］}
 <0888> "...The mansion's system is
-<0889> \Have they been taken over by the enemy?
+<0889> \ Have they been taken over by the enemy?
 <0890> \{[Takami]}
 <0891> "Oh, that's it.
 <0892> \ We are like birds in a cage..."
@@ -1069,7 +1069,7 @@
 <1055> "Yes. I came to pick up Rei."
 <1056> \{[Takami]}
 <1057> "...I don't see anyone else,
-<1058> \Are you the only one who came to capture Rei?
+<1058> \ Are you the only one who came to capture Rei?
 <1059> \{[Nue]}
 <1060> "Oh, it's just me.
 <1061> \ I think I'm enough here by myself..."
@@ -1219,7 +1219,7 @@
 <1205> \{[Nue]}
 <1206> "However, the one trait that was common to all the clones was,
 <1207> \ As it was ordained,
-<1208> \An extremely short lifespan, lasting only a few years--"
+<1208> \ An extremely short lifespan, lasting only a few years--"
 <1209> \{[Nue]}
 <1210> "The Angel clones created by Katagiri,
 <1211> \ The telomeres that determine the lifespan of living organisms are extremely short,
@@ -1232,7 +1232,7 @@
 <1218> \{[Nue]}
 <1219> "After stealing it, the clone Katagiri created was...
 <1220> \ I told you so.
-<1221> \Rei was the only one born without the fate of a short life.
+<1221> \ Rei was the only one born without the fate of a short life.
 <1222> \{［伶］}
 <1223> "I'm the only one..."
 <1224> \{[Nue]}
@@ -1258,7 +1258,7 @@
 <1244> \ We have not yet found a way to solve this problem.
 <1245> \{［伶］}
 <1246> "...The reason why Angel clones have such a short lifespan is
-<1247> \Is that the reason?
+<1247> \ Is that the reason?
 <1248> \{[Nue]}
 <1249> "No—that only applies to terrestrial creatures."
 <1250> \{[Nue]}
@@ -1332,7 +1332,7 @@
 <1318> \{[Nue]}
 <1319> "Without diminishing the power of the Angels,
 <1320> \ Extend its life,
-<1321> \Continuing to seek combinations with clone individuals--"
+<1321> \ Continuing to seek combinations with clone individuals--"
 <1322> \{[Nue]}
 <1323> "What we ended up with was a mixture of Beast genes."
 <1324> \{［伶］}
@@ -1439,7 +1439,7 @@
 <1425> \ A spiritual hand wielding its power to show the world my will."
 <1426> \{[Nue]}
 <1427> "Unable to be touched by human hands,
-<1428> \These are wings that only Angels possess--"
+<1428> \ These are wings that only Angels possess--"
 <1429> \{[Nue]}
 <1430> "These wings bring death to those who see them,
 <1431> \ They called them the Black Wings in awe.
@@ -1774,7 +1774,7 @@
 <1760> Just before that, it reached a certain point and disappeared in an instant.
 <1761> \{[Subordinate]}
 <1762> "That's ridiculous... the bullets just disappeared?
-<1763> \That's impossible!
+<1763> \ That's impossible!
 <1764> \{［Male］}
 <1765> "But, it's true, the bullets..."
 <1766> \{[Subordinate]}
@@ -1846,7 +1846,7 @@
 <1832> \ No one knows the details of my powers."
 <1833> \{[Nue]}
 <1834> "So, if I erase you,
-<1835> \The rest are just a bunch of rabble."
+<1835> \ The rest are just a bunch of rabble."
 <1836> \{[Nue]}
 <1837> "If the device that was supposed to control me doesn't work,
 <1838> \ You have no way of controlling me--"
@@ -2076,13 +2076,13 @@
 <2062> "...That's right! What happened to Nozomi?"
 <2063> \{[Mari]}
 <2064> "Nozomi is already hiding in a safe place.
-<2065> \Please rest assured.
+<2065> \ Please rest assured.
 <2066> \{[Mari]}
 <2067> "Are you both uninjured?
 <2068> \ We will help you immediately..."
 <2069> \{［伶］}
 <2070> "! Don't come over here!
-<2071> \You alone must escape from this mansion!
+<2071> \ You alone must escape from this mansion!
 <2072> \{[Mari]}
 <2073> "Protecting Rei-sama is
 <2074> \ It's an important mission that I decided on myself."
@@ -2145,7 +2145,7 @@
 <2131> \ Then I'm sure I can fight with my own strength."
 <2132> \{[Nue]}
 <2133> "...Interesting. Instead of Rei,
-<2134> \You say you'll fight me?
+<2134> \ You say you'll fight me?
 <2135> \{[Nue]}
 <2136> "I don't know how much power it has,
 <2137> \ Then, I'll have you be my partner."
@@ -2279,7 +2279,7 @@
 <2265> He looks down fearlessly at his defeated opponent and mutters.
 <2266> \{[Nue]}
 <2267> "The difference in experience gained in previous battles...
-<2268> \And that's how the difference in strength between you and me became--"
+<2268> \ And that's how the difference in strength between you and me became--"
 <2269> \{[Mari]}
 <2270> "Ugh!"
 <2271> Marie flipped her body over and stood up.
@@ -2290,7 +2290,7 @@
 <2276> The young man stands in his way, hidden behind the thorns.
 <2277> \{[Mari]}
 <2278> "This should buy us some time.
-<2279> \Come on... let's get out of here while we can!
+<2279> \ Come on... let's get out of here while we can!
 <2280> Marie stood up, staggering a little,
 <2281> He led Rei and Takami out and ran.
 <2282> \{[Nue]}
@@ -2350,7 +2350,7 @@
 <2336> \ I'm just borrowing the power of the Angels."
 <2337> \{［伶］}
 <2338> "...Mari, please tell me the truth.
-<2339> \Is there anything I can do to defeat him?"
+<2339> \ Is there anything I can do to defeat him?"
 <2340> \{［伶］}
 <2341> "The power of the Angel he desires,
 <2342> \ If I really have it,
@@ -2467,7 +2467,7 @@
 <2453> "...Ah!"
 <2454> \{[Mari]}
 <2455> "Ummm... Takami-sama, this is an emergency, so
-<2456> \Please don't get angry...?
+<2456> \ Please don't get angry...?
 <2457> \{[Takami]}
 <2458> "--Huh? What does that mean?"
 <2459> \{[Mari]}
@@ -2583,7 +2583,7 @@
 <2569> \ It's nice to be treated by you."
 <2570> \{[Takami]}
 <2571> "The idea of everyone gathering together and enjoying the food you cooked is...
-<2572> \That's not a bad suggestion."
+<2572> \ That's not a bad suggestion."
 <2573> \{[Mari]}
 <2574> "So, what's good?
 <2575> \ Takami-sama, please come up with the menu...!"
@@ -2604,7 +2604,7 @@
 <2590> \ I want you to protect Takami."
 <2591> \{[Mari]}
 <2592> "--I understand! I'll be back soon.
-<2593> \Please, Rei-sama, be careful!
+<2593> \ Please, Rei-sama, be careful!
 <2594> \{[Takami]}
 <2595> "Rei, please hold on until we get back."
 <2596> \{[Takami]}
@@ -2928,7 +2928,7 @@
 <2914> “I command living beings to unravel like things,
 <2915> \ The cruelty of these people - their ugliness
 <2916> “Why do humans take the lives of other humans?
-<2917> \How can you so easily order it to be taken away?
+<2917> \ How can you so easily order it to be taken away?
 <2918> "A being so foolish and so ugly,
 <2919> \ Why is this world overflowing?
 <2920> “And why… in the midst of all that ugliness,
@@ -3033,7 +3033,7 @@
 <3019> \{［伶］}
 <3020> "Good morning, Takami.
 <3021> \ He was sleeping comfortably,
-<3022> \How does it feel to wake up?
+<3022> \ How does it feel to wake up?
 <3023> \{[Takami]}
 <3024> "How are you feeling...? Yeah... not bad..."
 <3025> \{[Takami]}
@@ -3083,7 +3083,7 @@
 <3069> Soon—the sky cleared up brightly.
 <3070> \{[Mari]}
 <3071> "Rei-sama, Takami-sama...!
-<3072> \You two have woken up!
+<3072> \ You two have woken up!
 <3073> The voice sounded so happy and bouncy.
 <3074> He called from behind.
 <3075> \{[Takami]}
@@ -3092,7 +3092,7 @@
 <3078> Marie and Nozomi were seen looking cheerful.
 <3079> \{[Mari]}
 <3080> "Rei-sama, Takami-sama, are you okay?
-<3081> \Are you injured or anything?
+<3081> \ Are you injured or anything?
 <3082> \{［伶］}
 <3083> "Oh, I'm fine.
 <3084> \ --Takami, how about you?"
@@ -3225,7 +3225,7 @@
 <3211> "No, I'm not angry. -- I'm glad it was a lie."
 <3212> \{［伶］}
 <3213> "In any case, we don't need it anymore.
-<3214> \Please remove it."
+<3214> \ Please remove it."
 <3215> \{[Takami]}
 <3216> "That's true, that's true.
 <3217> \ The reason why I keep making him wear such a thing is

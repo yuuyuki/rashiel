@@ -26,7 +26,7 @@
 <0020> "...Rei-sama...hello...?"
 <0021> \{[Mari]}
 <0022> "Um, Rei-sama?
-<0023> \Are you awake...?
+<0023> \ Are you awake...?
 <0024> \{[Mari]}
 <0025> "Rei-sama...?"
 <0026> A voice asks if you've woken up,
@@ -90,7 +90,7 @@
 <0084> \ That's a flower name I've never heard of before."
 <0085> \{[Mari]}
 <0086> "It originates from Europe, but on the grounds of this museum,
-<0087> \There are a lot of them planted."
+<0087> \ There are a lot of them planted."
 <0088> \{[Mari]}
 <0089> "It's a golden flower with a wonderful fragrance,
 <0090> \ I think you'll understand right away."
@@ -330,7 +330,7 @@
 <0324> "Rei-sama...?"
 <0325> \{［伶］}
 <0326> "Ahh, sorry. I was just thinking about something.
-<0327> \Where is the archives?
+<0327> \ Where is the archives?
 <0328> \{[Mari]}
 <0329> "This way."
 <0330> Along the wall of the hallway,

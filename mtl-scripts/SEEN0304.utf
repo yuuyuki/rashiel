@@ -698,7 +698,7 @@
 <0686> \ Please -- leave here immediately!
 <0687> \{［伶］}
 <0688> "No, you can't do that.
-<0689> \You are in danger..."
+<0689> \ You are in danger..."
 <0690> \{［desire］}
 <0691> "That's not true...! What's really dangerous is,
 <0692> \ Those people... are really targeting..."
@@ -821,7 +821,7 @@
 <0809> "Is that so..."
 <0810> \{［desire］}
 <0811> "...Um!
-<0812> \Please, just one more time...would you like to try it?
+<0812> \ Please, just one more time...would you like to try it?
 <0813> \{［desire］}
 <0814> "My words are not lies,
 <0815> \ I really want you to know..."
@@ -974,7 +974,7 @@
 <0962> "Are you going to use... 'him' to capture him?"
 <0963> \{［Male］}
 <0964> "That's right. To capture an Angel,
-<0965> \Is there anything else more perfect than that?
+<0965> \ Is there anything else more perfect than that?
 <0966> \{[Doctor]}
 <0967> "I heard there isn't much time left."
 <0968> \{［Male］}
@@ -983,7 +983,7 @@
 <0971> "I see..."
 <0972> \{［Male］}
 <0973> "The angel has,
-<0974> \We are the ones who will have the power of evil.
+<0974> \ We are the ones who will have the power of evil.
 <0975> \{［Male］}
 <0976> "Obtain all of the heretical Angels,
 <0977> \ The one who laughs last
@@ -1304,13 +1304,13 @@
 <1292> \ Anyway, there's not enough time to do anything."
 <1293> \{［伶］}
 <1294> "Now is the only time Takami is unguarded against my approach.
-<1295> \There's no chance of sneaking in."
+<1295> \ There's no chance of sneaking in."
 <1296> \{［desire］}
 <1297> "But..."
 <1298> \{［伶］}
 <1299> "Oh, nothing to worry about.
 <1300> \ I have no intention of attempting such a reckless endeavor.
-<1301> \Of course, I'm planning to take advantage of Takami's absence.
+<1301> \ Of course, I'm planning to take advantage of Takami's absence.
 <1302> \{［伶］}
 <1303> "Fortunately, I have an idea."
 <1304> \{［伶］}
@@ -1321,7 +1321,7 @@
 <1309> \ Looks like we'll be going out a little further tomorrow morning."
 <1310> \{［伶］}
 <1311> "Takami will be going somewhere a little further away tomorrow morning.
-<1312> \If you want to sneak into the room—that’s the time.”
+<1312> \ If you want to sneak into the room—that’s the time.”
 <1313> \{［desire］}
 <1314> "...But..."
 <1315> \{［伶］}
@@ -1341,7 +1341,7 @@
 <1329> "...Yes!"
 <1330> \{［hope］}
 <1331> "Umm...Rei-san, for your sake,
-<1332> \Is there anything I can do...?
+<1332> \ Is there anything I can do...?
 <1333> \{［伶］}
 <1334> "That's right... Anyway, let's not think too much about it now.
 <1335> \ Rest your body."

@@ -27,7 +27,7 @@
 <0020> "...Rei-sama...hello...?"
 <0021> \{[Mari]}
 <0022> "Um, Rei-sama?
-<0023> \Are you awake...?
+<0023> \ Are you awake...?
 <0024> \{[Mari]}
 <0025> "Rei-sama...?"
 <0026> A voice asks if you've woken up,
@@ -155,12 +155,12 @@
 <0148> \{[Mari]}
 <0149> "Umm... actually, I,
 <0150> \ There is something I need to tell you, Nozomi-san.
-<0151> \There was only one.
+<0151> \ There was only one.
 <0152> \{［Hope］}
 <0153> "To me...?"
 <0154> \{[Mari]}
 <0155> "Nozomi-san has been worried about you for a long time,
-<0156> \It's about a lost puppy."
+<0156> \ It's about a lost puppy."
 <0157> \{［Hope］}
 <0158> "Did something happen to the puppy...?!"
 <0159> \{[Mari]}
@@ -737,7 +737,7 @@
 <0730> "I see..."
 <0731> \{［伶］}
 <0732> "...Oh, Nozomi, are you tired?
-<0733> \You have very sleepy eyes."
+<0733> \ You have very sleepy eyes."
 <0734> \{［Hope］}
 <0735> "Sorry... It seems the medicine is starting to work.
 <0736> \ I'm getting a little sleepy..."
@@ -749,7 +749,7 @@
 <0742> "Ah..."
 <0743> \{［伶］}
 <0744> "...What's wrong? If you have something to say,
-<0745> \Tell me."
+<0745> \ Tell me."
 <0746> \{［desire］}
 <0747> "Um, um..."
 <0748> \{［伶］}
@@ -767,7 +767,7 @@
 <0760> "I'm sorry, I was selfish..."
 <0761> \{［伶］}
 <0762> "--Is that all? You hesitated quite timidly,
-<0763> \Is that all you're asking for?"
+<0763> \ Is that all you're asking for?"
 <0764> \{［desire］}
 <0765> "Yes... that's right..."
 <0766> \{［伶］}
