@@ -25,8 +25,19 @@ for %%a in (mtl-scripts\*.ke) do (
     )
 )
 
+if exist SEEN_EN.TXT (
+    del SEEN_EN.TXT
+)
+
 ..\kprl -a SEEN_EN.TXT mtl-scripts\*.txt
 echo [*] SEEN_EN.TXT generated successfully.
+
+echo Do you want to copy the file to the parent folder? (Y/N)
+set /p choice="> "
+if /i "%choice%"=="Y" (
+    copy /-y SEEN_EN.TXT ..\SEEN.TXT
+    echo [*] SEEN.TXT copied successfully.
+)
 
 endlocal
 pause
