@@ -25,5 +25,8 @@ for %%a in (mtl-scripts\*.ke) do (
     )
 )
 
+..\kprl -a SEEN_EN.TXT mtl-scripts\*.txt
+echo [*] SEEN_EN.TXT generated successfully.
+
 endlocal
 pause

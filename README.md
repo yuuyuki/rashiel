@@ -39,7 +39,7 @@ for %a in (rashiel\mtl-scripts\*.ke) do rlc -v -e utf-8 -i GAMEEXE.INI %a
 
 Change `intF[0] = select_s[0] (#res<0001>, #res<0002>)` to `intF[0] = select_s (#res<0001>, #res<0002>)`
 
-=> Replaced all select_s[0] with seelct_s
+=> Replaced all select_s[0] with select_s
 
 - Warning (SEEN0101.utf line 858): duplicate resource string key `<angel>` hides
   earlier definition at SEEN0101.utf line 846.
@@ -57,5 +57,18 @@ When backslash followed by an english letter or word. Need a space between backs
   find: `\\(?!ruby\b)(\w+)`  
   replace: `\ $1`
 
+### Using rlc-batch.bat
 
+Assumes your folder structure is: 
+```
+- rldev
+  - bin
+    - rlc.exe
+    - kprl.exe
+    - rashiel
+      - mtl-scripts
+      - rlc-batch.bat
+```
+It will exit if it can't compile due to errors in formatting.
 
+Rename SEEN_EN.TXT to SEEN.TXT and replace the existing SEEN.TXT to patch the game.
